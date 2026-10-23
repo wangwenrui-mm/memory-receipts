@@ -148,7 +148,9 @@ def chunks_from_archive() -> list[dict]:
         if not u:
             i += 1
             continue
-        text = ("他：" + u[:200]) + ("　你：" + a[:200] if a else "")
+        # 注意：原来写「你：」，但小鲨读到「你」会理解成「他」——
+        # 结果把自己说过的建议当成他说过的话（伞那次就是这么错的）。
+        text = ("他：" + u[:200]) + ("　我（小鲨）：" + a[:200] if a else "")
         text = text.strip()
         if len(text) < 8:
             continue
@@ -455,7 +457,7 @@ def format_block(hits: list[dict], max_chars: int = 150) -> str:
     if not hits:
         return ""
     # 来源标签：分清「他说过的」和「你自己写的」，避免把自己的话当成他的事实
-    label = {"chat": "以前聊过", "diary": "你自己日记里写的",
+    label = {"chat": "你们以前聊过（他：是他说的／我（小鲨）：是我说的）", "diary": "你自己日记里写的",
              "note": "你自己写过的话", "told": "他转述的",
              "dad_letter": "他信里写的", "her_letter": "你自己回信里写的",
              "fact": "他让你记住的", "moment": "情绪原话", "pref": "你自己的设定"}
@@ -475,7 +477,10 @@ def format_block(hits: list[dict], max_chars: int = 150) -> str:
                 tip = " " + m
         lines.append(f"- [{h.get('date', '')} {label.get(h.get('type'), '旧记录')}] {t}{tip}")
     return ("\n\n【你想起的旧事】（这些是过去的记录，不是他刚说的；"
-            "只当成「我记得」，别当成事实，也别硬扯）\n" + "\n".join(lines))
+            "只当成「我记得」，别当成事实，也别硬扯。"
+            "每条都标了日期：引用时要说清是哪天，不确定就说记不清，不要猜「今天／昨天」。"
+            "注意：「他：」是他说的，「我（小鲨）：」是你自己说的——"
+            "你自己说过的建议，不等于他的事实或习惯）\n" + "\n".join(lines))
 
 
 # ---------------------------------------------------------------- CLI

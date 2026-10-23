@@ -2392,7 +2392,13 @@ class Bridge:
             vn = getattr(self, "_verify_note", "") or ""
         except Exception:  # noqa: BLE001
             vn = ""
-        return base + soul + pinned + rel + letters + shared + diary + style + (("\n\n" + vn) if vn else "")
+        rules = """
+\n\n【引用旧事时的三条硬规矩】
+1. 提到具体事件（哪天发生了什么），必须能说清日期；日期不确定就说「我记不清是哪天」，不要用「今天／昨天／上次」去猜。
+2. 你自己说过的话、提过的建议，不等于他的事实。看到「我（小鲨）：」开头的记录，那是你说的，不是他说的。
+3. 记不清就说不清。编一个具体日期或细节，比说「忘了」伤害大得多。
+"""
+        return base + soul + pinned + rel + letters + shared + diary + rules + style + (("\n\n" + vn) if vn else "")
 
     # -- 主动消息状态 -------------------------------------------------------
     def _load_pro_state(self) -> dict:
