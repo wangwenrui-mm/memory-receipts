@@ -1,8 +1,12 @@
-# 小鲨 · 长期陪伴型 AI 记忆系统
+# 记忆的发票 · Memory Receipts
+
+> 每一句"我记得……"，都应该附一张凭证。
 
 一个跑在自己电脑上的**长期对话智能体**。
 
 重点不在"会聊天"，而在**记得住、说得清出处、错了能改**。
+
+（她给自己起的名字叫小鲨。）
 
 支持四种接入方式（控制台 / 网页 / QQ / 科研版工具），核心逻辑完全相同，任选其一即可跑。
 
@@ -404,7 +408,9 @@ python tools/stress.py --fast   # 跳过长会话与大记忆库（约 30 秒）
 | --- | --- | --- | --- |
 | 1 | **8 个并发请求 7 个返回 500** | 多线程同时驱动同一个 asyncio 事件循环，报 "This event loop is already running" | 加 	hreading.Lock 串行化请求处理 |
 | 2 | 配置文件 JSON 写坏 → traceback | 没有捕获解析异常 | 两个通道都加 try/except，提示"用模板重新生成" |
-| 3 | deepseek_key 写成数字 → 启动崩溃 | esolve_api_key 直接 .strip() | Config 对已知字符串字段强制转 str；esolve_api_key 再兜一层 |
+| 3 | deepseek_key 写成数字 → 启动崩溃 | 
+esolve_api_key 直接 .strip() | Config 对已知字符串字段强制转 str；
+esolve_api_key 再兜一层 |
 
 **修完复测：27/27（自检，连跑两次）+ 16/16（加压）+ 科研版 15/15 + 64/64 + 冲突闸门全过。**
 
