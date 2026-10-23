@@ -456,6 +456,29 @@ def _mood_weights(h: int) -> dict[str, int]:
     return {"emo": 2, "黏人": 2, "困": 2, "敏感": 1, "平淡": 1, "心软": 1}
 
 
+def _positively(text: str, word: str) -> bool:
+    """关键词是否以「肯定语气」出现（简单否定过滤）。
+
+    存在的理由：早期只看子串，"他开心不起来"里的「开心」也会被当成正面情绪，
+    结果一句话说得越难受，她反而越活跃。
+    这里检查关键词前后的否定词（不/没/别/无/未…）和否定后缀（不起来/不了…）。
+    """
+    if not word or word not in text:
+        return False
+    neg_prefix = ("不", "没", "别", "无", "未", "甭", "莫", "并不", "并不太", "不太")
+    neg_suffix = ("不起来", "不了", "不起", "不上来", "不到", "不下去")
+    start = 0
+    while True:
+        i = text.find(word, start)
+        if i < 0:
+            return False
+        head = text[max(0, i - 4):i]
+        tail = text[i + len(word): i + len(word) + 4]
+        if not any(n in head for n in neg_prefix) and not any(n in tail for n in neg_suffix):
+            return True
+        start = i + 1
+
+
 class Persona:
     """状态：心情、精力、关系温度、口味、忙、日记、昵称/签名。
 
@@ -742,19 +765,19 @@ class Persona:
             tr[k] = max(0, min(100, before + d * rate))
             events.append((k, round(d * rate, 2), "关键词/关系"))
 
-        if any(x in t for x in ("滚", "闭嘴", "烦不烦", "别理我")):
+        if any(_positively(t, x) for x in ("滚", "闭嘴", "烦不烦", "别理我")):
             bump("敏感", 2)
             bump("独立", 1.5)
             bump("黏人", -2)
             bump("话量", -1)
-        if any(x in t for x in ("想你", "抱抱", "陪我", "喜欢", "别走")):
+        if any(_positively(t, x) for x in ("想你", "抱抱", "陪我", "喜欢", "别走")):
             bump("黏人", 2)
             bump("敏感", -1)
             bump("主动", 1)
-        if any(x in t for x in ("哈哈", "开心", "好耶")):
+        if any(_positively(t, x) for x in ("哈哈", "开心", "好耶")):
             bump("话量", 1)
             bump("毒舌", 0.5)
-        if any(x in t for x in ("谢谢", "麻烦你", "帮个忙")):
+        if any(_positively(t, x) for x in ("谢谢", "麻烦你", "帮个忙")):
             bump("独立", 0.5)
             bump("黏人", -0.5)
         b = int(self.d.get("bond", 55))

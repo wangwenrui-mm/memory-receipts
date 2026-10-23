@@ -130,16 +130,18 @@ def build_bridge(mock: bool, data_dir: str = ""):
         old_root = Path(getattr(B, "DATA_DIR", Path(".")))
         new_root = Path(data_dir).expanduser().resolve()
         new_root.mkdir(parents=True, exist_ok=True)
+        # 把所有「位于旧 data 目录下」的路径常量都重定向
+        # （早先只处理 *_PATH，漏掉了 TRAIT_LOG / DECISION_LOG / DAD_LETTERS /
+        #   HER_LETTERS / RESTART_FLAG / LOG_DIR，导致这些日志被写丢）
         for name in dir(B):
-            if not name.endswith("_PATH"):
-                continue
             val = getattr(B, name, None)
-            if isinstance(val, Path):
-                try:
-                    rel = val.relative_to(old_root)
-                except ValueError:
-                    continue
-                setattr(B, name, new_root / rel)
+            if not isinstance(val, Path):
+                continue
+            try:
+                rel = val.relative_to(old_root)
+            except ValueError:
+                continue
+            setattr(B, name, new_root / rel)
         B.DATA_DIR = new_root
         print(f"  数据目录：{new_root}")
 
