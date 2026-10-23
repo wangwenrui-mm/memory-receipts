@@ -1,0 +1,1356 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/135/diWr60oYdAosXB256ylRGOY</id>
+  <title>arXiv Query: search_query=cat:physics.chem-ph&amp;id_list=&amp;start=0&amp;max_results=50</title>
+  <updated>2026-10-23T08:16:27Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=cat:physics.chem-ph&amp;start=0&amp;max_results=50&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <opensearch:totalResults>28623</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31426v1</id>
+    <title>Unifying Time-Independent and Time-Dependent Franck--Condon Pictures in Quantum Mechanochemistry via the Linear Coupling Approximation</title>
+    <updated>2026-10-22T15:26:26Z</updated>
+    <link href="https://arxiv.org/abs/2610.31426v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31426v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Quantum chemistry has achieved impressive results in modeling and interpreting mechanochemical transformations at the molecular level. An essential question, the time profile of force application, has
+  however attracted less attention. Here, the Franck--Condon theory
+  of quantum mechanochemistry, previously formulated for the
+  sudden-force limit, is generalized to arbitrary time-dependent
+  force profiles using the linear-coupling approximation. Solving the
+  driven harmonic oscillator yields a closed-form, time-dependent
+  effective Huang--Rhys factor: a natural measure of vibrational excitations upon force application. It is governed by the Fourier transform of
+  the force derivative and recovers the sudden- and fixed-force limits. At the conceptual level, this linear
+  coupling picture links mechanochemistry to vibronic spectroscopy and Marcus electron
+  theory. For a shock-front force ramp, vibrational excitation is
+  shown to be suppressed in frequency, only
+  low-frequency modes being excited under realistic laser-shock-peening
+  conditions.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T15:26:26Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Vladimir V. Rybkin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31400v1</id>
+    <title>Multireference Polarizable Embedding for Core-Level Spectroscopy in Aqueous Solution: XPS and XAS of Glycine</title>
+    <updated>2026-10-22T15:02:29Z</updated>
+    <link href="https://arxiv.org/abs/2610.31400v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31400v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Core-level spectra in solution are governed by the interplay of core-hole relaxation, electron correlation, specific solute--solvent interactions, and environmental polarization. We report the first application of RASSCF--RASPT2 combined with the fluctuating-charges polarizable embedding to X-ray photoelectron (XPS) and X-ray absorption (XAS) spectroscopy in aqueous solution. The protocol couples a multireference treatment of core-ionized and core-excited states with molecular-dynamics sampling, and is assessed for the carbon and nitrogen K-edges of glycine in the gas phase and in water. The calculated spectra are compared with experiment and with fixed-charges electrostatic embedding. Gas-phase ionization and absorption features are accurately reproduced. In solution, configurational averaging captures inhomogeneous broadening, while XPS peak positions, relative intensities, and widths depend strongly on the solvent parametrization. The best-performing polarizable model improves the spectral profile, although aqueous ionization energies remain overestimated. For XAS, the carbon K-edge is reproduced close to the experimental energy scale, whereas the nitrogen K-edge line shape is recovered after rigid alignment. These results support multireference polarizable embedding as a promising framework for core-level spectroscopy in solution.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T15:02:29Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Chiara Sepali</name>
+    </author>
+    <author>
+      <name>Pietro Dal Cin</name>
+    </author>
+    <author>
+      <name>Alicia Marie Kirk</name>
+    </author>
+    <author>
+      <name>Sonia Coriani</name>
+    </author>
+    <author>
+      <name>Chiara Cappelli</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31232v1</id>
+    <title>Precise Determination of Electric Dipole Polarizabilities of Sr Clock States Using Linear-Response and Equation-of-Motion Relativistic Coupled-Cluster Methods</title>
+    <updated>2026-10-22T13:14:08Z</updated>
+    <link href="https://arxiv.org/abs/2610.31232v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31232v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present accurate values of the electric dipole polarizabilities ($α$) of the ground and excited states of Sr using four-component relativistic coupled-cluster (RCC) theory within the linear-response (LR) and equation-of-motion (EOM) frameworks. We first investigated accuracy of the ground-state polarizability using the LR-RCC method in both spherical and Cartesian coordinate representations. Upon obtaining consistent results for the ground state, we determine the polarizabilities of the excited states using the EOM-RCC method within the finite-field approach. The uncertainties in our results are assessed by examining the completeness of the basis set, higher-order relativistic corrections, and contributions from higher-level excitation configurations beyond the truncation in our RCC method. We also discuss various procedures for extrapolating contributions to the complete basis set limit and examine their respective limitations. Our calculated ground-state polarizability is found to be inconsistent with the latest atomic calculation, but agrees with other calculations and experimental value. Using the differential $α$ value from the EOM-RCC method, we estimate the fractional black-body-radiation-induced frequency shift of the Sr $^{1}$S$_{0}$$\rightarrow$$^{3}$P$_{0}$ clock transition to be $-5.40\times10^{-15}$.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T13:14:08Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Somesh Chamoli</name>
+    </author>
+    <author>
+      <name>Sudipta Chakraborty</name>
+    </author>
+    <author>
+      <name>B. K. Sahoo</name>
+    </author>
+    <author>
+      <name>Ján Šimunek</name>
+    </author>
+    <author>
+      <name>Jozef Noga</name>
+    </author>
+    <author>
+      <name>Achintya Kumar Dutta</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31183v1</id>
+    <title>Unconstrained learning of equivariant atomistic properties</title>
+    <updated>2026-10-22T12:33:41Z</updated>
+    <link href="https://arxiv.org/abs/2610.31183v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31183v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Machine-learned interatomic potentials based on graph neural networks (GNNs) have made first-principles accuracy routine for the potential energy surface (PES). Their backbones, often O(3)-equivariant by design, are increasingly used to learn other atomistic properties. Many of these are of high angular order or pseudotensorial character, defined per atom, or expanded on large atom-centered basis sets. Such targets strain equivariant GNNs, whose tensor products grow steeply in cost with angular order and can fail to represent the target if truncated, forcing difficult trade-offs between hyperparameters. Unconstrained models like the Point-Edge Transformer (PET) instead replace explicit O(3) algebra with edge-to-edge attention and learn equivariance from data, so that the same backbone can in principle learn any equivariant property. We demonstrate how to use PET to learn molecular dipoles and polarizabilities, NMR chemical shielding tensors, and auxiliary-basis expansions of the electron density. Increasing the backbone size systematically improves both accuracy and equivariance error, and targeted architectural and training choices reduce the symmetry breaking further. PET matches or improves on the released reference models at lower inference cost and, compared with equivariant models, a smaller memory footprint. The predictions give accurate IR and Raman spectra and isotropic shieldings; the predicted densities accelerate self-consistent field calculations and give one-shot ground-state properties, and pretrained density models transfer to higher levels of theory by fine-tuning on little data. The impact of approximate equivariance is small for most observables, further validating this approach to train fast, accurate, and useful surrogate models for properties beyond the PES.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T12:33:41Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Joseph W. Abbott</name>
+    </author>
+    <author>
+      <name>Paolo Pegolo</name>
+    </author>
+    <author>
+      <name>Pol Febrer</name>
+    </author>
+    <author>
+      <name>Michelangelo Domina</name>
+    </author>
+    <author>
+      <name>Sandra Saade</name>
+    </author>
+    <author>
+      <name>Matthias Kellner</name>
+    </author>
+    <author>
+      <name>Filippo Bigi</name>
+    </author>
+    <author>
+      <name>Philip Loche</name>
+    </author>
+    <author>
+      <name>Michele Ceriotti</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30887v1</id>
+    <title>A sharp gradient-corrected Lieb--Thirring inequality in one dimension with applications to density functional theory</title>
+    <updated>2026-10-22T08:05:44Z</updated>
+    <link href="https://arxiv.org/abs/2610.30887v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30887v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We first prove a sharp Lieb-Thirring inequality with semi-classical constant and gradient correction in one dimension. In the periodic setting, the corresponding inequality also includes a parity dependent shell-correction term, which appears to be new. Moreover, we also characterize the optimizers of these inequalities. In particular, the optimizing density profiles form a two-dimensional manifold, which we call here the Poincaré density manifold.
+  We then apply these results to study the Thomas--Fermi--von Weizsäcker (TFW) approximation of the kinetic energy in Density Functional Theory. More precisely, we first obtain an explicit and non-asymptotic bound on the global and local error made by the TFW approximation. These bounds are controlled by the distance of the normalized density profile from the Poincaré density manifold times the number of particles. In particular, these bounds show that the TFW approximation is exact on the Poincaré manifold. We then show that, in the periodic setting, the distance between the Kohn-Sham potential and the inverse TFW potential in the natural dual Sobolev space can also be controlled by explicit density dependent constants times the distance to the Poincaré manifold. As a corollary, we prove that for a fixed density profile, the Kohn-Sham potential converges towards the inverse Thomas--Fermi potential in the high-density limit $N \rightarrow \infty$ with asymptotic rate of order $N^{-2}$. This rate is shown to be optimal.</summary>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T08:05:44Z</published>
+    <arxiv:primary_category term="math-ph"/>
+    <author>
+      <name>Thiago Carvalho Corso</name>
+    </author>
+    <author>
+      <name>Louis Garrigue</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30749v1</id>
+    <title>Strain Waves Generate Compression and Trigger Buckling in Active Polymers</title>
+    <updated>2026-10-22T05:18:13Z</updated>
+    <link href="https://arxiv.org/abs/2610.30749v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30749v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Chemical reactions can sustain polymer motion without necessarily generating the compression required for buckling. Theory and simulations show that tension-dependent chemical transitions coupled to bond elasticity generate finite-wavelength traveling strain waves in a semiflexible polymer. In the straight chain at fixed axial span, the waves reduce mean active contraction while leaving mean elastic tension unchanged, generating compression that drives bending above a threshold. Releasing the mean load allows longitudinal waves to persist while transverse perturbations decay.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.AO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T05:18:13Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Wen-de Tian</name>
+    </author>
+    <author>
+      <name>Kang Chen</name>
+    </author>
+    <author>
+      <name>Tianhui Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30746v1</id>
+    <title>Wavenumber-Aware Deep Learning for Robust Analysis of Raman Spectra</title>
+    <updated>2026-10-22T05:16:31Z</updated>
+    <link href="https://arxiv.org/abs/2610.30746v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30746v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Machine-learning models for spectroscopy usually treat a spectrum as a fixed-grid intensity vector, leaving the physical coordinate implicit in the array index. Such models are tied to a single sampling grid, spectral range and resolution, which limits their use when measurement conditions change. Here we represent each spectral point as a pair of intensity and wavenumber and compute Transformer positional encodings from the wavenumber itself. On Raman spectra of three bacterial species and their synthetic mixtures, this representation remained robust to noise, sparser sampling and partial spectral coverage across convolutional, residual and Transformer networks. In controlled comparisons, wavenumber-based encoding outperformed index-based and learned encodings under partial observation and retained its performance on sampling grids never seen during training, where index-based encoding degraded. These findings were reproduced on a public 30-isolate bacterial benchmark. Explicit physical coordinates offer a simple route to robust spectral analysis under variable measurement conditions.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T05:16:31Z</published>
+    <arxiv:comment>29 pages, 5 figures, 6 tables; Supplementary Information (15 pages) included</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Jihwan Kim</name>
+    </author>
+    <author>
+      <name>Jaeseong Heo</name>
+    </author>
+    <author>
+      <name>Yujin Kim</name>
+    </author>
+    <author>
+      <name>Sang Bin Yoon</name>
+    </author>
+    <author>
+      <name>Chanjoong Kim</name>
+    </author>
+    <author>
+      <name>Kwang-Im Oh</name>
+    </author>
+    <author>
+      <name>Hyon Bin Na</name>
+    </author>
+    <author>
+      <name>Kyungwon Kwak</name>
+    </author>
+    <author>
+      <name>Myeongkee Park</name>
+    </author>
+    <author>
+      <name>Joonyoung F. Joung</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30513v1</id>
+    <title>Concentration-Dependent Speciation in ZnCl2 Electrolyte Solutions: Transferability of Machine-Learning Interatomic Potentials and Speciation Sensitivity of EXAFS</title>
+    <updated>2026-10-21T22:46:57Z</updated>
+    <link href="https://arxiv.org/abs/2610.30513v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30513v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Predicting speciation in concentrated electrolytes requires accurate ion interactions and adequate sampling of slowly interconverting coordination environments. We combine Zn K-edge extended X-ray absorption fine structure (EXAFS) measurements with long-timescale molecular dynamics (MD) using machine-learning interatomic potentials to study aqueous ZnCl2 from dilute conditions to 30 m. We train revPBE-based DeepMD models with D3 corrections included or excluded for Zn-containing pairs and compare them with DPMD-SCAN, classical MD (CMD), and MACE-MATPES-r2SCAN. EXAFS calculations are benchmarked against hydrated and chloride-coordinated Zn reference complexes, then applied to MD ensembles alongside Zn-Cl coordination free-energy analysis. Increasing concentration reduces octahedral coordination, replaces water with chloride, and promotes chloride-bridged association. All three DeepMD models yield similar EXAFS at 3 m, but DPMD-SCAN shows greater transferability across concentrations, reproducing measured spectral trends, key features of mixed ZnCl2/LiCl spectra, and octahedral fractions consistent with other studies. DFT treatment strongly affects coordination free energies and aggregation; excluding Zn-related D3 corrections does not systematically improve EXAFS agreement. CMD shows larger spectral discrepancies and less consistent coordination trends. MACE-MATPES-r2SCAN improves upon CMD and yields spectra comparable to DPMD-SCAN, which provides more consistent agreement and greater computational efficiency. Neighbor-resolved analysis shows that distance disorder and scattering-path interference can produce similar EXAFS signatures for distinct coordination ensembles, highlighting the need for rigorous sampling and ensemble-averaged spectra to distinguish isolated from chloride-bridged Zn species.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T22:46:57Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Junhan Chen</name>
+    </author>
+    <author>
+      <name>Luke D. Gibson</name>
+    </author>
+    <author>
+      <name>Nadia N. Intan</name>
+    </author>
+    <author>
+      <name>Darren M Driscoll</name>
+    </author>
+    <author>
+      <name>Mahalingam Balasubramanian</name>
+    </author>
+    <author>
+      <name>John L. Fulton</name>
+    </author>
+    <author>
+      <name>Gregory K. Schenter</name>
+    </author>
+    <author>
+      <name>Christopher J. Mundy</name>
+    </author>
+    <author>
+      <name>Mohammadhasan Dinpajooh</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30406v1</id>
+    <title>Synthetic Stochastic Time Series from Generative Models</title>
+    <updated>2026-10-21T20:11:25Z</updated>
+    <link href="https://arxiv.org/abs/2610.30406v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30406v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Obtaining statistically converged time-series data represents a fundamental challenge in computational chemistry, where sampling is constrained by the prohibitive computational cost of high-fidelity simulations. The accuracy attainable from a finite simulation budget is governed by the standard-error scaling $1/\sqrt{n}$, rendering exhaustive sampling challenging for systems of realistic complexity. Here we show that generative models trained on high-quality stochastic trajectories can reproduce key statistical properties of the underlying process and generate additional synthetic trajectories at substantially lower computational cost, thereby enhancing the sampling accessible from a finite set of simulations. We present a systematic comparison of four generative architectures across two complementary data sources: an analytically tractable Ornstein-Uhlenbeck reference and donor-acceptor energy-gap trajectories from all-atom molecular dynamics simulations. Among the four architectures tested, the denoising diffusion probabilistic model reproduces the target statistics most consistently, across both data sources and across the range of correlation times examined, and generates far faster than the sequential Transformer. Specifically, for the energy-gap trajectories, augmentation from 0.1 ns of training data yields statistical estimates comparable in accuracy to those obtained from 0.25-0.50 ns of direct MD sampling. We further show that the benefit of synthetic augmentation is bounded by the information contained in the training data, producing a quality floor determined by both the training data and the generative model. Our findings establish diffusion-based generative models as an effective route to data-driven augmentation of stochastic time series in computational chemistry.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T20:11:25Z</published>
+    <arxiv:comment>17 pages, 7 figures, 5 tables; Supporting Information (10 pages) included</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Zongwei Huang</name>
+    </author>
+    <author>
+      <name>Bradley S. Harris</name>
+    </author>
+    <author>
+      <name>Slater T. Bakenhaster</name>
+    </author>
+    <author>
+      <name>Roshan Khatri</name>
+    </author>
+    <author>
+      <name>Margaret S. Cheung</name>
+    </author>
+    <author>
+      <name>Barry D. Dunietz</name>
+    </author>
+    <author>
+      <name>Marcel D. Baer</name>
+    </author>
+    <author>
+      <name>Eitan Geva</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30398v1</id>
+    <title>QuDPy-FDGF: A Python-Based Tool for Computing Ultrafast Nonlinear Optical Responses Using Frequency Domain Green's Functions</title>
+    <updated>2026-10-21T20:03:40Z</updated>
+    <link href="https://arxiv.org/abs/2610.30398v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30398v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present QuDPy-FDGF, an open-source Python framework that evaluates Liouville-space pathways as hybrid chains of time propagators and frequency-domain Green's functions. Frequency-resolved intervals are computed directly through shifted linear systems, without time propagation followed by a Fourier transform, while other intervals may remain in the time domain. A model-agnostic block interface separates the physical model from pathway construction, numerical propagation, and detection. The released implementation provides an explicit dense Liouville-space backend for reference calculations and a sector-resolved sparse backend using matrix-free generator actions, Krylov time propagation, and generalized minimal residual (GMRES) resolvent solves. Its observable layer reuses propagated pathway responses to evaluate operator expectation values, action-detected readout interactions, instantaneous jump rates, and integrated mean jump counts.
+  The framework is assessed on an analytically solvable open two-level system and on two examples of increasing complexity: the complete third-order rephasing response, with its eight sequences, of a thermally initialized anisotropic Heisenberg (XXZ) spin chain with unequal excitation sectors, and two coupled dissipative anharmonic modes whose spectra depend on the detected observable, with the fifth-order double-quantum response of their closed limit. The calculations reproduce the analytical two-level response, check the matrix-free sparse evaluation against the dense assembly of the generator, and recover the harmonic-limit cancellation of the fifth-order signal when the required three-excitation manifold is retained. QuDPy-FDGF therefore provides a unified framework for pathway- and observable-resolved nonlinear spectroscopy in finite or truncated Hilbert spaces with unitary or Markovian Gorini--Kossakowski--Sudarshan--Lindblad (GKSL) dynamics.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T20:03:40Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Mathieu Desmarais</name>
+    </author>
+    <author>
+      <name>Simón Paiva-Ortega</name>
+    </author>
+    <author>
+      <name>Félix Brunell</name>
+    </author>
+    <author>
+      <name>Eric R. Bittner</name>
+    </author>
+    <author>
+      <name>Hao Li</name>
+    </author>
+    <author>
+      <name>Carlos Silva-Acuña</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30278v1</id>
+    <title>Automated generation and execution of large-scale semidefinite programs for variational two-electron reduced density matrix theory</title>
+    <updated>2026-10-21T18:01:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.30278v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30278v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The variational two-electron reduced density matrix (v2RDM) method provides a wave-function-free approach to the description of strong electron correlation whose computational cost scales polynomially with the number of correlated orbitals. Here, we present an automated pipeline for the generation and execution of semidefinite programs (SDPs) associated with the v2RDM problem. Algebraic constraints encoding ensemble $N$-representability conditions are generated via the p$^\dagger$q second-quantized algebra package, and the p$^\dagger$q-generated expressions are automatically translated into a sparse-matrix representation that can be digested by an appropriate SDP solver. We have implemented a boundary-point SDP (BPSDP) solver in the libsdp package that can execute the v2RDM SDPs on either CPU or GPU hardware. We apply the code in several contexts. First, two-particle conditions are used to describe the 76-orbital model of the iron-molybdenum cofactor (FeMoco) of nitrogenase, the simulation of which requires roughly 25 hours of compute time on a single Nvidia H100 GPU. Second, the performance of high-order (four-particle positivity) conditions is evaluated on a challenging two-dimensional H$_{10}$ cluster problem. Lastly, new classes of positivity constraints for mixed fermion-boson systems are generated and applied within the context of ab initio cavity quantum electrodynamics simulations.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:01:02Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>A. Eugene DePrince</name>
+    </author>
+    <author>
+      <name>Nicholas C. Rubin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30030v1</id>
+    <title>Methane and ethane adsorption on calcite surfaces: effects of surface morphology from molecular dynamics and 3D-RISM</title>
+    <updated>2026-10-21T16:52:49Z</updated>
+    <link href="https://arxiv.org/abs/2610.30030v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30030v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Understanding the adsorption of alkanes on mineral surfaces is important for industrial processes such as oil and gas recovery from shale reservoirs. Previous studies have examined the adsorption of functionalized and non-functionalized alkanes on calcite, as well as adsorption under confinement. However, real surfaces commonly exhibit defects that can influence adsorption behavior. In this work, molecular dynamics (MD) simulations and the three-dimensional reference interaction site model (3D-RISM) are used to investigate the adsorption of methane and ethane on calcite surfaces with step defects. MD simulations were carried out with and without positional restraints to investigate the effects of carbonate reorientation. 3D-RISM calculations were performed on these structures and on energy-minimized configurations of the relaxed crystal. Both methods show adsorption enhanced at step defects relative to flat regions, with methane exhibiting higher excess adsorption than ethane. Carbonate reorientation at the relaxed step edges reduces the local density peaks at specific step sites in both methods, while the integrated excess adsorption from MD remains comparable to that of the restrained surface. 3D-RISM predicts lower maxima for the highest density peaks and larger excess adsorption than MD, but reproduces the spatial organization and overall adsorption trends at a fraction of the computational cost. These results highlight the importance of surface heterogeneity in fluid-mineral interactions and demonstrate that 3D-RISM is an efficient tool for semi-quantitative screening of adsorption across complex surface geometries</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T16:52:49Z</published>
+    <arxiv:comment>27 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Felipe Silva Carvalho</name>
+    </author>
+    <author>
+      <name>Tyler Luchko</name>
+    </author>
+    <author>
+      <name>Zhen-Gang Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30022v1</id>
+    <title>Stationarity Constraints Improve Both Energies and Densities of Machine-Learned Exchange-Correlation Functionals</title>
+    <updated>2026-10-21T16:49:03Z</updated>
+    <link href="https://arxiv.org/abs/2610.30022v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30022v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Empirical exchange-correlation functionals are fitted on fixed orbitals but used self-consistently, so better energies often come with worse densities. We show that the Brillouin residual of a trained functional on the Kohn-Sham orbitals of an accurate density controls, to first order, both the self-consistent density shift and the gap between fitted and self-consistent energies. Penalizing it requires no self-consistent-field solution during training. Trained on 6 energies and 11 CCSD densities, a neural meta-GGA surpasses SCAN in both atomization energies and densities of unseen molecules.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T16:49:03Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Yuhao Chen</name>
+    </author>
+    <author>
+      <name>Donald G. Truhlar</name>
+    </author>
+    <author>
+      <name>Xiao He</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29851v1</id>
+    <title>Differentiated Determinant Graphs Enable Large-Scale Multideterminant Auxiliary-Field Quantum Monte Carlo</title>
+    <updated>2026-10-21T15:11:41Z</updated>
+    <link href="https://arxiv.org/abs/2610.29851v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29851v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Multideterminant trial wave functions can reduce phaseless bias in auxiliary-field quantum Monte Carlo (AFQMC), but the repeated evaluation of their overlap, force bias, and local energy restricts systematic trial improvement. In this work, we organize particle--hole excitation determinants as a shared arithmetic directed acyclic graph of canonical minors. A coefficient-weighted reverse pass and batched directional passes evaluate the complete estimator without determinant-resolved cofactor tensors while preserving the sparse $α$--$β$ coefficient coupling exactly. Controlled complex-valued tests verify the complete kernel to machine precision and show orders-of-magnitude acceleration over direct determinant summation. In molecular calculations, the observed cost remains sublinear through million-configuration selected-CI trials and the same estimator remains usable at one hundred million configurations, where the eventual exact coefficient-contraction boundary becomes visible. For Cr$_2$, an orbital-optimized CAS(12e,42o) trial in a double-$ζ$ basis yields a potential-energy curve (PEC) and spectroscopic constants in close agreement with experiment. Differentiated determinant graphs therefore convert very large correlated trials from a formal accuracy hierarchy into a practical route for systematic AFQMC studies of strongly correlated molecules.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:11:41Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Jacob Z. Williams</name>
+    </author>
+    <author>
+      <name>Yu Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29779v1</id>
+    <title>Mamba Quantum Eigensolver (MQE): A Selective State Space Model for Scalable Ground State Simulations in Quantum Chemistry</title>
+    <updated>2026-10-21T14:07:45Z</updated>
+    <link href="https://arxiv.org/abs/2610.29779v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29779v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Predicting molecular electronic structure using Quantum Computing approaches is a challenge in Computational Chemistry. Traditional Variational Quantum Eigensolvers (VQEs) are typically hindered by optimization challenges. The alternative Generative Quantum Eigensolver (GQE) mitigates this by reformulating ground-state search as discrete sequence generation, but its Transformer backbone suffers from quadratic computational complexity, bottlenecking scalability for larger molecules. To address this, we introduce the Mamba Quantum Eigensolver (Mamba-QE), which replaces the Transformer with a Selective State Space Model (SSM) to process operator sequences with linear $\mathcal{O}(L)$ complexity. Additionally, we integrate a distance-conditioned mechanism enabling the direct prediction of complete potential energy surfaces (PES). Evaluated on the $H_2$ molecule, Mamba-QE reproduces Full Configuration Interaction (FCI) reference energies well within chemical accuracy, achieving an energy error below $3\times10^{-6}$ Ha across 16 geometries with zero variational violations. Mamba-QE maintains high expressive power while establishing a robust, scalable foundation for quantum simulations of complex molecular systems.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T14:07:45Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>G. X. A. Petronilo</name>
+    </author>
+    <author>
+      <name>M. R. Araújo</name>
+    </author>
+    <author>
+      <name>Erico S. Teixeira</name>
+    </author>
+    <author>
+      <name>Clebson Cruz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29775v1</id>
+    <title>Consistent Modeling of SEI Growth via Electron Diffusion Validated Across Diverse Cell Specifications and Operating Conditions in LFP/Graphite Cells</title>
+    <updated>2026-10-21T14:05:49Z</updated>
+    <link href="https://arxiv.org/abs/2610.29775v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29775v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Understanding and predicting degradation in lithium-ion batteries is critical for their widespread deployment. The continuous growth of the solid-electrolyte interphase (SEI) remains a dominant aging pathway, yet accurately modeling its kinetics across diverse cell specifications and operating conditions remains a significant challenge. Here, we present and validate a physically grounded SEI growth model mediated by the electron diffusion mechanism. This framework intrinsically captures the state of charge (SOC) dependence of degradation through the impact of the anode potential on the electron concentration, which governs the rate of SEI growth. The presented model explicitly accounts for variations in electrolyte salt, anode material, temperature, and cycling rate. Validation against experimental aging data for LFP/graphite cells demonstrates high predictive accuracy across a broad range of cell specifications and cycling conditions, including confined SOC windows, electrolyte salts (LiFSI, LiPF6), artificial graphites (AGC, AGD), temperatures (40-70°C), and C-rates (C/20-1C). Remarkably, a single, consistent set of parameters is applied to simulate the capacity fade for all experiments without recalibration. While quantitative overestimations occur during high-SOC storage periods, the framework consistently captures the observed degradation trends. Our findings underscore that lower SOC operation mitigates degradation, establishing a physics-based model for predicting long-term lithium-ion battery aging.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T14:05:49Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Lukas Köbbing</name>
+    </author>
+    <author>
+      <name>William Black</name>
+    </author>
+    <author>
+      <name>Claire Floras</name>
+    </author>
+    <author>
+      <name>Saad Azam</name>
+    </author>
+    <author>
+      <name>Eniko Zsoldos</name>
+    </author>
+    <author>
+      <name>Ben Tang</name>
+    </author>
+    <author>
+      <name>J. R. Dahn</name>
+    </author>
+    <author>
+      <name>Birger Horstmann</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29765v1</id>
+    <title>Hierarchical Response Theory of Electronegativity from Atomic Mean Inner Potential</title>
+    <updated>2026-10-21T14:01:23Z</updated>
+    <link href="https://arxiv.org/abs/2610.29765v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29765v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Electronegativity, introduced by Pauling nearly a century ago, remains chemistry's most widely used yet conceptually ambiguous quantity: is it a fixed atomic constant, or does it depend on chemical environment? We resolve this debate by recasting electronegativity as a continuous response function rooted in the Atomic Mean Inner Potential (AMIP), a quantum-mechanical observable accessible through first-principles calculation and, ultimately, electron holography. Expanding the AMIP with respect to fractional electron removal defines a hierarchy of physically distinct coefficients: the static electronegativity $χ_0$, the Electrostatic Rigidity $\mathcal{R}$---whose sign indicates whether an atom hardens or softens upon oxidation---and the Electrostatic Anharmonic Modulus $\mathcal{A}$. A logarithmic-derivative decomposition links these coefficients to two competing microscopic channels, electronic screening loss and geometric volume collapse, whose balance governs the response of all 102 elements. This competition produces a systematic dichotomy between softening main-group elements and hardening d-block elements, two scaling laws within the transition series (closed-shell stiffening and principal quantum softening), and two anomalies: a pronounced exchange-driven effect at half-filled d$^{5}$ configurations and a near-perfect cancellation in Ce. It also resolves the long-standing Cs--Fr controversy, identifying Fr as a critical element whose near-boundary response is amplified fivefold by relativistic contraction of the 7s orbital. The framework reproduces the classical Allen, Pauling, and Mulliken scales as well as Lewis acidity trends, and makes three falsifiable experimental predictions. It transforms electronegativity from a lookup-table number into a predictive, hierarchically structured quantum descriptor.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T14:01:23Z</published>
+    <arxiv:comment>39 pages, 3 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Jin-Cheng Zheng</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29753v1</id>
+    <title>Fast2Peak: High-Fidelity Restoration Algorithm by Single-Pixel Masking towards Real-Time Spectral Measurements</title>
+    <updated>2026-10-21T13:54:37Z</updated>
+    <link href="https://arxiv.org/abs/2610.29753v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29753v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Improving the temporal and spatial resolution of spectroscopy inevitably reduces the photons available to each measurement, pushing rapid measurements into photon-starved conditions where weak spectral features are obscured by stochastic background noise. Here, we present Fast2Peak (F2P), a self-supervised Transformer framework that transforms the spectral restoration task into a context-prediction problem. Given that physically constrained spectral signals exhibit strong local continuity, whereas the stochastic noise fluctuates randomly and does not possess the continuity across neighboring spectral pixels, single-pixel masking enables F2P to restore the predictable signal structure while suppressing unpredictable fluctuations even without clean reference spectra. Unlike conventional offline spectral restoration, F2P achieves high-fidelity restoration within milliseconds, enabling real-time "acquire-and-process" operation. We demonstrate this capability in time-resolved electrochemical SERS and hyperspectral Raman imaging, where spectral restoration is performed during data acquisition. In addition, F2P has demonstrated its robust generalization across different instruments and spectral modalities, including Raman, NMR, XRD and FTIR.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T13:54:37Z</published>
+    <arxiv:comment>40 pages, 12 figures, 11 tables, including 25 pages of Supporting Information</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Nan-Nan Zhang</name>
+    </author>
+    <author>
+      <name>Si-Heng Luo</name>
+    </author>
+    <author>
+      <name>Xin-Di Pei</name>
+    </author>
+    <author>
+      <name>Wen-Xuan Li</name>
+    </author>
+    <author>
+      <name>Jun Wang</name>
+    </author>
+    <author>
+      <name>Yi-Fan Bao</name>
+    </author>
+    <author>
+      <name>Hao Ma</name>
+    </author>
+    <author>
+      <name>Guo-Kun Liu</name>
+    </author>
+    <author>
+      <name>Bin Ren</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29703v1</id>
+    <title>Choosing Spatial Resolution in the Residence-Time Approach to Local Diffusivity</title>
+    <updated>2026-10-21T13:16:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.29703v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29703v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Estimating position-dependent diffusivity with the residence-time approach (RTA) requires choosing an interval width that resolves spatial variation while probing time scales compatible with a local diffusion model. We develop a selection criterion that combines bulk diffusivity convergence with local model agreement measured by the Kullback-Leibler divergence between observed and predicted first-exit-time distributions, and assess global model agreement through independent propagator analysis against unbiased molecular dynamics. Applications to water in a fluid phospholipid bilayer and three permeants in a model skin lipid barrier show that local agreement alone does not ensure global fidelity: in the skin barrier, narrow intervals minimize exit-time mismatch but predict excessive spreading, whereas requiring bulk convergence selects wider intervals with better longer-time predictions. In propagator tests, RTA profiles at the selected interval widths outperform velocity-autocorrelation-based profiles and generally improve agreement relative to position-autocorrelation-based profiles in the skin barrier, while phospholipid-bilayer rankings depend on lag time and discrepancy metric; both autocorrelation methods use harmonically restrained simulations.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T13:16:33Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Michael von Domaros</name>
+    </author>
+    <author>
+      <name>Rinto Thomas</name>
+    </author>
+    <author>
+      <name>Praveen Ranganath Prabhakar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29460v1</id>
+    <title>Spin-Adapted Spin-Flip Tamm-Dancoff Approximation (XSF-TDA) for Singlet-Triplet Gaps in MR-TADF and INVEST Emitters</title>
+    <updated>2026-10-21T09:19:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.29460v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29460v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this work, we assess the recently introduced spin-adapted TDA for spin-flip-down excitations (XSF-TDA) [Mol. Phys. e2631735 (2026)] as a practical approach to this problem. Starting from a high-spin restricted open-shell Kohn--Sham reference, XSF-TDA generates spin-adapted low-spin roots arising from open--open (OO), core--open (CO), open--virtual (OV), and core--virtual (CV) types of spin-flip-down excitations. Across four application sets comprising 243 benchmark cases, XSF-TDA substantially reduces the systematic positive bias observed for TDA and unrestricted spin-flip TDA (USF-TDA). With the B3LYP functional, XSF-TDA reduces the equal-set-weighted macro-MAE relative to USF-TDA from 0.252 eV (0.158 eV) to 0.102~eV (0.056~eV) with the ALDA0 (multicollinear) kernel. Its accuracy is competitive with state-specific $Δ$DFT and quasiparticle-energy DFT (QE-DFT), while being able to provide deeper mechanistic insight through the response vector. In particular, spin-adapted CV configurations provide selected higher-excitation character that strengthens the OO--CV dynamical-spin-polarization channel, which preferentially stabilizes the singlet states. We also identify an INVEST emitter with appreciable OO--OV mixing, suggesting a possible additional contribution to singlet stabilization when the CV contribution is small. The XSF-TDA method therefore provides practical singlet--triplet gap predictions together with interpretable state analysis for the screening and mechanistic understanding of MR-TADF and INVEST emitters.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T09:19:33Z</published>
+    <arxiv:comment>26 pages, 8 figures, 5 tables</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Hewang Zhao</name>
+    </author>
+    <author>
+      <name>Hongbo Wang</name>
+    </author>
+    <author>
+      <name>Liuxin Huang</name>
+    </author>
+    <author>
+      <name>Yunlong Xiao</name>
+    </author>
+    <author>
+      <name>Zhendong Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29422v1</id>
+    <title>Photon Correlations Control Quantum Fisher Information in Coherent Multidimensional Spectroscopy</title>
+    <updated>2026-10-21T08:46:53Z</updated>
+    <link href="https://arxiv.org/abs/2610.29422v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29422v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Coherent multidimensional spectroscopy probes interactions and dynamics of molecular systems through nonlinear optical signals. Quantum light excitation has been explored as a means of controlling these signals, raising the question of how excitation-light correlations affect the precision of molecular parameter estimation from the emitted signal. In this work, we show that photon-number correlations and two-photon coherence play distinct roles in encoding molecular information in the emitted rephasing signal. In the weak-emission regime and within the single Schmidt pair approximation, we derive a normally ordered information law in which the joint photon-number moment and the squared magnitude of the two-photon coherence weight the amplitude and phase sensitivities of the molecular response, respectively. For matched temporal modes and mean photon numbers in each input mode, two-mode squeezed vacuum enhances both weights relative to coherent excitation, whereas independent displaced squeezing preserves the amplitude weight but reduces the phase weight. The background population and its parameter dependence also affect the total quantum Fisher information, which therefore cannot be inferred from the coherent mean-field signal alone. We derive a leading-order bound on its enhancement over coherent excitation when the background population is nonnegative and common to the compared sources. These findings provide criteria for selecting excitation sources according to how the target molecular parameter affects the amplitude and phase of the response.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T08:46:53Z</published>
+    <arxiv:comment>15 pages, 5 figures, including appendices</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Chenghong Huang</name>
+    </author>
+    <author>
+      <name>Yuta Fujihashi</name>
+    </author>
+    <author>
+      <name>Akihito Ishizaki</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29404v2</id>
+    <title>Bounds on Attainable Rate Modulation in Fermi's Golden Rule</title>
+    <updated>2026-10-22T04:02:49Z</updated>
+    <link href="https://arxiv.org/abs/2610.29404v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29404v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Controlling transition rates is a central objective across quantum optics, condensed-matter physics, and chemical physics, encompassing processes such as spontaneous emission, energy and charge transfer, spin relaxation, and chemical reactions. Although Fermi's golden rule provides a powerful framework for calculating such rates of weakly coupled transitions, conventional calculations require the interaction to be specified in advance; the range of rate responses attainable over a broader interaction space remains unknown. We formulate spectral-overlap golden-rule rates as quadratic forms of the interaction and derive rigorous bounds on rate modulation over a specified interaction space. As an example, application to energy transfer from a donor to a molecular vibration coupled to an optical cavity reveals that enhancement and suppression depend jointly on the interaction and cavity detuning, including continuous reversal of the rate response for a fixed interaction. The same approach may elucidate rate control for other golden-rule processes, including excitation-energy transfer, nonadiabatic electron transfer, nonradiative electronic transitions, vibrational and spin relaxation, and spontaneous emission.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T08:31:51Z</published>
+    <arxiv:comment>6 pages, 2 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Kaisei Ohata</name>
+    </author>
+    <author>
+      <name>Jun-Yu Dong</name>
+    </author>
+    <author>
+      <name>Yasutaka Kitahama</name>
+    </author>
+    <author>
+      <name>Akihito Ishizaki</name>
+    </author>
+    <author>
+      <name>Keisuke Goda</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29389v1</id>
+    <title>Tuning Thermal Memory and Dissipation in Colloidal Glasses via Microgel Particle Stiffness</title>
+    <updated>2026-10-21T08:16:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.29389v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29389v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The Kovacs effect, characterized by nonlinear, path-dependent structural recovery, is a hallmark of glassy systems. In soft colloidal microgel glasses, the stiffness of the constituent particles governs their deformation, swelling, rearrangement, and response to external stimuli, thereby dictating the path-dependent structural recovery of these jammed non-equilibrium systems. To investigate this influence, microgels of different stiffnesses were synthesized by adjusting the concentration of the polar crosslinker, N, N'-methylenebisacrylamide (MBA). The relaxation of the storage and loss moduli was measured using oscillatory rheology under diverse temperature ramp rates, and cryo-FESEM imaging provided direct visualization of the underlying particle packing. While the rapid adaptability of soft particles and the kinetic arrest of stiff ones suppresses Kovacs asymmetry, intermediate-stiffness particles exhibit moderate thermoresponsivity, traversing distinct energy landscapes on heating and cooling to maximize asymmetry and dissipation. Cryo-FESEM micrographs, displaying gel-like networks in soft particle suspensions, dense packing in stiff particle suspensions, and disordered, compact structures in intermediate-stiffness systems, corroborate these findings. Our results demonstrate that intermediate-stiffness PNIPAM microgels optimize structural recovery, rendering them promising candidates for forming colloidal glasses and establishing Kovacs asymmetry as a robust probe of non-equilibrium dynamics in glassy systems.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T08:16:12Z</published>
+    <arxiv:comment>36 pages, 17 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Sonali Vasant Kawale</name>
+    </author>
+    <author>
+      <name>Ranjini Bandyopadhyay</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30194v1</id>
+    <title>Einstein's theory of Brownian motion: The non-Fickian normal diffusion</title>
+    <updated>2026-10-21T06:41:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.30194v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30194v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Einstein's theory of diffusion defines what is considered {\it normal diffusion}. Historically, Einstein considered homogeneous diffusion characterised by a diffusion constant in his original calculations, resulting in what is known as {\it Fickian} diffusion, which thermally relaxes concentration inhomogeneities. However, in the same derivation of Einstein, the seed of generalisation of the theory to {\it non-Fickian} diffusion in the presence of space-dependent diffusivity is hidden. This indicates that non-Fickian diffusion, which can drive concentration inhomogeneities, can also be normal diffusion. The present article discusses the origin of the {\it normal} non-Fickian diffusion in Einstein's theory of diffusion.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T06:41:33Z</published>
+    <arxiv:comment>Five pages, no figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>A. Bhattacharyay</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29111v1</id>
+    <title>SU(2)-Equivariant Spinor Message Passing for Molecular Magnetism</title>
+    <updated>2026-10-21T02:51:38Z</updated>
+    <link href="https://arxiv.org/abs/2610.29111v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29111v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Predicting molecular magnetism often requires electronic-structure calculations with spin-orbit coupling (SOC), which are costly to repeat across many molecules. The underlying electronic states can transform as spinors, yet equivariant surrogates typically use only integer-rank features. Inspired by the spinor nature of these electronic states, we develop eSpinor, an SU(2)-equivariant graph neural network that propagates spinor features. We initialize spinor features from eigenvectors of an approximate SOC Hamiltonian and use gauge-covariant message passing with a gauge-invariant readout to make predictions independent of the arbitrary eigenbasis choice. On cobalt single-molecule magnet candidates, eSpinor improves zero-field-splitting predictions relative to NequIP, including for unseen ligands. For a dysprosium magnetic resonance imaging probe, eSpinor improves real electron-spin correlations over a Hamiltonian-informed baseline despite similar static crystal-field errors and fewer parameters, while accurately predicting low-field nuclear relaxation in water and after transfer to methanol without retraining. Overall, these results demonstrate that SU(2)-equivariant spinor message passing is a useful inductive bias for molecular magnetism. We also find that similar static tensor errors can yield different dynamical errors, motivating model selection based on accuracy for the intended physical observables.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T02:51:38Z</published>
+    <arxiv:comment>An earlier version was accepted to the NeurIPS 2026 SimBioChem Workshop</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Erh-Wei Sheng</name>
+    </author>
+    <author>
+      <name>Beom Seok Kang</name>
+    </author>
+    <author>
+      <name>Yuchao Lin</name>
+    </author>
+    <author>
+      <name>Danish Khan</name>
+    </author>
+    <author>
+      <name>Anima Anandkumar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29109v1</id>
+    <title>Coherent dynamics and ultrafast evolution of optical nonlinearity of self-hybridized exciton-polaritons in WSe2</title>
+    <updated>2026-10-21T02:50:31Z</updated>
+    <link href="https://arxiv.org/abs/2610.29109v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29109v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Exciton-polaritons (EPs) are valuable for investigating macroscopic quantum coherent phenomena. However, overcoming the rapid decoherence of EPs under ambient conditions is challenging, even using delicately fabricated optical cavities. Here, we show pronounced coherent dynamics in thin flakes of WSe2 supporting self-hybridized EPs. Ultrafast two-dimensional electronic spectroscopy (2DES) resolves two types of quantum beating: Rabi oscillation with a period of ~ 24 fs and a slower, ~ 50 fs period oscillation, revealing coherent coupling not only between excitons and cavity, but also between polaritons and dark states. Rapid evolution of 2DES line shape indicates a change of dominant optical nonlinearities from Rabi contraction of polaritons to many-body interactions of excitons in the first 100 fs, marking the transition from coherent to incoherent polariton excitations. The results are rationalized by a three-coupled oscillator model considering the inhomogeneous cavity field distribution. We also demonstrate coherent quantum beating between A exciton and its excited Rydberg state A* under ambient conditions. Our results shed light on the coherent control in readily accessible semiconductor thin flakes.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T02:50:31Z</published>
+    <arxiv:comment>6 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Niu Xu</name>
+    </author>
+    <author>
+      <name>Jin Yang</name>
+    </author>
+    <author>
+      <name>Kaizhen Liu</name>
+    </author>
+    <author>
+      <name>Jianghao Shen</name>
+    </author>
+    <author>
+      <name>Weiming Song</name>
+    </author>
+    <author>
+      <name>Abbas Chimeh</name>
+    </author>
+    <author>
+      <name>Daniel Timmer</name>
+    </author>
+    <author>
+      <name>Jinhui Zhong</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28850v1</id>
+    <title>CRAFT-ε: A Conformer-Resolved Atom- and Fragment-based Theory for the Static Relative Permittivity of Pure Organic Liquids</title>
+    <updated>2026-10-20T19:24:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.28850v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28850v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The static relative permittivity is an important property in thermodynamic modeling, electrochemistry, and solvent design, but predicting it directly from molecular structure remains challenging because both electronic polarization and molecular dipole orientation contribute to the measured response. Here, we introduce CRAFT-ε (Conformer-Resolved Atom- and Fragment-based Theory for ε), a conformer-resolved molecular descriptor model for predicting the static relative permittivity of neutral pure liquids. Conformer free energies, molecular dipoles, and atom-resolved polarizabilities are obtained from a GFN2-xTB/ALPB 10 workflow. The molecular dipole is decomposed into chemically defined polar-fragment vectors, allowing fitted corrections to retain both the magnitude and relative orientation of local dipolar contributions. Electronic and orientational polarization are combined with a group-contribution molar volume in the Onsager-Kirkwood-Fröhlich relation. A staged parameterization with 41 parameters is applied to nonpolar, polar, and hydrogen-bonding compounds. For 1393 liquids with permittivities between 1.5 and 183, CRAFT-ε reaches a five-fold cross-validated average absolute deviation of 2.40 ({R^2} = 0.93). Conformational averaging 15 is essential for liquids with several polar groups. Compared with an established fragment-based model with 139 parameters, it reaches a similar cross-validated RMSE (3.65 versus 3.41) with about a quarter of the parameters and applies to every liquid of the dataset. The resulting framework provides a computationally inexpensive route from molecular structure to liquid dielectric response and forms a basis for later application to solvent mixtures and electrolyte systems.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T19:24:36Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Simon Müller</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27964v1</id>
+    <title>Effect of interfacial water structure on the adsorption of weakly hydrated anions</title>
+    <updated>2026-10-20T10:08:48Z</updated>
+    <link href="https://arxiv.org/abs/2610.27964v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27964v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Weakly hydrated anions tend to partition to macromolecular surfaces, leading to salting-in at low salt concentrations. Recent studies have linked this partitioning to disruption of the interfacial water network. Here, we investigate the role of interfacial-water-network disruption as an indirect driving force for the adsorption of weakly hydrated anions and its interplay with direct solute-anion and anion-cation interactions using computer simulations. We study the adsorption of SCN$^{-}$ and I$^{-}$ ions on a model extended solute that interacts with water and ions only via van der Waals interactions. To probe the indirect contribution, we increase the effective solute size while simultaneously decreasing the attractive solute-water and solute-ion interactions, resulting in progressively greater disorder in the interfacial water network in pure aqueous solutions. Our results show that iodide adsorption increases despite weaker direct solute-iodide interactions and correlates with greater disruption of the interfacial water network, although iodide remains depleted overall. In contrast, preferential adsorption of SCN$^{-}$ decreases, but the rate of decrease becomes smaller at higher levels of interfacial-water-network disorder. This suggests that the indirect contribution associated with interfacial-water-network disruption partly compensates for the decrease in SCN$^{-}$ adsorption caused by weaker direct solute-SCN$^{-}$ interactions. Our results highlight that the indirect contribution associated with interfacial-water-network disruption promotes the adsorption of weakly hydrated anions on macromolecular surfaces, while the extent of adsorption also depends on direct solute-ion interactions and anion-cation pairing. This interplay may be particularly important in mixed-salt solutions, where the presence of strongly hydrated anions can also disrupt the interfacial water network.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T10:08:48Z</published>
+    <arxiv:comment>Main text: 16 pages, 6 figures, Supplementary information is included after the references</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Swaminath Bharadwaj</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27294v1</id>
+    <title>Counterexamples to the total-current Hohenberg-Kohn conjecture</title>
+    <updated>2026-10-19T21:09:56Z</updated>
+    <link href="https://arxiv.org/abs/2610.27294v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27294v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The total-current Hohenberg-Kohn conjecture asserts that the ground-state particle density and total current determine the scalar potential up to an additive constant and the vector potential up to a gauge transformation. We give three counterexamples for two spinless fermions in the physically relevant setting of three spatial dimensions. In each, a Hamiltonian $H^{v,\mathbf{A}}$ has a nondegenerate ground state with identically zero total current but nonzero magnetic field. Complex conjugation then yields a second Hamiltonian $H^{v,-\mathbf{A}}$, with the same scalar potential and interaction, whose ground state has the same density and the same zero current, while the magnetic field is reversed. The first two examples are noninteracting. One is explicit, with a smooth bounded vector potential and a Gaussian density. The other has smooth bounded scalar and vector potentials in the standard potential spaces. The third example has Coulomb repulsion with unit coupling, an isotropic harmonic scalar potential, and Dirac monopole fields of magnetic charge $\pm 1/2$. The monopole example uses vector potentials defined on separate spatial patches, since these fields are not curls of globally defined smooth vector potentials.</summary>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T21:09:56Z</published>
+    <arxiv:primary_category term="math-ph"/>
+    <author>
+      <name>Andre Laestadius</name>
+    </author>
+    <author>
+      <name>Mihály A. Csirik</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27136v1</id>
+    <title>Ammonia-Hydrogen Phase Equilibria in Planetary Envelopes from First-Principles-Based Machine-Learning Molecular Dynamics</title>
+    <updated>2026-10-19T18:33:47Z</updated>
+    <link href="https://arxiv.org/abs/2610.27136v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27136v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Ammonia and hydrogen are major constituents of planets within and beyond the solar system, yet how they interact in planetary envelopes is poorly known. We perform large-scale two-phase coexistence simulations of the ammonia-hydrogen system from 500 to 4000 K and 0.1 to 100 GPa, driven by machine-learning interatomic potentials trained on density functional theory calculations. From these we map the compositions of coexisting hydrogen-rich and ammonia-rich phases, and the critical curve that separates conditions of complete miscibility from those of phase separation. The critical temperature increases with pressure, from 500 K at 0.1 GPa to 2000 K near 30 GPa, and we find no phase separation at 3000 and 4000 K up to 100 GPa. The slope of the critical curve decreases substantially between 0.3 and 30 GPa, and the curve nearly flattens above about 30 GPa and 2000 K, where molecules begin to give way to atomic species. The coexistence curves are asymmetric with an ammonia-rich critical composition. For the expected envelope compositions, the phase boundary lies close to, and intersects, published thermal profiles of Uranus and Neptune, implying ammonia may be raining out in these planets today. In contrast, in warm sub-Neptunes such as TOI-270 d, ammonia and hydrogen are likely miscible in all proportions. Together with previous studies, our results suggest that silicates, water and ammonia separate from hydrogen in sequence as planets cool, with implications for their compositional, thermal and structural evolution.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.geo-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T18:33:47Z</published>
+    <arxiv:comment>20 pages, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>Akash Gupta</name>
+    </author>
+    <author>
+      <name>Austin Guo</name>
+    </author>
+    <author>
+      <name>Jie Deng</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26732v1</id>
+    <title>Vacuum-Field Squeezing by Molecules in Optical Cavities: An Exact Bound and Linear-Response Theory</title>
+    <updated>2026-10-19T16:59:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.26732v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26732v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The ground state of a molecule coupled to an optical cavity contains virtual photons, and squeezing of the photonic field has been found in exactly solvable models, perturbation theory, and numerical calculations. Here, two exact sum rules for the field quadratures show that, within the dipole approximation, the vector-potential fluctuations of a linearly polarized mode never exceed their vacuum value in the ground state of any molecule at any coupling strength. Consequently, the field is squeezed whenever the mode couples to a dipole-allowed transition from a nondegenerate ground state, and the cavity-induced ground-state energy shift cannot increase with the cavity frequency at a fixed coupling vector, which is an exact constraint on approximate methods. Moreover, the incoherent photon statistics, which exclude the coherent part of the field, are never sub-Poissonian. At weak coupling, an exact resolvent expression reduces the squeezing and the ratio of the anomalous to the normal photon moment to linear-response properties of the isolated molecule, with the ratio set by a mean excitation energy. Time-dependent density functional theory with CAM-B3LYP and PBE0 reproduces exact and QED coupled-cluster references for both quantities to within 5% at 45 benchmark points. A survey of 29 molecules gives mean excitation energies of 9.5-21 eV at a cavity frequency of 2 eV and shows that the most polarizable molecules squeeze the field the most.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T16:59:02Z</published>
+    <arxiv:comment>29 pages, 4 figures, 2 tables; supplementary material (25 pages) appended</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Kurt R. Brorsen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26701v1</id>
+    <title>Challenging Atomistic Foundation Models on Disordered Carbons</title>
+    <updated>2026-10-19T16:37:53Z</updated>
+    <link href="https://arxiv.org/abs/2610.26701v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26701v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Foundation machine-learned interatomic potentials (MLIPs) promise broad transferability, yet their out-of-domain reliability is hard to establish. Here, we use pure and O/H-containing disordered carbon spanning multiple phases, competing hybridisations and porous frameworks to stress-test six popular foundation MLIPs. We first screen all six on density functional theory (DFT) energy and force errors and binding curves, then subject four to melt-quench-anneal molecular dynamics and evaluate the resulting structural observables. Binding curves and O/H-containing trajectories reveal unphysical extrapolation and dynamical failures that low DFT energy and force errors fail to reveal. Of the models tested, MACE-MH-1 is the most consistently robust, with low DFT errors and stable MD. Despite differing architectures, OMAT-based models share structural biases, highlighting the importance of training coverage. All four models generate structures of nanoporous carbon that reproduce the principal experimental and specialised carbon potential signatures. Incorporating O/H leaves short-range order largely unchanged but shifts pore-size distributions towards larger pores. These results emphasise the need for application-specific validation and extend molecular dynamics modelling of nanoporous carbon towards experimentally realistic structures.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T16:37:53Z</published>
+    <arxiv:comment>40th Conference on Neural Information Processing Systems (NeurIPS 2026). Workshop: Sim2Science: ML with Imperfect Scientific Models</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Joseph Hart</name>
+    </author>
+    <author>
+      <name>Samuel G. H. Brookes</name>
+    </author>
+    <author>
+      <name>Fabian L. Thiemann</name>
+    </author>
+    <author>
+      <name>Christoph Schran</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26689v1</id>
+    <title>Measurement-efficient energy estimator for quantum chemistry of photodynamic materials</title>
+    <updated>2026-10-19T16:34:03Z</updated>
+    <link href="https://arxiv.org/abs/2610.26689v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26689v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Accurate modelling of chemical reaction rates requires precise correlated energy differences. Quantum computing offers a potential route to their determination, but extracting energies from quantum-prepared states can demand prohibitive sampling. We demonstrate measurement-efficient correlated energy estimation using an electronically challenging H$_2$DBB--Ru model derived from a Ru-functionalized hafnium metal-organic framework relevant to radiodynamic and photodynamic therapies. The mixed estimator combines a quantum-prepared target with sparse multiconfiguration references and recovers ground-state corrections using magnitude-only compute-uncompute measurements. Analytical variance estimates predict 1.6 mHa precision with a few hundred shots, about 100 times fewer than the single-determinant formulation and three orders of magnitude fewer than optimized Hamiltonian-term sampling. With approximate targets, it reaches comparable accuracy using simpler state preparation than direct expectation-value estimation. Emulator and trapped-ion experiments on Quantinuum Helios validate the approach up to (10,10), including a 50-qubit circuit combining AI-assisted state preparation with error detection, providing a measurement-efficient route to correlated energy differences for challenging chemical problems.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T16:34:03Z</published>
+    <arxiv:comment>89 pages total: 35-page main article and 54-page Supplementary Information; 31 figures and 8 tables</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Connor Lenihan</name>
+    </author>
+    <author>
+      <name>Kripa Panchagnula</name>
+    </author>
+    <author>
+      <name>Luca Erhart</name>
+    </author>
+    <author>
+      <name>Jem Guhit</name>
+    </author>
+    <author>
+      <name>Carlo A. Gaggioli</name>
+    </author>
+    <author>
+      <name>Gabriel Greene-Diniz</name>
+    </author>
+    <author>
+      <name>Gabriel Laude</name>
+    </author>
+    <author>
+      <name>Megan Cerys Rowe</name>
+    </author>
+    <author>
+      <name>Fabian Finger</name>
+    </author>
+    <author>
+      <name>Pranav Kalidindi</name>
+    </author>
+    <author>
+      <name>Enrico Rinaldi</name>
+    </author>
+    <author>
+      <name>Mikko Muuronen</name>
+    </author>
+    <author>
+      <name>Chandrika Mulakala</name>
+    </author>
+    <author>
+      <name>Thomas M. Soini</name>
+    </author>
+    <author>
+      <name>Elvira Shishenina</name>
+    </author>
+    <author>
+      <name>David Muñoz Ramo</name>
+    </author>
+    <author>
+      <name>David Zsolt Manrique</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26675v1</id>
+    <title>NIR-probe transient absorption on rubrene microcavities demonstrates no changes to singlet fission by strong coupling</title>
+    <updated>2026-10-19T16:24:45Z</updated>
+    <link href="https://arxiv.org/abs/2610.26675v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26675v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Strong light-matter coupling has been proposed to control singlet-exciton fission, yet reported effects remain controversial due to the prevalence of cavity-induced optical artifacts in transient absorption measurements. Here, we investigate singlet fission in dielectric microcavities containing rubrene by probing in the near-infrared region, outside the cavity stopband, to eliminate mode-filtering artifacts. Across contrasting cavity quality factors ($Q = 90$ and $1150$) and a range of exciton-photon detunings ($+20$ to $-110$ meV), we find that the underlying kinetics are virtually identical to uncoupled films. Although minor spectral changes occur, transfer matrix simulations reveal these stem purely from mirror interference rather than modified photophysics. Transient electron paramagnetic resonance further confirms that high-spin triplet dynamics remain unperturbed. Together, these findings establish a widely applicable experimental framework for evaluating molecular photophysics in microcavities, revealing that singlet fission remains unaltered in strongly coupled rubrene.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T16:24:45Z</published>
+    <arxiv:comment>16 pages, 4 main figures. Includes Supporting Information (55 pages total)</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Robert H. Gordon</name>
+    </author>
+    <author>
+      <name>James P. Pidgeon</name>
+    </author>
+    <author>
+      <name>Rachel C. Kilbride</name>
+    </author>
+    <author>
+      <name>Tingxiang Yang</name>
+    </author>
+    <author>
+      <name>Benjamin Stewart</name>
+    </author>
+    <author>
+      <name>Yan Chen</name>
+    </author>
+    <author>
+      <name>Timothy Thornber</name>
+    </author>
+    <author>
+      <name>Peter Claronino</name>
+    </author>
+    <author>
+      <name>Graham J. Leggett</name>
+    </author>
+    <author>
+      <name>Claudia E. Tait</name>
+    </author>
+    <author>
+      <name>Marie Rider</name>
+    </author>
+    <author>
+      <name>Jenny Clark</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26591v1</id>
+    <title>Coupling Evaporation, Chemical Reactions, and Crystallization: A Population-Balance Framework Applied to Two-Step Perovskite Crystallization</title>
+    <updated>2026-10-19T15:37:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.26591v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26591v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A limited understanding of how evaporation couples to crystallization pathways hampers control over the formation of solution-processed perovskite photoactive layers. Identifying these mechanisms-and learning how to select and tune them-is essential for achieving the desired crystal morphology and, ultimately, improving solar-cell performance and stability. To investigate crystallization pathways in evaporating thin films, we develop a simple and general zero-dimensional population-balance model that couples evaporation, chemical reactions, and crystallization. We use the model to explore a range of parameters for a solvent-solute system that follows a two-step crystallization pathway: solvent evaporation first induces formation of a crystalline precursor, which subsequently recrystallizes into the final phase. The model predicts the evolution of the film composition during drying and provides quantitative LaMer curves. Based on these results, we introduce a vocabulary of "supply limitations" and "rate limitations" that enables the interpretation of crystallization kinetics in terms of the governing process conditions.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T15:37:42Z</published>
+    <arxiv:comment>16 pages, 11 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>K. Segadlo</name>
+    </author>
+    <author>
+      <name>O. J. J. Ronsin</name>
+    </author>
+    <author>
+      <name>J. Harting</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26387v1</id>
+    <title>Ultrafast Proton-Induced Collective Dynamics Regulated by Water-Mediated Hydrogen-Bond Networks in Liquids</title>
+    <updated>2026-10-19T13:36:26Z</updated>
+    <link href="https://arxiv.org/abs/2610.26387v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26387v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Photoinduced proton dynamics in liquids couple molecular reactions to nonequilibrium charge transport, yet the role of alkyl C-H sites as proton sources remains poorly understood. Combining optical-pump terahertz-probe spectroscopy with real-time time-dependent density-functional-theory simulations, we investigate ultrafast proton dynamics following strong-field ionization of liquid ethanol and hydroxyl-free ethyl acetate. Isotope-substitution and control experiments support the identification of alkyl C-H groups as the proton source. The released protons induce quasi-free-electron localization on a timescale of hundreds of femtoseconds, manifested as a characteristic V-shaped transient in terahertz absorption. In ethanol-water mixtures, trace water enhances hydrogen-bond-network connectivity and facilitates proton transfer to ethanol O-H sites, suppressing the transient absorption dip. These findings identify photoactivated C-H sites as proton sources in liquids and reveal how hydrogen-bond networks regulate the ensuing proton and electron dynamics, linking local bond cleavage to the ultrafast charge response of the surrounding liquid.</summary>
+    <category term="physics.atm-clus" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T13:36:26Z</published>
+    <arxiv:primary_category term="physics.atm-clus"/>
+    <author>
+      <name>Xiaokun Liu</name>
+    </author>
+    <author>
+      <name>Bozhu Chen</name>
+    </author>
+    <author>
+      <name>Yizhu Zhang</name>
+    </author>
+    <author>
+      <name>Jiyu Xu</name>
+    </author>
+    <author>
+      <name>Meng Li</name>
+    </author>
+    <author>
+      <name>Yanjun Gao</name>
+    </author>
+    <author>
+      <name>Ji Qi</name>
+    </author>
+    <author>
+      <name>Yuqian Yang</name>
+    </author>
+    <author>
+      <name>Wennan Wang</name>
+    </author>
+    <author>
+      <name>Sheng Meng</name>
+    </author>
+    <author>
+      <name>Yuhai Jiang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26068v1</id>
+    <title>Intermolecular Packing and Cooperative Stabilization in Nucleotide Monophosphate Crystals</title>
+    <updated>2026-10-19T09:27:17Z</updated>
+    <link href="https://arxiv.org/abs/2610.26068v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26068v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We examine the known polymorphs of cytidine 5$^\prime$-monophosphate (CMP) using dispersion-corrected density functional theory. The monoclinic phase is predicted to be the most stable, lying 1.76 and 3.00 kcal/mol per molecular unit below the orthorhombic and triclinic forms, respectively. Monoclinic CMP contains a ribose-based H-bonding motif along the crystallographic $\vec{b}$ direction, comprising alternating intra- and intermolecular interactions, motivating an investigation of cooperative stabilization along this pathway. We employ chain-of-molecules (COM) and chain-of-slabs (COS) models to quantify the direction- and size-dependent stabilization and extend the analysis to the corresponding 5$^\prime$-monophosphates of thymidine, uridine, adenosine, and guanosine. Successive dimer-addition energies reveal the strongest size-dependent cooperative stabilization along the $\vec{b}$ direction, whereas growth along $\vec{a}$ and $\vec{c}$ exhibits substantially weaker size dependence. Among the nucleotides examined, adenosine 5$^\prime$-monophosphate shows the strongest chain-growth stabilization in the COM model, whereas the uridine variant shows the strongest stabilization in the COS model. Guanosine 5$^\prime$-monophosphate exhibits the weakest response in both models. Minimal-basis iterative stockholder (MBIS) analysis further supports molecular polarization along the growing assemblies. These results demonstrate how nucleobase identity and the surrounding crystal environment modulate direction-dependent cooperative stabilization associated with extended hydrogen-bond networks.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T09:27:17Z</published>
+    <arxiv:comment>version 1, with SI</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Parimala Devi Duraisamy</name>
+    </author>
+    <author>
+      <name>Raghunathan Ramakrishnan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25913v1</id>
+    <title>A Stress-Induced Tetragonal Distortion in K2OsCl6 under Pressure</title>
+    <updated>2026-10-19T07:16:54Z</updated>
+    <link href="https://arxiv.org/abs/2610.25913v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25913v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The structural behaviour of cubic (Fm-3m) K2OsCl6 under compression was investigated to 35.4 GPa using angle-dispersive synchrotron powder X-ray diffraction. Upon increasing pressure, K2OsCl6 undergoes a sequence of structural transformations from the ambient-pressure cubic phase to a tetragonal (P4/mnc) phase above 9.5(3) GPa, followed by a transition to a monoclinic (P21/n) phase beginning at approximately 14.2 GPa. The tetragonal and monoclinic phases coexist over the pressure range 14.2-17.2 GPa, while the monoclinic phase is observed as the sole phase at 17.9 GPa and remains stable up to the maximum pressure investigated. Analysis of the diffraction profiles and unit-cell parameters indicates that the intermediate tetragonal structure is likely associated with stress-induced symmetry lowering rather than a distinct thermodynamic phase. This distortion, which is adequately described by the tetragonal P4/mnc space group, is attributed to non-hydrostatic deviatoric stresses arising from the pressure-transmitting medium. Equation-of-state analysis reveals a pronounced reduction in compressibility across the structural transitions, with the bulk modulus increasing from 26(2) GPa for the cubic phase to 71(3) GPa for the monoclinic phase. The pressure-induced structural sequence is analogous to that reported for related compounds such as K2IrCl6, although the transitions in K2OsCl6 occur at lower pressures. All structural transformations are reversible upon decompression.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T07:16:54Z</published>
+    <arxiv:comment>20 pages, 6 figure, 44 references</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Neha Bura</name>
+    </author>
+    <author>
+      <name>Peije Zhang</name>
+    </author>
+    <author>
+      <name>Ganesh Bera</name>
+    </author>
+    <author>
+      <name>Catalin Popescu</name>
+    </author>
+    <author>
+      <name>Caleb J. Bennett</name>
+    </author>
+    <author>
+      <name>Brendan J. Kennedy</name>
+    </author>
+    <author>
+      <name>Daniel Errandonea</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24923v1</id>
+    <title>Frustration and topology in the phase behavior of solute-frustrated $q$-clock models</title>
+    <updated>2026-10-18T00:14:35Z</updated>
+    <link href="https://arxiv.org/abs/2610.24923v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24923v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Frustration can enhance fluctuations and create new and interesting phase behavior. When combined with the ability to host topological defects, frustration can increase the complexity of a system's phase diagram through topological and frustrated topological transitions. To understand the interplay of frustration and topology on phase behavior, we introduce and study solute-frustrated $q$-clock (SF$q$C) models, in which solute sites are added to the $q$-clock model, a lattice model where each spin can take one of $q$ orientations. The $q$-clock model can exhibit spontaneous symmetry breaking and topological transitions, and the interaction between the spins and a solute frustrates the system, in essence by creating a fixed lower bound on the concentration of positive topological defects or vortices. We perform Monte Carlo simulations and develop theoretical descriptions of SF$q$C models with $q=4$ and $q=6$ to understand their phase behavior. We find that these systems exhibit rich phase diagrams that depend on the choice of parameters. In particular, SF$q$C models have a wide range of interesting low-temperature phases, including the presence of strongly frustrated domains and the absence of long-range order. We also find topological effects even at low temperatures; for instance, we find that topological defects can drive crystallization. We anticipate these results to guide the development of materials that take advantage of frustration and topology to tune phase behavior and fluctuations.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T00:14:35Z</published>
+    <arxiv:comment>24 pages, 22 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Hari Rajesh</name>
+    </author>
+    <author>
+      <name>Richard C. Remsing</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24815v1</id>
+    <title>Low-Field J-Coupling Spectroscopy Measured with a Diamond Nitrogen Vacancy Spectrometer</title>
+    <updated>2026-10-17T18:44:44Z</updated>
+    <link href="https://arxiv.org/abs/2610.24815v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24815v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Nitrogen vacancy centers in diamond (NVs) are point defects well suited to quantum sensing of magnetic fields. NV spin states can be initialized and read out optically with high spatial resolution, enabling detection of pL-scale volumes of nuclear spins. Using Coherently Averaged Synchronized Readout (CASR), standard NMR spectroscopy techniques such as free decay, spin echo, and PGSE have been performed with Hz-scale spectral resolution using NV-diamond sensors. However, using NV detection for conventional high-resolution NMR at multi-tesla fields is challenging due to the need to manipulate NV electronic spins at resonance frequencies 100 GHz or higher. Low-field J-coupling spectroscopy provides an alternative path to chemical resolution in a regime more easily accessible to NVs. Here, we demonstrate homonuclear and heteronuclear J-coupling spectroscopy using an NV-NMR spectrometer based on permanent magnets operating at $\sim$890 kHz proton Larmor frequency (bias magnetic field $\sim$21 mT). This field strength enables chemical characterization based on J-coupling using sequences such as Synchronized Echo (SyncE) and Spin-Echo Double Resonance (SEDOR), which do not require the strong chemical shift dispersion and pristine field homogeneity of high-field NMR. The frequency range is easily detected by NVs using standard XY dynamical decoupling sequences and is well-suited for applying Overhauser DNP, which can boost proton signal by two orders of magnitude. We acquire initial NV-NMR measurements of T$_1$, T$_2$, and Overhauser DNP in glycerol before advancing to SEDOR spectroscopy of methanol-$^{13}$C and a methanol-$^{13}$C/acetonitrile-2-$^{13}$C mixture at sample volumes $\sim$50 pL, in which we demonstrate measurement of $^1J_\text{CH}$ couplings and resolution between species. We also acquire a homonuclear J-coupling spectrum of a natural-abundance propylene carbonate sample.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T18:44:44Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Stephen J. DeVience</name>
+    </author>
+    <author>
+      <name>John W. Blanchard</name>
+    </author>
+    <author>
+      <name>Camille G. McDonnell</name>
+    </author>
+    <author>
+      <name>Ronald L. Walsworth</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24768v1</id>
+    <title>Epitaxial Displacement-etched GaAsSb Quantum Dots Emitting at Telecom Wavelengths</title>
+    <updated>2026-10-17T16:20:06Z</updated>
+    <link href="https://arxiv.org/abs/2610.24768v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24768v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Semiconductor quantum dots (QDs) are essential components for integrated photonic and quantum information systems, yet current epitaxial growth techniques face significant limitations in complexity of growth, material selection, and density tunability. Here we report a displacement etch technique that enables controlled formation of GaAsSb QDs with emission at telecommunications wavelengths. Our approach uses arsenic molecular flux (As$_2$) to react with antimonide surfaces through thermodynamically favorable displacement reactions, creating three-dimensional quantum confined nanostructures without requiring strain-driven growth or complex droplet-based processes. Density functional theory shows the two competing As-for-Sb exchange pathways to be nearly equivalent in both reaction energy and activation barrier, which places morphological control in the subsequent adatom kinetics rather than in the surface reaction itself. A single process parameter, the As$_2$ exposure, sets the QD areal density across three orders of magnitude, from 10$^2$ to 10$^5$ $μm^{-2}$, covering both isolated emitters and dense gain media. Structural analysis reveals well-defined GaAsSb QDs with a mixed GaAs/GaSb composition and no extended defects. Temperature-dependent photoluminescence measurements confirm emission at 1550 nm (0.8 eV) within the telecommunications C-band, with characteristic QD-like temperature dependence. Because the QDs form on a lattice-matched GaSb surface in a single growth step, the technique offers a practical route to C-band emitters built into the GaSb/AlGaSb device family already used for mid-infrared sources and detectors.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T16:20:06Z</published>
+    <arxiv:comment>Manuscript plus supplementary information</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Sadhvikas Addamane</name>
+    </author>
+    <author>
+      <name>Sanghyeok Park</name>
+    </author>
+    <author>
+      <name>Quinn T. Campbell</name>
+    </author>
+    <author>
+      <name>Evan M. Anderson</name>
+    </author>
+    <author>
+      <name>Thomas Rotter</name>
+    </author>
+    <author>
+      <name>Darryl Shima</name>
+    </author>
+    <author>
+      <name>Julia Deitz</name>
+    </author>
+    <author>
+      <name>Paul Kotula</name>
+    </author>
+    <author>
+      <name>Ganesh Balakrishnan</name>
+    </author>
+    <author>
+      <name>Oleg Mitrofanov</name>
+    </author>
+    <author>
+      <name>Igal Brener</name>
+    </author>
+    <author>
+      <name>Prasad P. Iyer</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24746v1</id>
+    <title>Boosting fluorescence and polarization with nanophotonics for single-molecule chiral sensing</title>
+    <updated>2026-10-17T15:22:57Z</updated>
+    <link href="https://arxiv.org/abs/2610.24746v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24746v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Detecting chirality is essential in chemistry and biomedicine. Circular dichroism identifies chiral molecules through their differential absorption of circularly polarized light. However, its sensitivity is limited by vanishing absorption at low concentrations. Fluorescence-based methods have already enabled other optical techniques to reach the single-molecule limit and could, in principle, also extend chiral detection to reach this sensitivity regime. They are marred, however, by the combination of weak fluorescence signals and low polarization contrast. To overcome these limitations, we leverage high-index dielectric nanophotonics to simultaneously enhance both fluorescence and polarization for chiral sensing. We propose a reciprocity-based analytical framework for a chiral dipolar emitter coupled to a nanoantenna and reveal the different contributions and trade-offs governing the enhancement of circularly polarized fluorescence. Guided by this insight, we tailor achiral dielectric nanostructures to reach a 1000-fold enhancement of fluorescence intensity together with a 10-fold increase in polarization. Crucially, we show that accounting for extrinsic polarization effects in the angular emission patterns of nanophotonic structures is indispensable for reliable enantiomer discrimination. Our approach opens a realistic path for single-molecule chiral sensing.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T15:22:57Z</published>
+    <arxiv:comment>23 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Ershad Mohammadi</name>
+    </author>
+    <author>
+      <name>T. V. Raziman</name>
+    </author>
+    <author>
+      <name>Alberto G. Curto</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24654v1</id>
+    <title>Rovibrational dynamics in strongly-coupled gas-phase methane</title>
+    <updated>2026-10-17T12:10:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.24654v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24654v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Polaritons, the hybrid light-matter states formed when molecular transitions are strongly coupled to an optical cavity mode, appear to alter chemical dynamics, reactivity, and photophysics, though the mechanisms and reproducibility of these effects remain hotly debated. Nearly all reports in polariton chemistry rest on spectroscopic measurements of optical cavity transmission. Interpretation of these experiments therefore relies on understanding the linear and nonlinear spectroscopy of strongly-coupled systems. Working in the gas phase can dramatically simplify spectroscopic observables, as the intermolecular and environmental interactions that complicate the response of condensed-phase systems can be minimized. Our prior work introduced a platform for gas-phase molecular polaritons and demonstrated that linear cavity transmission spectra in the strong coupling regime are well described with classical Fabry-Pérot cavity physics. Here, we extend this platform to the nonlinear spectroscopy of cavity-coupled rovibrational transitions of methane. We monitor transient changes in the cavity transmission spectrum following optical pumping of intracavity molecules via an axis orthogonal to the longitudinal cavity axis. We find that the classical Fabry-Pérot cavity treatment quantitatively reproduces our transient spectra and allows for extraction of the collisional relaxation and transport timescales of intracavity molecules. We observe no difference in the dynamics of strongly-coupled methane versus free-space, non-cavity control experiments. This effort connects our gas-phase work to the much larger body of transient condensed-phase polariton spectroscopy and represents a step towards predictive understanding of molecular dynamics under strong coupling.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T12:10:02Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Jane C. Nelson</name>
+    </author>
+    <author>
+      <name>Trevor H. Wright</name>
+    </author>
+    <author>
+      <name>Madeline Rohde</name>
+    </author>
+    <author>
+      <name>Neo Lin</name>
+    </author>
+    <author>
+      <name>Marissa L. Weichman</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24460v1</id>
+    <title>Water-Driven Porous Silicon as a Platform for Blue Materials</title>
+    <updated>2026-10-17T04:59:18Z</updated>
+    <link href="https://arxiv.org/abs/2610.24460v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24460v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Living organisms control water to transport matter, transfer energy and drive chemical reactions. In this perspective, we argue that porous silicon can give engineering materials comparable control over water. Its pore architecture, surface chemistry and semiconducting skeleton can be shaped across length scales with the precision of semiconductor processing and, like the water it can host, it relies on one of the most abundant chemical elements on Earth. Liquids in porous silicon, most often water, can flow as a continuum through pores a few nanometers wide, strain the skeleton through capillary and electrosorption stresses, shift structural color, switch transparency, and modulate or generate electrical signals. We describe three directions to combine and extend these effects and overcome their limitations. Pore hierarchy resolves the classical trade-off between interface area and transport speed by combining large and small pores and thereby allows functions to be scaled from thin planar films to three-dimensional components. Surface modification becomes a design variable that tunes the interaction between water and the pore wall. It can be set locally and, with switchable coatings, on demand. Finally, pores only a few molecules wide alter the properties of water itself. In the absence of a bulk-like volume, water can become dielectrically anisotropic and highly conductive. Altogether, these steps turn porous silicon from a responsive material into an adaptive, water-driven material.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T04:59:18Z</published>
+    <arxiv:comment>9 pages, 1 figure</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Marc Thelen</name>
+    </author>
+    <author>
+      <name>Julia Brandt</name>
+    </author>
+    <author>
+      <name>Stella Gries</name>
+    </author>
+    <author>
+      <name>Manuel Brinker</name>
+    </author>
+    <author>
+      <name>Alexander Petrov</name>
+    </author>
+    <author>
+      <name>Patrick Huber</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24450v1</id>
+    <title>Accurate Atomic Correlation Energies and Virial Trends for Correlation-Consistent Effective Core Potentials III: Quantitative Separation of Fixed-Node Biases and Localization Errors in Cs-Rn</title>
+    <updated>2026-10-17T04:38:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.24450v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24450v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Atomic benchmarks for sixth-period elements (Cs-Rn) are established to sub-millihartree precision under correlation-consistent effective core potentials (ccECPs) using coupled-cluster [up to CCSDT(Q)] and full configuration interaction methods. These references systematically characterize electron correlation, potential-to-kinetic energy partitioning, and combined fixed-node and locality biases ($η$) in fixed-node diffusion Monte Carlo (FNDMC). The valence kinetic-to-total energy ratio ($ξ$) departs from the non-relativistic all-electron Coulombic virial limit ($ξ=100\%$), remaining confined between 25.8$\%$ and 37.6$\%$. The Un-pseudizing of semi-core shells decreases $ξ$ as the attractive potential energy deepens faster than the accompanying kinetic energy escalates. Periodic trends in $ξ$ reveal a $5d$ plateau near 34$\%$, with a lanthanide-contraction-driven maximum in Hf, followed by a sharp decline across the $6p$ block. In FNDMC, $η$ escalates rapidly at the onset of group-1/2 and toward the $6p$ closed-shell limit, peaking at 5.42$\%$ in Rn. Although fixed-node errors dominate $η$ in most sixth-period elements, a locality error inversion occurs in Bi, with Pb exhibiting comparable error magnitudes. Furthermore, core-valence partitioning alters trial wavefunction nodal topology: in Tl, three-dimensional nodal cross-sections reveal isolated toroidal domains that confine walkers. This work completes the periodic-table-wide ccECP database from H to Rn, revealing how pseudopotential choices govern energy partitioning, nodal topology, and the balance between fixed-node and localization errors.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T04:38:33Z</published>
+    <arxiv:comment>11 pages, 5 figures, 6 tables. To be published in the Journal of Chemical Theory and Computation</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Omar Madany</name>
+    </author>
+    <author>
+      <name>Lubos Mitas</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24361v1</id>
+    <title>Microphase Separation and Ionic Aggregation in Oppositely Charged End-Functionalized Polymer Blends</title>
+    <updated>2026-10-17T01:22:14Z</updated>
+    <link href="https://arxiv.org/abs/2610.24361v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24361v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the phase behavior of binary blends of polymers with oppositely charged termini using an ion-correlation-augmented self-consistent field theory (IC-SCFT). Under the low dielectric conditions typical for organic polymer melts, strong ion correlations drive association of multiple chain ends, leading to emergent multichain architectures that go beyond a simple ion-paired diblock copolymer picture previously used to interpret recent experiments. At moderate to strong polymer segregation, the resulting phase diagram differs considerably from this effective-diblock prediction: ion clustering broadens the lamellar and cylindrical windows while suppressing the network phases, the reverse of the trend for end-charged diblock copolymers. At weak segregation, the two polymers remain miscible even as ion clustering persists, and decreasing chain length drives the clusters themselves through a sphere-to-cylinder-to-lamella shape transition, connecting continuously to the aggregation behavior of classical terminally charged ionomers in the limit when one of the polymer species shrinks to just the charged end. These results reveal that ion clustering -- beyond simple pairwise bonding -- shapes the self-assembly of end-charged polymer blends.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T01:22:14Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Chao Duan</name>
+    </author>
+    <author>
+      <name>Zhen-Gang Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23756v1</id>
+    <title>Analysis of Transient Microscopy Data in Reciprocal Space</title>
+    <updated>2026-10-16T17:00:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.23756v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23756v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Transient microscopy has evolved to include a family of well-established techniques for studying the spatiotemporal dynamics of excited states in a variety of materials systems. In these methods, a laser pulse is focused to locally excite a material, and the subsequent evolution of the excited species is visualized to extract transport parameters such as diffusivities. Typically, transport coefficients are extracted from experimental datasets using curve-fitting methods to analyze the change in the mean squared displacement (MSD) of the spatial profiles over time. However, this approach can lead to inaccurate or misleading diffusivity values under many common experimental conditions, and is only formally accurate for the case of a single diffusing species. In this work, we introduce a new approach to the analysis of transient microscopy data based on the evolution of profile shapes in reciprocal space. We use simulated datasets to quantitatively analyze the performance of our proposed methods and compare them to current state-of-the-art analysis techniques. We demonstrate that reciprocal-space-based analysis methods have the highest overall performance in terms of accuracy and precision for normal diffusive transport over a range of realistic initial conditions and signal-to-noise ratios. Furthermore, we highlight the limitations of using MSD alone to characterize anomalous transport in materials, and we show how analysis of spatial frequencies can yield a more comprehensive understanding of complex excited-state dynamics and their underlying physical mechanisms. Our results show that reciprocal-space-based analysis methods are powerful tools for characterizing and quantifying many different types of transport behaviors.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T17:00:27Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Thomas J. Sheehan</name>
+    </author>
+    <author>
+      <name>William A. Tisdale</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23562v1</id>
+    <title>Geometry-Dependent Electronic Coupling and Singlet Fission Pathways in Carotenoid Dimers</title>
+    <updated>2026-10-16T14:50:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.23562v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23562v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Using the density matrix renormalization group method, we solve the Pariser--Parr--Pople model of $π$-electron systems to determine the character and energies of the low-lying eigenstates of a lycopene dimer comprising two 22-carbon-atom chains. To complement these calculations, we use the molecular-exciton, valence-bond model of polyene systems to derive selection rules governing interchain coupling, which provide a physical framework for interpreting the DMRG results. We find that dimer geometry strongly influences both the character and energetics of the low-lying eigenstates. In vertically stacked dimers, neither the bright-dimer state nor the triplet-pair states contain any interchain charge-transfer (CT) character. In contrast, in slip-stacked dimers, both the bright-dimer state and triplet-pair states do contain interchain CT character. We also find that increasing the interchain coupling preferentially stabilizes states with greater interchain character, leading to a reordering of the low-lying eigenstates. These results have direct implications for energetically possible singlet fission (SF) mechanisms in carotenoid aggregates. For vertically stacked dimers, the only energetically viable pathway identified here proceeds through intermediate intrachain triplet-pair states, whereas slip-stacked geometries allow an additional SF pathway mediated by interchain CT states. Our results establish a direct connection between carotenoid packing geometry, symmetry-controlled electronic coupling, and the energetically accessible pathways for SF.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T14:50:19Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Alexandru G. Ichert</name>
+    </author>
+    <author>
+      <name>George A. Smith</name>
+    </author>
+    <author>
+      <name>William Barford</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23483v1</id>
+    <title>Vibro-polaritonic Raman spectroscopy via cavity Born-Oppenheimer perturbation theory</title>
+    <updated>2026-10-16T13:59:50Z</updated>
+    <link href="https://arxiv.org/abs/2610.23483v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23483v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We derive a vibro-polaritonic Raman activity from third-order cavity Born-Oppenheimer perturbation theory (CBO-PT) accounting for weak interactions between electrons and low-frequency cavity modes in the vibrational strong coupling (VSC) regime. This work extends the recently presented CBO-PT linear response approach [J. Phys. Chem. Lett. 2024, 15, 2262-2269] from infrared (IR) to vibro-polaritonic Raman spectroscopy. In a first step, we discuss cavity-induced corrections to the static dipole polarizability tensor, which manifest as molecular and cavity mode contribution determined by the polarization-projected static hyperpolarizability tensor. We then obtain the corresponding vibro-polaritonic Raman activity in double harmonic approximation, which contains molecular, cavity and mixed contributions similar to previously discussed CBO-PT IR intensities. The cavity Raman activity can be interpreted as effective transmission component, which is exclusively determined by the polaritonic Raman response. The methodology and its relation to vibro-polaritonic IR spectroscopy is illustrated for a formaldehyde molecule under VSC. An implementation of the CBO-PT linear response approach for vibro-polaritonic Raman and IR spectroscopies is provided via the open-source Python package CBOvibSpec.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T13:59:50Z</published>
+    <arxiv:comment>8 pages, 1 figure</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Eric W. Fischer</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23472v1</id>
+    <title>Single-electron fluorine bonding. II. Benchmarking Minnesota density functional approximations and popular ab initio methods for binding energies (BEs) and F-bond distances</title>
+    <updated>2026-10-16T13:51:05Z</updated>
+    <link href="https://arxiv.org/abs/2610.23472v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23472v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Companion paper I (Khanal and Arunan, in this issue; arXiv:2610.16629 [physics.chem-ph]) reported reference BEs and F-bond distances for two new databases SEFB-15 (DF$\cdots$CH$_3$) and CSFB-14 (DF$\cdots$NH$_3$). Here, we assess performance of popular ab initio methods (MP2, MP3, MP4(DQ), MP4(SDQ), CCSD, and QCISD) with valence- and full-electron correlation treatments, and sixteen Minnesota DFAs, including M06-2X already assessed in companion paper I. CCSD/AVDZ reproduces reference F-bond distances closely, although BEs predicted by it deviate more. Among the 16 Minnesota DFAs, M08-HX reliably reproduces both reference values for DF$\cdots$CH$_3$ and DF$\cdots$NH$_3$, comparable to M05-2X and M06-2X for DF$\cdots$NH$_3$. Selected meta-GGAs (M06-L, M11-L, and MN15-L) exhibit spurious fractional charge transfer in cationic complexes even at infinite separation, whereas hybrid Minnesota DFAs do not, except M05 and M06 for NH$_3$F$^+\cdots$CH$_3$ and NH$_2$F$_2^+\cdots$CH$_3$. Although M08-HX shows slightly larger monomer delocalization error than M05-2X and M06-2X, it is more reliable for predicting BEs of SEFB complexes, indicating that monomer delocalization error alone does not govern DFA performance. Bader's intermolecular delocalization indices (DIs) further support M08-HX as more reliable than M05-2X and M06-2X for SEFB, while the larger DIs from M05-2X and M06-2X explain the degraded performance of their dispersion-corrected variants for DF$\cdots$CH$_3$, with only a minor impact for DF$\cdots$NH$_3$, highlighting the system-dependent nature of functional delocalization error. Present work reveals that M08-HX is more reliable than M05-2X and M06-2X for open-shell DF$\cdots$CH$_3$ complexes, while all three functionals show comparable reliability for closed-shell DF$\cdots$NH$_3$ complexes.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T13:51:05Z</published>
+    <arxiv:comment>35 pages, main text (9 figures and 12 tables) and 28 pages Supporting Information (13 figures and 13 tables)</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Govinda Prasad Khanal</name>
+    </author>
+    <author>
+      <name>Elangannan Arunan</name>
+    </author>
+  </entry>
+</feed>

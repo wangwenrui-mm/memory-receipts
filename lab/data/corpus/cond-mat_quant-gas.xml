@@ -1,0 +1,1194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/tHJwXQ6ruYD4/dpe9iUKDbODWuI</id>
+  <title>arXiv Query: search_query=cat:cond-mat.quant-gas&amp;id_list=&amp;start=0&amp;max_results=50</title>
+  <updated>2026-10-23T08:40:01Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=cat:cond-mat.quant-gas&amp;start=0&amp;max_results=50&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <opensearch:totalResults>24856</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31581v1</id>
+    <title>Breathing and quadrupole modes in squeezed Bose-Bose liquid drops</title>
+    <updated>2026-10-22T17:16:44Z</updated>
+    <link href="https://arxiv.org/abs/2610.31581v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31581v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate the lowest excitation modes of binary $^{39}$K ultradilute droplets confined harmonically in one direction, which reduces the critical number of particles needed to sustain a self-bound state. Using the density functional built from first-principles quantum Monte Carlo calculations (QMC), which incorporates the effects of finite range interactions, we study the crossover of the oscillation modes from three to two dimensions. For weak squeezing, we observe the coupling between breathing and quadrupole modes, resulting from the breaking of spherical symmetry. Increasing the squeezing, the higher-frequency mode corresponding to three-dimensional breathing mode becomes unstable. For squeezings stronger and comparable to experiments, we analyze the dependence of the excitation modes on the droplet size for several interactions and show the reduction of the number of particles needed to sustain stable oscillations. The differences between the results obtained with the QMC functional and the extended Gross-Pitaevskii theory are increased with respect to the case of previously studied spherical droplets.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T17:16:44Z</published>
+    <arxiv:comment>10 pages, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Marko Korda</name>
+    </author>
+    <author>
+      <name>Leandra Vranješ Markić</name>
+    </author>
+    <author>
+      <name>Jordi Boronat</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31564v1</id>
+    <title>Occupancy Driven Phase Transitions in Gapped Systems</title>
+    <updated>2026-10-22T17:06:23Z</updated>
+    <link href="https://arxiv.org/abs/2610.31564v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31564v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Systems characterized by an energy gap between the ground state and excited states support a growing number of thermal excitations upon raising the temperature. Provided these excitations interact with each other, their number affects the size of the energy gap akin to a harmonic oscillator where the oscillation frequency is damping dependent. Here we show that once a critical number of excitations is reached, the excitation population becomes thermodynamically unstable and the system transitions between two states. This transition is marked by a divergence in the specific heat, which does not have to be accompanied by an order parameter, nor by the full closure of the gap. We illustrate the thermodynamics using a simple two level system and superfluid $^4$He as examples, and we argue that the hidden order transition in URu$_2$Si$_2$ is an example of such an occupancy driven transition in the absence of an order parameter.</summary>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T17:06:23Z</published>
+    <arxiv:comment>5 pages, 3 figures. Submitted to Phys. Rev. Lett</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.other"/>
+    <author>
+      <name>Ian Madden</name>
+    </author>
+    <author>
+      <name>Alex Kociubinski</name>
+    </author>
+    <author>
+      <name>Wouter Montfrooij</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31541v1</id>
+    <title>Sign-problem-free Bosonic Auxiliary Field Quantum Monte Carlo</title>
+    <updated>2026-10-22T16:48:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.31541v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31541v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The sign problem poses a fundamental barrier to numerically exact quantum Monte Carlo simulations, severely hindering our understanding of quantum many-body physics across disciplines ranging from condensed matter to particle and nuclear physics. Geometrical frustration makes this barrier especially acute for interacting bosons. Here, we develop a bosonic auxiliary-field quantum Monte Carlo (BAFQMC) method and rigorously prove that time-reversal symmetry and reflection positivity each provide a general sufficient condition for sign-problem-free simulations. Crucially, under either criterion, BAFQMC evades the sign problem even on frustrated lattices where conventional world-line and stochastic-series-expansion methods fail. Benchmarking our approach on a two-flavor Bose-Hubbard model on the triangular lattice yields excellent quantitative agreement with finite-temperature exact diagonalization. By establishing unifying principles to solve the sign problem in BAFQMC, our work substantially expands the reach of unbiased, numerically exact simulations for frustrated bosonic matter.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T16:48:36Z</published>
+    <arxiv:comment>9+26 pages, 2+1 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Yin-Kai Yu</name>
+    </author>
+    <author>
+      <name>Zhong-Chao Wei</name>
+    </author>
+    <author>
+      <name>Zi-Xiang Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31185v1</id>
+    <title>Realization of a Superleak in a Quantum Gas</title>
+    <updated>2026-10-22T12:35:00Z</updated>
+    <link href="https://arxiv.org/abs/2610.31185v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31185v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Ultracold quantum gases offer a controllable and microscopically accessible platform for understanding and engineering superfluidity. Yet, realizing a superleak that selectively transports the superfluid while suppressing normal flow has remained elusive. Here, we harness an optical superlattice to realize such a superleak through dynamical selectivity. The superfluid undergoes coherent Josephson transport, whereas the normal component exhibits slow, thermodynamically limited response, resulting in a flow-rate contrast of 500(49). Exploiting this contrast, we demonstrate repeated filtering of the normal component and dynamical purification of the superfluid, while sustaining coherent driven oscillations for up to 100 cycles. Our results establish a controllable atomic superleak and open possibilities for manipulating transport and thermodynamics in quantum fluids.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T12:35:00Z</published>
+    <arxiv:comment>14 pages, 4 main figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Wan-Ling Yang</name>
+    </author>
+    <author>
+      <name>Shao-Bo Liu</name>
+    </author>
+    <author>
+      <name>Xiang Luo</name>
+    </author>
+    <author>
+      <name>Chao Yang</name>
+    </author>
+    <author>
+      <name>Hai-Lin Li</name>
+    </author>
+    <author>
+      <name>Yu-Zhou Yang</name>
+    </author>
+    <author>
+      <name>Yong-Kui Wang</name>
+    </author>
+    <author>
+      <name>Bing Yang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31127v1</id>
+    <title>The often overlooked role of sound in liquid thermal transport</title>
+    <updated>2026-10-22T11:49:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.31127v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31127v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Formulated a hundred years ago, the Bridgman formula for thermal conductivity of liquids postulates a proportionality between sound velocity and thermal conductivity. This designates phonons as heat carriers in a liquid. Its empirical success has been under-appreciated and its conceptual implications overlooked. It is not mentioned in well-known condensed-matter textbook. Here, we review its origin, its links to hydrodynamic Euler equations and to the fundamental paradox surrounding the parabolic heat equation and its fate across the quantum-classical crossover.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T11:49:27Z</published>
+    <arxiv:comment>10 pages, five figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Kamran Behnia</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30686v1</id>
+    <title>Time-reversal-based quantum metrology in a central-spin architecture: from SATIN to butterfly echo</title>
+    <updated>2026-10-22T03:58:57Z</updated>
+    <link href="https://arxiv.org/abs/2610.30686v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30686v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate quantum-enhanced time-reversal-based metrology using the central spin model, in which a single ancilla spin of magnitude $S_{\rm cen}$ mediates interactions between $N$ bath spins through a star-graph topology. We demonstrate that the SATIN (Signal Amplification Through Time-reversal Interaction) echo protocol can be implemented in this setup to achieve a Fisher information of $N^2/e$ with the collective $\langle J_y\rangle$ readout, corresponding to a $4.34\,\mathrm{dB}$ offset from the Heisenberg limit. Furthermore, we establish that this platform provides a pathway to perform the butterfly echo protocol by conjugating each evolution step with a random collective bath rotation, thereby achieving axis-agnostic Heisenberg-scaled sensing. Crucially, with a small $N-$independent number of random steps, the butterfly echo reaches a Fisher information of $N^2/4$ ($6\,\mathrm{dB}$ below the Heisenberg limit) for any unknown encoding axis, with the plateau gain tracking the Haar limit. Finally, we demonstrate that the central-spin magnitude $S_{\rm cen}$ provides a powerful knob to reduce the optimal protocol timescale without altering the metrological ceiling or the circuit depth required to reach isotropy. The proposed scheme is relevant to cavity QED and NMR quantum processors, where the central spin architecture arises naturally.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T03:58:57Z</published>
+    <arxiv:comment>15 pages, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Aditya Kumar</name>
+    </author>
+    <author>
+      <name>Sayan Choudhury</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30381v1</id>
+    <title>Quantum Phases and Structural Transitions of Bosons in Bubble-Shaped Confinements</title>
+    <updated>2026-10-21T19:42:17Z</updated>
+    <link href="https://arxiv.org/abs/2610.30381v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30381v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate the structural properties and superfluid behavior of soft-core bosons confined in a spherical bubble trap at large particle numbers ($N \le 1800$). Using Path Integral Monte Carlo simulations with worm algorithm sampling in continuous space, we show that increasing $N$ drives a sequence of layering transitions: beyond the established bilayer supersolid, a third concentric layer of clusters emerges at $N \approx 1800$. By analyzing the distribution of permutation cycles distribution, we demonstrate that a finite superfluid fraction ($f_s \approx 10\%$) persists even in this multi-layer regime. These findings clarify the role of particle number in driving layer formation on curved manifolds, offering a concrete guide for future experiments with bubble-trapped bosons.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T19:42:17Z</published>
+    <arxiv:comment>7 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Fabio Cinti</name>
+    </author>
+    <author>
+      <name>Gabriele Costa</name>
+    </author>
+    <author>
+      <name>Giuseppe Pellicane</name>
+    </author>
+    <author>
+      <name>Santi Prestipino</name>
+    </author>
+    <author>
+      <name>Matteo Ciardi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30266v1</id>
+    <title>Discrete time liquids</title>
+    <updated>2026-10-21T18:00:07Z</updated>
+    <link href="https://arxiv.org/abs/2610.30266v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30266v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Discrete time crystals exhibit robust subharmonic oscillations, spontaneously breaking the discrete time-translation symmetry of a periodic drive. Since their emergence, the question of whether other types of temporal many-body order can exist has attracted considerable attention. Here we identify discrete time liquids -- a new form of spatiotemporal order characterized by short-range temporal coherence as a result of time-solitons. We study a two-dimensional spin system coupled to a finite-temperature cavity, whose fluctuations provide a noisy, approximately periodic drive with only finite temporal coherence. Remarkably, the spins nevertheless form a metastable state with robust period-doubled dynamics over an extended parameter regime. Unlike a time crystal, this state has only finite temporal coherence: individual trajectories stochastically switch between the two symmetry-related temporal configurations of the period-doubled response. We identify these switches as time-solitons: topological defects in temporal order that preserve local period doubling while destroying long-range temporal coherence, thereby producing the time liquid state. We propose a minimal model which reproduces the distribution of temporal correlations of the many-body system, suggesting a general description of the time liquid as a time crystal with a finite density of time-solitons. Because these solitons can occur at arbitrary times, ensemble averaging restores continuous time-translation symmetry, raising the intriguing possibility that discrete time liquids can exist in thermal equilibrium.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:00:07Z</published>
+    <arxiv:comment>8 pages main + 9 pages supplement, 4 figures main + 10 figures supplement</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Zuo Wang</name>
+    </author>
+    <author>
+      <name>Paul M. Schindler</name>
+    </author>
+    <author>
+      <name>Marin Bukov</name>
+    </author>
+    <author>
+      <name>Marios H. Michael</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30062v1</id>
+    <title>Hydrodynamic description of correlation matrix eigenvalues in a finite temperature expanding free fermionic gas</title>
+    <updated>2026-10-21T17:21:38Z</updated>
+    <link href="https://arxiv.org/abs/2610.30062v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30062v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A recent work considered the Page curve for entanglement entropy of a freely expanding one-dimensional Fermi gas starting from a finite box (the system) in a zero-temperature initial state that then expands in to a semi-infinite vacuum (the environment). For the case with a single defect at the system-environment junction, it was shown that the Yang-Yang entropy of the system computed from semiclassical hydrodynamics agrees with the microscopically computed entanglement entropy, yielding the Page curve. On the other hand, the environment Yang-Yang entropy showed a monotonic increase. Here, we propose a hydrodynamic description to obtain the eigenvalues of the microscopic correlation matrix for a nonzero temperature freely-expanding Fermi gas. For the system, the phase space density directly gives the correlation matrix eigenvalues and thus, via the Yang-Yang formula, yields the von-Neumann entropy. For the reservoir, a modification of the phase space density is required in the Yang-Yang formula, to incorporate coherences, in order to reproduce accurately the entropy. The hydrodynamic description of correlation matrix eigenvalues also leads to a Levitov-Lesovik type formula for the full-counting-statistics for a finite system in the transient regime. We provide a heuristic derivation of the correlation matrix eigenvalues based on a semiclassical wave-packet picture.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T17:21:38Z</published>
+    <arxiv:comment>16 pages, 7 figures (including Supplementary Material)</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Atharva Naik</name>
+    </author>
+    <author>
+      <name>Madhumita Saha</name>
+    </author>
+    <author>
+      <name>David A. Huse</name>
+    </author>
+    <author>
+      <name>Manas Kulkarni</name>
+    </author>
+    <author>
+      <name>Abhishek Dhar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29562v1</id>
+    <title>Quantum-Enhanced Matterwave Interferometry in a Ring Waveguide</title>
+    <updated>2026-10-21T10:55:22Z</updated>
+    <link href="https://arxiv.org/abs/2610.29562v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29562v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We propose a quantum-enhanced matter-wave interferometry protocol based on fractional-revival dynamics of a Bose-Einstein condensate in a ring, combined with a controlled interaction quench. Using the Truncated Wigner Approximation, we show that nonlinear evolution to the quarter revival generates modest spin squeezing of $-2.03\pm0.28\;$dB, which subsequently degrades under further nonlinear evolution. In contrast, starting from a non-interacting condensate, a controlled interaction quench applied after the initial quarter-revival beam-splitter operation generates substantially stronger spin squeezing of $-14.57\pm0.27\;$dB. We further show that phase control at $t=3T_r/8$ rotates the squeezed quadrature onto the phase-sensitive direction $\hat{J}_y$, producing a phase-squeezed state at $t=T_r/2$. The subsequent quarter-revival evolution converts this phase-squeezed state into a number-squeezed state, enabling population-difference readout. The resulting sequence provides a route to quantum-enhanced interferometry using the intrinsic fractional-revival dynamics of a ring together with controlled interaction and phase operations.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T10:55:22Z</published>
+    <arxiv:comment>32 pages and 17 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Sriganapathy Raghav</name>
+    </author>
+    <author>
+      <name>Utpal Roy</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29440v1</id>
+    <title>From hard-core to soft-core bosons in a shell trap</title>
+    <updated>2026-10-21T09:00:59Z</updated>
+    <link href="https://arxiv.org/abs/2610.29440v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29440v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the low-temperature states of a system of spinless bosons trapped in a broad spherical shell. In our virtual (path-integral Monte Carlo) experiments, we specifically examine how the equilibrium structure and overall superfluidity of the system are affected by a change of the interparticle-potential core from hard to increasingly soft. In this manner we bridge the gap between the behaviors of two species of bosons: Helium-like atoms, which self-assemble into ordinary crystalline solids, and Rydberg-dressed atoms, which in simulation form cluster (super)solids. We also vary the particle mass, i.e., the quantumness of the system, so as to modify the relative stability of ``solid'' and fluid states. We thus find a whole spectrum of (finite-size) phases with a curved structure, including multilayer and cluster phases, as well as superfluids and single layer supersolids. In particular, we confirm that supersolids only occur in the presence of clusters. By considering three system sizes (from 60 to 180 particles), but rescaling the trap radius so that the density stays fixed, we verify that supersolid states only exist in the same range of particle masses. Our model serves as a platform to test how emergent properties are modified, in spherical geometry, in the crossover from atoms to dressed atoms.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T09:00:59Z</published>
+    <arxiv:comment>12 pages, 17 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>G. Costa</name>
+    </author>
+    <author>
+      <name>S. Prestipino</name>
+    </author>
+    <author>
+      <name>F. Cinti</name>
+    </author>
+    <author>
+      <name>M. Ciardi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29218v1</id>
+    <title>Geometry-controlled zeros of resonant Kelvin-wave conversion in four spatial dimensions</title>
+    <updated>2026-10-21T05:20:01Z</updated>
+    <link href="https://arxiv.org/abs/2610.29218v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29218v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Kelvin waves carry energy along vortices, but their resonant interactions contain information that is absent from the linear spectrum. We identify a geometry that exposes this information on a vortex surface in four spatial dimensions. Perpendicular incoming waves cancel the complete local-area four-wave coupling, leaving the finite nonlocal interaction mediated by the surrounding fluid. This interaction restores conversion at generic wave-number ratios, yet changes sign and vanishes at a selected ratio while momentum and frequency remain exactly matched. Matching to Gross-Pitaevskii (GP) theory, including the microscopic core response, establishes a zero of the full coupling at every sufficiently small nonzero wave number, with ratio tending to $λ_*\simeq1.469$. Finite-grid GP coefficients exhibit a sign reversal for the same resonant quartets. Separate coherent-mixing calculations and weak-probe spectra connect the coupling sign to the generated-wave phase and the ordering of reflection-even and reflection-odd modes. The resulting suppression removes a leading channel for changing propagation directions without changing the paired wavelengths. These results isolate a nonlinear effect of the surrounding flow that local tension misses, providing a microscopic benchmark for vortex-wave theories and a starting point for studying angular redistribution beyond the Kelvin spectrum.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T05:20:01Z</published>
+    <arxiv:comment>47 pages, including Supplemental Material; 6 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Wei-can Yang</name>
+    </author>
+    <author>
+      <name>Xiang-dong Xu</name>
+    </author>
+    <author>
+      <name>Cheng Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28786v1</id>
+    <title>Theory of the intrinsic optical anomalous Hall responses in time-reversal symmetry breaking superconductors</title>
+    <updated>2026-10-20T18:15:56Z</updated>
+    <link href="https://arxiv.org/abs/2610.28786v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28786v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Determining the symmetry of the Cooper pairing in superconductors is a central challenge in condensed matter physics. Time-reversal symmetry breaking (TRSB) is among the most distinctive symmetry-breaking pattern of a superconductor. An important subset of TRSB pairing states, including the topological $p_x+ip_y$ pairing, is expected to exhibit the optical anomalous Hall effect. However, the microscopic ingredients that enable the Hall response and their underlying organizing principle in clean superconductors remain unelucidated. Here, we develop a unified theory for TRSB multiband superconductors possessing inversion symmetry, and establish their intrinsic optical Hall response as fundamentally a quantum-geometric phenomenon. We distinguish unitary and nonunitary TRSB states. Diagrammatically, we identify two classes of processes: single-electron tunneling and Cooper-pair tunneling. Both involve at least one interband tunneling event driven by the interband velocity-which is closely tied to the interband Berry connection. We rigorously prove that interband pairing is a prerequisite for unitary states to generate intrinsic Hall response, whereas it is not absolutely needed for nonunitary states. In nonunitary states with intraband pairing alone, the Hall effect can arise through single-electron tunneling, provided spin-orbit coupling is present. An effective theory obtained by integrating out the hole degrees of freedom reproduces these results and shows how pairing may endow electrons with effective Berry curvature. Finally, through symmetry analysis, we show that intrinsic resonances near the superconducting gap edge are allowed in nonunitary states but forbidden in unitary states. Our work thus establishes quantum geometry as a unifying principle for the intrinsic Hall response in superconductors and provides a guide for distinguishing different candidate TRSB pairings.</summary>
+    <category term="cond-mat.supr-con" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T18:15:56Z</published>
+    <arxiv:comment>18 pages, 6 figures, 1 table</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.supr-con"/>
+    <author>
+      <name>Jia-Long Zhang</name>
+    </author>
+    <author>
+      <name>Wen Huang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28621v1</id>
+    <title>Characterizing supersolid phase transitions in trapped quantum gases with tilted dipoles at finite temperature</title>
+    <updated>2026-10-20T17:58:01Z</updated>
+    <link href="https://arxiv.org/abs/2610.28621v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28621v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Motivated by a recent experimental work arXiv:2608.20327, we theoretically investigate the nature of phase transitions in a trapped dipolar quantum gas upon tuning the contact interaction strength and dipole orientation. Using extended Gross-Pitaevskii simulations including thermal and quantum effects, we map the phase diagram comprising unmodulated superfluids, triangular droplet arrays, and stripe states. We further characterize the order of the transitions separating them through imaginary-time hysteresis analysis. The unmodulated-to-modulated transition evolves from discontinuous to continuous with increasing dipole tilt before becoming discontinuous again at large tilts. The degree of continuity is further affected by particle number, temperature, and confinement. While continuous behavior generally correlates with the emergence of stripe states, this correspondence is not systematic, and finite-size effects also influence the continuity of the transition. The triangular-to-stripe transition is found to be discontinuous at small contact interaction strengths and becomes increasingly continuous upon approaching the unmodulated-to-modulated phase boundary. Our results reveal a tunable transition order in finite dipolar quantum gases and provide guidance for its experimental investigation.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T17:58:01Z</published>
+    <arxiv:comment>12 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Julian Kusch</name>
+    </author>
+    <author>
+      <name>Lauriane Chomaz</name>
+    </author>
+    <author>
+      <name>Wyatt Kirkby</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28528v1</id>
+    <title>Efficient Ground-State Manifold Amplification for Rydberg Atom Arrays via Houdayer Cluster Updates</title>
+    <updated>2026-10-20T17:03:05Z</updated>
+    <link href="https://arxiv.org/abs/2610.28528v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28528v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We demonstrate a hybrid quantum-classical approach for exploring ground-state manifolds of maximum independent set problems, in which quantum hardware supplies the initial solutions and an entirely classical post-processing algorithm expands them, increasing the solution diversity of quantum hardware measurements by up to several orders of magnitude. Quantum optimization devices, while capable of generating high-quality solutions, can suffer from fundamental sampling limitations. This is particularly problematic for applications that strongly depend on a large variety of uncorrelated optimal solutions. We apply the Houdayer cluster update algorithm to systematically expand quantum-generated solution sets through classical post-processing. We validate our approach on a test bed of 43 problem instances from QuEra's Aquila analog annealing device, achieving diversity amplification factors, defined as the increase in the number of distinct solutions at a given set size, of up to 11923x with a median of 24.3x across different problem scales and hardness parameters. Because exact ground-state degeneracies are known for these instances, the recovered fraction of the manifold can be measured rather than bounded: post-processing recovers a median of 21% of the ground-state manifold, and provably all of it for six instances. We also demonstrate that, in some cases, the classical post-processing can discover independent sets larger than those found by the quantum hardware, thus improving on solution quality and not just diversity. While the method is non-ergodic and cannot guarantee complete manifold coverage, it consistently discovers a larger number of high-quality, and in some cases strictly better, configurations than quantum sampling alone. This work demonstrates how simple classical post-processing can enhance the utility of quantum optimization results.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.OC" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T17:03:05Z</published>
+    <arxiv:comment>15 pages, 6 figures, 1 table</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Andrew J. Ochoa</name>
+    </author>
+    <author>
+      <name>Martin J. A. Schuetz</name>
+    </author>
+    <author>
+      <name>Helmut G. Katzgraber</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28336v1</id>
+    <title>Floquet ground state order</title>
+    <updated>2026-10-20T15:03:35Z</updated>
+    <link href="https://arxiv.org/abs/2610.28336v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28336v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Clean, interacting, periodically driven systems are believed to thermalize to featureless, infinite-temperature states that preclude the formation of stable ordered states. Here, we show stable quantum order, distinct from prethermal order, and its phase transitions in the ground state of the average-energy operator. Decomposing the time evolution into geometric and average-energy dynamics, we apply Geometric Floquet theory to identify the Floquet ground state. We derive a general variational principle to compute the Floquet ground state in large interacting periodically driven systems, and use it to develop a matrix product state algorithm. In driven nonintegrable chains of more than 100 interacting spins, our numerical simulations exhibit a gapped, area-law entangled Floquet ground state in extended parameter regimes; the ground-state manifold can support both dressed equilibrium order (e.g., Floquet antiferromagnets) and inherently nonequilibrium order (e.g., ground-state time crystals). This quantum order is protected by a finite average-energy gap, which closes at phase transition points upon changing model parameters. We decompose Floquet phases of matter into their equilibrium and nonequilibrium elements: whereas the Floquet ground state at any fixed time is a representative of an equilibrium phase of matter, the nonequilibrium content is entirely produced by the drive holonomy and is geometric. Finally, we identify quasilocal counterdiabatic driving as a mechanism for the stability against heating of gapped Floquet ground states in nonintegrable quantum systems, and argue why Floquet ground states evade the Eigenstate Thermalization Hypothesis. Our work enables the study of interacting nonequilibrium matter deep into the many-body regime, and lays the foundations for the engineering of strongly correlated ordered quantum states.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T15:03:35Z</published>
+    <arxiv:comment>13 + 29 pages, 6 + 8 figures, 4 algorithms</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Suman Mondal</name>
+    </author>
+    <author>
+      <name>Paul M. Schindler</name>
+    </author>
+    <author>
+      <name>Marin Bukov</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28278v1</id>
+    <title>Dynamics of two bosons with density-assisted tunnelling in a one-dimensional tilted lattice</title>
+    <updated>2026-10-20T14:31:04Z</updated>
+    <link href="https://arxiv.org/abs/2610.28278v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28278v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate the dynamics of two bosons in a tilted one-dimensional optical lattice with both standard and density-assisted tunnelling. The relative sign of the two tunnelling processes strongly affects the Bloch dynamics, leading to distinct reinforcing and competing regimes. We examine how the tunnelling processes generate correlations and find that, in the absence of onsite interactions, the early-time entanglement growth follows the same scaling with the density-assisted tunnelling amplitude. Finite onsite interaction changes this picture by breaking the symmetry between the reinforcing and competing regimes and enhancing the correlation differently in two regimes. This shows how the interplay between the two tunnelling mechanisms can change dyanmics and entanglement in a controlled few-body setting. Particularly, at equal tunnelling amplitudes, the doublon and singlon sectors decouple completely for arbitrary onsite interaction, lattice tilting, and initial state.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T14:31:04Z</published>
+    <arxiv:comment>10 Pages; 7 Figs</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Muhammad S. Hasan</name>
+    </author>
+    <author>
+      <name>Vikash Mittal</name>
+    </author>
+    <author>
+      <name>Tomasz Sowiński</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28163v1</id>
+    <title>Finite-size spin fluctuations and fixed-index sweeps in a ferromagnetic spinor condensate</title>
+    <updated>2026-10-20T13:07:50Z</updated>
+    <link href="https://arxiv.org/abs/2610.28163v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28163v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We find a dip in the optimized rotation quantum Fisher information of a zero-magnetization ferromagnetic spin-1 Bose-Einstein condensate near the excited-state quantum phase transition. Its displacement from $ε_c=-q$ decreases on an inverse-size scale. At $q=0.6,0.8,1.0,1.2$, the dip value of $F_{\max}$ equals $2\langle S^2\rangle$ for $N$ up to $3840$, linking it to total-spin fluctuations. A semiclassical orbit average normalized by the classical density of states describes the dip over $N=120$--$3840$ with maximum relative residual below $0.028$; a small power law fits comparably. Inserting the measured energy offsets directly into the semiclassical formula leaves residuals of $17$--$30\%$, so $κ$ acts as an effective cutoff. Among retained states, spin-nematic squeezing occurs at the spectral edges. Separately, fixed-index excited-state sweeps have half-excitation times between $11.2$ and $13.1$ times their ground-state counterparts, with local size exponents increasing across the four sizes.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T13:07:50Z</published>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Yi Ding</name>
+    </author>
+    <author>
+      <name>Junyan Luo</name>
+    </author>
+    <author>
+      <name>Yixiao Huang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27878v1</id>
+    <title>Computing excited states of dipolar Bose--Einstein condensates by constrained gentlest ascent dynamics</title>
+    <updated>2026-10-20T09:00:01Z</updated>
+    <link href="https://arxiv.org/abs/2610.27878v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27878v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Dipolar Bose--Einstein condensates (BECs), i.e., BECs with long-range dipole-dipole interactions (DDI), exhibit extraordinarily rich physics and serve as a versatile experimental platform for exploring exotic quantum states of matter. Within the mean-field framework, a dipolar BEC can be described by the Gross--Pitaevskii (GP) model with a DDI term. Its stationary states consist of the ground state, which minimizes the GP energy functional under the normalization constraint, and excited states, which are higher-energy critical points that typically correspond to constrained saddle points. Excited states encode collective excitation modes and play a key role in the dynamical stability and quantum phase transitions of cold-atom systems. However, in contrast to the extensively studied ground state, they remain far less explored numerically, especially in dipolar systems. In this work, we develop a numerical method based on the constrained gentlest ascent dynamics (CGAD) that systematically computes excited states of dipolar BECs by stably targeting constrained saddle points with any prescribed Morse index. Specifically, a semi-implicit sine-pseudospectral discretization with an orthonormalization correction step is adopted, and the nonlocal DDI terms are evaluated efficiently and accurately via the nonuniform fast Fourier transform (NUFFT). The resulting scheme is applied to one-, two-, and three-dimensional dipolar BECs, enabling a detailed numerical investigation of their excited states. Remarkably, our simulations reveal that excited states can persist even in regimes where the ground state of the condensate becomes mean-field unstable. This work provides a computational framework for studying excited states in dipolar quantum gases and offers insights for future theoretical and experimental investigations.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.NA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T09:00:01Z</published>
+    <arxiv:comment>26 pages, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Fu Zheng</name>
+    </author>
+    <author>
+      <name>Wei Liu</name>
+    </author>
+    <author>
+      <name>Xu Qian</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27823v1</id>
+    <title>Luther-Emery liquid in one-dimensional attractive Fermi gas</title>
+    <updated>2026-10-20T08:14:55Z</updated>
+    <link href="https://arxiv.org/abs/2610.27823v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27823v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>One-dimensional (1D) interacting Fermi gases underpin a rich variety of quantum liquids, ranging from the Tomonaga-Luttinger liquid and the Fulde-Ferrell-Larkin-Ovchinnikov paired state to the Luther-Emery liquid (LEL). Notably, the LEL-characterized by gapless excitations in charge or spin degree of freedom and gapped excitations in the other-has long been theoretically predicted but has eluded definitive experimental observation to date. By exactly solving the attractive Yang-Gaudin model via the Bethe ansatz, we fully determine the low-energy excitation spectra for both spin and charge channels. For fully paired fermions, the spectrum features gapped spin excitation coexisting with gapless charge excitation. We further employ bosonization to derive analytical expressions for the dynamical structure factor (DSF) of the gapped spin excitation, which is a long-standing challenge in this study. In the trapped gas, we find that the spin Bragg spectroscopy peak occurs at a much higher frequency than the charge-mode peak, where the splitting frequency between these two peaks scales approximately linearly with the interaction strength. Crucially, the spin gap manifests as a sharp threshold in the spin DSF, below which spectral weight is completely absent, proving a direct and unambiguous spectroscopic fingerprint of the LEL. Our work establishes quasi-1D trapped attractive Fermi gases as a pristine experimental platform for the long-sought direct observation of the LEL.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T08:14:55Z</published>
+    <arxiv:comment>8 pages + 3 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Hai-Ying Cui</name>
+    </author>
+    <author>
+      <name>Yi-Cong Yu</name>
+    </author>
+    <author>
+      <name>Aashish Kafle</name>
+    </author>
+    <author>
+      <name>Han Pu</name>
+    </author>
+    <author>
+      <name>Randall G. Hulet</name>
+    </author>
+    <author>
+      <name>Thierry Giamarchi</name>
+    </author>
+    <author>
+      <name>Xî-Wen Guan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27761v1</id>
+    <title>Good-$Γ$ Numbers: A Shell-Optimized Route to the Thermodynamic Limit in Quantum Monte Carlo Calculations of the High-Density Two-Dimensional Electron Gas</title>
+    <updated>2026-10-20T07:24:50Z</updated>
+    <link href="https://arxiv.org/abs/2610.27761v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27761v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Single-particle finite-size errors remain a central obstacle in quantum Monte Carlo (QMC) simulations of periodic systems, conventionally reduced via twist averaging (TA). Here we introduce Good-$Γ$ (GG) particle numbers as system sizes $N$ at which the $Γ$-point Hartree--Fock (HF) energy of the high-density two-dimensional uniform electron gas (2D UEG) lies anomalously close to its thermodynamic-limit (TL) value. All results in this work concern the 2D UEG in its high-density Fermi-liquid regime, $r_s=1$--$4$. We systematically investigate the kinetic- and exchange-energy errors, $ΔKE(N)$ and $ΔEX(N)$, that underlie this one-body finite-size-error cancellation across four densities and both spin polarizations. We then compare diffusion Monte Carlo (DMC) energies extrapolated to the TL from GG-$N$ sequences against twist-averaged extrapolations at the same densities and polarizations, finding agreement to within a fraction of a millihartree in every case, independent of whether a $1/N$ or an $N^{-5/4}$ extrapolation form is used.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T07:24:50Z</published>
+    <arxiv:comment>https://journals.aps.org/apsos/accepted/10.1103/2l4w-tl87</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>S. Azadi</name>
+    </author>
+    <author>
+      <name>T. D. Kühne</name>
+    </author>
+    <author>
+      <name>A. Principi</name>
+    </author>
+    <author>
+      <name>M. S. Bahramy</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27709v1</id>
+    <title>A high-speed, large-aperture 3D printed laser shutter for cold atom experiments</title>
+    <updated>2026-10-20T06:27:21Z</updated>
+    <link href="https://arxiv.org/abs/2610.27709v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27709v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Cold atom experiments require optical shutters with rapid and repeatable actuation. Existing solutions often involve high cost, limited aperture diameter and slow transitioning. We present a 3D-printable shutter design featuring a large aperture of 4.5 mm diameter, low-cost assembly, and robust performance. The device achieves switching times of $399\pm8~μ$s with delays of $2.7\pm0.2$ ms for a fully illuminated aperture, with four different shutters demonstrating repeatable performance. We measure the shutter speed to be $7.0\pm0.1$ m/s. This approach offers an accessible, scalable solution for cold atom and other optical experiments requiring multiple shutters with precise light control and avoids the need to resize or precision-align a beam through an aperture.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T06:27:21Z</published>
+    <arxiv:comment>6 pages, 6 figures, 1 table. The data and models, including experimental data, CAD files, a parts list, assembly instructions and thermal and electrical models that support the findings of this study are openly available in UQ eSpace at https://doi.org/10.48610/da433e5</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Samantha L. Rubinstein</name>
+    </author>
+    <author>
+      <name>Charles W. Woffinden</name>
+    </author>
+    <author>
+      <name>Maarten T. M. Christenhusz</name>
+    </author>
+    <author>
+      <name>Guillaume Gauthier</name>
+    </author>
+    <author>
+      <name>Tyler W. Neely</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27589v1</id>
+    <title>Fate of Discrete Time Crystals in Finite-Size Cavity QED Systems</title>
+    <updated>2026-10-20T03:56:50Z</updated>
+    <link href="https://arxiv.org/abs/2610.27589v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27589v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>It has been shown that Discrete Time Crystal (DTC) behavior may arise in the periodically driven, open Dicke model in the thermodynamic limit ($N \rightarrow \infty$). In this work, we demonstrate that finite $N$ non-mean-field fluctuations in this model can lead to decay rates and amplitudes of transient DTCs that display a non-trivial non-monotonic behavior with an increasing number of atoms. We show that the second-order cumulant expansion fails to capture the finite-size dynamics, while a stochastic version of the Truncated Wigner Approximation (TWA) is remarkably accurate, particularly in the large atom ensemble limit. Using the TWA and the Monte Carlo Wave Function (MCWF) approach, we identify three distinct dynamical regimes of transient DTC behavior in the finite-size Dicke model. We outline the mechanism behind the non-monotonic finite size dynamical decay of DTC order and discuss the implications for experiments performed on finite-sized atomic assemblies.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T03:56:50Z</published>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Haimi Nguyen</name>
+    </author>
+    <author>
+      <name>David R. Reichman</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27462v1</id>
+    <title>Systematic Truncated Wigner Approximation for Open Spin Systems Reveals Long-Range Order Far from Equilibrium</title>
+    <updated>2026-10-20T01:24:04Z</updated>
+    <link href="https://arxiv.org/abs/2610.27462v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27462v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Long-range interactions can protect dissipative order against fluctuations, but determining when they do so in two dimensions remains out of reach for existing many-body methods. We develop a continuous SU(2)-covariant truncated-Wigner framework that maps the problem onto stochastic dynamics with one Bloch sphere per site. Derived systematically from the exact Stratonovich-Weyl evolution of the Lindblad equation, it generates both drift and reservoir noise for arbitrary spin $S$. Benchmarks against exact and tensor-network calculations validate its description of non-equilibrium dynamics and steady states. Applied to 400-site two-dimensional dissipative anisotropic XY lattices, our method reveals physics missed by mean-field and perturbative approaches: vortex-antivortex proliferation destroys the predicted staggered-XY phase for nearest-neighbour coupling, whereas algebraically decaying interactions stabilize an extended $\mathbb{Z}_2$-ordered phase. We obtain the first beyond-mean-field steady-state phase diagram of the long-range interacting model, revealing reentrant loss of order at strong coupling and closure of the ordered region beyond $α\approx 3.5$. Our new method provides a scalable route to strongly correlated driven-dissipative systems with long-range interactions, higher-dimensional geometries, spin-boson couplings, and spins beyond one half, relevant to modern experiments with magnetic atoms and polar molecules in optical lattices and tweezer arrays.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T01:24:04Z</published>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Igor Timofeev</name>
+    </author>
+    <author>
+      <name>Dawid A. Hryniuk</name>
+    </author>
+    <author>
+      <name>Marzena H. Szymańska</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27369v1</id>
+    <title>Generation of non-Maxwell-Boltzmann energy distributions during thermalization of interacting baths</title>
+    <updated>2026-10-19T22:47:56Z</updated>
+    <link href="https://arxiv.org/abs/2610.27369v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27369v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We report on numerical experiments of thermalization between two reservoirs in which interspecies interactions are mediated via a Hamiltonian with a Gaussian dependence upon the distance between the particles. By using relatively high statistics, we are able to study deviations from the initially imprinted Maxwell-Boltzmann energy distributions as a function of the range and strength of the interaction, as well as the parameters of the two baths such as masses, trapping frequencies, that strongly affect the spatial overlap of the two species. At large interaction strengths and for any range, deviations are attributable to the sudden conversion of latent interaction energy into kinetic energy of the particles. In addition, long range interactions generate deviations even for interaction strengths in the weak regime, and non-uniform confinement introduces a further source of deviation from the Maxwell-Boltzmann energy distribution. This latter results in transient two temperature Maxwell-Boltzmann distributions suggestive of an inverse cascading route from inter-particle dynamics to thermalization. In the weakly-interacting regime, a simple expression for the equilibrium temperature is also obtained and discussed. These findings may be of relevance in the dynamics of exothermic chemical reactions, in the physics of ultracold atomic mixtures, and in self-sustained burning plasmas.</summary>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T22:47:56Z</published>
+    <arxiv:primary_category term="physics.plasm-ph"/>
+    <arxiv:journal_ref>Physical Review E 111, 064127 (2025)</arxiv:journal_ref>
+    <author>
+      <name>Roberto Onofrio</name>
+    </author>
+    <author>
+      <name>Bala Sundaram</name>
+    </author>
+    <arxiv:doi>10.1103/f6fm-wd95</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1103/f6fm-wd95" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27368v1</id>
+    <title>Dynamics of thermalization in classical three-dimensional many-body systems: Non-Maxwellian distributions and the role of anisotropic trapping</title>
+    <updated>2026-10-19T22:47:26Z</updated>
+    <link href="https://arxiv.org/abs/2610.27368v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27368v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The physics of interacting baths is of interest in a variety of contexts, ranging from ultracold atoms to ionized gases. While many features can already be captured in a one-dimensional model, others are specific to the situation of two or three-dimensional systems. In this paper, we focus on three-dimensional features of a model for thermalization between two baths that we have explored in earlier publications. In contrast to the one-dimensional situation we show that, en route to thermalization, deviations from the Maxwell-Boltzmann energy distributions more akin to $κ$-distributions are observed. In three dimensions, these can be seen in changes at the peak of the distribution, which is precluded by the expected monotonic behavior of the energy distributions in one dimension. Furthermore, we consider thermalization for anisotropic trapping and explore its role in the onset of anomalous scaling with respect to the particle number. These results may be pertinent to the understanding of the interplay between turbulent behavior and nonlinearities for a variety of many-body classical systems.</summary>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T22:47:26Z</published>
+    <arxiv:primary_category term="physics.plasm-ph"/>
+    <arxiv:journal_ref>Physical Review E 112, 044148 (2025)</arxiv:journal_ref>
+    <author>
+      <name>Roberto Onofrio</name>
+    </author>
+    <author>
+      <name>Bala Sundaram</name>
+    </author>
+    <arxiv:doi>10.1103/g7hm-4k1j</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1103/g7hm-4k1j" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27349v1</id>
+    <title>Nonlocality effects on fermions confined within a hard-wall potential</title>
+    <updated>2026-10-19T22:29:18Z</updated>
+    <link href="https://arxiv.org/abs/2610.27349v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27349v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate nonlocality effects on the energy spectrum of spin-$1/2$ fermions confined by hard-wall potentials. Starting from a nonlocal Dirac theory with a modified kinetic term, we formulate the associated field equation in flat spacetime using cylindrical coordinates. By exploiting the eigenvalue spectrum of the squared Dirac operator, the original infinite-order equation is reduced to a finite-order problem. We also show that on the branch continuously connected to the local Dirac theory the nonlocal corrections can be encoded in an effective fermion mass. We then find analytical energy spectra for two confining geometries: a cylindrical hard wall and a quantum ring defined by two concentric cylindrical boundaries. In both cases, the radial equations reduce to Bessel equations and the boundary conditions quantize the allowed modes. The local hard-wall spectra are recovered for $Λ\to\infty$, whereas finite nonlocality shifts the mass contribution and, consequently, the particle--antiparticle energy separation. These results provide a direct characterization of nonlocal effects in quantum-confined fermionic systems.</summary>
+    <category term="hep-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T22:29:18Z</published>
+    <arxiv:comment>9 pages (two columns), 2 figures</arxiv:comment>
+    <arxiv:primary_category term="hep-ph"/>
+    <author>
+      <name>G. Q. Garcia</name>
+    </author>
+    <author>
+      <name>P. J. Porfírio</name>
+    </author>
+    <author>
+      <name>E. Brito</name>
+    </author>
+    <author>
+      <name>D. C. Moreira</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27053v1</id>
+    <title>Parallel Omnidirectional Atom Rearrangement with Dynamic Holograms</title>
+    <updated>2026-10-19T18:00:00Z</updated>
+    <link href="https://arxiv.org/abs/2610.27053v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27053v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The ability to assemble and reconfigure individual atoms is central to performing quantum science using optical tweezer arrays. Here, we demonstrate parallel omnidirectional atom transport and rearrangement using dynamic holograms generated by a single kilohertz-rate spatial light modulator. By carefully characterizing survival and heating, we show that atoms remain confined even when successive holograms are commanded before the liquid crystal has settled, enabling significantly faster transport. To generate holograms in real time, we develop and implement a warm-start, weighted Gerchberg-Saxton algorithm that achieves performance comparable to neural-network methods without requiring any training. Combining these techniques, we assemble ytterbium atoms into a 2078-site kagome lattice with 99.0% mean filling. In addition, we demonstrate parallel transport between array layers, combining axial and transverse motion to reconfigure atoms in three dimensions. Our approach is readily adaptable to existing tweezer platforms and provides a method for large-scale SLM-based atom assembly as well as programmable three-dimensional control.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T18:00:00Z</published>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Samuel A. Engel</name>
+    </author>
+    <author>
+      <name>Dewei Gong</name>
+    </author>
+    <author>
+      <name>Ziguang Lin</name>
+    </author>
+    <author>
+      <name>Lysander Christakis</name>
+    </author>
+    <author>
+      <name>Kang-Kuen Ni</name>
+    </author>
+    <author>
+      <name>Norman Y. Yao</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27060v1</id>
+    <title>Spectral signatures of hidden order and hidden quantum critical points</title>
+    <updated>2026-10-19T18:00:00Z</updated>
+    <link href="https://arxiv.org/abs/2610.27060v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27060v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Hidden-order phases elude the conventional Ginzburg-Landau framework: although they spontaneously break symmetry, their order remains invisible to standard local two-point correlators. Instead, they are typically characterized by nonlocal (string) order parameters and are believed to underlie a range of exotic quantum states, such as symmetry-protected topological (SPT) phases. While hidden correlations have previously been detected through nonlocal observables in quantum gas microscope experiments, in realistic solid-state systems multipoint observables are typically inaccessible and the signatures of hidden order remain largely unexplored. In this work, we show that hidden order in doped spin chains can be directly probed through dynamical two-point response functions measurable by resonant inelastic X-ray scattering (RIXS) and neutron scattering. Focusing on a minimal model, we numerically identify clear spectral fingerprints of both the hidden-order phase, its associated hidden quantum critical point as well as a specific group of gapless SPT phases. Complementing our numerical results with analytical insights, we uncover the microscopic origin of these spectral signatures and demonstrate how they emerge from the interplay between spin and charge degrees of freedom. Together, our results establish spectroscopy as a practical probe of hidden order and gapless SPT phases and provide a unified understanding of the low-energy physics governing these unconventional quantum phases.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T18:00:00Z</published>
+    <arxiv:comment>22 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Reja H. Wilke</name>
+    </author>
+    <author>
+      <name>Henning Schlömer</name>
+    </author>
+    <author>
+      <name>Sebastian Paeckel</name>
+    </author>
+    <author>
+      <name>Annabelle Bohrdt</name>
+    </author>
+    <author>
+      <name>Fabian Grusdt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26520v1</id>
+    <title>Exploring ground state phase diagrams of Rydberg atom arrays with finite projected entangled-pair states</title>
+    <updated>2026-10-19T14:51:09Z</updated>
+    <link href="https://arxiv.org/abs/2610.26520v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26520v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Rydberg atom arrays (RAA) have been advocated as a promising avenue for the quantum simulation of different exotic quantum states. Numerical predictions for the ground state properties of this experimental platform can, however, be challenging in two-dimensional setups. In particular, faithfully treating long-range interactions is often crucial for distinguishing the fate of competing phases, but it usually comes at considerable cost. Projected entangled-pair states (PEPS), optimized via a sampling-based approach, have been shown to deal with such terms on the same ground as shorter-range ones. In this work, we employ these tools to investigate debated physical questions in different frustrated geometries of RAA, from the emergence of spin-glass physics on the Kagomé lattice to topological order beyond the PXP model on the Ruby lattice. By that, we contribute to establishing PEPS as well-suited tools for creating digital twins of RAA experiments.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:51:09Z</published>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Konrad Schröder</name>
+    </author>
+    <author>
+      <name>Erik Lennart Weerda</name>
+    </author>
+    <author>
+      <name>Matteo Rizzi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26499v1</id>
+    <title>Non-local Stabilization and Synchronization of Larmor Precession in Trapped Polariton Condensate Dimer</title>
+    <updated>2026-10-19T14:35:25Z</updated>
+    <link href="https://arxiv.org/abs/2610.26499v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26499v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We demonstrate mutual synchronization of Larmor precessions between spatially separated, optically trapped polariton condensates. We identify the cross-condensate correlation g(2)1,2(τ) as a sensitive metric for condensate coupling. Synchronization of precessions in a condensate dimer is mediated by polariton outflow and resonantly depends on spectral overlap and precession winding. All-optical stirring of one site non-locally increases the pseudo-spin dephasing time of its static neighbor, prolonging phase-locking in a dimer by an order of magnitude. Our work establishes a scalable platform for studying non-equilibrium time-periodically driven systems and for high-speed spinoptronic networks.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:35:25Z</published>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Stepan Baryshev</name>
+    </author>
+    <author>
+      <name>Alexey Yulin</name>
+    </author>
+    <author>
+      <name>Ivan Gnusov</name>
+    </author>
+    <author>
+      <name>Sergey Alyatkin</name>
+    </author>
+    <author>
+      <name>Pavlos G. Lagoudakis</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26471v1</id>
+    <title>End-to-End Optimization of Partial Fault Tolerance in Neutral-Atom Arrays</title>
+    <updated>2026-10-19T14:18:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.26471v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26471v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Fault-tolerant (FT) quantum computation offers a pathway to quantum advantage, but its realization is hindered by its significant overhead. The partially FT "STAR" architecture reduces the cost of universal computation at the price of relaxing FT requirements for non-Clifford operations, increasing exposure to hardware noise. Therefore, maximizing its performance and applicability demands careful co-design with the underlying hardware. In this work we investigate the co-design of the STAR architecture with neutral-atom platforms, connecting the underlying atomic physics to logical error modeling and application-level performance. At the physical level, we identify a favorable noise bias in $^{171}\mathrm{Yb}$ Rydberg gates, and show how it can be enhanced through error-selective pulse optimization. At the logical level, we identify an intrinsic error suppression mechanism, yielding vanishing logical coherent noise in leading order. Detailed circuit-level simulations of surface code implementations show more than an order of magnitude reduction in logical error relative to previous estimates. As a concrete target application, we focus on the Fermi-Hubbard model with periodic boundaries, for which we design a simulation circuit particularly suited to early implementations. We quantify the resource tradeoff of partially and fully FT approaches to gate synthesis, with the former showing approximately an order of magnitude reduction in state-injection depth, and an even larger reduction in Clifford resources. Comparing with classical and fully FT approaches, we identify regimes where partial fault tolerance provides both lower overheads and lower error rates. In our estimates, this is accessible with moderate error rates $p\sim 10^{-3}$ and a few thousand qubits, underlining that for these types of problems, partial FT approaches provide a compelling pathway to early quantum advantage.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:18:12Z</published>
+    <arxiv:comment>42 pages, 9 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Stefano Veroni</name>
+    </author>
+    <author>
+      <name>Aydin Deger</name>
+    </author>
+    <author>
+      <name>Andrew J. Daley</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26449v1</id>
+    <title>Two-Dimensional Quantum Droplets in a Mixture of Bose-Einstein Condensates</title>
+    <updated>2026-10-19T14:07:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.26449v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26449v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Quantum droplets represent a striking manifestation of beyond-mean-field physics, with properties that depend sensitively on dimensionality. Although quantum droplets have been experimentally realized in one and three dimensions, their realization in two dimensions has remained elusive. Here, we observe the formation of a two-dimensional (2D) quantum droplet in a quasi-2D geometry by transferring the single-component Bose-Einstein condensates (BECs) into a spin mixture in the Lee-Huang-Yang (LHY) regime, where the LHY effect evidently deviates from its three-dimensional form. We find that, in our scheme, 2D quantum droplets are more stable and exhibit longer lifetimes than previously reported quantum droplets. By instead transferring the initial BECs into another single-spin state with a negative scattering length, we generate 2D Townes solitons. A comparison between the two types of self-bound states shows that, whereas 2D Townes solitons are stable only near a critical atom number determined by the scattering length, 2D quantum droplets remain well-defined and self-bound over a much broader parameter range. These realizations of quantum droplets and Townes solitons in two dimensions provide new insights into self-bound states and open new avenues for exploring nonlinear dynamics in quantum liquids.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:07:02Z</published>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Yue Zhang</name>
+    </author>
+    <author>
+      <name>Liangchao Chen</name>
+    </author>
+    <author>
+      <name>Wei Han</name>
+    </author>
+    <author>
+      <name>Linshan Gong</name>
+    </author>
+    <author>
+      <name>Yazhou Wang</name>
+    </author>
+    <author>
+      <name>Zekui Wang</name>
+    </author>
+    <author>
+      <name>Xinhao Liang</name>
+    </author>
+    <author>
+      <name>Wenjie Sui</name>
+    </author>
+    <author>
+      <name>Pengjun Wang</name>
+    </author>
+    <author>
+      <name>Lianghui Huang</name>
+    </author>
+    <author>
+      <name>Zengming Meng</name>
+    </author>
+    <author>
+      <name>Zhuxiong Ye</name>
+    </author>
+    <author>
+      <name>Jing Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26328v1</id>
+    <title>High-order resonances and emergent coherent dynamics in interacting Stark chains</title>
+    <updated>2026-10-19T13:02:11Z</updated>
+    <link href="https://arxiv.org/abs/2610.26328v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26328v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A linear potential gradient can strongly suppress quantum dynamics, while interactions can activate resonant many-body processes whose higher-order structure remains largely unexplored. Here we uncover a systematic hierarchy of high-order interaction--tilt resonances in an interacting Stark chain, where the resonance order counts the minimal number of elementary exchange steps involved. These resonances manifest as long-lived coherent oscillations with order-dependent timescales. By isolating individual resonant channels and developing a microscopic effective description, we connect these dynamical timescales to the underlying many-body exchange processes and reveal a pronounced dependence on the initial-state structure. Our results provide crucial insights into high-order many-body resonances and show how commensurate interaction-to-tilt ratios generate a hierarchy of parametrically slow coherent many-body dynamics.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T13:02:11Z</published>
+    <arxiv:comment>12 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Jiahe Chang</name>
+    </author>
+    <author>
+      <name>Hongzheng Zhao</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26289v1</id>
+    <title>Optical vortex bullets with large angular momenta</title>
+    <updated>2026-10-19T12:40:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.26289v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26289v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate three-dimensional spatiotemporal optical vortex solitons (light bullets with a toroidal shape) carrying higher-order orbital angular momentum in Kerr media with anomalous group-velocity dispersion and a transversely localized Gaussian profile of the linear refractive index. Stationary vortex bullets with topological charges (winding numbers) $1\leq \ell \leq 4$ are obtained as numerical solutions of the three-dimensional nonlinear Schrödinger equation, and their existence, structure and stability are systematically analyzed. In terms of atomic Bose-Einstein condensates, these solutions represent matter-wave solitons with embedded vorticity. We examine the dependence of the solution families on the propagation constant, the depth and width of the guiding profile, and $\ell $. It is found that the increase of $\ell $ requires one to use a stronger or wider waveguiding potential to sustain localized states satisfying the Vakhitov-Kolokolov (VK) stability criterion. VK-complying and non-complying branches of vortex-soliton families are separated by a degenerate Townes branch. Direct simulations reveal that, although the guiding profile substantially suppresses the collapse and extends the propagation distance of vortex bullets, their robustness is ultimately limited by azimuthal instabilities, whose growth is enhanced for values of $\ell $. These results demonstrate that engineered refractive-index landscapes significantly enlarge the stability domain of spatiotemporal vortex bullets and provide guidelines for supporting optical bullets carrying large orbital angular momenta.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T12:40:12Z</published>
+    <arxiv:comment>8 pages, 10 figures. To be published in Photonics and Quantum Waves (PQW)</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>José R. Salgueiro</name>
+    </author>
+    <author>
+      <name>Carlos F. Sánchez</name>
+    </author>
+    <author>
+      <name>Boris A. Malomed</name>
+    </author>
+    <author>
+      <name>Ángel Paredes</name>
+    </author>
+    <author>
+      <name>Humberto Michinel</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26997v1</id>
+    <title>Achieving ultrahigh-temperature superfluidity in atomic Fermi gases by suppressing pairing fluctuations</title>
+    <updated>2026-10-19T08:56:07Z</updated>
+    <link href="https://arxiv.org/abs/2610.26997v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26997v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Achieving room-temperature superconductivity has been a long-sought goal of both the physics community and the industry. The superfluid transition temperature $T_\mathrm{c}$ of a Fermi system initially increases with increasing pairing strength between fermions following the mean-field prediction of the Bardeen-Cooper-Schrieffer (BCS) theory, and is then suppressed by pairing fluctuations as the strength increases further, which prevents $T_\mathrm{c}$ from becoming high. Here we propose a mechanism for suppressing pairing fluctuations using the synergy between population imbalance and momentum space confinement in lattice systems, enabling an ultrahigh $T_\mathrm{c}$ at moderately strong attraction. We show that in a three-dimensional optical lattice, strong Pauli exclusion between paired and excess majority fermions pushes up the pair excitation energy and suppresses finite-momentum pairing fluctuations. The mechanism is general to any lattice with a finite Brillouin zone; the optimal imbalance is modest ($p\lesssim 0.1$), keeping the Zeeman field small and avoiding orbital complications. The gapped pair dispersion at moderate imbalance exponentially suppresses thermal condensate depletion, providing a testable signature. The gapped dispersion, enhanced condensate fraction, and pseudogap reduction are all accessible in present-day experiments. This work opens new avenues toward room-temperature superconductivity.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.supr-con" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T08:56:07Z</published>
+    <arxiv:comment>31 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Lin Sun</name>
+    </author>
+    <author>
+      <name>Qijin Chen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25412v2</id>
+    <title>Near self-duality and spatial reorganization of anyon vortex lattices</title>
+    <updated>2026-10-22T06:50:43Z</updated>
+    <link href="https://arxiv.org/abs/2610.25412v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25412v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Contact attraction drives the self-generated vortex lattice of a trapped anyon gas towards self-duality, but integrated energies do not reveal where the remaining departure from it is located. We address this question in the almost-bosonic Chern--Simons--Schrödinger average-field model using a positive, gauge-invariant local defect that measures the covariant kinetic energy in excess of the magnetic bound. Numerically computed low-energy states at three statistical fluxes show that, as the stability line is approached, the integrated defect falls by about two orders of magnitude while the density modulation grows, so that magnetic saturation and density uniformity separate. The residual defect concentrates in a vortex-free outer shell that carries unscreened statistical flux. There it reduces to a smooth radial mismatch between the statistical flow and the density decay, which the interior lattice cannot cancel, whereas the covariant kinetic and amplitude-gradient energies show no comparable enrichment. The effect is robust to grid and box refinement, while its magnitude depends on flux and on the low-energy branch. Exact dilation and contact-response identities relate the squared energy to the density shape and provide consistency checks. Repulsion produces the opposite trend: a smoother density with a larger defect.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T17:09:47Z</published>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Bao-Duy Le</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25222v1</id>
+    <title>Self-Trapping and Liouvillian Spectral Transitions in a Dissipative Bose-Hubbard Dimer</title>
+    <updated>2026-10-18T12:29:07Z</updated>
+    <link href="https://arxiv.org/abs/2610.25222v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25222v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the self-trapping transition in dissipative double wells using mean-field theory and exact diagonalization. We find that, similar to the conventional interaction-driven transition from oscillatory dynamics to self-trapping, dissipation alone can also induce self-trapping-like localization in one well. The resulting state, although transient and decaying, persists for a substantial time. At the mean-field level, the interaction- and dissipation-driven transitions are discontinuous and continuous, respectively. When interaction and dissipation both are present, their interplay produces three dynamical regimes: (i) at weak interaction, increasing dissipation drives a transition from oscillations to self-trapping; (ii) at moderate interaction, self-trapping at weak dissipation, oscillatory dynamics at intermediate dissipation, and re-entrant self-trapping at strong dissipation; and (iii) at strong interaction, self-trapping persists but is weakened by dissipation. We connect the transition with the Liouvillian spectrum. It is observed that purely dissipation-driven transition coincides with an exceptional point in the spectra, and a peak in the Liouvillian gap, marking the onset of the quantum-Zeno regime. In the presence of interactions, however, the onset of the Zeno regime is shifted to dissipation strengths larger than that required for the self-trapping transition.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T12:29:07Z</published>
+    <arxiv:comment>10 pages, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Subhendu Saha</name>
+    </author>
+    <author>
+      <name>Raka Dasgupta</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24877v1</id>
+    <title>Vortexable Chern Bands Sit Exactly on the Topological Floor of Flat-Band Superfluid Stiffness</title>
+    <updated>2026-10-17T21:30:14Z</updated>
+    <link href="https://arxiv.org/abs/2610.24877v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24877v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Vortexable Chern bands host ideal fractional Chern insulators. Paired with time-reversed partners by orbital-diagonal on-site attraction, they are the least stiff flat-band superconductors at fixed Chern number $C$, filling, and pairing amplitude. For uniform pairing and a nondegenerate paired state, the exact $T=0$ stiffness determinant is the topological floor times $1+(\Torb/2π|C|)^2\le1+(\TLVP/2π|C|)^2$, where $\Torb$ and $\TLVP$ measure departures from vortexability. Enhancement costs vortexability, and the inequality is strict only if internal components share a site, as in heterostrained bilayers.</summary>
+    <category term="cond-mat.supr-con" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T21:30:14Z</published>
+    <arxiv:comment>32 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.supr-con"/>
+    <author>
+      <name>Zhi-Wei Wang</name>
+    </author>
+    <author>
+      <name>Samuel L. Braunstein</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24565v1</id>
+    <title>Surface corrections and vortex energetics in the Thomas--Fermi limit of a self-bound unitary Fermi superfluid</title>
+    <updated>2026-10-17T08:39:37Z</updated>
+    <link href="https://arxiv.org/abs/2610.24565v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24565v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study a spin-balanced unitary Fermi superfluid bound by an attractive $1/r$ interaction within an extended Thomas--Fermi density functional. Its large-particle-number limit is the Lane--Emden polytrope of index $3/2$. We prove the leading gradient correction to the ground-state energy and strong convergence of the density amplitude. A rescaled surface problem predicts the next energy correction and the leading integrated density error. Matching a vortex core to the polytropic bulk gives the energetic threshold of a singly quantized central vortex, including the constant beyond the leading logarithm. Linearizing the same surface problem predicts a local energetic threshold for collective surface excitations that, in the natural TF frequency units, decreases more slowly with particle number than the central-vortex threshold. Radial stationary, spherical Bogoliubov--Poisson, and axisymmetric real-time calculations test the predicted energy corrections and vortex matching, and resolve finite-size surface-mode minima whose approach to the continuum surface coefficient is followed to $N\simeq4\times10^6$. For the reference gradient coefficient the vortex constant is $c_1=-0.535$, and the surface Landau scale is $1.417\,ω_K(\hbar_{\rm eff}^2/2R_{\rm TF})^{1/6}\propto N^{-1/9}$; sector energies at $N\simeq4.6\times10^5$, computed after the fit, agree with the extrapolated vortex threshold to $10^{-4}$. These results distinguish the accuracy of the Thomas--Fermi bulk from the gradient physics that controls the surface and vortex core, and separate vortex energetics from the open problem of nonlinear vortex entry.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T08:39:37Z</published>
+    <arxiv:comment>15 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Bao-Duy Le</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23815v1</id>
+    <title>Anyonic Neural Network Wavefunctions</title>
+    <updated>2026-10-16T17:39:06Z</updated>
+    <link href="https://arxiv.org/abs/2610.23815v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23815v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The macroscopic behavior of a non-interacting gas of Abelian anyons has remained unsettled for many decades. Prior numerical methods employing exact diagonalization in the continuum and on the plane have been limited to small system sizes, at most $N = 4$ anyons. Using the rapidly developing technology of neural network wavefunctions, we develop variational ansatze appropriate for studying continuum models of the Abelian anyon gas. The neural network architecture, which we call "AnyNet", is capable of exactly enforcing the non-analytic short-distance behavior induced by the anyonic statistics. We demonstrate excellent agreement with exact diagonalization for $N=4$ anyons, obtain accurate results up to $N = 16$ for intermediate statistics, and study up to $N=20$ for almost-fermionic anyons, matching perturbative results within a 0.4% discrepancy. We use this methodology to study anyons in a harmonic trap, and anyonic atoms as a model for anyon binding to impurities. We study the structure of anyonic wavefunctions as the statistics parameter is varied. We focus on the single-particle density, the pair density, the angular momentum, and the scaling of the wavefunction as multiple anyons coalesce. This work opens doors to understanding the macroscopic behavior of anyons, for which rich phases have been predicted theoretically.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T17:39:06Z</published>
+    <arxiv:comment>32 pages (21 main text), 12 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Andres Perez Fadon</name>
+    </author>
+    <author>
+      <name>Pok Man Tam</name>
+    </author>
+    <author>
+      <name>Leyna Shackleton</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23687v1</id>
+    <title>Finite-temperature phase diagram of dipolar bosons in a cylindrical setup</title>
+    <updated>2026-10-16T16:17:11Z</updated>
+    <link href="https://arxiv.org/abs/2610.23687v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23687v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Temperature plays a non-trivial role in dipolar systems, being able to either induce or destroy spatial density modulations. In order to shed light into the interplay between thermal effects and quantum correlations, we employ the path integral Monte Carlo method (PIMC) to obtain the phase diagram of a system of dipolar bosons in an infinite cylindrical geometry and at finite temperatures. For a fixed total density, we vary the scattering length of the interaction and the temperature, and characterize the structure and superfluidity of the emerging phases. The PIMC method accounts for thermal effects and quantum correlations at all orders, and can be used to quantitatively estimate the superfluid fraction of the system. Remarkably, we find a regime of parameters where, starting from a supersolid, the spatial order vanishes with temperature before the superfluidity does. We also find a region of the phase diagram where the superfluid fraction displays a non-monotonous dependence with temperature. Our results extend previous descriptions, relying on Bogoliubov theory, to larger temperatures in the thermodynamic limit and illustrate how spatial modulations and superfluidity are lost as temperature is increased.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T16:17:11Z</published>
+    <arxiv:comment>6 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Juan Sánchez-Baena</name>
+    </author>
+    <author>
+      <name>Raúl Bombín</name>
+    </author>
+    <author>
+      <name>Jordi Boronat</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23366v1</id>
+    <title>Statistics-controlled topological phases in a Su-Schrieffer-Heeger ladder</title>
+    <updated>2026-10-16T12:17:09Z</updated>
+    <link href="https://arxiv.org/abs/2610.23366v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23366v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In strictly one-dimensional lattices, free fermions and hard-core bosons exhibit equivalent physical properties in many-particle systems. However, this statistical equivalence generally breaks down upon moving to higher dimensions. Our work investigates the significant effects of this difference on the topological phase transition in a minimal system lying away from one dimension: the two-leg Su-Schrieffer-Heeger (SSH) ladder. Starting in the limit of two decoupled SSH chains having opposite hopping dimerization patterns (staggered dimerization), we demonstrate that introducing inter-leg coupling drives a transition from a topological to a trivial phase for both spinless fermions and hard-core bosons. However, the topological to trivial phase transition boundary is strongly sensitive to the underlying particle statistics. We find that this intriguing effect favors a trivial phase sandwiched between the two topological phases with opposite characters for the case of hard-core bosons, resulting in a reentrant topological phase transition. In contrast, this reentrant phenomenon is absent for spinless fermions, with the topological phases being separated by a gapless line instead of an intervening trivial phase. This study demonstrates the interplay between particle statistics and topological features, revealing fundamentally different properties in an experimentally accessible set-up.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T12:17:09Z</published>
+    <arxiv:comment>5+2 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Rajashri Parida</name>
+    </author>
+    <author>
+      <name>Biswajit Paul</name>
+    </author>
+    <author>
+      <name>Smitha Vishveshwara</name>
+    </author>
+    <author>
+      <name>Diptiman Sen</name>
+    </author>
+    <author>
+      <name>Tapan Mishra</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23314v1</id>
+    <title>Interfacial Faraday instability driven by interspecies-interaction modulation in a phase-separated binary Bose-Einstein condensate</title>
+    <updated>2026-10-16T11:17:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.23314v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23314v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate interfacial Faraday instabilities in a quasi-two-dimensional, phase-separated binary Bose-Einstein condensate driven by periodic modulation of the interspecies scattering length. In the strongly immiscible regime, the interspecies interaction energy is concentrated near the internal interface, linking the modulation to interfacial tension and the capillary restoring force. We quantify the first-order tension response through its logarithmic sensitivity and account for nonlinear tension variations at finite modulation amplitudes. A sharp-interface capillary model and Floquet analysis yield discrete azimuthal-mode frequencies and primary instability tongues that shift toward higher driving frequencies with increasing mode order. Gross-Pitaevskii simulations reveal star-shaped interface patterns with threefold to eightfold rotational symmetry. The eightfold mode exhibits subharmonic oscillations and approximately exponential growth of its period-averaged amplitude over a small-deformation interval. These results provide a route to frequency-selective excitation of interfacial capillary modes through interspecies-interaction control.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T11:17:27Z</published>
+    <arxiv:comment>12 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Yating Huang</name>
+    </author>
+    <author>
+      <name>Yan Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23165v1</id>
+    <title>Universal Long-distance Tail of Particle-number Density near a Wall in Superfluids</title>
+    <updated>2026-10-16T09:04:08Z</updated>
+    <link href="https://arxiv.org/abs/2610.23165v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23165v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate the long-distance recovery of the particle-number density near a static, impermeable wall in a $d$-dimensional Galilean-invariant superfluid. Using superfluid effective field theory (EFT) on a half-space, we show that quantum phonon fluctuations produce a $z^{-(d+1)}$ tail in the smooth density profile at zero temperature, where $z$ is the distance from the wall. The tail coefficient is fixed by the bulk equation of state and is independent of microscopic wall details. At low temperature $T$, the thermal length $c_s/T$, with $c_s$ the bulk sound speed, separates the zero-temperature behavior at intermediate distances from a thermal $Tz^{-d}$ tail at larger distances for $d&gt;1$. For $d=1$, the long-distance phonon contribution instead decays as $\exp(-4πTz/c_s)$. The EFT applies to both Bose and Fermi superfluids, including strongly interacting Fermi gases at unitarity. We estimate the normalized tail amplitude in three dimensions across the BCS--BEC crossover using experimental sound-speed data.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T09:04:08Z</published>
+    <arxiv:comment>6 pages, 2 figures, plus 8 pages of Supplemental Material</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Keisuke Fujii</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23043v1</id>
+    <title>Discrete time crystals and classical logic gates in coupled open Dicke models</title>
+    <updated>2026-10-16T07:22:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.23043v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23043v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate the dynamics of coupled discrete time crystals (DTCs) in the coupled Dicke model or Dicke dimer (DD) with dissipation. By numerically simulating the mean-field dynamics of the system, we show that coupling two DTCs decreases their oscillation amplitude following a transient relaxation period. For sufficiently strong coupling, the coupled DTCs become unstable, resulting in the system relaxing towards the normal phase (NP). We demonstrate that the relaxation time diverges near the critical coupling strength, suggesting a continuous phase transition. Using the truncated Wigner approximation (TWA), we explore how the dynamics are affected by the introduction of quantum fluctuations. We also consider a scenario in which an NP is briefly coupled to a DTC, seeding the NP to transform into a DTC that is either synchronized or anti-synchronized relative to the DTC. We investigate the robustness of this phenomenon in the presence of noise. Using these results, we propose a scheme to perform NAND and NOR operations with three DTCs by sequentially coupling the input and output sites. We identify the parameter regimes in which the logic gate architecture remains valid, and investigate how the protocol is affected by the presence of quantum fluctuations.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T07:22:33Z</published>
+    <arxiv:comment>9 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Emmanuel D. G. U</name>
+    </author>
+    <author>
+      <name>Roy D. Jara</name>
+    </author>
+    <author>
+      <name>Jayson G. Cosme</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22639v1</id>
+    <title>Universal Threshold Laws for Dipolar Evaporation of Molecular Fermi Gases</title>
+    <updated>2026-10-15T20:54:21Z</updated>
+    <link href="https://arxiv.org/abs/2610.22639v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22639v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Fermi statistics suppress the elastic collisions that rethermalize a Fermi gas during evaporative cooling, creating a fundamental low-temperature bottleneck for producing quantum degenerate gases. We show that, for shielded single-component ultracold dipolar molecular Fermi gases in the Wigner threshold regime, this bottleneck is governed by universal threshold laws fixed by the effective dimensionality of the gas. In this regime, Fermi suppression of rethermalization scales quadratically with temperature in 3D but only linearly in 2D. Consequently, the thermalization-to-loss ratio is more favorable in 2D than in 3D, and these results suggest that 2D geometries are better suited for reaching deep degeneracy. We also present ab initio close-coupling calculations that agree well with experimental measurements on Fermi degenerate gases of KRb molecules, supporting our conclusions.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T20:54:21Z</published>
+    <arxiv:comment>9 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Kevin B. Xu</name>
+    </author>
+    <author>
+      <name>John L. Bohn</name>
+    </author>
+    <author>
+      <name>Reuben R. W. Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.21761v1</id>
+    <title>Probing Deconfined Quantum Criticality Point on a Digital Quantum Computer</title>
+    <updated>2026-10-15T12:17:30Z</updated>
+    <link href="https://arxiv.org/abs/2610.21761v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.21761v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A deconfined quantum critical point (DQCP) is a continuous transition between ordered phases with unrelated broken symmetries, beyond the Landau-Ginzburg-Wilson paradigm. In one dimension, such a transition between a $z$-polarized ferromagnet (zFM) and a valence-bond solid (VBS) is well established numerically in a frustrated spin-$1/2$ chain. Here we ask whether a superconducting quantum processor can resolve this transition and its signatures despite finite-size effects and device noise. The ground states are prepared by ancilla-projected quantum imaginary-time evolution (QITE), whose exact target states are compressed by tensor-network optimization into shallow depth quantum circuits. The hardware data distinguish the phases through their order parameters, spin and dimer correlations, structure factors, correlation ratios, and snapshot distributions. The crossing of the order parameters locates the transition, and its finite-size extrapolation lies close to the thermodynamic-limit value obtained from large-scale numerics. A noise model based on the device calibration accounts quantitatively for the reduced amplitudes measured on hardware. Our findings demonstrate that a Landau-forbidden transition between competing orders can be resolved on current quantum processors.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T12:17:30Z</published>
+    <arxiv:comment>14 pages, 15 figures. Comments are welcome</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Mrinal Kanti Giri</name>
+    </author>
+    <author>
+      <name>Pinaki Sengupta</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.21155v1</id>
+    <title>Localized states of the non-Hermitian Schr{ö}dinger equation with a complex $1/r^{2}$ potential: from Efimov states to bipolarons</title>
+    <updated>2026-10-15T03:15:16Z</updated>
+    <link href="https://arxiv.org/abs/2610.21155v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.21155v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the non-Hermitian Schrödinger equation with a complex $1/r^{2}$ potential, which bridges Hermitian few-body and non-Hermitian many-body physics: a real attractive potential describes Efimov bound states, whereas a purely imaginary one describes the medium-induced interaction between two heavy polarons at large separations. We solve this equation analytically, obtaining both the localized and continuum states, and compare the solutions with numerical and WKB results. As the imaginary part of the potential is increased, the energies of the Efimov bound states acquire imaginary parts and rotate counterclockwise in the complex plane. On approaching the purely imaginary potential, the excited states disappear sequentially, while the Efimov ground state is smoothly connected to a bipolaron state localized at short distance. Such a bipolaron is localized solely by the medium-induced imaginary interaction, without any attractive real potential. Solving the equation by finite differences, we find that each bipolaron state is necessarily accompanied by another localized state that oscillates on the scale of the mesh size and hence has no counterpart in the continuum limit. Each such pair coalesces at an exceptional point as the strength of the purely imaginary potential is varied, whereas the coalescence is lifted once a finite real part is introduced. We show that this behavior originates from a symmetry of the discretized Schrödinger equation that holds for any purely imaginary potential.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nucl-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T03:15:16Z</published>
+    <arxiv:comment>13 pages, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Kyoka Tsunoda</name>
+    </author>
+    <author>
+      <name>Kazuki Yamamoto</name>
+    </author>
+    <author>
+      <name>Shimpei Endo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20910v1</id>
+    <title>Equality of the Jellium and the Uniform Electron Gas Energies</title>
+    <updated>2026-10-14T20:40:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.20910v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20910v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Jellium, a system of electrons in a uniform neutralizing background, and the uniform electron gas (UEG), a system of electrons with constant density and no background, are two standard models of the electron gas. We prove that the ground-state energy per unit volume of Jellium, as defined by Lieb and Narnhofer, coincides with the UEG energy defined by Lewin, Lieb and Seiringer, i.e. \[ e^\hbar_{\rm Jel}(ρ_0)=e^\hbar_{\rm UEG}(ρ_0). \] This equality was previously established in the classical case by Lewin, Lieb and Seiringer and independently by Cotar and Petrache.</summary>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T20:40:19Z</published>
+    <arxiv:comment>GitHub repo with Lean formalization: https://github.com/xyzw/jellium_ueg</arxiv:comment>
+    <arxiv:primary_category term="math-ph"/>
+    <author>
+      <name>Mihály A. Csirik</name>
+    </author>
+  </entry>
+</feed>

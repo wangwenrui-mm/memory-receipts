@@ -1,0 +1,1138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/2UL1YYqpphIz49qZLRItVqK3M8k</id>
+  <title>arXiv Query: search_query=cat:cond-mat.dis-nn&amp;id_list=&amp;start=0&amp;max_results=50</title>
+  <updated>2026-10-23T08:39:12Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=cat:cond-mat.dis-nn&amp;start=0&amp;max_results=50&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <opensearch:totalResults>27322</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31580v1</id>
+    <title>Mixed State Deep Thermalization under Generic Quantum Errors</title>
+    <updated>2026-10-22T17:16:16Z</updated>
+    <link href="https://arxiv.org/abs/2610.31580v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31580v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Pure-state deep thermalization predicts that, after sufficient scrambling, projected ensembles approach universal distributions that contain information beyond the reduced density matrix. In realistic quantum systems, however, noise is unavoidable and the projected states are generally mixed. Whether mixed-state deep thermalization admits an analogous universal limiting distribution has remained unclear. Here we answer this question for quantum dynamics containing local quantum channels, i.e., errors. We show that the late-time mixed-state projected ensemble is completely determined by the normalized Choi state of the error channel and is universal, independent of the microscopic details of the underlying unitary dynamics. We establish this result analytically for dual-unitary circuits, global Haar-random dynamics, and local Haar-random circuits at large local dimension, and verify it numerically in qubit circuits and kicked Ising dynamics. In a solvable setting, we further find exponentially fast convergence to the limiting ensemble. Our results extend deep thermalization to noisy quantum dynamics and establish a direct correspondence between quantum errors and universal random mixed-state ensembles.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T17:16:16Z</published>
+    <arxiv:comment>18+15 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Xie-Hang Yu</name>
+    </author>
+    <author>
+      <name>Pavel Kos</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31575v1</id>
+    <title>Dynamics of random recurrent neural networks: colored noise and sublinear activations</title>
+    <updated>2026-10-22T17:14:59Z</updated>
+    <link href="https://arxiv.org/abs/2610.31575v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31575v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the dynamics of recurrent neural networks with random couplings, sublinear odd activation functions, and temporally correlated noise. Using large N methods, we determine stationary correlations and distinguish the loss of local linear stability from the onset of chaos, characterized by a positive largest Lyapunov exponent. These thresholds delimit an intermediate regime in which local instability coexists with asymptotic stability under a common noise history. Their separation depends on both the noise correlation time and the asymptotic growth of the activation function. We show that internal noise with any finite correlation time cuts off the divergence of the network's intrinsic correlation time tau_corr at the edge of chaos; it exhibits a critical scaling tau_{corr,max} propto 1/sqrt{D_0}, where D_0 is the integrated noise strength. Static random input instead produces coincident thresholds and a divergent correlation time. We also calculate the frequency-dependent participation dimension from a four-point correlation function. Its zero-frequency value is inversely proportional to the fourth power of the network correlation time, predicting a smooth minimum at the weak-noise chaos threshold. Numerical simulations support the large-network predictions and reveal appreciable finite-size effects.</summary>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.CD" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T17:14:59Z</published>
+    <arxiv:comment>44 pages, 14 figures</arxiv:comment>
+    <arxiv:primary_category term="q-bio.NC"/>
+    <author>
+      <name>German Mato</name>
+    </author>
+    <author>
+      <name>Facundo Rigatuso</name>
+    </author>
+    <author>
+      <name>Gonzalo Torroba</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31190v1</id>
+    <title>Site and bond percolation thresholds of all $k$-uniform tilings with $k\le 10$</title>
+    <updated>2026-10-22T12:39:29Z</updated>
+    <link href="https://arxiv.org/abs/2610.31190v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31190v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We determine the site and bond percolation thresholds of all 23,396 $k$-uniform tilings of the plane by regular polygons with $k\le 10$, the complete set according to the known enumeration. We use Monte Carlo simulation on tori and the condition that no wrapping and a cross-wrapping cluster are equally probable, the Monte Carlo form of the critical-polynomial criterion, which needs no knowledge of the large-scale anisotropy that most of these lattices have. The 486 thresholds with $k\le4$ have uncertainties of a few units in the sixth decimal and reproduce the 22 Archimedean reference values (rms deviation 0.71 standard errors) and unpublished bond thresholds of the 20 two-uniform lattices ($χ^2=19.5$ for 20 values); the others have median statistical uncertainties of $2\times10^{-5}$ ($k\le7$) to $7\times10^{-5}$ ($k\ge8$) and no detectable finite-size bias. The vertex-type fractions alone fix the thresholds for $k\ge5$ to about $2\times10^{-3}$ (linear rule fitted on $k\le4$), while tilings with equal composition differ by up to $6\times10^{-3}$ (site) and $2\times10^{-2}$ (bond). In the range of domain sizes covered, descriptors of radius one account for more than half of this difference, and stackings of identical strips have thresholds linear in the fraction of each boundary type. For tilings that differ only by the registry of strips separated by $h$ rows of squares, the bond threshold difference decreases by a factor of 6-8 per row, comparable to the leading momentum-$π$ eigenvalue of the square-band transfer matrix.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T12:39:29Z</published>
+    <arxiv:comment>19 pages, 5 figures, 9 tables. Code, data and raw histograms: https://doi.org/10.5281/zenodo.23533708</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Maksim Elisov</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30741v1</id>
+    <title>Localization Contrast As a Fundamental Limit of Radiative Quantum Efficiency</title>
+    <updated>2026-10-22T05:13:39Z</updated>
+    <link href="https://arxiv.org/abs/2610.30741v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30741v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Disorder can localize valence- and conduction-band states to different degrees, yet whether such localization contrast has observable consequences remains poorly understood. Here, we show that localization contrast strongly impacts competing carrier-recombination channels. We illustrate this behavior in random In$_x$Ga$_{1-x}$N alloys. Increasing the In content from $x=13.5\%$ to $x=22\%$ progressively localizes the valence-band maximum state while leaving the conduction-band minimum state comparatively delocalized. This contrasting localization decreases the interband optical momentum matrix element underlying radiative recombination. For Auger-Meitner recombination, however, localization alone does not determine the coupling; atomic-scale disorder also breaks primitive-cell translational symmetry and modifies the momentum-space and phase structure of the states. This generates additional low-$Q$ components and enhances the Auger coupling by more than five orders of magnitude relative to pristine GaN. Thus, we provide a microscopic explanation for the competing trends in radiative and Auger recombination. More broadly, our results establish localization contrast as a mechanism through which disorder can control optical and carrier-carrier interactions in semiconductors.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T05:13:39Z</published>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Arsineh Apelian</name>
+    </author>
+    <author>
+      <name>Tanay Tak</name>
+    </author>
+    <author>
+      <name>Xuance Jiang</name>
+    </author>
+    <author>
+      <name>Tsung-Yin Tsai</name>
+    </author>
+    <author>
+      <name>James S. Speck</name>
+    </author>
+    <author>
+      <name>Vojtech Vlcek</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30726v1</id>
+    <title>Symmetry-Preserving Local Representation for Short-Range Interaction in Complex Materials</title>
+    <updated>2026-10-22T04:53:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.30726v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30726v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Modeling short-range interactions in highly disordered materials remains challenging due to the immense configuration space and the disruption of local symmetry in truncated theoretical models. Here, we propose a symmetry-preserving local representation framework that strictly enforces topological continuity and translational invariance via boundary passivation. Applied to high-entropy alloys, this approach autonomously unravels the nonlinear ligand effects modulating local reactivity and accurately captures coverage-dependent many-body interactions without explicit periodic expansion. By resolving the conflict between localized chemical environments and extended periodic boundaries, this framework not only reduces computational complexity by an order of magnitude but also provides a physically transparent paradigm for deciphering short-range order in complex condensed matter systems.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T04:53:27Z</published>
+    <arxiv:comment>4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Hao Cheng</name>
+    </author>
+    <author>
+      <name>Tong Yang</name>
+    </author>
+    <author>
+      <name>Hao Wu</name>
+    </author>
+    <author>
+      <name>Haokai Hong</name>
+    </author>
+    <author>
+      <name>Zhongrui Wang</name>
+    </author>
+    <author>
+      <name>Shu Ping Lau</name>
+    </author>
+    <author>
+      <name>Wanyu Lin</name>
+    </author>
+    <author>
+      <name>Kay Chen Tan</name>
+    </author>
+    <author>
+      <name>Ming Yang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30321v1</id>
+    <title>Extreme competition between stripes and superconductivity in the hole-doped Hubbard model</title>
+    <updated>2026-10-21T18:33:57Z</updated>
+    <link href="https://arxiv.org/abs/2610.30321v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30321v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The two-dimensional Hubbard model was originally proposed as the minimal model of uniform $d$-wave superconductivity in the cuprate high-temperature superconductors, but recent calculations with relevant parameters in a realistic doping regime have often found other ground states. Further, uncertainty remains over such results due to the intrinsic bias of different computational methods. Here we address this uncertainty through state-of-the-art neural tensor network and neural backflow state simulations, enabled by large-scale GPU computation, that together reach an unprecedented variational accuracy on lattices with up to 1024 sites. At $1/8$ doping in the pure Hubbard model, as well as with next-nearest-neighbor hopping relevant to the hole-doped cuprates, we reveal a near degeneracy among a low-energy uniform $d$-wave state, superconducting stripes, and non-superconducting stripe states on the milli-$t$ energy scale. Our work rebalances the narrative that the Hubbard model supports a single dominant order in relevant parameter regimes towards a picture of extreme competition between stripes and superconductivity.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.supr-con" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:33:57Z</published>
+    <arxiv:comment>33 pages, 25 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Ao Chen</name>
+    </author>
+    <author>
+      <name>Johnnie Gray</name>
+    </author>
+    <author>
+      <name>Si-Jing Du</name>
+    </author>
+    <author>
+      <name>Garnet Kin-Lic Chan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30301v1</id>
+    <title>Non-adiabatic Optimisation via Localisation-Delocalisation Transitions</title>
+    <updated>2026-10-21T18:16:44Z</updated>
+    <link href="https://arxiv.org/abs/2610.30301v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30301v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The promise of efficiently solving classical optimisation problems on quantum computers is tantalizing. As many such problems can be mapped to approximating the ground state of spin-glasses, paradigmatic models for studying many-body localisation, it is natural to ask if some of the intuition coming from quantum statistical mechanics can help guide the construction of novel quantum optimisation algorithms. In this work, we discuss how continuous reverse quantum annealing crossing a many-body localisation transition can be accelerated by considering the density of Landau-Zener crossings as the system is quenched. We provide an interpretation of this behaviour in terms of an effective Fokker-Planck equation for the success probability of the algorithm. This interpretation suggests an improvement in the required annealing time as a function of the system size $N$, which goes from $\mathcal{O}({\rm poly}(N))$ to $\mathcal{O}(1)$ for reference states with non-vanishing energy density. We show that the continuous dynamics can be Trotterised with a number of steps that remains modest as system size increases, making it appealing for near-term devices. For the resulting circuit implementation, we provide a quantitative strategy for determining the parameters of the time-dependent Hamiltonian. We compare the performance of our digitised algorithm, which we call FRIO, against that of the QAOA for finding the ground state of spin-glass problems, in particular the SK model. The numerical results suggest that with suitably selected circuit parameters which can be efficiently found using thermalizing dynamics, FRIO almost always outperforms the conventional QAOA ansatz with pre-optimized angles.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:16:44Z</published>
+    <arxiv:comment>25 pages, 5 figures + supplementary information</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Ryan Smith</name>
+    </author>
+    <author>
+      <name>Sabrina Yue Wang</name>
+    </author>
+    <author>
+      <name>Filippo Maria Gambetta</name>
+    </author>
+    <author>
+      <name>Raul A. Santos</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30271v1</id>
+    <title>Charge-monitored Luttinger liquid</title>
+    <updated>2026-10-21T18:00:09Z</updated>
+    <link href="https://arxiv.org/abs/2610.30271v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30271v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We discuss phases of interacting fermionic Luttinger liquids without particle number conservation, such as those in proximity to a superconductor, subjected to weak continuous measurements of their particle density, in the regime where the bosonization approach is applicable. We show that the phases of these systems are controlled by the competition between measurements, which favor the area-law phase and particle tunneling in and out of the Luttinger liquid, which favors the volume-law phase. The volume-law phase in this system is always charge fuzzy. We show that within this framework, the phase boundary between the two phases is given by a universal dependence of the Luttinger parameter on the measurement rate. This behavior can be contrasted with the non-universal phase boundaries in more generic highly excited one dimensional systems whose behavior is no longer captured by the Luttinger liquid framework.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:00:09Z</published>
+    <arxiv:comment>4 pages and 4 appendices</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Victor Gurarie</name>
+    </author>
+    <author>
+      <name>Leo Radzihovsky</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30257v1</id>
+    <title>Scalable Neural Wave Functions via Information Mixing and Hierarchical Network Architectures</title>
+    <updated>2026-10-21T18:00:05Z</updated>
+    <link href="https://arxiv.org/abs/2610.30257v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30257v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Numerically simulating quantum many-body systems is one of the central challenges in modern physics, as the exponential growth of the Hilbert space with system size renders large-scale exact solutions intractable. Over the past decade, generative artificial neural networks have emerged as powerful wave function ansätze that have powered advances in finding ground state representations, reconstructing quantum states from data, and modeling dynamics in quantum many-body systems. While recurrent neural networks (RNNs) are computationally efficient, the recurrent nature can limit their capacity to capture long-range correlations. Transformer models with their underlying self-attention mechanism excel at capturing these long-range correlations, but incur increased computational requirements, restricting applications to small physical systems. In this work, we address these limitations by exploring the multi-layer perceptron (MLP) mixer model as a wave function ansatz. By mixing information globally and locally through the system via a computationally lightweight mixing strategy, this architecture promises to combine the ability to capture long-range correlations with low computational costs. We benchmark the model on finding ground state representations of two-dimensional quantum many-body systems in various phases of matter and investigate the behavior of representational accuracy and computational efficiency for different physical system sizes. By comparing its performance to RNNs and transformer models with single-site and patched input definitions, we demonstrate that the MLP mixer architecture performs competitively with state-of-the-art network models. We further show that a hierarchical combination of this model with the transformer model outperforms other state-of-the-art architectures for large-scale quantum systems, opening new avenues for investigating quantum phases of matter.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:00:05Z</published>
+    <arxiv:comment>9+5 pages, 9 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Faith Oyedemi</name>
+    </author>
+    <author>
+      <name>Stefanie Czischek</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30241v1</id>
+    <title>Vacancy-driven topological transition of a Chern insulator</title>
+    <updated>2026-10-21T18:00:01Z</updated>
+    <link href="https://arxiv.org/abs/2610.30241v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30241v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We develop a microscopic description of the strong-disorder transition in a Chern insulator using the in-gap ring states bound to individual vacancies. Using Green's function formalism, we construct an energy-dependent Hamiltonian describing their hybridization. In a commensurate periodic vacancy lattice, a Dirac inversion of the zero-energy vacancy kernel accounts for the change in the occupied-state Chern number of the full system. We treat weak positional disorder using the self-consistent Born approximation and numerical disorder averaging, and study independently distributed vacancies using transfer-matrix and multifractal scaling. The local Chern marker and current textures track the transition in real space. Together, these results highlight the role that nonperturbative ring states have as microscopic degrees of freedom through which strong disorder destroys the Chern phase.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:00:01Z</published>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Peize Ding</name>
+    </author>
+    <author>
+      <name>Raquel Queiroz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30118v1</id>
+    <title>The role of locality and weight sharing in convolutional neural networks</title>
+    <updated>2026-10-21T17:56:22Z</updated>
+    <link href="https://arxiv.org/abs/2610.30118v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30118v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The success of convolutional neural networks is often attributed to locality and weight sharing. However, how these two properties separately shape learning, and how their effects depend on the spatial correlations of natural images, remain poorly understood. We address these questions in a teacher-student model with a convolutional teacher acting on $P$ input positions with correlation $c$ between positions. We compare convolutional and locally connected students trained by online stochastic gradient descent, and derive ordinary differential equations that describe their dynamics exactly in the limit of large feature dimension $D$. For uncorrelated positions ($c = 0$), the two students follow the same learning trajectory, with the convolutional student learning exactly $P$ times faster. We also find that locality affects the sample complexity: a student that matches the kernel size of the teacher recovers it from $\mathcal{O}_{D}(D)$ samples, whereas $\mathcal{O}_{D}(D\log(D))$ samples are needed with a larger kernel. For $c &gt; 0$, spatial correlations can reduce the advantage of weight sharing. The asymptotic error of the convolutional student grows with $c$, whereas that of the locally connected student is independent of $c$ and overall lower when evaluated at the same learning rate. When the learning rate is instead tuned to the training horizon, however, the locally connected student wins at early times and the convolutional student at late times, with a transition that we predict analytically.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T17:56:22Z</published>
+    <arxiv:comment>39 pages, 11 figures, including appendices</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Francesco Mori</name>
+    </author>
+    <author>
+      <name>Melanie Weber</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30009v1</id>
+    <title>Mitigating Model Collapse through Dreaming Learning</title>
+    <updated>2026-10-21T16:41:53Z</updated>
+    <link href="https://arxiv.org/abs/2610.30009v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30009v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Training generative models on synthetic data causes loss of diversity and a decrease in performance, a phenomenon known as model collapse. We study this degeneration spectrally in a controlled Markov setting. The eigenvalue spectrum of the learned transition operator offers a direct view of the process, since the subdominant eigenvalues set how fast the chain mixes and therefore how much of the state space it continues to explore. We find that sampling at temperature $T_s &lt; 1$ acts on the operator like repeated sharpening, pushing it toward a deterministic system: the subdominant eigenvalues approach the unit circle and the spectral gap narrows. When $T_s &lt; 1$, even data accumulation does not appear to arrest this drift. We then analyze Dreaming Learning, a regulariser that, in parallel with regular training, adds a loss term on the model's own samples drawn at a raised temperature $T_d &gt; 1$. Because high-temperature samples flatten the predicted distribution, training on them keeps the entries of the learned operator from becoming vanishingly small, which in turn keeps the eigenvalues bounded away from the unit circle. Measurements of the spectra over 5000 generations are consistent with this picture, and the mitigation effect persists in more complex settings such as LSTM language models and a 124M-parameter GPT-2.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T16:41:53Z</published>
+    <arxiv:comment>8 pages, 6 figures. Accepted at the 2nd Workshop on Principles of Generative Modeling (PriGM), NeurIPS 2026</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Matteo Benati</name>
+    </author>
+    <author>
+      <name>Alessandro Londei</name>
+    </author>
+    <author>
+      <name>Denise Lanzieri</name>
+    </author>
+    <author>
+      <name>Raffaello Mastromarino</name>
+    </author>
+    <author>
+      <name>Vittorio Loreto</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29931v1</id>
+    <title>Two-stage Slowdown of Vacancy-mediated Diffusion in a Lattice Gas Model with Quenched Disorder and Spins</title>
+    <updated>2026-10-21T16:04:20Z</updated>
+    <link href="https://arxiv.org/abs/2610.29931v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29931v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present a lattice gas model with random interactions quenched in space and spins quenched to the particles. The vacancy-mediated diffusion is studied in equilibrium. A two-stage slowdown is witnessed in both the mean squared displacement and the spatial overlaps. We demonstrate that the plateaus are due to anti-correlation at the corresponding length scale. The anti-correlation diminishes quickly with increasing lag time. A broad and yet finite distribution of the survival function of vacancies suggests their normal diffusion at large time limit. Our model can serve as a new playground for understanding hierarchical dynamics in glassy-like dynamical systems.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T16:04:20Z</published>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Qiang Zhai</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29862v1</id>
+    <title>Quenched disorder in polymerized membranes: from anomalous elasticity to a glassy phase</title>
+    <updated>2026-10-21T15:18:48Z</updated>
+    <link href="https://arxiv.org/abs/2610.29862v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29862v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Polymerized membranes are paradigmatic fluctuating systems in which geometry, elasticity, and statistical fluctuations combine to produce anomalous long-distance behavior. In the disorder-free flat phase, bending rigidity increases at long wavelengths while in-plane elastic moduli soften. Quenched random metric and curvature introduce competing thermal and disorder-induced fluctuations. We review perturbative and nonperturbative field-theoretical approaches to these systems, from pure membranes to their disordered counterparts. Early one-loop studies identified a disorder-free fixed point, $P_4$, and a zero-temperature disorder-dominated fixed point, $P_5$. A subsequent nonperturbative renormalization-group analysis revealed a third fixed point, $P_c$, at finite temperature and disorder, governing a continuous wrinkling transition between the thermally dominated flat phase and a disorder-dominated glassy phase. Higher-order perturbative calculations also recover a $P_c$-like fixed point, with anomalous dimensions remarkably close to the reexpanded nonperturbative predictions. This scenario connects naturally with the wrinkling transition observed in partially polymerized lipid membranes. The three experimental scaling regimes of height fluctuations can be associated with $P_4$, $P_c$, and $P_5$, with theoretical exponents showing good quantitative agreement with measurements, particularly at criticality. Finally, we discuss the status of the glassy scenario, the unresolved discrepancy between perturbative and nonperturbative fixed-point stability predictions, and possible extensions to defective graphene and related two-dimensional crystalline materials.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:18:48Z</published>
+    <arxiv:comment>20 pages, 1 figure, Proceedings of the IRS (Inhomogeneous Random Systems) workshop, Institut Henri Poincaré (Paris), Janvier 27-28, 2026</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>D. Mouhanna</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29022v1</id>
+    <title>Characterizing universal topological phases beyond spatial embedding</title>
+    <updated>2026-10-21T00:50:04Z</updated>
+    <link href="https://arxiv.org/abs/2610.29022v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29022v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Although Hamiltonians govern wave-matter interactions, conventional characterizations of topological phases of matter require more than the Hamiltonian alone, relying on global invariants defined on closed reciprocal-space manifolds or local commutation relations with position operators. This spatial dependence precludes a unique characterization of topological phases on an abstract platform, whose Hamiltonian can be defined independently of its spatial embedding. Here we establish a framework for characterizing universal topological phases, grounded in the invariance of topological features under arbitrary Hamiltonian-preserving deformations. We construct a Hamiltonian-based spatial embedding that groups a system's constituents according to their connectivity. This embedding, which reproduces the results of conventional topological diagnostics in established systems, enables a coherent extension of topological phases to complex networks using the Hamiltonian alone, further highlighting exceptional robustness in small-world networks. Our results reshape the conceptual foundations of topological physics by decoupling topological characterization from prescribed physical platforms.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T00:50:04Z</published>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Sunkyu Yu</name>
+    </author>
+    <author>
+      <name>Xianji Piao</name>
+    </author>
+    <author>
+      <name>Namkyoo Park</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28528v1</id>
+    <title>Efficient Ground-State Manifold Amplification for Rydberg Atom Arrays via Houdayer Cluster Updates</title>
+    <updated>2026-10-20T17:03:05Z</updated>
+    <link href="https://arxiv.org/abs/2610.28528v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28528v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We demonstrate a hybrid quantum-classical approach for exploring ground-state manifolds of maximum independent set problems, in which quantum hardware supplies the initial solutions and an entirely classical post-processing algorithm expands them, increasing the solution diversity of quantum hardware measurements by up to several orders of magnitude. Quantum optimization devices, while capable of generating high-quality solutions, can suffer from fundamental sampling limitations. This is particularly problematic for applications that strongly depend on a large variety of uncorrelated optimal solutions. We apply the Houdayer cluster update algorithm to systematically expand quantum-generated solution sets through classical post-processing. We validate our approach on a test bed of 43 problem instances from QuEra's Aquila analog annealing device, achieving diversity amplification factors, defined as the increase in the number of distinct solutions at a given set size, of up to 11923x with a median of 24.3x across different problem scales and hardness parameters. Because exact ground-state degeneracies are known for these instances, the recovered fraction of the manifold can be measured rather than bounded: post-processing recovers a median of 21% of the ground-state manifold, and provably all of it for six instances. We also demonstrate that, in some cases, the classical post-processing can discover independent sets larger than those found by the quantum hardware, thus improving on solution quality and not just diversity. While the method is non-ergodic and cannot guarantee complete manifold coverage, it consistently discovers a larger number of high-quality, and in some cases strictly better, configurations than quantum sampling alone. This work demonstrates how simple classical post-processing can enhance the utility of quantum optimization results.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.OC" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T17:03:05Z</published>
+    <arxiv:comment>15 pages, 6 figures, 1 table</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Andrew J. Ochoa</name>
+    </author>
+    <author>
+      <name>Martin J. A. Schuetz</name>
+    </author>
+    <author>
+      <name>Helmut G. Katzgraber</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28461v1</id>
+    <title>Ubiquitous Flat Bands in Edge-Inflated Random Graphs</title>
+    <updated>2026-10-20T16:15:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.28461v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28461v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Flat bands are usually associated with periodic lattice geometries, where destructive interference or chiral-symmetry constraints produce macroscopically degenerate eigenstates. Here we show that flat bands arise generically in a broad class of nonperiodic random networks through a simple edge-inflation procedure. Starting from random regular, Voronoi tessellation, Delaunay triangulation, scale-free, small-world, and Erdös-Rényi seed graphs, each edge is replaced by a finite one-dimensional tight-binding chain, either with fixed length $L$ or with random lengths of mean $\bar L$. Although the original random graphs typically have adjacency matrices of full rank and therefore few or no zero eigenstates, their inflated counterparts exhibit extensive flat bands. The flat-band energies are determined by the eigenstates residing on the chains or, more generally, by the eigenvalues of identical loopless motifs replacing the seed bonds. The corresponding eigenstates are states supported on subsets of the inflated chains formed by destructive interference at the original seed vertices. For zero-energy flat bands, we relate the degeneracy to the graph nullity $η(G)$ and the maximum matching number $ν(G)$. The numerical results support the correspondence $η(G)=N-2ν(G)$, up to small deviations, across the random graph ensembles studied. The fraction of degenerate zero-energy states in inflated random graphs is controlled primarily by the average degree of the seed graph. We further show that the flat bands exhibit characteristic robustness to disorder: disorder on the seed sites and random magnetic flux leave the flat bands essentially unchanged, while bond disorder and disorder on the chain or motif sites broaden them. These results show that flat bands do not require crystalline order, but can emerge as robust consequences of local graph inflation and motif substitution.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T16:15:42Z</published>
+    <arxiv:comment>14 pages,6 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Richard Berkovits</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27872v1</id>
+    <title>Moments of Random Permanents and Hafnians: A Replica Approach</title>
+    <updated>2026-10-20T08:54:29Z</updated>
+    <link href="https://arxiv.org/abs/2610.27872v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27872v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Using contour-integral representations of the permanent and of the Hafnian, we turn the computation of their moments for random matrices into a replica calculation, analogous to that of the moments of the partition function of a mean-field spin glass. For the $2k$-th moment of $N\times N$ matrices with independent entries, the dominant saddle point is replica symmetric for $k&gt;2$, and we obtain in closed form the exponential growth rate, the prefactor and the first $1/N$ correction, in agreement with exact enumerations. The growth rate depends only on whether the entries are real or complex; higher cumulants affect only the prefactor and the $1/N$ term. At $k=2$ the replica-symmetric solution becomes unstable, separating a power-law bulk of the distribution from a large-deviation tail, which we compute. The results apply to boson sampling with single photons and with squeezed light.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T08:54:29Z</published>
+    <arxiv:comment>19 pages, 6 figures, 4 tables</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Paolo Facchi</name>
+    </author>
+    <author>
+      <name>Angelo Mariano</name>
+    </author>
+    <author>
+      <name>Giorgio Parisi</name>
+    </author>
+    <author>
+      <name>Saverio Pascazio</name>
+    </author>
+    <author>
+      <name>Antonello Scardicchio</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27436v1</id>
+    <title>Steering of topological criticality in the Su-Schrieffer-Heeger chain via non-Hermitian substitutional impurities</title>
+    <updated>2026-10-20T00:37:06Z</updated>
+    <link href="https://arxiv.org/abs/2610.27436v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27436v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate the topological phase in a one-dimensional Su-Schrieffer-Heeger (SSH) chain in the presence of a finite concentration of non-Hermitian substitutional impurities. Our primary focus is the discovery of a deterministic mechanism to actively reconfigure the topological phase boundaries by introducing site-dependent, non-reciprocal intracell and intercell hopping amplitudes. Specifically, breaking the internal structural symmetry of the non-reciprocal impurity hoppings induces a targeted macroscopic displacement of the critical point. This mechanism allows for the controlled expansion or compression of the topological phase strictly via local defect asymmetry. We validate this boundary displacement through finite-size scaling analysis. The extracted correlation length critical exponents ($ν\approx 1.455$ and $ν\approx 1.397$ for symmetric and asymmetric configurations, respectively) confirm a disorder-induced departure from the pristine SSH universality class, with the exponent diverging at high defect densities. We also report an impurity-induced real-to-complex spectral transition geometrically characterized by the Non-Hermitian Skin Effect. Ultimately, our results establish how isolated non-Hermitian asymmetries cooperatively interact to deterministically shift macroscopic topological protection.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T00:37:06Z</published>
+    <arxiv:comment>7 figures, 13 pages</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Juan A. Cañas</name>
+    </author>
+    <author>
+      <name>Guo-Qing Zhang</name>
+    </author>
+    <author>
+      <name>A. Martín-Ruiz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27321v1</id>
+    <title>Physics-Inspired Optimizers beyond the Edge of Stability: Period-Two Orbits and Delayed Instability</title>
+    <updated>2026-10-19T21:40:30Z</updated>
+    <link href="https://arxiv.org/abs/2610.27321v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27321v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Gradient descent with momentum can be viewed as a particle moving with friction in the loss landscape. In deep learning the learning rate is usually large, so training is a discrete dynamical system: in many full-batch experiments the sharpness grows to the optimizer's stability limit, the edge of stability (EoS), and training continues there. Physics-inspired optimizers change this motion; Velocity-Regularized Adam (VRAdam), for example, shrinks the step at high speed. We study kinetic maps, in which the step is the gradient of a kinetic energy of the momentum, and ask what they do beyond the EoS. (i) In a reduced model, a kinetic map creates a symmetric period-two orbit beyond the edge, strictly linearly stable if and only if the map's elasticity (the log-log slope of step length versus momentum) lies between 0 and 1; on it, training sits at an effective edge of stability. VRAdam's damper fails above twice the critical learning rate, where its kinetic energy is not convex; the Legendre dual of VRAdam's own Lagrangian is convex and passes at every learning rate. (ii) Because the sharpness rises gradually, the loss of stability is delayed, as in Neishtadt's theory of slowly swept bifurcations. In a network with a controlled sweep, the dynamics match this theory without fitted parameters, including the memory of where the sweep started and its erasure by noise. (iii) With momentum, reaching the oscillation also requires elasticity at large momentum: maps that bound the step have competing period-four and chaotic attractors already at beta1 = 0.9, while the cubic-Legendre map reached the oscillation from every sampled start up to beta1 = 0.99. Experiments on an exact quadratic problem, a full-batch MLP and ResNet-32 support the theory; on ResNet-18, much of the apparent benefit of the maps is reproduced by matching the effective learning rate.</summary>
+    <category term="nlin.CD" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T21:40:30Z</published>
+    <arxiv:comment>34 pages</arxiv:comment>
+    <arxiv:primary_category term="nlin.CD"/>
+    <author>
+      <name>Alexander Itin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27154v1</id>
+    <title>Exact spectral integrability of a finite-channel random Schrödinger operator: from fermionization of the Dyson--Riccati gas to Kontsevich integral</title>
+    <updated>2026-10-19T18:45:35Z</updated>
+    <link href="https://arxiv.org/abs/2610.27154v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27154v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We solve exactly, for arbitrary finite channel number $N$, the Riccati dynamics of a quasi-one-dimensional random matrix Schrödinger operator with Hermitian white-noise potential in the $β=2$ unitary symmetry class. The associated Dyson--Riccati eigenvalue gas admits an exact free-fermion representation at any sample length $L$, which in the limit $L\to \infty$ expresses the density of states and the total Lyapunov growth rate exactly through a single Airy Hankel $τ$-function providing multichannel generalization of $N=1$ Halperin--Thouless formulas. The $τ-$function further admits an outgoing-contour Kontsevich matrix Airy integral representation. Its saddle-point and double-scaling analyses give, in a unified way, the finite-channel density Lifshitz tail, and the large-$N$ spectral edge. In particular, for $N\gg 1$ the sharp $N=\infty$ edge is softened within an $N^{-4/5}$ spectral window, with its profile governed by the tritronquée solution of Painlevé I. We conjecture universality of this quasi-one-dimensional scaling edge profile for a broad class of $β=2$ random band matrices.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.SI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T18:45:35Z</published>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Yan V. Fyodorov</name>
+    </author>
+    <author>
+      <name>Pierre Le Doussal</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26536v1</id>
+    <title>Exact cost of the Euclidean Maximum Traveling Salesman Problem in one dimension</title>
+    <updated>2026-10-19T14:58:49Z</updated>
+    <link href="https://arxiv.org/abs/2610.26536v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26536v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the random Euclidean Maximum Traveling Salesman Problem: finding a Hamiltonian cycle of maximal total cost through any set of $N$ cities on a line, where each edge cost is a function of its Euclidean length. We characterize the maximizing cycles for convex increasing, concave increasing, and convex decreasing cost functions. For points sampled independently and uniformly from the unit interval, we derive explicit expressions for the average maximal cost for arbitrary $N$ and asymptotic expansions with power-law edge costs.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:58:49Z</published>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Sergio Caracciolo</name>
+    </author>
+    <author>
+      <name>Carlo Vanoni</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26428v1</id>
+    <title>Systemic collapse emergence from climate-induced perturbations in transportation networks</title>
+    <updated>2026-10-19T13:54:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.26428v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26428v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The interaction between human infrastructures and external events results in loss of functionality or even complete system disruption through a snowball effect of cascading-failures. Their complex interplay challenges their prevention, affecting the human population that rely on their functionality. Understanding how these networks respond to external perturbations is crucial for predicting and mitigating the impacts of disruptive events. In particular, meteorological events, while not preventable, can have significant impacts on human infrastructure. Here, we propose a model coupling the dynamics of transportation systems to the dynamics of external events considered as fields, to capture at the same time the critical behavior of the former and the level of influence of the latter. The impact of rainfalls on real-world railway networks provides a compelling case study, showcasing local endemic and system-wide disruptions around a critical value of the rainfall strength. Remarkably, localized perturbations on the wider network reveals the local weaknesses of the global infrastructure, and we assess them in terms of system perturbability and corresponding societal risk. Our framework opens the door to the quantitative analysis of criticalities in essential human infrastructure imputable to vulnerabilities that are set to intensify due to climate change.</summary>
+    <category term="physics.soc-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T13:54:12Z</published>
+    <arxiv:comment>24 pages, 5 figure and Supplementary Information</arxiv:comment>
+    <arxiv:primary_category term="physics.soc-ph"/>
+    <arxiv:journal_ref>Proc. Natl. Acad. Sci. U.S.A. 123 (42) e2532180123 (2026)</arxiv:journal_ref>
+    <author>
+      <name>Mauro Faccin</name>
+    </author>
+    <author>
+      <name>Tomas Scagliarini</name>
+    </author>
+    <author>
+      <name>Manlio De Domenico</name>
+    </author>
+    <arxiv:doi>10.1073/pnas.2532180123</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1073/pnas.2532180123" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26356v2</id>
+    <title>Origins of Faceted Anomalous Scaling</title>
+    <updated>2026-10-22T10:30:48Z</updated>
+    <link href="https://arxiv.org/abs/2610.26356v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26356v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Fluctuating interfaces are typically characterized by their global, spectral, and local roughness exponents. Faceted anomalous scaling, characterized by $α_s&gt;1$, $α_s\neqα$, and $α_{\mathrm{loc}}=1$, owes its name to the tendency of such interfaces to develop long, nearly linear segments called facets. Its statistical origin, and whether facets are required, have remained unclear. We show that this exponent structure is determined by the spatial statistics of the slope field. Slope increments split into typical fluctuations and rare, larger jumps. This anomalous scaling arises either when the typical slope increment displays genuine system-size-dependent anomalous scaling or when the rare jumps dominate the second moment. The two contributions can coexist, and their competition leads to bifractal scaling of the slopes. We establish this framework analytically in the generalized anharmonic Larkin model and the columnar Kardar--Parisi--Zhang equation, and we derive exactly the global, spectral, and local roughness exponents in both cases. The Larkin model realizes both mechanisms and produces anomalous interfaces with or without facets, whereas columnar KPZ belongs to the jump-dominated case and yields $α_s=3/2$.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T13:18:32Z</published>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Maximilien Bernard</name>
+    </author>
+    <author>
+      <name>José Luis Iguain</name>
+    </author>
+    <author>
+      <name>Alejandro Kolton</name>
+    </author>
+    <author>
+      <name>Alberto Rosso</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26156v1</id>
+    <title>Dynamical Batching: How Class-Cycling Training Shapes the Internal Structure of Neural Networks</title>
+    <updated>2026-10-19T10:44:18Z</updated>
+    <link href="https://arxiv.org/abs/2610.26156v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26156v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate whether cyclically varying the class composition of training batches can modify both the performance and the internal organization of neural networks. Motivated by nonequilibrium systems, in which cycling between related sub-goals can make switching between their solutions increasingly efficient, we introduce Dynamical Batching (DB), a sampling protocol that periodically emphasizes each class while leaving the loss and the optimizer unchanged, and compare it with Uniform Batching (UB), in which every mini-batch has equal class proportions. In the regime where standard training fails, DB changes the outcome: on a three-arm spiral, a capacity-limited MLP that plateaus far below perfect accuracy under UB fits the training data under DB. Tracking individual weights, we find that under DB the change between class-specialized states is carried by a smaller set of weights than under UB, and that this set is markedly more persistent from cycle to cycle, on every synthetic dataset we test and in a wider network that fits the data under both protocols. This organization is a signature of the protocol rather than a predictor of its benefit: it appears equally where DB leaves accuracy unchanged. On CIFAR-10, the same protocol modestly improves the test accuracy of a channel-narrowed ResNet-10, a standard residual architecture, and of a second capacity-limited convolutional network. These results show that how class emphasis is distributed in time can shape both the solution a network reaches and the internal structure of the network.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T10:44:18Z</published>
+    <arxiv:comment>18 pages, 10 figures, 5 tables. Code: https://github.com/samuellozanoiglesias/dynamical_batching (archived at https://doi.org/10.5281/zenodo.23349474)</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Nicolás Ratier-Werbin</name>
+    </author>
+    <author>
+      <name>Samuel Lozano</name>
+    </author>
+    <author>
+      <name>Miguel Ruiz-García</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25557v1</id>
+    <title>Signatures of slow particle transport in the interacting Aubry-André chain</title>
+    <updated>2026-10-18T21:53:03Z</updated>
+    <link href="https://arxiv.org/abs/2610.25557v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25557v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Slow delocalization in strongly disordered many-body quantum chains can originate from two distinct mechanisms: rare resonances and avalanches, rooted in the energy statistics, or an energy-independent combinatorial path-entropy obstruction in operator space. Quasiperiodic potentials eliminate rare regions with similar potentials that are thought to be responsible for avalanche instabilities and modify the statistics of resonances, thus allowing us to delineate the two mechanisms. To do so, we numerically study the entanglement entropy $S(t)$, number entropy $S_N(t)$, and Hartley number entropy $S_H(t)$ following a quantum quench in the interacting Aubry-André chain with disorder strength $D$. We find $S(t)\simμ\ln t$, $S_N(t)\simν\ln\ln t$ with growth rates $μ\simν\sim D^{-γ}$ and $γ\approx 3$, the same behavior that was previously found in the case of quenched disorder. Furthermore, the saturation values $S_H(t\to\infty)$ continue to grow with system size $L$ as $\ln L$, a growth that persists for $D\gtrsim 8$ where MBL was argued to be stable. The similarity of the quasi-periodic and quenched disorder cases points to a common origin of the slow particle transport that does not rely on rare-region avalanches and persists despite strongly modified resonance statistics.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T21:53:03Z</published>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>S. Sharifan</name>
+    </author>
+    <author>
+      <name>M. Kiefer-Emmanouilidis</name>
+    </author>
+    <author>
+      <name>J. Sirker</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25328v1</id>
+    <title>Mode coupling theory analysis of water dynamics detected by dielectric spectroscopy</title>
+    <updated>2026-10-18T15:15:47Z</updated>
+    <link href="https://arxiv.org/abs/2610.25328v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25328v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Mode-coupling theory (MCT), one of the most prominent models of the glass transition, also makes various specific predictions for the molecular dynamics in the liquid state of matter. They can be best experimentally tested by evaluating susceptibility spectra covering a broad frequency range. In the present work, we clarify whether the most recent broadband dielectric-spectroscopy results on water, whose glass transition is highly disputed, are compatible with MCT. The so-called fast beta process, expected within this theory, should be detectable at low temperatures only, inaccessible in water due to its inevitable crystallization upon cooling. Therefore, we also investigate data on aqueous LiCl solutions, which can be easily supercooled. We find that all the available broadband dielectric data on these solutions and pure water are well consistent with MCT. Notably, this includes the expected interrelation of the critical temperature dependence of the alpha relaxation to its often-neglected non-Debye spectral shape. Moreover, the available data on the fast beta process, detected in a 14.8 mol% LiCl solution, are also well consistent with the theory. We find a smooth development of the derived MCT parameters with salt concentration which supports the validity of the critical temperature Tc = 222 K and system parameter lambda = 0.55 deduced here for pure water. We also compare the current dielectric relaxation-time results to those determined by other experimental methods and address the question whether information on the controversial fragile-to-strong transition of water can be obtained from such data. Finally, we discuss the significance of the dominant dielectric relaxation process of water for the glass transition as described by MCT, especially considering scenarios questioning its association with the alpha relaxation.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T15:15:47Z</published>
+    <arxiv:comment>15 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Peter Lunkenheimer</name>
+    </author>
+    <author>
+      <name>Alois Loidl</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25153v1</id>
+    <title>Higher-order disorder correlations control reflected phonon counting statistics</title>
+    <updated>2026-10-18T10:19:20Z</updated>
+    <link href="https://arxiv.org/abs/2610.25153v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25153v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate how structural correlations beyond the power spectrum affect phonon counting in a one-dimensional acoustic stack. An integer-thickness construction cancels the extensive leading backscattering term and leaves a finite-chain reflection amplitude determined by endpoint innovations. For symmetric independent innovations with unit variance and fourth moment $μ_4$, the normalized reflected-power second moment tends to $(μ_4+5)/4$. With vacuum environmental inputs, a two-phonon Fock input therefore gives an ensemble-averaged reflected factorial correlation $g^{(2)}=(μ_4+5)/8$. Two explicitly constructed ensembles with identical mean and complete two-point correlation function yield $g^{(2)}=3/4$ and $9/8$, placing their counting variances on opposite sides of the Poisson value. Conditional tensor averaging also gives a general fourth-order resistance-growth coefficient for arbitrary impedance contrast, including a positive higher-scattering contribution not recovered by shifting the lowest-order spectrum. Exact enumeration confirms the fixed-$N$, small-detuning limit and shows that increasing $N$ at fixed detuning produces a crossover governed by accumulated higher-order bulk scattering rather than convergence to the endpoint formula. Further calculations test bandwidth, thickness error, propagation loss and thermal background. The result concerns disorder-averaged pulse statistics; it neither creates nonclassicality from coherent input nor changes the conditional factorial correlation of an individually resolved passive sample.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T10:19:20Z</published>
+    <arxiv:comment>12 pages, 3 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Ara Sedrakyan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25072v1</id>
+    <title>Large Deviations in Switching Diffusion: Dynamical Condensation and Diffusivity BBP Transition</title>
+    <updated>2026-10-18T07:27:57Z</updated>
+    <link href="https://arxiv.org/abs/2610.25072v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25072v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We consider a Brownian particle with position $x(t)$ whose diffusivity changes at Poissonian switching times, with each new value drawn independently from a bounded distribution $W(D)$. Assuming $W(D)\sim C(D_{\max}-D)^ν$ near its upper edge, we study the large-deviation regime $x(t)\simeq yt$ with $y = O(1)$ at large times, far beyond the typical diffusive scale. In a recent work Guéneau et al., Phys. Rev. Lett. 135, 067102 (2025), the rate function of the displacement was obtained through a renewal approach and it was shown to display several singularities. In this paper, we carry out a detailed study of the corresponding dynamical phase transitions and trajectory condensation. For moderate $y$, the imposed displacement is shared among $O(t)$ displacement increments accumulated during successive intervals between switches. Beyond a first threshold $y_-$, one interval produces an increment of order $t$ carrying a finite fraction of the total displacement, signaling dynamical condensation. For $ν&gt;1$, a second threshold $y_+&gt;y_-$ is reached when this macroscopic increment carries asymptotically the entire imposed displacement, whereas for $0&lt;ν\leq1$ the two thresholds merge, $y_-=y_+$. In turn, the moment-generating function of $x(t)$ displays a complementary transition from collective contributions of many diffusivities to selection of states near $D_{\max}$. We show that this transition is governed by the same edge mechanism as the Baik-Ben Arous-Péché (BBP) transition, indicating that diffusivity selection and trajectory condensation are two manifestations of the same phenomenon. We validate our predictions for the dynamical condensation against numerical results from rare event sampling.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.PR" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T07:27:57Z</published>
+    <arxiv:comment>61 pages, 11 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Mathis Guéneau</name>
+    </author>
+    <author>
+      <name>Timo Schorlepp</name>
+    </author>
+    <author>
+      <name>Satya N. Majumdar</name>
+    </author>
+    <author>
+      <name>Gregory Schehr</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24994v1</id>
+    <title>Random spin-3/2 antiferromagnetic Heisenberg chains revisited</title>
+    <updated>2026-10-18T03:54:20Z</updated>
+    <link href="https://arxiv.org/abs/2610.24994v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24994v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We revisit the spin-reduction transition in the random spin-$3/2$ antiferromagnetic Heisenberg chain using the tensor-network strong-disorder renormalization group (tSDRG). The predicted transition separates two random-singlet (RS) phases: one formed by effective spin-$1/2$ moments at weaker disorder and the other by full spin-$3/2$ moments at stronger disorder. Within the Damle--Huse classification, this transition corresponds to an emergent permutation-symmetric $\mathcal{P}_4$ multicritical point on a $\mathcal{P}_2$ critical line associated with the RS phases. We first derive the critical exponents governing the disorder-averaged bulk and end-to-end correlation functions in the $\mathcal{P}_n$ universality classes within the Damle--Huse framework. Using these theoretical predictions, together with a diagnostic constructed from the mean and variance of the energy-gap distribution, we identify the $\mathcal{P}_4$ transition point and the reentrant behavior of the RS phase.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T03:54:20Z</published>
+    <arxiv:comment>12 pages, 9 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Yen-Tung Lin</name>
+    </author>
+    <author>
+      <name>Pochung Chen</name>
+    </author>
+    <author>
+      <name>Yu-Cheng Lin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24942v1</id>
+    <title>Synchronous and asynchronous Monte Carlo dynamics of mean-field spin glasses with rotationally invariant couplings: what they share and where they differ</title>
+    <updated>2026-10-18T01:27:34Z</updated>
+    <link href="https://arxiv.org/abs/2610.24942v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24942v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We compare two Markov chain Monte Carlo dynamics for Ising spin glasses with rotationally invariant couplings: the synchronous Monte Carlo method (SyncMC), which updates all spins in parallel with the help of Gaussian auxiliary fields, and asynchronous Metropolis-Hastings dynamics, which updates one spin at a time. Using the Guionnet-Maïda formula, we derive the dynamical mean-field theory of both dynamics in terms of the R-transform of the coupling spectrum. The two effective single-spin processes share a retarded self-interaction and a Gaussian noise; SyncMC has, in addition, an instantaneous self-coupling and a noise that depends only on the response function. These additional terms act only on the fastest time scale, so that the equations for slow time scales, including the fluctuation-dissipation ratio and, for the Sherrington-Kirkpatrick model, the Parisi equation, are the same for the two dynamics. Simulations of the random orthogonal and Sherrington-Kirkpatrick models confirm that both dynamics approach the same fluctuation-dissipation relations, differing only in how many updates they need to do so.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T01:27:34Z</published>
+    <arxiv:comment>44 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Yoshiyuki Kabashima</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24923v1</id>
+    <title>Frustration and topology in the phase behavior of solute-frustrated $q$-clock models</title>
+    <updated>2026-10-18T00:14:35Z</updated>
+    <link href="https://arxiv.org/abs/2610.24923v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24923v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Frustration can enhance fluctuations and create new and interesting phase behavior. When combined with the ability to host topological defects, frustration can increase the complexity of a system's phase diagram through topological and frustrated topological transitions. To understand the interplay of frustration and topology on phase behavior, we introduce and study solute-frustrated $q$-clock (SF$q$C) models, in which solute sites are added to the $q$-clock model, a lattice model where each spin can take one of $q$ orientations. The $q$-clock model can exhibit spontaneous symmetry breaking and topological transitions, and the interaction between the spins and a solute frustrates the system, in essence by creating a fixed lower bound on the concentration of positive topological defects or vortices. We perform Monte Carlo simulations and develop theoretical descriptions of SF$q$C models with $q=4$ and $q=6$ to understand their phase behavior. We find that these systems exhibit rich phase diagrams that depend on the choice of parameters. In particular, SF$q$C models have a wide range of interesting low-temperature phases, including the presence of strongly frustrated domains and the absence of long-range order. We also find topological effects even at low temperatures; for instance, we find that topological defects can drive crystallization. We anticipate these results to guide the development of materials that take advantage of frustration and topology to tune phase behavior and fluctuations.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T00:14:35Z</published>
+    <arxiv:comment>24 pages, 22 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Hari Rajesh</name>
+    </author>
+    <author>
+      <name>Richard C. Remsing</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24637v1</id>
+    <title>Turning Number and the Geometry of Disorder-Induced Topology</title>
+    <updated>2026-10-17T11:26:49Z</updated>
+    <link href="https://arxiv.org/abs/2610.24637v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24637v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The geometry of momentum-space Hamiltonian maps derived from the zero-frequency single-particle Green's function provides a route to a refined topological characterization of quantum systems beyond the noninteracting clean limit. The central idea is to complement standard topological invariants by invariants that characterize the geometry of the map itself. As a paradigmatic example, we study the one-dimensional chiral Su-Schrieffer-Heeger model with disorder, where the topological Hamiltonian defines a planar Bloch loop. In addition to its conventional winding number, this loop possesses an integer turning number that characterizes the winding of its tangent vector. We identify turning-number transitions that occur while the topological Hamiltonian remains finite and spectrally gapped, driven solely by a vanishing tangent vector of the Bloch loop, and obtain an extended phase diagram with additional topological structure beyond the winding-number classification. Asymptotic analysis predicts the emergence and disorder dependence of the corresponding transition regime, in agreement with the numerical results. Our findings establish the geometry of momentum-space Hamiltonian maps as an additional source of topological structure beyond conventional classifications.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T11:26:49Z</published>
+    <arxiv:comment>6 pages, 4 figures, plus Suppl. Mat. (8 pages, 2 figures)</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Lars Emmrich</name>
+    </author>
+    <author>
+      <name>Michael Potthoff</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24629v1</id>
+    <title>Signed FK percolation in Ising spin glasses</title>
+    <updated>2026-10-17T11:06:11Z</updated>
+    <link href="https://arxiv.org/abs/2610.24629v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24629v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We introduce signed Fortuin-Kasteleyn (FK) percolation for the +/-J random-interaction Ising model to characterize nonzero uniform magnetization density and two-replica overlap within the class of Gibbs distributions whose infinite-volume Edwards-Sokal (ES)/FK representation has at most one infinite FK cluster almost surely. The construction refines ordinary FK connectivity by retaining the parity of coupling products along open paths. Using the infinite-volume ES representation and its DLR equations, we study pairs of companion objects and the compatible spin assignments on them. In one replica, companions are defined by positive-parity FK connections. For extremal states satisfying the infinite-cluster assumption and almost-sure existence of companion densities along the chosen van Hove sequence, nonzero limiting expected magnetization density is equivalent to density distinguishability of the companions of the infinite FK cluster. For two independent replicas, companions are defined by FK connections coherent in parity. For products of extremal one-replica states satisfying the infinite-cluster assumption and almost-sure existence of the companion densities along the chosen sequence, density distinguishability of the companions is equivalent to nonzero limiting expected mutual overlap. For two independent replicas drawn from the same extremal state, this specializes to the Edwards-Anderson self-overlap.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.PR" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T11:06:11Z</published>
+    <arxiv:comment>56 pages</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Alberto Gandolfi</name>
+    </author>
+    <author>
+      <name>Charles Newman</name>
+    </author>
+    <author>
+      <name>Danile Stein</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24432v1</id>
+    <title>A GRACE Interatomic Potential for W--Ta Systems: Application to Ta Segregation and Pinning of Shear-Coupled Grain-Boundary Migration</title>
+    <updated>2026-10-17T03:50:08Z</updated>
+    <link href="https://arxiv.org/abs/2610.24432v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24432v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Tungsten-tantalum alloys are promising plasma-facing materials for fusion reactors, but simulations of their coupled defect, mechanical, and microstructural evolution require an interatomic potential that remains accurate across diverse atomic environments. We develop a transferable W-Ta potential within the GRaph Atomic Cluster Expansion (GRACE) framework. The primary training dataset was generated automatically by maximizing information entropy in an atomically relevant feature space, avoiding manual enumeration of the structures and processes required for specific downstream applications. Extensive validation demonstrates a consistent description of unary and binary phase stability, elasticity, phonons, high-pressure response, surfaces, point defects, dislocation energetics, transformation pathways, alloy thermodynamics, and melting behavior.
+  As a demonstration, the potential is applied to Ta segregation and shear-coupled migration of a $\Sigma5(120)$ W GB. Simulations reveal strongly site-selective segregation: Ta preferentially occupies a small subset of crystallographically distinct atomic rows. Under shear, segregated Ta impedes disconnection-mediated grain boundary migration. The de-pinning stress initially increases with Ta concentration but plateaus as the dominant pinning environment becomes saturated, while increasing temperature weakens both segregation and pinning. These results establish a broadly validated W-Ta potential and demonstrate how automated entropy-maximized data generation can produce transferable atomistic models capable of resolving mechanisms not explicitly targeted during training.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atm-clus" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T03:50:08Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Omar Hussein</name>
+    </author>
+    <author>
+      <name>Laurent Capolungo</name>
+    </author>
+    <author>
+      <name>Danny Perez</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24334v1</id>
+    <title>Power-Law Correlations Without Apparent Temperature-Tuned Criticality in Fixed-Tree Hierarchical Languages</title>
+    <updated>2026-10-17T00:01:21Z</updated>
+    <link href="https://arxiv.org/abs/2610.24334v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24334v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Sampling temperature can substantially reshape autoregressive generation, but it is unclear when temperature changes in long-range correlations reflect a genuine phase transition rather than a smooth change in statistics. We study this question in a controlled analogue of temperature sampling: a finite-depth probabilistic context-free grammar on a fixed hierarchical tree, where exact next-token conditionals are computed by belief propagation and then rescaled by a softmax temperature before autoregressive sampling. We measure two-point mutual information between tokens as a function of separation. Across the tested temperatures and grammar ensembles, mutual information remains well described by a power-law envelope. Temperature changes the correlation magnitude and fitted exponent, but within the accessible system sizes we find no long-distance plateau characteristic of an ordered phase and no clear crossover to short-range exponential decay. An approximate mapping to an Ising model on a tree explains how exponential decay in tree distance becomes a power law in token distance, allowing power laws to persist without tuning to a special decoding temperature. This controlled baseline clarifies which temperature effects can arise from hierarchical structure alone, before adding training, approximation error, or neural architecture.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T00:01:21Z</published>
+    <arxiv:comment>19 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Marcel Kühn</name>
+    </author>
+    <author>
+      <name>Bernd Rosenow</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24101v1</id>
+    <title>Quantifying the Kinetic and Thermodynamic Origins of the Glass-Forming Ability in Metals</title>
+    <updated>2026-10-16T18:31:11Z</updated>
+    <link href="https://arxiv.org/abs/2610.24101v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24101v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The glass-forming ability (GFA) of a metallic liquid can be quantified by the critical cooling rate $R_c$, below which it crystallizes upon cooling. $R_c$ is determined by the competition between $R$ and the crystallization rate $\mathcal{K}_{\rm X}$. Here, we calculate $R_c$ and $\mathcal{K}_{\rm X}$ in model pure metals and alloys with BCC/B2 and FCC equilibrium crystal structures. Using classical nucleation theory and independently calculated crystal growth rates, we evaluate $\mathcal{K}_{\rm X}=(IU^3)^{1/4}$ at $T=0.8T_m$, where $I$ and $U$ are the nucleation and growth rates and $T_m$ is the melting temperature. We find a strong positive correlation between $\mathcal{K}_{\rm X}$ and $R_c$ over eleven orders of magnitude. We decompose $\mathcal{K}_{\rm X}$ into a product of a kinetic contribution, involving atomic cluster attachment and diffusion, and a thermodynamic contribution. We show that the thermodynamic contribution to $\mathcal{K}_{\rm X}$ dominates the kinetic contribution over the range of cooling rates that we consider. The nucleation barrier $ΔG_c \sim \tildeγ^3/Δ\tildeμ^2$, where $\tildeγ$ is the reduced effective liquid--crystal interfacial free energy and $Δ\tildeμ$ is the reduced bulk driving force, determines the magnitude of the thermodynamic contribution. The relative importance of $\tildeγ$ and $Δ\tildeμ$ depends on the material: a large interfacial free energy can suppress nucleation in some systems, whereas a weak bulk driving force can inhibit crystallization in others. Analyses of the structural and chemical order show that better glass formers have enhanced structural frustration, more icosahedral-like and less crystal-like local environments, and a larger chemical-order mismatch between the supercooled liquid and crystal phases.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T18:31:11Z</published>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Weiwei Jin</name>
+    </author>
+    <author>
+      <name>Jinpeng Fan</name>
+    </author>
+    <author>
+      <name>Mark D. Shattuck</name>
+    </author>
+    <author>
+      <name>Corey S. O'Hern</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23823v1</id>
+    <title>A Universal Lower Bound for the Complexity of Gaussian-Divisible Spin Glasses</title>
+    <updated>2026-10-16T17:46:10Z</updated>
+    <link href="https://arxiv.org/abs/2610.23823v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23823v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We consider a variant of the spherical mixed spin glass model with non-Gaussian disorder. Specifically, we replace the usual standard Gaussian interaction coefficients with Gaussian-divisible ones, meaning that each coefficient can be expressed as the sum of a standard Gaussian random variable and an independent, non-Gaussian random variable. We show that the annealed complexity of this model is at least the annealed complexity of the standard Gaussian model, if the non-Gaussian part is centered and subexponential.</summary>
+    <category term="math.PR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T17:46:10Z</published>
+    <arxiv:comment>50 pages, zero figures</arxiv:comment>
+    <arxiv:primary_category term="math.PR"/>
+    <author>
+      <name>Pax Kivimae</name>
+    </author>
+    <author>
+      <name>Benjamin McKenna</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23783v1</id>
+    <title>Sampling the XY model with an attention-based neural network</title>
+    <updated>2026-10-16T17:16:35Z</updated>
+    <link href="https://arxiv.org/abs/2610.23783v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23783v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present a transformer-based variational autoregressive network for sampling lattice systems with continuous degrees of freedom and apply it to the two-dimensional XY model near the Berezinskii-Kosterlitz-Thouless transition. The architecture is combined with physics-informed ingredients: locality-informed attention and approximate probabilities. The resulting sampler significantly outperforms existing neural samplers. We train the model on lattices up to $96\times96$, verify with a mode-dropping estimator that no parts of the configuration space are missed, and reproduce the energy, magnetization and helicity modulus obtained with the traditional Markov Chain Monte Carlo algorithm.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-lat" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T17:16:35Z</published>
+    <arxiv:comment>19 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Piotr Białas</name>
+    </author>
+    <author>
+      <name>Christian D. Morales</name>
+    </author>
+    <author>
+      <name>Tomasz Stebel</name>
+    </author>
+    <author>
+      <name>Dawid Zapolski</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23779v1</id>
+    <title>Mesoscopic learning dynamics of extensive-width neural networks</title>
+    <updated>2026-10-16T17:12:43Z</updated>
+    <link href="https://arxiv.org/abs/2610.23779v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23779v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Understanding how stochastic gradient descent learns internal representations in wide neural networks trained on rich target functions is a central problem in machine learning. We study this question in two-layer neural networks learning target functions represented by networks of the same architecture, with arbitrary nonlinearity, and with network width and input dimension growing proportionally. In this regime, standard approaches for describing the learning dynamics require tracking a diverging number of overlaps, which measure correlations between learned and target features, leaving no obvious description in terms of a few order parameters. Here, we develop a mesoscopic description of learning by characterizing the distribution of overlaps. In the early stages of learning, we find that a Gaussian description of overlap statistics reduces the learning dynamics to a few collective variables that track learning of the target function's linear and quadratic components. We then estimate the timescale of specialization, when Gaussian closure breaks down and individual learned features begin to strongly correlate with specific target features. We find that specialization in extensive-rank networks is accelerated via a quadratic shielding mechanism, whereby learning the linear and quadratic components of the target function filters gradient fluctuations. We finally describe how the activation function determines the pattern of specialization and characterize the subsequent refinement of learned features. Together, these results show how collective learning gives way to individual feature discovery and clarify when learning in large neural networks admits a simple statistical description.</summary>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T17:12:43Z</published>
+    <arxiv:primary_category term="stat.ML"/>
+    <author>
+      <name>Shu Zhou</name>
+    </author>
+    <author>
+      <name>Jean Barbier</name>
+    </author>
+    <author>
+      <name>Sebastian Goldt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23477v1</id>
+    <title>Towards optimal selection schedules for online active learning</title>
+    <updated>2026-10-16T13:54:06Z</updated>
+    <link href="https://arxiv.org/abs/2610.23477v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23477v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We consider the problem of online linear classification, where a stream of unlabeled samples is available, and annotation is costly. We investigate the optimal query policy, that prescribes whether and when a sample should be labeled and used for a training step, or instead discarded, so as to minimize a given objective. We focus on the realizable case, under Gaussian design, in the high-dimensional regime where data dimension and number of unlabeled samples grow proportionally. We consider two objectives: 1) the generalization error under a labeling budget, and 2) a cumulative cost function where mistakes have unit cost and queries cost $Δ$. We first show that the myopic policies that greedily minimize at all times the increment in the objective correspond to either small or intermediate-margin policies, that prescribe the selection of samples whose margins fall within certain intervals that shrink with time. Within this class, we numerically ascertain the optimal schedules for the selection thresholds that minimize the final values of the objectives. Taking inspiration from the myopic policy for the cumulative cost, we design a very simple query policy schedule that we compare to other proposed heuristics, on synthetic data and real medical image datasets. Finally, we discuss myopic policies for two-layer neural networks, and exemplify how naive margin-based policies can cease to be optimal.</summary>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T13:54:06Z</published>
+    <arxiv:primary_category term="stat.ML"/>
+    <author>
+      <name>Hugo Cui</name>
+    </author>
+    <author>
+      <name>Francesca Mignacco</name>
+    </author>
+    <author>
+      <name>Francesco Mori</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23231v1</id>
+    <title>EEG Lempel-Ziv Complexity vis-à-vis Autocorrelation Function</title>
+    <updated>2026-10-16T10:01:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.23231v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23231v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Measures of signal complexity have become increasingly popular in electroencephalography (EEG), where they are often interpreted as indicators of neural information processing, dynamical richness, or conscious state. In contrast, classical measures of temporal dependence, such as the autocorrelation function (ACF), remain more directly linked to known physiological mechanisms and are easier to interpret. The present work revisits, for the EEG practicioner, the relation between normalized Lempel-Ziv complexity (LZC) and temporal autocorrelation in both synthetic and physiological EEG signals. First, synthetic time series exhibiting a broad range of temporal structure and complexity levels were generated using stochastic processes with varying degrees of temporal dependence. LZC and autocorrelation measures were then computed and compared. Across simulated signals, a robust inverse relationship was observed between normalized LZC and the first autocorrelation coefficient, indicating that signals with stronger temporal correlations exhibit lower complexity estimates. This relationship also holds in resting-state EEG recordings from healthy adult participants across channels and subjects, as well as dynamically during eyes open/close maneuvers. Overall, these results show that the information captured by LZC reflects temporal redundancy already quantified by conventional autocorrelation measures. Because autocorrelation measures relate more directly to established neurophysiological mechanisms, including oscillatory persistence, network synchronization, and temporal integration, these results suggest that interpreting complexity-based EEG findings should explicitly account for their dependence on conventional temporal statistics, which may provide a more transparent framework for mechanistic inferences.</summary>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T10:01:02Z</published>
+    <arxiv:primary_category term="q-bio.NC"/>
+    <author>
+      <name>Pedro Montoya</name>
+    </author>
+    <author>
+      <name>Ignacio Cifre</name>
+    </author>
+    <author>
+      <name>José Luis Rosselló Sanz</name>
+    </author>
+    <author>
+      <name>Dante R. Chialvo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22701v1</id>
+    <title>Emergent Discrimination and Polarization in Multi-Agent Systems</title>
+    <updated>2026-10-15T22:07:16Z</updated>
+    <link href="https://arxiv.org/abs/2610.22701v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22701v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study theoretically how discrimination and polarization can emerge in a population of learning agents. Each agent uses an adaptive linear decision layer to map a language-model embedding of an issue to a binary opinion and maintains an evolving estimate of how much it trusts every other agent. Through pairwise interactions, agents update both their decision weights and trust estimates using an online Bayesian rule derived from teacher-student learning over a noisy channel. In-context-learning experiments with large language models qualitatively reproduce the predicted opinion and trust updates. We then assign each agent one of two arbitrary group labels, A or B, and model group bias by allowing a fraction $f_b$ of agents to shift its perceived agreement with each message by a strength $b$, a bias steering prejudice, depending on whether the sender and receiver share a label. We use order parameters from statistical mechanics to connect these local dynamics to collective states and transitions. Starting from uniformly random initial conditions, simulations reveal a rich phase diagram in the $(b,f_b)$ plane, comprising four collective states: spin-glass frustrated out-group favoritism, nondiscriminatory polarization, discrimination with opinion alignment, and discrimination without opinion alignment. Which state emerges depends on both the strength and prevalence of the bias. These results show how simple local learning dynamics can generate qualitatively distinct forms of polarization and discrimination, underscoring the need for population-level safety analysis of multi-agent systems. They also suggest measurable order parameters for characterizing analogous collective states in human societies.</summary>
+    <category term="cs.MA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.soc-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T22:07:16Z</published>
+    <arxiv:primary_category term="cs.MA"/>
+    <author>
+      <name>Nestor Caticha</name>
+    </author>
+    <author>
+      <name>João Henrique Sant'Ana</name>
+    </author>
+    <author>
+      <name>Felippe Alves</name>
+    </author>
+    <author>
+      <name>Davi Bastos Costa</name>
+    </author>
+    <author>
+      <name>Mariana Mercucci</name>
+    </author>
+    <author>
+      <name>Juan P. Neirotti</name>
+    </author>
+    <author>
+      <name>Otavio Citton</name>
+    </author>
+    <author>
+      <name>Renato Vicente</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22357v1</id>
+    <title>Stability of Quantum LDPC States under Local Pauli Noise</title>
+    <updated>2026-10-15T17:58:40Z</updated>
+    <link href="https://arxiv.org/abs/2610.22357v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22357v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Quantum low-density parity-check (qLDPC) codes have a canonical mixed state---the normalized projector onto the code space---that lies at the intersection of quantum error correction and quantum many-body physics, yet the stability of its information-theoretic structure under local noise remains poorly understood. Recent progress on mixed-state phases of matter has identified the spatial decay of conditional mutual information (CMI) $I(A:C|B)$ as a key diagnostic of such stability, analogous to the role of the spectral gap for quantum ground states. We prove that, for the normalized code-projector state of a $\mathbb{Z}_d$ qLDPC stabilizer code under local Pauli noise, the CMI across a buffer $B$ separating $A$ from $C$ decays exponentially with the width of $B$ in two complementary noise regimes independent of system size. At weak noise, this holds for full-system tripartitions, where correlations between the two sides require an error cluster to cross the buffer, an exponentially unlikely event. At strong noise, exponential decay holds whenever the buffer supports no logical operator, since correlations can persist only along rare chains of buffer qudits that remain informative. Under an additional space-uniformity assumption, we establish the robustness of Levin--Wen topological entropy. On finite-dimensional lattices of size $n$, the weak-noise bound further implies a constant-layer quasi-local Petz recovery channel of range $O(\poly(\log n)/\varepsilon)$ that recovers the noiseless state within trace-distance error $\varepsilon$. Both CMI bounds apply to general qLDPC interaction graphs, including geometries where such constant-depth quasi-local recovery need not exist. Thus, the exponential decay of the noise-induced CMI provides a general criterion for mixed-state phase stability.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T17:58:40Z</published>
+    <arxiv:comment>29 pages, 5 figures, including appendices</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Tai-Hsuan Yang</name>
+    </author>
+    <author>
+      <name>Andrew D. Kim</name>
+    </author>
+    <author>
+      <name>Akash Vijay</name>
+    </author>
+    <author>
+      <name>Jong Yeon Lee</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22191v2</id>
+    <title>Attention over noisy examples: generalization and memorization in the exponential Hopfield network</title>
+    <updated>2026-10-17T14:07:18Z</updated>
+    <link href="https://arxiv.org/abs/2610.22191v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22191v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In Hebbian learning from examples, a Hopfield network retrieves archetypes seen only through noisy examples. We study it in the exponential Hopfield model: one softmax attention step with the unlabelled examples as keys. A signal-to-noise analysis gives the overlap with an unseen archetype in closed form: a majority-rule law in which an attention entropy replaces the dataset entropy. At high temperature the archetype is lost in the crosstalk; at low temperature the softmax freezes on the closest training example, as in a random energy model, and the layer memorizes. In between, in a window widening with the square root of the network size, the layer pools the examples of the correct class and retrieves the unseen archetype as well as their majority vote allows, at any fixed load. On structured datasets, such as MNIST and fashion-MNIST, the best accuracy lies beyond the freezing.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.NE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T16:43:55Z</published>
+    <arxiv:comment>26 pages, 9 figures. Code, data and Monte Carlo results at https://github.com/francescoalemanno/hebb-attention</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Francesco Alemanno</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22038v1</id>
+    <title>Partial Localization and Multifractality in Heterogeneous Population Growth with Resetting</title>
+    <updated>2026-10-15T15:12:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.22038v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22038v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study a model of heterogeneous multiplicative growth with mean-field redistribution and independent local stochastic resetting. The model describes populations or wealth distributed over sites with quenched growth-rate heterogeneity, while resets represent random local extinction or bankruptcy events. At large redistribution or resetting rate, we find a delocalized phase and we compute the growth rate as well as the stationary distribution of the population of a given site. We show that reset-free growth episodes generate power-law stationary tails with site-dependent exponents. For weak resetting and redistribution, favorable sites can undergo long reset-free episodes and localize. This produces a partially localized phase, in which a finite fraction of the total population is carried by a small set of sites whose identity changes on an $O(1)$ time scale within a subextensive pool of $N^{u^\star}$ favorable candidates, with $0&lt;u^\star&lt;1$. We derive the corresponding growth rate from a saddle point analysis, and show that the averaged stationary fractions display multifractal behavior.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="econ.TH" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.PR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.PE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T15:12:36Z</published>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Maximilien Bernard</name>
+    </author>
+    <author>
+      <name>Giuseppe Del Vecchio Del Vecchio</name>
+    </author>
+    <author>
+      <name>Jean-Philippe Bouchaud</name>
+    </author>
+    <author>
+      <name>Pierre Le Doussal</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.21631v1</id>
+    <title>Finite-size geometric crossover toward fragmentation of the potential energy shell in the quantum random energy model</title>
+    <updated>2026-10-15T10:17:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.21631v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.21631v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The quantum random energy model (QREM) is a paradigmatic model for studying delocalization-localization transitions at finite energy density in Fock space. In the computational basis, its diagonal energies are independent Gaussian random variables, in contrast to the correlated energies of local interacting models such as the disordered XXZ chain. In this work, we construct a potential energy shell associated with a basis state, defined through its energy variance, and investigate its connectivity on the Fock-space hypercube. As the transverse field is varied, this energy-selected subgraph undergoes a finite-size geometric crossover between fully connected and fragmented regimes. Furthermore, we observe a correlation between the shell connectivity and the finite-size fractal dimension of the eigenstates, as extracted from the participation entropy. For the QREM, the statistical independence of the diagonal energies allows the shell connectivity to be analyzed as an effective independent site percolation problem on the hypercube, with its crossover scale estimated within a one-hop approximation. At finite energy density, this estimate gives a nonmonotonic dependence of the crossover scale on system size $L$: increasing $L$ initially favors connectivity, while beyond an energy-dependent scale $L^*(\varepsilon)$ the trend reverses towards fragmentation.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T10:17:12Z</published>
+    <arxiv:comment>10 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Ishita Modak</name>
+    </author>
+    <author>
+      <name>Vatsana Tiwari</name>
+    </author>
+    <author>
+      <name>Soumya Bera</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20982v1</id>
+    <title>The Blume-Capel Model as a $φ^6$ Field Theory: A Monte Carlo and Flow Model Study</title>
+    <updated>2026-10-14T21:50:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.20982v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20982v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We report Monte Carlo simulations of a continuous spin variant of the Blume-Capel model. We compute the phase diagrams in the crystal-field-temperature plane, as a function of the softness of the spins. We show that normalizing flows, a class of generative models capable of direct sampling without autocorrelation, are effective samplers across the phase diagram, including in the first-order transition region and in the vicinity of the tricritical point. Finite-size scaling analyses of flow samples locate the first- and second-order transitions as well as the tricritical point with accuracy comparable to canonical and extended-ensemble Monte Carlo.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-lat" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T21:50:12Z</published>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Ejaaz Merali</name>
+    </author>
+    <author>
+      <name>Ryan Larson</name>
+    </author>
+    <author>
+      <name>Ehsan Khatami</name>
+    </author>
+    <author>
+      <name>Richard T. Scalettar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20734v1</id>
+    <title>Quantum oscillations in a solvable model of a Kondo insulator</title>
+    <updated>2026-10-14T18:00:44Z</updated>
+    <link href="https://arxiv.org/abs/2610.20734v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20734v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the effects of interactions on the low-energy density of states (SdH) and magnetization (dHvA) quantum oscillations (QOs) in a Kondo insulator. Toward this end we introduce a generalization of the periodic Anderson model with Sachdev-Ye-Kitaev (SYK) interactions at each site that is exactly solvable in the large-$N$ limit, where $N$ is the number of flavors of the heavy $f$ electrons. We show analytically and numerically that the insulating state remains stable in terms of spectrum, thermodynamics, and transport at low temperatures even for interaction strengths much larger than non-interacting band gap of the hybridization-gap insulator. We analytically derive generalizations of Lifshitz-Kosevich (LK) formulae, distinct for the SdH and dHvA QOs, for the interacting insulator. We find that the SdH oscillation frequencies, $F_0\pm δF$, corresponding to the conduction and valence band edges, can be weakly renormalized by interaction relative to their non-interacting values. In contrast, dHvA QO frequency $F_0$ is not renormalized by interactions, and remains the same as that for the non-interacting unhybridized bands. The QO amplitudes show a remarkable difference: the dHvA amplitude is essentially unaffected by interactions, while the SdH amplitude is strongly enhanced due to gap renormalization.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T18:00:44Z</published>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Abhisek Samanta</name>
+    </author>
+    <author>
+      <name>Mohit Randeria</name>
+    </author>
+    <author>
+      <name>Sumilan Banerjee</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20713v1</id>
+    <title>Transport in multilayer graphene: resistance from stacking faults</title>
+    <updated>2026-10-14T18:00:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.20713v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20713v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Multilayer graphene exhibits rich possibilities for stacking. While natural bulk graphite predominantly occurs in the Bernal structure, where layers are stacked in an $-ABAB-$ pattern, rhombohedral stacking has sprung to prominence recently. It is well known that Bernal graphite exhibits anisotropic transport, with high resistance to currents along the stacking axis. Careful experiments using pillar geometries have measured out-of-plane resistance, attributing it to stacking faults where planes slip out of the nominal $ABAB$ sequence. The observed resistance shows anomalously large, non-Gaussian, sample-to-sample variations. In this article, we build a theoretical framework to calculate $c$-axis resistance of graphene stacks with an arbitrary stacking arrangement. Our approach builds on the idea that, regardless of stacking sequence, we have in-plane translational symmetry. With in-plane momentum as a good quantum number, $c$-axis transport reduces to an effectively one-dimensional problem that can be addressed using the Landauer paradigm. We calculate the resistances of a variety of simple stacking faults in both Bernal and rhombohedral systems. We also calculate the resistance of a rhombohedral 'slab' embedded between Bernal leads. Remarkably, despite both Bernal and rhombohedral graphite being metallic, the system exhibits insulating behaviour. We attribute this to Fermi surface mismatch. We next calculate the resistance of a multilayer sample with stacking disorder. Resistance is non-self-averaging, akin to a one-dimensional wire where disorder has a strong localizing effect. The median resistance grows exponentially with stack size, indicating insulating character driven by localization. Our results demonstrate that transport measurements on mesoscopic graphitic pillars serve as signatures of stacking faults, and in particular, probe localization-driven physics.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T18:00:02Z</published>
+    <arxiv:comment>15 pages, 6 figures. Submitted to Physical Review X</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>C. M. Wilson</name>
+    </author>
+    <author>
+      <name>R. Ganesh</name>
+    </author>
+    <author>
+      <name>K. V. Samokhin</name>
+    </author>
+  </entry>
+</feed>

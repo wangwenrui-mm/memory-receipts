@@ -1,0 +1,1450 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/IddkvNVCSqka1mfx/Drb5Hg5SOA</id>
+  <title>arXiv Query: search_query=cat:physics.atom-ph&amp;id_list=&amp;start=0&amp;max_results=50</title>
+  <updated>2026-10-23T08:39:08Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=cat:physics.atom-ph&amp;start=0&amp;max_results=50&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <opensearch:totalResults>24678</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31507v1</id>
+    <title>Macroscopic Nuclear Resonance Energy Transfer Mediated by Coherent Magnons</title>
+    <updated>2026-10-22T16:23:29Z</updated>
+    <link href="https://arxiv.org/abs/2610.31507v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31507v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Phonon-mediated nuclear Resonance Energy Transfer (RET) in metal deuterides is severely constrained by inertial rest-mass dilution, lattice fracture limits, and thermal nuclear spin cancellation. Extending the generalized nuclear Dicke model to Ferromagnetic Resonance (FMR) magnons eliminates mass dilution via hyperfine-amplified M1 coupling while unlocking relativistic Dirac M2 coupling via Overhauser spin polarization. We derive a Suhl-clamped FMR scaling law predicting 14.2 MeV (Pd-106) and 11.4 MeV (Ni-58) breakup neutrons, 19.9 MeV alpha particles, and reconciled sub-keV fusion anomalies.</summary>
+    <category term="nucl-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nucl-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T16:23:29Z</published>
+    <arxiv:primary_category term="nucl-ex"/>
+    <author>
+      <name>Ryan Weed</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31396v1</id>
+    <title>Predictive electronic feedback control for narrow-linewidth lasers</title>
+    <updated>2026-10-22T14:59:40Z</updated>
+    <link href="https://arxiv.org/abs/2610.31396v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31396v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Narrow-linewidth lasers are essential for various key atom-laser interaction processes and optical setups in quantum coherent control, quantum precision measurement, and quantum information science. The Pound-Drever-Hall (PDH) technique is the standard method for the frequency-stabilization of narrow-linewidth lasers, but the inherent time delay in its feedback loop inevitably induces excessive phase noise, commonly known as servo bumps. Previous solutions primarily rely on additional optical components outside the electronic feedback control loop. Here, we propose and implement a generic method based on the Smith predictor to address the time-delay issue entirely within the electronic part of the PDH feedback control loop. We systematically demonstrate its capability to suppress phase noise and reduce servo bumps by adding only a single Field-Programmable Gate Array (FPGA) controller to the loop. This class of methods is demonstrated to be conceptually concise with minimal hardware overhead, effective in practice, and holds potential for a wide variety of future applications.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T14:59:40Z</published>
+    <arxiv:comment>7 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Jiatian Liu</name>
+    </author>
+    <author>
+      <name>Xuan Qi</name>
+    </author>
+    <author>
+      <name>Xiayang Fan</name>
+    </author>
+    <author>
+      <name>Shenchao Jin</name>
+    </author>
+    <author>
+      <name>Yuan Sun</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31231v1</id>
+    <title>Fock-space relativistic coupled-cluster study of systematic shifts and fine-structure constant sensitivity in {\rm Cf$^{17+}$}, {\rm Cm$^{15+}$} and {\rm Bk$^{16+}$} highly charged ions</title>
+    <updated>2026-10-22T13:14:06Z</updated>
+    <link href="https://arxiv.org/abs/2610.31231v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31231v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Highly charged ions (HCIs) are among the most promising candidates proposed for the development of next-generation optical clocks and the precision tests of fundamental physics. In this work, we investigate the clock-relevant properties of $\rm Cf^{17+}$, $\rm Cm^{15+}$ and $\rm Bk^{16+}$ HCIs using Fock-space relativistic coupled-cluster (FSRCC) theory. The corrections from Breit interaction, QED effects and perturbative triples are incorporated to improve the accuracy of results further. We compute excitation energies, transition amplitudes, lifetimes, hyperfine structure constants, electric quadrupole moments, and electric dipole polarizabilities for low-lying states of these ions. These properties are further used to characterize important clock transitions and estimate key systematic frequency shifts. Our calculations reveal that the proposed clock transitions exhibit strongly suppressed systematic frequency shifts. We also compute the sensitivity coefficients, $q$, and enhancement factors, $K_α$, for the proposed clock transition as a probe to variation in the fine-structure constant, $α$. Our calculations predict exceptionally large $K_α$ of $-55.3$ and $57.5$ for $5f_{5/2} \rightarrow 6p_{1/2}$ transition in $\rm Cf^{17+}$ and $6p_{1/2} \rightarrow 5f_{5/2}$ transition in $\rm Bk^{16+}$, respectively. These giant $K_α$s place the proposed transitions among the most sensitive optical probes for the laboratory searches for $α$ variation. Further, a comparative analysis of proposed transitions in $\rm Cm^{15+}$ and $\rm Bk^{16+}$ shows that, $5f_{5/2} \rightarrow 5f_{7/2}$ transition possess smaller systematic shifts and is therefore attractive for precision frequency metrology, whereas $6p_{1/2} \rightarrow 5f_{5/2}$ transition exhibit significantly enhanced sensitivity to $α$ variation.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T13:14:06Z</published>
+    <arxiv:comment>8 pages, 6 tables, 1 figure</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Palki Gakkhar</name>
+    </author>
+    <author>
+      <name>D. Angom</name>
+    </author>
+    <author>
+      <name>B. K. Mani</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31185v1</id>
+    <title>Realization of a Superleak in a Quantum Gas</title>
+    <updated>2026-10-22T12:35:00Z</updated>
+    <link href="https://arxiv.org/abs/2610.31185v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31185v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Ultracold quantum gases offer a controllable and microscopically accessible platform for understanding and engineering superfluidity. Yet, realizing a superleak that selectively transports the superfluid while suppressing normal flow has remained elusive. Here, we harness an optical superlattice to realize such a superleak through dynamical selectivity. The superfluid undergoes coherent Josephson transport, whereas the normal component exhibits slow, thermodynamically limited response, resulting in a flow-rate contrast of 500(49). Exploiting this contrast, we demonstrate repeated filtering of the normal component and dynamical purification of the superfluid, while sustaining coherent driven oscillations for up to 100 cycles. Our results establish a controllable atomic superleak and open possibilities for manipulating transport and thermodynamics in quantum fluids.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T12:35:00Z</published>
+    <arxiv:comment>14 pages, 4 main figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Wan-Ling Yang</name>
+    </author>
+    <author>
+      <name>Shao-Bo Liu</name>
+    </author>
+    <author>
+      <name>Xiang Luo</name>
+    </author>
+    <author>
+      <name>Chao Yang</name>
+    </author>
+    <author>
+      <name>Hai-Lin Li</name>
+    </author>
+    <author>
+      <name>Yu-Zhou Yang</name>
+    </author>
+    <author>
+      <name>Yong-Kui Wang</name>
+    </author>
+    <author>
+      <name>Bing Yang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31161v1</id>
+    <title>Accurate ab initio calculations of the ground state properties of singly charged alkali metal hydrides</title>
+    <updated>2026-10-22T12:16:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.31161v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31161v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this article, we investigate the ground state electronic properties of singly charged alkali metal hydrides using the single-reference coupled-cluster method with single and double excitations (CCSD), together with perturbative triple excitations (CCSD(T)). A large relativistic core-valence quintuple-zeta basis set has been employed. The calculated spectroscopic constants and molecular properties are compared with existing data in the literature. Further, the relevant vibrational parameters are determined by solving the vibrational Schrödinger equation utilizing potential energy curves and permanent dipole moment curves. Thereafter, spontaneous and black-body radiation induced transition rates are calculated to obtain the lifetimes of the vibrational states.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T12:16:42Z</published>
+    <arxiv:comment>10 pages, 5 figures, 6 tables</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Ankush Thakur</name>
+    </author>
+    <author>
+      <name>Renu Bala</name>
+    </author>
+    <author>
+      <name>H. S. Nataraj</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31009v1</id>
+    <title>Lifetime of the singly charged $^{229}$Th nuclear isomer</title>
+    <updated>2026-10-22T09:46:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.31009v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31009v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The nucleus of thorium-229 ($^{229}$Th) has an exceptionally low-energy isomeric state ($^{229\mathrm{m}}$Th). Because its excitation energy is close to the energy levels of valence electrons, the lifetime of $^{229\mathrm{m}}$Th varies substantially depending on its electronic state. Although internal conversion and radiative decay were recently observed, the electronic bridge decay of $^{229\mathrm{m}}$Th, a higher-order decay process through an electronic transition, has not yet been confirmed. A promising candidate to search for this decay channel is singly charged $^{229\mathrm{m}}$Th$^+$ in the electronic ground state. Here we produce $^{229\mathrm{m}}$Th$^+$ by a charge exchange reaction in an ion trap and detect the isomers through measuring the electrons emitted from internal conversion processes. We determined the half-life of $^{229\mathrm{m}}$Th$^+$ to be 0.46(8) s. Our result differs by several orders of magnitude from the half-lives of internal conversion and radiative decay, indirectly suggesting the existence of the electronic bridge decay of $^{229\mathrm{m}}$Th. This will enable the direct observation and further investigation of the electronic bridge process, which will contribute to understanding nuclear-electron interactions and accelerating nuclear deexcitation in the operation of a thorium-based nuclear clock.</summary>
+    <category term="nucl-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T09:46:33Z</published>
+    <arxiv:primary_category term="nucl-ex"/>
+    <arxiv:journal_ref>Nat. Phys. 22, 832-837 (2026)</arxiv:journal_ref>
+    <author>
+      <name>Y. Shigekawa</name>
+    </author>
+    <author>
+      <name>A. Yamaguchi</name>
+    </author>
+    <author>
+      <name>K. Tokoi</name>
+    </author>
+    <author>
+      <name>N. Sato</name>
+    </author>
+    <author>
+      <name>H. Kikunaga</name>
+    </author>
+    <author>
+      <name>K. Shirasaki</name>
+    </author>
+    <author>
+      <name>Y. Kasamatsu</name>
+    </author>
+    <author>
+      <name>M. Wada</name>
+    </author>
+    <author>
+      <name>H. Haba</name>
+    </author>
+    <arxiv:doi>10.1038/s41567-026-03251-1</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1038/s41567-026-03251-1" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30005v1</id>
+    <title>UNWRAP: Single-shot phase analysis of bright squeezed vacuum by Newton-ring interferometry</title>
+    <updated>2026-10-21T16:40:01Z</updated>
+    <link href="https://arxiv.org/abs/2610.30005v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30005v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The mean field of pulsed bright squeezed vacuum (BSV) vanishes, but the variance can be large, and is strongly phase-dependent. We employ ultrafast Newton-ring wavefront retrieval and analysis of phase (UNWRAP) to extract the field amplitude and phase profile of each BSV pulse, by Fourier analysis of the interference rings between the BSV and a coherent reference with different phase-front curvature. The concentric ring interference fringes are robust against pointing mismatch and drift, thereby simplifying the analysis. The measured distribution has two phase peaks separated by π radians. The rings sweep the delay between the two pulses, so a single frame can capture the temporal field profile of the BSV, even when it is composed of several temporal modes.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T16:40:01Z</published>
+    <arxiv:comment>6 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Haoran Ma</name>
+    </author>
+    <author>
+      <name>Yihe Wang</name>
+    </author>
+    <author>
+      <name>Chuan Cheng</name>
+    </author>
+    <author>
+      <name>Ian Gabalski</name>
+    </author>
+    <author>
+      <name>Aaron M. Ghrist</name>
+    </author>
+    <author>
+      <name>Eleanor Weckwerth</name>
+    </author>
+    <author>
+      <name>Mohammed Th. Hassan</name>
+    </author>
+    <author>
+      <name>Philip H. Bucksbaum</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29980v1</id>
+    <title>International atomic clock comparison achieving $5\times 10^{-18}$ uncertainty</title>
+    <updated>2026-10-21T16:26:08Z</updated>
+    <link href="https://arxiv.org/abs/2610.29980v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29980v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Two single-ion optical clocks, located in the United Kingdom and in Germany, are compared remotely via a 2220\,km long optical fiber link. Both clocks are based on the ${}^2S_{1/2} (F=0)\leftrightarrow {}^2F_{7/2} (F=3)$ electric octupole (E3) transition in $^{171}\text{Yb}^+$. Using more than $10^6$ seconds of measurement data, we determine a fractional frequency difference of $1.0(4.8)\times 10^{-18}$, demonstrating agreement of the independently developed systems. To our knowledge, this constitutes the first international clock comparison reaching a fractional uncertainty below $5\times 10^{-18}$, an important milestone towards an anticipated optical redefinition of the SI second. The measurement uncertainty is dominated by that of the relativistic redshift correction between the two sites, which includes time-varying gravity potential differences. We exploit the large baseline between the two clocks to search for violations of Lorentz invariance. In the absence of statistically significant modulations, we improve constraints on the Robertson-Mansouri-Sexl parameter $α$ by approximately a factor of five in the uncertainty, and provide limits on corresponding parameters within the Standard-Model Extension framework.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T16:26:08Z</published>
+    <arxiv:comment>10 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>A. Tofful</name>
+    </author>
+    <author>
+      <name>M. Filzinger</name>
+    </author>
+    <author>
+      <name>T. Schmidt</name>
+    </author>
+    <author>
+      <name>A. Amy-Klein</name>
+    </author>
+    <author>
+      <name>E. Benkler</name>
+    </author>
+    <author>
+      <name>E. Cantin</name>
+    </author>
+    <author>
+      <name>C. Chardonnet</name>
+    </author>
+    <author>
+      <name>E. A. Curtis</name>
+    </author>
+    <author>
+      <name>H. Denker</name>
+    </author>
+    <author>
+      <name>B. Dutta</name>
+    </author>
+    <author>
+      <name>J. -O. Gaudron</name>
+    </author>
+    <author>
+      <name>W. Huang</name>
+    </author>
+    <author>
+      <name>J. Kronjäger</name>
+    </author>
+    <author>
+      <name>A. Kuhl</name>
+    </author>
+    <author>
+      <name>R. Le Targat</name>
+    </author>
+    <author>
+      <name>B. Lipphardt</name>
+    </author>
+    <author>
+      <name>O. Lopez</name>
+    </author>
+    <author>
+      <name>S. Mukherjee</name>
+    </author>
+    <author>
+      <name>A. L. Parke</name>
+    </author>
+    <author>
+      <name>B. Pointard</name>
+    </author>
+    <author>
+      <name>P. -E. Pottie</name>
+    </author>
+    <author>
+      <name>P. J. Regan</name>
+    </author>
+    <author>
+      <name>M. Risaro</name>
+    </author>
+    <author>
+      <name>M. Schioppo</name>
+    </author>
+    <author>
+      <name>M. Steinel</name>
+    </author>
+    <author>
+      <name>J. Tunesi</name>
+    </author>
+    <author>
+      <name>X. Zhang</name>
+    </author>
+    <author>
+      <name>R. M. Godun</name>
+    </author>
+    <author>
+      <name>N. Huntemann</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29765v1</id>
+    <title>Hierarchical Response Theory of Electronegativity from Atomic Mean Inner Potential</title>
+    <updated>2026-10-21T14:01:23Z</updated>
+    <link href="https://arxiv.org/abs/2610.29765v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29765v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Electronegativity, introduced by Pauling nearly a century ago, remains chemistry's most widely used yet conceptually ambiguous quantity: is it a fixed atomic constant, or does it depend on chemical environment? We resolve this debate by recasting electronegativity as a continuous response function rooted in the Atomic Mean Inner Potential (AMIP), a quantum-mechanical observable accessible through first-principles calculation and, ultimately, electron holography. Expanding the AMIP with respect to fractional electron removal defines a hierarchy of physically distinct coefficients: the static electronegativity $χ_0$, the Electrostatic Rigidity $\mathcal{R}$---whose sign indicates whether an atom hardens or softens upon oxidation---and the Electrostatic Anharmonic Modulus $\mathcal{A}$. A logarithmic-derivative decomposition links these coefficients to two competing microscopic channels, electronic screening loss and geometric volume collapse, whose balance governs the response of all 102 elements. This competition produces a systematic dichotomy between softening main-group elements and hardening d-block elements, two scaling laws within the transition series (closed-shell stiffening and principal quantum softening), and two anomalies: a pronounced exchange-driven effect at half-filled d$^{5}$ configurations and a near-perfect cancellation in Ce. It also resolves the long-standing Cs--Fr controversy, identifying Fr as a critical element whose near-boundary response is amplified fivefold by relativistic contraction of the 7s orbital. The framework reproduces the classical Allen, Pauling, and Mulliken scales as well as Lewis acidity trends, and makes three falsifiable experimental predictions. It transforms electronegativity from a lookup-table number into a predictive, hierarchically structured quantum descriptor.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T14:01:23Z</published>
+    <arxiv:comment>39 pages, 3 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Jin-Cheng Zheng</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29718v1</id>
+    <title>Semiclassical molecular dynamics simulations of electromagnetically induced transparency cooling of 2D and 3D ion crystals in a Penning trap</title>
+    <updated>2026-10-21T13:28:47Z</updated>
+    <link href="https://arxiv.org/abs/2610.29718v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29718v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Motional modes of trapped-ion crystals in Penning traps can now be cooled to near their ground states via electromagnetically induced transparency (EIT) cooling. Numerical simulations are valuable tools for interpreting EIT cooling results and optimizing experimental protocols, but existing molecular dynamics codes are limited to the simulation of Doppler cooling. In this work, we fill this gap by implementing a semiclassical model of EIT cooling in a novel MD code. By simultaneously evolving the ions' internal quantum states and classical motion, we are able to calculate the instantaneous EIT laser forces acting on the ions. We first validate our code by comparing the single-ion cooling rate to fully quantum simulation results. Next, we analyze cooling of the drumhead modes in planar ion crystals, quantifying the effects of planar ion motion and a finite laser beam width. Finally, we demonstrate efficient EIT cooling of the axial modes in 3D ellipsoidal crystals containing up to 500 ions. Such crystals are a promising platform for future quantum sensing experiments with enhanced sensitivity. We find that the mode spectra of 3D crystals can be engineered to enable sympathetic cooling of the low-frequency $\boldsymbol{E}\times\boldsymbol{B}$ modes. This numerical framework provides a powerful tool for modeling sub-Doppler cooling techniques and for optimizing future quantum sensing and quantum information experiments.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T13:28:47Z</published>
+    <arxiv:comment>25 pages, 15 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>John Zaris</name>
+    </author>
+    <author>
+      <name>Wes Johnson</name>
+    </author>
+    <author>
+      <name>Krishna Balaji Sogathur</name>
+    </author>
+    <author>
+      <name>Athreya Shankar</name>
+    </author>
+    <author>
+      <name>John J. Bollinger</name>
+    </author>
+    <author>
+      <name>Allison L. Carter</name>
+    </author>
+    <author>
+      <name>Murray J. Holland</name>
+    </author>
+    <author>
+      <name>Scott E. Parker</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29603v1</id>
+    <title>Accurate Wichmann-Kroll vacuum polarization calculations with Gaussian basis set</title>
+    <updated>2026-10-21T11:42:24Z</updated>
+    <link href="https://arxiv.org/abs/2610.29603v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29603v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We apply a large Gaussian basis set of size up to $N = 500$ to calculate the all-order Wichmann-Kroll vacuum polarization correction in highly-charged ion. For a hydrogen-like system, this allows us to obtain an accurate correction value with a level of precision comparable to that of traditional methods. We demonstrate that values of effects that can be calculated as the difference between two quantities, such as the nuclear model correction, converge faster than the absolute value of the correction. We discuss the basis extrapolation methods and show their use in estimating the error due to incomplete convergence. Finally, we show an application of the Gaussian basis set to calculation of the vacuum polarization screening correction in lithium-like ions.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T11:42:24Z</published>
+    <arxiv:comment>8 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>V. K. Ivanov</name>
+    </author>
+    <author>
+      <name>D. A. Glazov</name>
+    </author>
+    <author>
+      <name>A. V. Volotka</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29540v1</id>
+    <title>A compact ultracold strontium experiment</title>
+    <updated>2026-10-21T10:29:47Z</updated>
+    <link href="https://arxiv.org/abs/2610.29540v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29540v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We describe a compact and simplified experimental setup for the production of ultracold strontium atoms. Thanks to its low-power oven and coil-free Zeeman slower design, the vacuum system has an overall length of only 40cm including oven, Zeeman slower and all-glass science cell. The oven has a power consumption of 14W at 460°C and produces a collimated flux of 3 10^10at/(s cm^2) at this temperature. The laser system employs master-slave laser architecture throughout and requires neither second-harmonic generation nor tapered amplifiers, reducing cost and complexity. The system has been in continuous use for more than a year.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T10:29:47Z</published>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Mathieu Bertrand</name>
+    </author>
+    <author>
+      <name>Torben Pöpplau</name>
+    </author>
+    <author>
+      <name>Lucas Béguin</name>
+    </author>
+    <author>
+      <name>Romain Long</name>
+    </author>
+    <author>
+      <name>Jakob Reichel</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29218v1</id>
+    <title>Geometry-controlled zeros of resonant Kelvin-wave conversion in four spatial dimensions</title>
+    <updated>2026-10-21T05:20:01Z</updated>
+    <link href="https://arxiv.org/abs/2610.29218v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29218v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Kelvin waves carry energy along vortices, but their resonant interactions contain information that is absent from the linear spectrum. We identify a geometry that exposes this information on a vortex surface in four spatial dimensions. Perpendicular incoming waves cancel the complete local-area four-wave coupling, leaving the finite nonlocal interaction mediated by the surrounding fluid. This interaction restores conversion at generic wave-number ratios, yet changes sign and vanishes at a selected ratio while momentum and frequency remain exactly matched. Matching to Gross-Pitaevskii (GP) theory, including the microscopic core response, establishes a zero of the full coupling at every sufficiently small nonzero wave number, with ratio tending to $λ_*\simeq1.469$. Finite-grid GP coefficients exhibit a sign reversal for the same resonant quartets. Separate coherent-mixing calculations and weak-probe spectra connect the coupling sign to the generated-wave phase and the ordering of reflection-even and reflection-odd modes. The resulting suppression removes a leading channel for changing propagation directions without changing the paired wavelengths. These results isolate a nonlinear effect of the surrounding flow that local tension misses, providing a microscopic benchmark for vortex-wave theories and a starting point for studying angular redistribution beyond the Kelvin spectrum.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T05:20:01Z</published>
+    <arxiv:comment>47 pages, including Supplemental Material; 6 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Wei-can Yang</name>
+    </author>
+    <author>
+      <name>Xiang-dong Xu</name>
+    </author>
+    <author>
+      <name>Cheng Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29033v1</id>
+    <title>Experimental Optimization of a Cryogenic Buffer Gas Source for Molecular Magneto-optical Traps</title>
+    <updated>2026-10-21T01:05:56Z</updated>
+    <link href="https://arxiv.org/abs/2610.29033v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29033v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Molecular magneto-optical traps (MOTs) are loaded from cryogenic buffer gas beam (CBGB) sources, which produce a large flux of cold molecules. However, only a small fraction of this flux is slowed and captured. Here, we investigate and optimize one of these CBGB sources through a combination of experiment and simulation to maximize the number of molecules loaded into a MOT of CaF molecules. We experimentally determine the range of molecule velocities from the source that are successfully slowed and captured in the MOT, and perform a systematic study of buffer gas source geometries to identify designs that maximize MOT loading. Our observations agree well with Monte Carlo simulations, which provide physical insight into the dynamics within the source and explain how source geometry influences the subset of molecules that are ultimately trapped. These results provide practical design guidelines for optimizing cryogenic buffer gas beam sources used in laser cooling experiments.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T01:05:56Z</published>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Kaiya Wilson</name>
+    </author>
+    <author>
+      <name>Ebram Youssef</name>
+    </author>
+    <author>
+      <name>Loïc Anderegg</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27589v1</id>
+    <title>Fate of Discrete Time Crystals in Finite-Size Cavity QED Systems</title>
+    <updated>2026-10-20T03:56:50Z</updated>
+    <link href="https://arxiv.org/abs/2610.27589v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27589v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>It has been shown that Discrete Time Crystal (DTC) behavior may arise in the periodically driven, open Dicke model in the thermodynamic limit ($N \rightarrow \infty$). In this work, we demonstrate that finite $N$ non-mean-field fluctuations in this model can lead to decay rates and amplitudes of transient DTCs that display a non-trivial non-monotonic behavior with an increasing number of atoms. We show that the second-order cumulant expansion fails to capture the finite-size dynamics, while a stochastic version of the Truncated Wigner Approximation (TWA) is remarkably accurate, particularly in the large atom ensemble limit. Using the TWA and the Monte Carlo Wave Function (MCWF) approach, we identify three distinct dynamical regimes of transient DTC behavior in the finite-size Dicke model. We outline the mechanism behind the non-monotonic finite size dynamical decay of DTC order and discuss the implications for experiments performed on finite-sized atomic assemblies.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T03:56:50Z</published>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Haimi Nguyen</name>
+    </author>
+    <author>
+      <name>David R. Reichman</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27286v1</id>
+    <title>Time-resolved Rydberg dynamics in molecules</title>
+    <updated>2026-10-19T20:58:45Z</updated>
+    <link href="https://arxiv.org/abs/2610.27286v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27286v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We develop a general theoretical framework for the ultrafast dynamics of coherently populated autoionizing Rydberg states in molecules, whose coherent decay results in asymmetric Fano line shapes produced by interference between resonant autoionization and direct ionization. The asymmetric line shapes form in the photoelectron continuum during the autoionization lifetime of the decreasing Rydberg population. By parameterizing autoionization resonances and solving the time-dependent Schrödinger equation, we model the buildup of the Fano profile together with the decline of the coherently excited Rydberg-state population. We compare our calculated photoelectron yields with the XUV-pump--IR-probe photoemission experiment of Biswas et al., Phys. Rev. A 110, 043106 (2024), in which neutral ground-state CO$_2$ molecules are excited by an XUV pulse to the Henning sharp and diffuse Rydberg series and subsequently ionized by the delayed IR pulse. Based on our numerically modeled photoelectron yields, we analyze two complementary processes: (i) photoemission into the $X^2Π_g$ continuum of residual CO$_2^+$ ions, which exposes interferences between direct photoionization and excited-state autoionization, and (ii) IR-induced photoemission into the CO$_2^+$[$B^2Σ_u^+$] continuum, which reveals quantum beats between Rydberg states. Our close-coupling model provides a versatile, extendable framework for tracking molecular Rydberg-state relaxation and, more generally, light-driven coherent dynamics in complex quantum systems.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atm-clus" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T20:58:45Z</published>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Erfan Saydanzad</name>
+    </author>
+    <author>
+      <name>Van-Hung Hoang</name>
+    </author>
+    <author>
+      <name>Uwe Thumm</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27053v1</id>
+    <title>Parallel Omnidirectional Atom Rearrangement with Dynamic Holograms</title>
+    <updated>2026-10-19T18:00:00Z</updated>
+    <link href="https://arxiv.org/abs/2610.27053v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27053v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The ability to assemble and reconfigure individual atoms is central to performing quantum science using optical tweezer arrays. Here, we demonstrate parallel omnidirectional atom transport and rearrangement using dynamic holograms generated by a single kilohertz-rate spatial light modulator. By carefully characterizing survival and heating, we show that atoms remain confined even when successive holograms are commanded before the liquid crystal has settled, enabling significantly faster transport. To generate holograms in real time, we develop and implement a warm-start, weighted Gerchberg-Saxton algorithm that achieves performance comparable to neural-network methods without requiring any training. Combining these techniques, we assemble ytterbium atoms into a 2078-site kagome lattice with 99.0% mean filling. In addition, we demonstrate parallel transport between array layers, combining axial and transverse motion to reconfigure atoms in three dimensions. Our approach is readily adaptable to existing tweezer platforms and provides a method for large-scale SLM-based atom assembly as well as programmable three-dimensional control.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T18:00:00Z</published>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Samuel A. Engel</name>
+    </author>
+    <author>
+      <name>Dewei Gong</name>
+    </author>
+    <author>
+      <name>Ziguang Lin</name>
+    </author>
+    <author>
+      <name>Lysander Christakis</name>
+    </author>
+    <author>
+      <name>Kang-Kuen Ni</name>
+    </author>
+    <author>
+      <name>Norman Y. Yao</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26483v1</id>
+    <title>Majorization for superpositions of nonorthogonal states and the existence of golden states</title>
+    <updated>2026-10-19T14:27:14Z</updated>
+    <link href="https://arxiv.org/abs/2610.26483v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26483v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In the resource theory of superposition relative to linearly independent, nonorthogonal reference states, golden states are known for two reference states and for special overlap matrices, and all of them are maximally coherent in the Löwdin basis. We clarify what decides their existence and their Löwdin structure. The robustness and the geometric measure of superposition are maximized by the same states, which overlap equally with every reference state; their maximal values are set by the ground-state energy of a classical $XY$ model on the overlaps of the dual basis. For every overlap matrix, these states, and only these, are golden under the maximal superposition-free operations, but they need not be maximally coherent in the Löwdin basis. For the Kraus-type free operations, we prove a necessary and sufficient criterion, Gram majorization, for converting pure states into targets with nonzero coefficients; it reduces to majorization for orthonormal reference states. It shows that golden states of these operations must be maximally coherent in the Löwdin basis, but that this does not ensure their existence: three reference states that are not orthonormal admit a golden state if and only if their overlaps have a common modulus $s$ and their Bargmann phase $Φ$ obeys $s\geq2\cos[(π+|Φ|)/3]$. Equal-overlap states also yield a complete family of superposition witnesses in the Löwdin basis, which show that white noise on the span of the reference states is a resource unless these states are orthonormal.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:27:14Z</published>
+    <arxiv:comment>16 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Gökhan Torun</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26479v1</id>
+    <title>Observation and control of polariton noise in a thermal Rydberg atom electrometer</title>
+    <updated>2026-10-19T14:25:37Z</updated>
+    <link href="https://arxiv.org/abs/2610.26479v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26479v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The establishment of metrics and control of fundamental noise sources in quantum sensing is a long-standing goal in quantum science and technology. We report on the observation of polariton-mediated optical noise in a thermal Rydberg atom vapor and demonstrate its active control and suppression using a radio-frequency field in Rydberg electrometry. The noise exhibits structured amplification and reduction across the Rydberg electromagnetically induced transparency resonance. This reveals a nonlinear slow-light feedback mechanism in which the polariton medium stores and releases probe-field energy. We show that the reference radio-frequency field used in Rydberg heterodyne receivers can also tune the medium into an operating regime where high electromagnetic-field responsivity coincides with reduced optical noise. This operating-point control enables optimization of the electric-field sensitivity within the constraints imposed by Rydberg-polariton physics. These results establish polariton noise as a previously unrecognized intrinsic noise source in thermal Rydberg vapors and the corresponding control method as a crucial aspect of continued efforts to achieve fundamental sensitivity limits in Rydberg electrometry.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:25:37Z</published>
+    <arxiv:comment>9 pages, 5 figures, 1 table</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Teng Zhang</name>
+    </author>
+    <author>
+      <name>Luís Felipe Gonçalves</name>
+    </author>
+    <author>
+      <name>Alisher Duspayev</name>
+    </author>
+    <author>
+      <name>Georg Raithel</name>
+    </author>
+    <author>
+      <name>David A. Anderson</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26471v1</id>
+    <title>End-to-End Optimization of Partial Fault Tolerance in Neutral-Atom Arrays</title>
+    <updated>2026-10-19T14:18:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.26471v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26471v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Fault-tolerant (FT) quantum computation offers a pathway to quantum advantage, but its realization is hindered by its significant overhead. The partially FT "STAR" architecture reduces the cost of universal computation at the price of relaxing FT requirements for non-Clifford operations, increasing exposure to hardware noise. Therefore, maximizing its performance and applicability demands careful co-design with the underlying hardware. In this work we investigate the co-design of the STAR architecture with neutral-atom platforms, connecting the underlying atomic physics to logical error modeling and application-level performance. At the physical level, we identify a favorable noise bias in $^{171}\mathrm{Yb}$ Rydberg gates, and show how it can be enhanced through error-selective pulse optimization. At the logical level, we identify an intrinsic error suppression mechanism, yielding vanishing logical coherent noise in leading order. Detailed circuit-level simulations of surface code implementations show more than an order of magnitude reduction in logical error relative to previous estimates. As a concrete target application, we focus on the Fermi-Hubbard model with periodic boundaries, for which we design a simulation circuit particularly suited to early implementations. We quantify the resource tradeoff of partially and fully FT approaches to gate synthesis, with the former showing approximately an order of magnitude reduction in state-injection depth, and an even larger reduction in Clifford resources. Comparing with classical and fully FT approaches, we identify regimes where partial fault tolerance provides both lower overheads and lower error rates. In our estimates, this is accessible with moderate error rates $p\sim 10^{-3}$ and a few thousand qubits, underlining that for these types of problems, partial FT approaches provide a compelling pathway to early quantum advantage.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:18:12Z</published>
+    <arxiv:comment>42 pages, 9 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Stefano Veroni</name>
+    </author>
+    <author>
+      <name>Aydin Deger</name>
+    </author>
+    <author>
+      <name>Andrew J. Daley</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26449v1</id>
+    <title>Two-Dimensional Quantum Droplets in a Mixture of Bose-Einstein Condensates</title>
+    <updated>2026-10-19T14:07:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.26449v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26449v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Quantum droplets represent a striking manifestation of beyond-mean-field physics, with properties that depend sensitively on dimensionality. Although quantum droplets have been experimentally realized in one and three dimensions, their realization in two dimensions has remained elusive. Here, we observe the formation of a two-dimensional (2D) quantum droplet in a quasi-2D geometry by transferring the single-component Bose-Einstein condensates (BECs) into a spin mixture in the Lee-Huang-Yang (LHY) regime, where the LHY effect evidently deviates from its three-dimensional form. We find that, in our scheme, 2D quantum droplets are more stable and exhibit longer lifetimes than previously reported quantum droplets. By instead transferring the initial BECs into another single-spin state with a negative scattering length, we generate 2D Townes solitons. A comparison between the two types of self-bound states shows that, whereas 2D Townes solitons are stable only near a critical atom number determined by the scattering length, 2D quantum droplets remain well-defined and self-bound over a much broader parameter range. These realizations of quantum droplets and Townes solitons in two dimensions provide new insights into self-bound states and open new avenues for exploring nonlinear dynamics in quantum liquids.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:07:02Z</published>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Yue Zhang</name>
+    </author>
+    <author>
+      <name>Liangchao Chen</name>
+    </author>
+    <author>
+      <name>Wei Han</name>
+    </author>
+    <author>
+      <name>Linshan Gong</name>
+    </author>
+    <author>
+      <name>Yazhou Wang</name>
+    </author>
+    <author>
+      <name>Zekui Wang</name>
+    </author>
+    <author>
+      <name>Xinhao Liang</name>
+    </author>
+    <author>
+      <name>Wenjie Sui</name>
+    </author>
+    <author>
+      <name>Pengjun Wang</name>
+    </author>
+    <author>
+      <name>Lianghui Huang</name>
+    </author>
+    <author>
+      <name>Zengming Meng</name>
+    </author>
+    <author>
+      <name>Zhuxiong Ye</name>
+    </author>
+    <author>
+      <name>Jing Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26280v1</id>
+    <title>Correlated detection of electrons and ions emitted from laser-induced nanoplasmas in doped helium nanodroplets in the single-shot single-cluster regime</title>
+    <updated>2026-10-19T12:33:35Z</updated>
+    <link href="https://arxiv.org/abs/2610.26280v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26280v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present single-cluster single-shot correlated measurements of electron velocity-map images and ion time-of-flight traces from individual laser-induced nanoplasmas in xenon-doped helium nanodroplets. Simultaneous detection associates the ion composition, ion kinetic energies, and electron energies with the same nanoplasma event. The detected ion composition separates events into populations dominated by He+ mono-cations versus those dominated by He^{2+} di-cations, with markedly different ion energies and electron kinetic energies. The He+-dominated population correlates well with low electron kinetic energies (&lt; 0.5 eV), whereas the distribution of maximum electron kinetic energies for the He^{2+}-dominated population shows a peak around 1 eV. Molecular dynamics simulations averaged over the focal volume suggest that local laser intensity contributes to this separation. These correlations provide single-event observables for classifying nanoplasmas and will support real-time shot-to-shot sorting in single-particle coherent diffractive imaging experiments.</summary>
+    <category term="physics.atm-clus" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T12:33:35Z</published>
+    <arxiv:primary_category term="physics.atm-clus"/>
+    <author>
+      <name>Keshav Sishodia</name>
+    </author>
+    <author>
+      <name>Cristian Medina</name>
+    </author>
+    <author>
+      <name>Robert Moshammer</name>
+    </author>
+    <author>
+      <name>Thomas Pfeifer</name>
+    </author>
+    <author>
+      <name>Andreas Heidenreich</name>
+    </author>
+    <author>
+      <name>Marcel Mudrich</name>
+    </author>
+    <author>
+      <name>Sivarama Krishnan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26234v1</id>
+    <title>How Much Does Auger Spectroscopy Add to XAS? A Fisher-information Analysis of Core-Hole Dynamics in $Ar^+$</title>
+    <updated>2026-10-19T12:00:11Z</updated>
+    <link href="https://arxiv.org/abs/2610.26234v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26234v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>X-ray absorption spectroscopy (XAS) and resonant-Auger spectroscopy probe different stages of core-hole excitation and decay, but distinct spectra need not provide independent information about decay parameters. We quantify their complementarity for the $Ar^+$ $2p\to3d$ manifold using state-resolved atomic calculations and a two-parameter Fisher-information model. A common scale of primary autoionization rates $s_Γ$ and a selective spectator-$pp$ rescaling $η_{pp}$ both alter XAS linewidths. Their spectral responses are nearly collinear because the spectator-$pp$ fraction varies weakly among populated intermediate states. We compare XAS with an effective, scan-integrated, normalized Auger spectrum defined on a final-state-energy coordinate, with fixed excitation weights and final-state widths. Within this reduced observable, the common rate scale cancels from the normalized branching fractions, while $η_{pp}$ redistributes intensity among ionic final states. This cancellation is a property of the adopted model, not of photon-energy-resolved resonant-Auger spectroscopy generally. Under the reference count and resolution assumptions, XAS alone yields a Cramér-Rao lower bound (CRLB) corresponding to a 1.20% local fractional standard uncertainty in the excitation-weighted total natural width; adding Auger reduces this uncertainty by only 0.70%. In contrast, the uncertainty in the spectator-$pp$ branching fraction falls by 99.19%, with similarly large gains for partial-rate scales. A generalized Fisher comparison gives a 123.5-fold improvement on the standard-deviation scale along the most enhanced information mode. Thus, the principal benefit of the complementary Auger observable is to resolve a nearly degenerate decay-channel decomposition rather than substantially refine the total natural width.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T12:00:11Z</published>
+    <arxiv:comment>44 pages, 5 figures, 3 tables</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Hadeel Hamid Saud</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26045v1</id>
+    <title>Effect of Physical Barriers on High-Harmonic Generation in Liquid-Phase</title>
+    <updated>2026-10-19T09:05:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.26045v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26045v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>High-harmonic generation (HHG) in liquid-phase systems presents fundamental differences from gas and solid phases, notably a reduction in the harmonic cutoff, its apparent independence from laser parameters, and the appearance of a second plateau. In this work, we introduce a one-dimensional quantum model that incorporates physical boundaries to simulate the effect of solvation shells in liquid water by means of a complex absorbing potential (CAP). By systematically varying the position, width, and strength of the CAP, we explore how these physical constraints influence the HHG spectrum. Our findings confirm that spatial confinement, specifically the physical truncation of electron trajectories, is the primary factor governing the cutoff in liquid-phase HHG. This confinement leads to a cutoff that is independent of laser intensity and wavelength, aligning with experimental observations and existing hypotheses proposed by Mondal et al. in 2023 and 2026. Furthermore, by implementing a semi-transparent CAP, we successfully reproduce the less intense second plateau observed in liquid-phase HHG. Time-frequency analysis confirms that this characteristic spectral feature is driven by partial wave-packet transmission through the solvation shells, which allows a surviving fraction of electrons to undergo longer continuum excursions. Our one-dimensional approach successfully isolates the fundamental role of physical boundaries in liquid-phase HHG, providing a clear and intuitive understanding of the underlying physics.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T09:05:12Z</published>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Beatriz Darna</name>
+    </author>
+    <author>
+      <name>Marie Labeye</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26041v1</id>
+    <title>Time-resolved transient absorption spectroscopy with quantum light</title>
+    <updated>2026-10-19T09:03:14Z</updated>
+    <link href="https://arxiv.org/abs/2610.26041v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26041v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present a fully quantum theory of time-resolved transient absorption spectroscopy, providing a general framework for describing the linear response of a nonequilibrium target to quantum probe fields beyond the semiclassical approximation. We elucidate how quantum correlations between probe-field frequency modes couple to coherences in the target and derive a simple expression for computing the resulting spectroscopic signals. We identify conditions under which quantum light can modify transient absorption spectra beyond the limits achievable with classical fields. Our work establishes a theoretical foundation for exploiting quantum light in ultrafast spectroscopy and suggests new routes for resolving dynamics in matter on timescales shorter than the duration of the probe pulse.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T09:03:14Z</published>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Mingrui Yuan</name>
+    </author>
+    <author>
+      <name>Nikolay V. Golubev</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25471v1</id>
+    <title>\textit{In situ} certification of multiparticle indistinguishability in a generic interferometer</title>
+    <updated>2026-10-18T18:55:32Z</updated>
+    <link href="https://arxiv.org/abs/2610.25471v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25471v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We propose a scalable and efficient \textit{in situ} method for assessing the multiparticle indistinguishability of identical bosons or fermions in quantum interference experiments on linear interferometers by harnessing quantum parallelism and the bunching/anti-bunching tendencies of these particles. The proposed certification method can be applied to any generic linear interferometer. For particles occupying distinct input ports of a Haar-random unitary interferometer, the number of experimental runs required to attain a prescribed statistical precision is polynomial in the number of particles, the interferometer size, and the inverse precision, with high probability. Our method is robust under losses: for uniform particle losses, the polynomial scaling is preserved when the inverse single-particle survival probability is polynomially bounded. Our scheme is especially suitable for certifying the indistinguishability of single photons in large-scale interference experiments, such as Boson Sampling in the regime of quantum advantage over classical computation.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T18:55:32Z</published>
+    <arxiv:comment>18 pages, 1 figure (in color)</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Valery Shchesnovich</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25466v1</id>
+    <title>Squeezing and Decoherence of Axion Dark Matter</title>
+    <updated>2026-10-18T18:50:53Z</updated>
+    <link href="https://arxiv.org/abs/2610.25466v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25466v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Bosonic particles beyond the Standard Model, such as axions, are among the leading candidates for dark matter. If such particles have a small mass, they are usually described as a purely classical field. However, it was recently shown that this description is incomplete: their inherent gravitational self-interactions can squeeze the field, producing a quantum feature beyond the classical description. Here we analyze squeezing of light dark matter in the presence of decoherence. We show that squeezing is continuously generated, and rapidly enough to survive dissipation, and may also remain present under thermal fluctuations and dephasing. Our results demonstrate that dark matter might possess persistent quantum features and motivate further investigation of their implications for dark matter detection.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T18:50:53Z</published>
+    <arxiv:comment>31 pages, 9 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Vasileios Fragkos</name>
+    </author>
+    <author>
+      <name>Igor Pikovski</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25462v1</id>
+    <title>Rydberg Atomic Receiver for Wireless Physical Layer: A Survey</title>
+    <updated>2026-10-18T18:45:50Z</updated>
+    <link href="https://arxiv.org/abs/2610.25462v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25462v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>With the escalating development of the quantum information technologies, the Rydberg atomic receiver has been envisioned as a promising alternative to its classical electronic counterparts, attracting extensive attentions from both physics and electronic engineering disciplines. By exploiting the electrical acuteness of Alkali atoms with diverse Rydberg energy states for electromagnetic field measurement, Rydberg atomic receiver is capable of surmounting the inherent limitations on the operating bandwidth and detection sensitivity of the classical electronic counterparts. Against this background, this article provides an extensive overview of Rydberg atomic communication and sensing from fundamental theory, critical technologies to practical implementations. Firstly, the milestones of the Rydberg atomic receiver evolution was introduced. Then we provide a clear understanding of Rydberg atomic receiver mechanisms from the perspective of classical communication and sensing, and highlight the unprecedented advantages over traditional electronic receivers as well as the technical challenges. Afterwards, necessary fundamentals are presented including the Rydberg atoms, typical non-coherent/coherent structures, and explicit experimental configurations, followed by discussions on state-of-the-art development of the Rydberg atomic receiver. Specifically, advancements on electric-field detection methods for accurate measurement of amplitude, phase, frequency and polarization, are extensively investigated. Based on the established methodologies, recent innovations in Rydberg atomic communication and sensing are reviewed, ranging from waveform design and array-based signal processing to radar applications like localization, imaging and remote sensing, with practical experimental results presented. Finally, we summarize the promising research trends around Rydberg atomic receiver.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T18:45:50Z</published>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Minze Chen</name>
+    </author>
+    <author>
+      <name>Mingyao Cui</name>
+    </author>
+    <author>
+      <name>Zhiao Zhu</name>
+    </author>
+    <author>
+      <name>Jingyi Feng</name>
+    </author>
+    <author>
+      <name>Haodong Zhang</name>
+    </author>
+    <author>
+      <name>Qunsong Zeng</name>
+    </author>
+    <author>
+      <name>Tianqi Mao</name>
+    </author>
+    <author>
+      <name>Dezhi Zheng</name>
+    </author>
+    <author>
+      <name>Kaibin Huang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25020v1</id>
+    <title>Fast and High-Fidelity Motional-State-Preserving Transport in Optical Tweezers</title>
+    <updated>2026-10-18T05:00:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.25020v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25020v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Reconfigurable neutral-atom processors require rapid, high-fidelity transport of atoms between optical-tweezer sites. In finite-depth Gaussian traps, fast motion can leave residual motional excitation even when the atom reaches its destination. We develop a basis-parameterized gradient-ascent pulse-engineering (GRAPE) framework for one-dimensional transport of a single $^{87}$Rb atom. A shortcut-to-adiabaticity reference is refined using 17 trajectory parameters, with ten additional parameters providing bounded trap-depth modulation; depth affects both confinement and the inverse construction of the physical trap center. For a $12.6\,μ$m transfer completed in only $30.5\,μ$s, corresponding to approximately $2.75$ periods of the reference trap, the selected joint protocol achieves a ground-state infidelity of $2.41\times10^{-7}$. Because preparing an exactly pure motional ground state is experimentally challenging, we also optimize population-weighted transport for initial distributions with mean vibrational occupations $\nbar\simeq0.16$ and $1.87$, reaching same-state probabilities of about $0.99993$ and $0.9934$. Trap-depth fluctuations can further degrade transport fidelity. Robust optimization under a measurement-informed depth-noise model improves the mean error, worst sampled error, and fidelity dispersion for the specified noise realizations. Coordinated control of tweezer position and confinement thus offers a route to rapid transport with low residual excitation for flexible atom rearrangement and dynamic connectivity in neutral-atom processors.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T05:00:36Z</published>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Wen-hao Wang</name>
+    </author>
+    <author>
+      <name>Jian-gong Hu</name>
+    </author>
+    <author>
+      <name>Guang-ming Huang</name>
+    </author>
+    <author>
+      <name>Gao-xiang Li</name>
+    </author>
+    <author>
+      <name>Cheng Sheng</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25014v1</id>
+    <title>Large Language Model Steering of Acousto-Optic Tweezer Arrays</title>
+    <updated>2026-10-18T04:48:57Z</updated>
+    <link href="https://arxiv.org/abs/2610.25014v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25014v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Controlling quantum hardware requires choosing and revising experimental strategies as nonlinear response, coupling, and drift limit calibration. We experimentally investigate a general-purpose large language model (LLM) as a human-in-the-loop strategy layer for a neutral-atom tweezer platform. Through step-by-step interaction with experimental feedback, the LLM guides a transition from multiplicative row--column correction to a drift-corrected local response-matrix method when separable feedback stalls. Deterministic software performs image analysis and numerical updates, while an experimentalist verifies and authorizes each waveform. For a $10\times10$ crossed-acousto-optic-deflector array, this workflow reduces the Gaussian-peak coefficient of variation from $20.30\%$ to $1.57\%$ in 30 candidate-update rounds. The experiment demonstrates feedback-informed strategy selection on a physical quantum-control subsystem, rather than direct generation of control parameters alone. These results highlight the potential of LLMs to guide control optimization across diverse quantum platforms by adaptively formulating and refining experimental strategies.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T04:48:57Z</published>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Cheng Sheng</name>
+    </author>
+    <author>
+      <name>Kai-xuan Xiao</name>
+    </author>
+    <author>
+      <name>Yin Zhang</name>
+    </author>
+    <author>
+      <name>Wen-hao Wang</name>
+    </author>
+    <author>
+      <name>Feng-yi Zhang</name>
+    </author>
+    <author>
+      <name>Xu-xing Geng</name>
+    </author>
+    <author>
+      <name>Guang-ming Huang</name>
+    </author>
+    <author>
+      <name>Gao-xiang Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24891v1</id>
+    <title>Hidden Perturbative Structure in Attosecond Streaking</title>
+    <updated>2026-10-17T22:14:48Z</updated>
+    <link href="https://arxiv.org/abs/2610.24891v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24891v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Attosecond streaking is inherently multiphoton, yet we uncover a hidden perturbative structure revealing the underlying continuum--continuum angular-momentum propensity. By filtering the inversion-odd response in helium streaking data at the IR fundamental, we isolate an angular distribution dominated by the $P_1$ and $P_3$ Legendre components, whose complex coefficients yield an effective $s/d$ two-photon amplitude ratio. Multichannel, two-electron time-dependent Schrödinger equation calculations demonstrate that the characteristic Fano propensity survives electron correlation. Incorporating the experimental XUV attochirp reproduces the measured emission-edge trend, while near-threshold calculations predict resonant amplitude and phase signatures associated with the bound He $np$ Rydberg series. This symmetry- and frequency-filtering approach offers a general spectroscopic framework with potential applications to atomic, molecular, and solid-state systems where attosecond streaking is established.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T22:14:48Z</published>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Jingsong Gao</name>
+    </author>
+    <author>
+      <name>Mahmudul Hasan</name>
+    </author>
+    <author>
+      <name>Zach Eisenhutt</name>
+    </author>
+    <author>
+      <name>Vladislav Serov</name>
+    </author>
+    <author>
+      <name>Hao Liang</name>
+    </author>
+    <author>
+      <name>Meng Han</name>
+    </author>
+    <author>
+      <name>Anatoli Kheifets</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24815v1</id>
+    <title>Low-Field J-Coupling Spectroscopy Measured with a Diamond Nitrogen Vacancy Spectrometer</title>
+    <updated>2026-10-17T18:44:44Z</updated>
+    <link href="https://arxiv.org/abs/2610.24815v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24815v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Nitrogen vacancy centers in diamond (NVs) are point defects well suited to quantum sensing of magnetic fields. NV spin states can be initialized and read out optically with high spatial resolution, enabling detection of pL-scale volumes of nuclear spins. Using Coherently Averaged Synchronized Readout (CASR), standard NMR spectroscopy techniques such as free decay, spin echo, and PGSE have been performed with Hz-scale spectral resolution using NV-diamond sensors. However, using NV detection for conventional high-resolution NMR at multi-tesla fields is challenging due to the need to manipulate NV electronic spins at resonance frequencies 100 GHz or higher. Low-field J-coupling spectroscopy provides an alternative path to chemical resolution in a regime more easily accessible to NVs. Here, we demonstrate homonuclear and heteronuclear J-coupling spectroscopy using an NV-NMR spectrometer based on permanent magnets operating at $\sim$890 kHz proton Larmor frequency (bias magnetic field $\sim$21 mT). This field strength enables chemical characterization based on J-coupling using sequences such as Synchronized Echo (SyncE) and Spin-Echo Double Resonance (SEDOR), which do not require the strong chemical shift dispersion and pristine field homogeneity of high-field NMR. The frequency range is easily detected by NVs using standard XY dynamical decoupling sequences and is well-suited for applying Overhauser DNP, which can boost proton signal by two orders of magnitude. We acquire initial NV-NMR measurements of T$_1$, T$_2$, and Overhauser DNP in glycerol before advancing to SEDOR spectroscopy of methanol-$^{13}$C and a methanol-$^{13}$C/acetonitrile-2-$^{13}$C mixture at sample volumes $\sim$50 pL, in which we demonstrate measurement of $^1J_\text{CH}$ couplings and resolution between species. We also acquire a homonuclear J-coupling spectrum of a natural-abundance propylene carbonate sample.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T18:44:44Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Stephen J. DeVience</name>
+    </author>
+    <author>
+      <name>John W. Blanchard</name>
+    </author>
+    <author>
+      <name>Camille G. McDonnell</name>
+    </author>
+    <author>
+      <name>Ronald L. Walsworth</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24262v1</id>
+    <title>A large nonmagnetic aluminum-and-Viton vacuum chamber suitable for vacuum pressures down into the extremely-high-vacuum (XHV) regime</title>
+    <updated>2026-10-16T21:40:43Z</updated>
+    <link href="https://arxiv.org/abs/2610.24262v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24262v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A recently constructed large nonmagnetic vacuum chamber is described and characterized. The vacuum chamber was machined from 19-inch cubes of aluminum and are sealed using dual Viton O-rings (with the interspace between the O-rings evacuated by a separate vacuum pump). 17-inch-diameter openings on all six sides allow for easy access to the experimental apparatus and for vacuum pumps with very large pumping speeds. These 17-inch holes were bored straight through the aluminum cube, resulting in an interior volume of 100 L (almost 90\% of the total volume of the 19-inch cube). The 17-inch openings are sealed with 19-inch-diameter aluminum flanges. The system is modular in that the cubes can be connected to one another to form larger vacuum systems. The chamber is designed to allow for vacuum pressures of $10^{-12}$ torr. In many respects (including nonmagnetic properties, outgassing rate after low-temperature baking, weight, cost, ease of machining, and ease of baking due to the chamber's high thermal conductivity) this system is superior to standard stainless-steel metal-sealed CF vacuum systems and is highly recommended for use by others.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T21:40:43Z</published>
+    <arxiv:comment>11 pages and 7 figures (including Supplemental Materials)</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>N. T. McCall</name>
+    </author>
+    <author>
+      <name>H. -M. Yau</name>
+    </author>
+    <author>
+      <name>Z. Corriveau</name>
+    </author>
+    <author>
+      <name>J. Perez Garcia</name>
+    </author>
+    <author>
+      <name>T. Chauhan</name>
+    </author>
+    <author>
+      <name>G. K. Koyanagi</name>
+    </author>
+    <author>
+      <name>R. L. Lambo</name>
+    </author>
+    <author>
+      <name>M. C. George</name>
+    </author>
+    <author>
+      <name>C. H. Storry</name>
+    </author>
+    <author>
+      <name>E. A. Hessels</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26901v1</id>
+    <title>Symmetry and Quantum Interference in the Attosecond Domain</title>
+    <updated>2026-10-16T20:34:40Z</updated>
+    <link href="https://arxiv.org/abs/2610.26901v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26901v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this review, we examine the interplay of symmetry and quantum interference in the attosecond domain primarily through one- and two-electron photoelectron momentum distributions. Using our own work, we discuss how tailored laser fields provide control over dynamical symmetries, and how quantum-orbit methods make it possible to connect the resulting momentum-space structures to specific ionisation, propagation, and rescattering pathways. Particular emphasis is placed on ultrafast photoelectron holography and nonsequential double ionisation through recollision excitation with subsequent ionisation, where several distinct forms of quantum interference can be identified and manipulated. We also discuss how target properties, including the binding potential, orbital symmetry and parity, modify this mapping. Finally, we consider emerging opportunities offered by non-classical states of light, for which photon statistics and quantum fluctuations provide additional degrees of freedom for controlling symmetry and strong-field electron dynamics.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T20:34:40Z</published>
+    <arxiv:comment>Review article; 38 pages excluding references</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>C. Figueira de Morisson Faria</name>
+    </author>
+    <author>
+      <name>S. Hashim</name>
+    </author>
+    <author>
+      <name>J. Rivera-Dean</name>
+    </author>
+    <author>
+      <name>T. Rook</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23208v1</id>
+    <title>Exponential-SWAP gate between bosonic motional modes of trapped ions</title>
+    <updated>2026-10-16T09:46:13Z</updated>
+    <link href="https://arxiv.org/abs/2610.23208v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23208v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The exponential-SWAP (eSWAP) gate generates a coherent superposition of identity and SWAP operations, with continuously tunable amplitudes. We experimentally implement this gate between two bosonic motional modes of trapped ions using spin-independent and spin-dependent beam splitter interactions. Measurements of selected slices of the joint characteristic function for distinct input states test the gate and demonstrate continuous control of the identity-SWAP superposition. This implementation provides a tunable interaction for hybrid qubit-bosonic quantum information processing.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T09:46:13Z</published>
+    <arxiv:comment>13 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>E. J. W. Koh</name>
+    </author>
+    <author>
+      <name>Rongjie Zhang</name>
+    </author>
+    <author>
+      <name>Dzmitry Matsukevich</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22843v1</id>
+    <title>Fully relativistic calculation of thermal shifts in spectra of hydrogen molecular ion</title>
+    <updated>2026-10-16T02:34:40Z</updated>
+    <link href="https://arxiv.org/abs/2610.22843v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22843v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Within a fully relativistic framework, we discuss the one-loop self-energy correction, generalized to the presence of external blackbody radiation, for a bound electron in the hydrogen molecular ion. The calculations rely on the thermal part of the photon propagator from finite-temperature quantum electrodynamics. The Dirac equation with a two-center potential is solved using the dual kinetic balance condition, extended to axially symmetric systems, and a B-spline-based trial function. The results are obtained within the Born-Oppenheimer adiabatic approximation. Thermal shift for the ground term of the hydrogen molecular ion is computed as a function of the internuclear distance. Including this correction, we present the resulting shifts of the vibrational levels. The analysis focuses on the dynamical effect, a comparison is made with data available in the current literature.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T02:34:40Z</published>
+    <arxiv:comment>13 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>M. A. Reiter</name>
+    </author>
+    <author>
+      <name>A. A. Anikin</name>
+    </author>
+    <author>
+      <name>A. A. Kotov</name>
+    </author>
+    <author>
+      <name>D. A. Glazov</name>
+    </author>
+    <author>
+      <name>T. A. Zalialiutdinov</name>
+    </author>
+    <author>
+      <name>D. A. Solovyev</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22739v1</id>
+    <title>An improved limit on $^{171}\text{Yb}$ electric dipole moment</title>
+    <updated>2026-10-15T23:20:31Z</updated>
+    <link href="https://arxiv.org/abs/2610.22739v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22739v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Searches for permanent electric dipole moments (EDMs) probe new sources of CP violation beyond the Standard Model. The atomic EDM of $^{171}\text{Yb}$, which is sensitive to its nuclear Schiff moment, is a promising candidate, but previous measurements were limited by noise and systematic effects induced by the optical dipole trap (ODT) that holds the atoms. Here we report a substantially improved search enabled by a dual-ODT configuration with orthogonal polarizations, and spin measurements for precise alignment of static and optical fields. By suppressing the key parity-mixing systematic effect and vector light-shift noise, we achieve a limit of $|d(^{171}\mathrm{Yb})| &lt; 7.5 \times 10^{-28}\ e\cdot\text{cm}$ (95\% C.L.), which represents a 20-fold improvement over the previous work. We also present the first calculation of the nuclear structure factors of the Schiff moment of $^{171}\text{Yb}$. The experimental and theoretical advances combine to tighten constraints on CP-violating pion-nucleon couplings in a global analysis. Moreover, this work demonstrates a pathway toward future measurements in $^{225}\text{Ra}$, where nuclear deformation offers exceptional sensitivity to physics beyond the Standard Model.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T23:20:31Z</published>
+    <arxiv:comment>17 pages, 11 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>S. -Z. Wang</name>
+    </author>
+    <author>
+      <name>S. -B. Wang</name>
+    </author>
+    <author>
+      <name>E. F. Zhou</name>
+    </author>
+    <author>
+      <name>Z. -J. Tao</name>
+    </author>
+    <author>
+      <name>J. -M. Yao</name>
+    </author>
+    <author>
+      <name>T. Xia</name>
+    </author>
+    <author>
+      <name>Z. -T. Lu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22639v1</id>
+    <title>Universal Threshold Laws for Dipolar Evaporation of Molecular Fermi Gases</title>
+    <updated>2026-10-15T20:54:21Z</updated>
+    <link href="https://arxiv.org/abs/2610.22639v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22639v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Fermi statistics suppress the elastic collisions that rethermalize a Fermi gas during evaporative cooling, creating a fundamental low-temperature bottleneck for producing quantum degenerate gases. We show that, for shielded single-component ultracold dipolar molecular Fermi gases in the Wigner threshold regime, this bottleneck is governed by universal threshold laws fixed by the effective dimensionality of the gas. In this regime, Fermi suppression of rethermalization scales quadratically with temperature in 3D but only linearly in 2D. Consequently, the thermalization-to-loss ratio is more favorable in 2D than in 3D, and these results suggest that 2D geometries are better suited for reaching deep degeneracy. We also present ab initio close-coupling calculations that agree well with experimental measurements on Fermi degenerate gases of KRb molecules, supporting our conclusions.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T20:54:21Z</published>
+    <arxiv:comment>9 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Kevin B. Xu</name>
+    </author>
+    <author>
+      <name>John L. Bohn</name>
+    </author>
+    <author>
+      <name>Reuben R. W. Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22574v1</id>
+    <title>Two-photon Doppler-free spectroscopy of the $6s^2\;^1S_0 \rightarrow 6s23s\;^1S_0$ Rydberg transition for quantum sensing in ytterbium</title>
+    <updated>2026-10-15T19:19:57Z</updated>
+    <link href="https://arxiv.org/abs/2610.22574v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22574v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Here we report atomic structure calculations and experimental observations of the two-photon $6s^2\;^1S_0 \rightarrow 6s23s\;^1S_0$ transition in Yb. The unique level structure of Yb places the $6s6p\;^1P_1$ state's energy at $\approx\!49.7\%$ of the ionization energy, which facilitates two-photon Doppler-free excitation of the $6s23s\;^1S_0$ Rydberg state from the $6s^2\;^1S_0$ ground state at a relatively low optical intensity. This $J= 0 \rightarrow J=0$ transition is immune to first-order Zeeman and electric quadrupole shifts, has reduced sensitivity to higher-order Zeeman shifts, and is further predicted to have relatively low sensitivity to density shifts. Using configuration interaction theory, we compute relevant properties of the $6s23s\;^1S_0$ Rydberg state for sensing, including the $C_6$ coefficient, dc polarizability, blackbody radiation (BBR) shift, and BBR depopulation rate. As a first experimental step, we demonstrate two-photon Doppler-free spectroscopy of the $6s^2\;^1S_0 \rightarrow 6s23s\;^1S_0$ transition. From our experimental spectra, we estimate the natural linewidth (lifetime) of the $6s23s\;^1S_0$ state to be 90 kHz (1.8 $μ$s). We believe this transition, or other $6s^2\;^1S_0 \rightarrow 6sns\;^1S_0$ transitions in Yb with $n\approx23$, may find use in a variety of sensing applications, potentially including a two-photon clock, electrometer, or BBR thermometer.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T19:19:57Z</published>
+    <arxiv:comment>19 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Benjamin D. Hunt</name>
+    </author>
+    <author>
+      <name>Kyle Beloy</name>
+    </author>
+    <author>
+      <name>Roger C. Brown</name>
+    </author>
+    <author>
+      <name>Tobias Bothwell</name>
+    </author>
+    <author>
+      <name>Harikesh Ranganath</name>
+    </author>
+    <author>
+      <name>Tanner Grogan</name>
+    </author>
+    <author>
+      <name>Jacob L. Siegel</name>
+    </author>
+    <author>
+      <name>Andrew Ludlow</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22532v1</id>
+    <title>Resonant pair production and flat band melting in a driven Rydberg chain</title>
+    <updated>2026-10-15T18:28:29Z</updated>
+    <link href="https://arxiv.org/abs/2610.22532v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22532v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study a Rydberg chain subjected to a two-tone periodic drive of the detuning $Δ(t)$ and Rabi frequency $Ω(t)$ at frequencies $ω_1$ and $ω_2=νω_1$ respectively with $ν\in \mathbf{Z}$. In the strong Rydberg blockade limit, such a system reduces to the PXP model and exhibits exact Floquet flat band. Here we determine, using a time-dependent Schrieffer-Wolff transformation, the domain of validity of such PXP dynamics once the blockade-violating processes are taken into account. We study the melting of such flat bands in the presence of strong, but finite, blockade strength. Using Floquet perturbation theory (FPT), we identify two mechanisms for such melting; the first occurs due to the presence of many-body resonances involving resonant production of nearest-neighbor Rydberg excitation pairs while the second involves virtual processes that access intermediate states with such pairs. Our analytical FPT results match with those obtained using exact diagonalization on a finite chain. We study the dynamics for $|{\rm vac}\rangle$ (Fock state with no Rydberg excitation), $|{\mathbb {Z}}_2\rangle$, and $|{\mathbb {Z}}_3\rangle$ (Fock states with Rydberg excitations on alternate and every third site respectively) initial states. We find that $|{\rm vac}\rangle$ shows exceptional stability against resonant pair formation while $|{\mathbb {Z}}_3\rangle$ exhibits flat band melting via virtual processes away from the direct resonances. We find oscillatory dynamics with large time period for the $|{\mathbb {Z}}_2\rangle$ initial state and the presence of Floquet scars that have large overlap with $|{\mathbb {Z}}_3\rangle$ state; these phenomena occur due to processes that are absent in the PXP limit. We propose measurement of nearest neighbor pair correlation functions using Rydberg atom quantum simulator platforms as an accessible experimental probe for these effects.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T18:28:29Z</published>
+    <arxiv:comment>v1; 22 pages</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Tista Banerjee</name>
+    </author>
+    <author>
+      <name>K. Sengupta</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22527v1</id>
+    <title>Nonrelativistic quantum theory of non-dipole effects in a multielectron atom: radiation transition operator</title>
+    <updated>2026-10-15T18:20:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.22527v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22527v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In the work of Hopersky A.N. et al., arXiv: 2609.33494v1 [physics. atom-ph] in the Loudon integral representation, the general analytical structure of the complete operator of a multipole radiation transition taking into account non-dipole effects for a multielectron atom is established. In this Letter this structure is converted to the sum only for all multipoles.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T18:20:27Z</published>
+    <arxiv:comment>3 pages</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Alexey N. Hopersky</name>
+    </author>
+    <author>
+      <name>Alexey M. Nadolinsky</name>
+    </author>
+    <author>
+      <name>Rustam V. Koneev</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22346v1</id>
+    <title>Projected sensitivity of a spinor Bose-Einstein condensate comagnetometer to proton monopole-dipole interactions</title>
+    <updated>2026-10-15T17:56:58Z</updated>
+    <link href="https://arxiv.org/abs/2610.22346v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22346v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Light spin-zero bosons with scalar and pseudoscalar couplings mediate a parity- and time-reversal-violating monopole-dipole interaction between unpolarized matter and polarized spins. For proton spins, the interaction has been probed directly only at ranges $λ\gtrsim$ 5 mm; below this range, laboratory limits are inferred from neutron-dominated nuclei through nuclear-spin models. We analyze a direct search with a single-domain $^{87}$Rb spinor Bose-Einstein condensate in close proximity to a source mass. The F=1 and F=2 manifolds act as two co-located magnetometers that precess in opposite directions in a magnetic field but in the same direction under the exotic interaction. They thus form a natural comagnetometer, in which the sum of their precession angles suppresses field noise by a measured 44 dB and a weighted sum cancels the field altogether. Taking as a starting point the demonstrated magnetometry [Palacios et al. Proc. Nat. Acad. Sci. \textbf{119}, e2115339119 (2022)] and comagnetometry [Gomez et al. Phys. Ref. Lett. \textbf{124}, 170401 (2020)] performance of the $^{87}$Rb single-domain spinor condensate at ICFO [Palacios et al. New J. Phys. \textbf{20}, 053008 (2018)], we study the projected sensitivity as a function of source-mass geometry and in-progress improvements to atom loading methods, trap beam geometry, and magnetic environment. With an insulating bismuth germanate source mass with a spherical top, whose apex sits 50 $μ$m below the center of the condensate, one week of acquisition would reach $|g_s^N g_p^p|\approx 2\times10^{-22}$ with these upgrades and $3\times10^{-24}$ at the projection-noise limit ($λ=100\, μ$m, 95\% C.L.). This is more than three and five orders of magnitude below existing laboratory limits. The improvement covers boson masses of 0.3-50 meV/c$^2$ after the upgrades and 0.09-70 meV/c$^2$ at the projection-noise limit.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T17:56:58Z</published>
+    <arxiv:comment>11 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Wenjing Zhou</name>
+    </author>
+    <author>
+      <name>Diego Blas</name>
+    </author>
+    <author>
+      <name>Morgan W. Mitchell</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22216v1</id>
+    <title>A QED Functional Formulation of Relativistic Many-Body Perturbation Theory in Atoms</title>
+    <updated>2026-10-15T17:00:44Z</updated>
+    <link href="https://arxiv.org/abs/2610.22216v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22216v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We systematically derive relativistic many-body perturbation theory (RMBPT) from the two-particle irreducible effective action of quantum electrodynamics (QED) in the Furry picture, giving an organisational and diagrammatic framework for both correlation and radiative corrections in many-electron atoms. We further discuss that RMBPT is a well-defined subset of QED effects evaluated on a redefined vacuum, such that the interplay between correlation and radiative effects becomes transparent. We use this to derive QED corrections to the interelectronic interaction of atomic systems, yielding the transverse (frequency-dependent Breit) photon-exchange corrections, including retardation. Of those corrections, we numerically evaluate the first-order transverse photon-exchange corrections, which complement the conventional RMBPT based on the Dirac-Coulomb no-pair Hamiltonian.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T17:00:44Z</published>
+    <arxiv:comment>12 pages, 1 figure, 4 tables</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Cedric de Jonge</name>
+    </author>
+    <author>
+      <name>Zoltán Harman</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.21609v1</id>
+    <title>Fast, parallel, three-dimensional rearrangement of atom arrays using superpositions of elementary holograms</title>
+    <updated>2026-10-15T09:56:16Z</updated>
+    <link href="https://arxiv.org/abs/2610.21609v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.21609v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Assembling defect-free arrays of neutral atoms requires real-time rearrangement of stochastically loaded optical tweezers. Conventional rearrangement methods shuttle atoms sequentially, whereas high-speed spatial light modulators (SLMs) can move all atoms in parallel, which scales more favorably as the array size grows. For fast parallel rearrangement, the sequence of holograms displayed on the SLM should be computed more rapidly than the SLM refresh rate, and there should be phase continuity between successive holograms to minimize transient intensity fluctuations. We calculate holograms analytically by adding together the complex fields needed to produce each individual trap, and we ramp the phase of each trap linearly as it moves to its target location. Trap positions enter as continuous variables, rather than tied to points on a grid, so the method provides high positioning accuracy. Using a single GPU, we compute each intermediate hologram in 0.284 ms, considerably faster than the SLM refresh time of 0.696 ms, so the rearrangement speed is hardware-limited. In each step, we use the free processing time to iteratively optimize the holograms for equal intensity across the traps, decreasing trap non-uniformity to 1.24% during rearrangement at no cost in total time. Starting from an array of 256 sites loaded stochastically with $^{87}$Rb atoms, we assemble a 100-atom array in under 20 ms with a rearrangement survival probability of 99.31(12)% per atom. This rearrangement increases the temperature of the atoms by 9(3) $μ$K, which is small compared to the trap depth of 480 $μ$K. Our method can also move individual atoms axially, enabling transport in different planes. We demonstrate this capability with a rearrangement protocol where one set of atoms leapfrogs over another.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T09:56:16Z</published>
+    <arxiv:comment>14 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>D. J. Hoare</name>
+    </author>
+    <author>
+      <name>P. Dunniece</name>
+    </author>
+    <author>
+      <name>J. Rodewald</name>
+    </author>
+    <author>
+      <name>K. K. Voges</name>
+    </author>
+    <author>
+      <name>M. R. Tarbutt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20889v2</id>
+    <title>A Rydberg atom array coupled to a high-cooperativity optical cavity</title>
+    <updated>2026-10-16T17:04:57Z</updated>
+    <link href="https://arxiv.org/abs/2610.20889v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20889v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Integrating Rydberg-state control of atom-atom interactions with cavity control of atom-light interactions enables the combination of local entangling operations with photon-mediated long-range coupling, measurement, and communication. Such integration is challenging because electric fields generated by charges on cavity optics and by cavity-stabilizing actuators may disturb Rydberg-state coherence. Here, we couple a Rydberg tweezer array to a high-cooperativity optical cavity, suppressing the electric fields produced by cavity length actuation so that the residual field variation of about $3~\mathrm{mV/cm}$ rms does not limit Rydberg coherence. We demonstrate two capabilities that neither system provides alone. First, we use Purcell-enhanced fluorescence to read out atoms directly in the ground-Rydberg basis within $7.5~μ\mathrm{s}$, well within the Rydberg-state lifetime, with ground- and Rydberg-state detection infidelities of $3\%$ and $5\%$, respectively, and with low atom loss. Second, we use Rydberg-Rydberg interactions to control collective light-atom scattering into the cavity mode. Specifically, we drive blockaded Rabi oscillations between a state with two ground-state atoms, which scatter collectively with a superradiant or subradiant rate controlled by the atomic positions, and an entangled state with a single Rydberg excitation, which scatters like a single atom. These capabilities open routes toward networked Rydberg processors, mid-circuit measurements in analog quantum simulators, and many-body quantum optics with entangled emitters coupled collectively to light.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T20:18:10Z</published>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Tai Xiang</name>
+    </author>
+    <author>
+      <name>Yue-Hui Lu</name>
+    </author>
+    <author>
+      <name>Tsai-Chen Lee</name>
+    </author>
+    <author>
+      <name>Jacquelyn Ho</name>
+    </author>
+    <author>
+      <name>Michael Lan</name>
+    </author>
+    <author>
+      <name>Zhenjie Yan</name>
+    </author>
+    <author>
+      <name>Harry Levine</name>
+    </author>
+    <author>
+      <name>Nathaniel B. Vilas</name>
+    </author>
+    <author>
+      <name>Dan M. Stamper-Kurn</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20882v1</id>
+    <title>A tutorial on quantum scattering theory and coupled-channel calculations of bimolecular collisions</title>
+    <updated>2026-10-14T20:14:21Z</updated>
+    <link href="https://arxiv.org/abs/2610.20882v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20882v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Collisions between atoms and molecules govern how energy is exchanged and redistributed in the gas phase, underpinning phenomena from spectral line broadening and interstellar molecular excitation to the cooling and trapping of molecules. A quantitative account of these collisions requires connecting the theoretical description of the interaction between the collision partners to measurable quantities such as cross sections. However, scattering theory as presented in quantum mechanics textbooks does not readily translate into numerical methods. Here, we formulate the scattering problem in Dirac notation, as customary in present-day quantum mechanics courses, and show how to build a practical numerical framework from it. We derive the "coupled channel" representation of the scattering problem with correct asymptotic behaviour and introduce Numerov's method to obtain time-independent wavefunctions, from which we calculate cross sections, the observables measured in scattering experiments. Starting from single channel scattering, we build up to the realistic collision of a ground-state atom with a diatomic molecule.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T20:14:21Z</published>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Karl P. Horn</name>
+    </author>
+    <author>
+      <name>Christiane P. Koch</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20487v1</id>
+    <title>Demonstration of a mobile ion-trap quantum device</title>
+    <updated>2026-10-14T16:58:47Z</updated>
+    <link href="https://arxiv.org/abs/2610.20487v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20487v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Trapped-ion devices are being investigated for transportable applications, including the transfer of exotic charged particles between laboratories and the development of portable quantum technologies. To date, ion transport has been demonstrated only in magnetic (Penning) traps, whereas radiofrequency (Paul) traps are the predominant platform in quantum science. Here, we report the first transport of a few thousand ions confined in a linear Paul trap over distances of several kilometers, with transport durations of 15 and 45 min. These results establish a foundation for mobile trapped-ion quantum devices capable of operating while in motion and may enable the transport of exotic ions in Paul traps between experimental facilities.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T16:58:47Z</published>
+    <arxiv:comment>7 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Sara Alfaro</name>
+    </author>
+    <author>
+      <name>Dipesh Bhanushali</name>
+    </author>
+    <author>
+      <name>Sankarshan Choudapurkar</name>
+    </author>
+    <author>
+      <name>Ashwin Bhartia</name>
+    </author>
+    <author>
+      <name>Thomas Lafenthaler</name>
+    </author>
+    <author>
+      <name>Tommaso Faorlin</name>
+    </author>
+    <author>
+      <name>Yannick Weiser</name>
+    </author>
+    <author>
+      <name>Lorenz Panzl</name>
+    </author>
+    <author>
+      <name>Thomas Monz</name>
+    </author>
+    <author>
+      <name>Rainer Blatt</name>
+    </author>
+    <author>
+      <name>Giovanni Cerchiari</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20168v1</id>
+    <title>Fine-structure Raman interferometry with metastable barium for magnetically resilient inertial sensing</title>
+    <updated>2026-10-14T13:18:35Z</updated>
+    <link href="https://arxiv.org/abs/2610.20168v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20168v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Atom-interferometric quantum inertial sensors are promising candidates for inertial navigation systems owing to their high sensitivity and intrinsically low drift. However, their application to next-generation inertial navigation, targeting a drift below 100 m/month, requires exceptionally stringent inertial-sensor bias stability. In conventional Raman atom interferometers based on ground-state hyperfine transitions, suppressing inertial-sensor biases arising from quadratic Zeeman shifts requires highly optimized magnetic shielding. In this work, we propose a Raman atom interferometer based on fine-structure transitions between metastable states of barium, which exhibit a quadratic Zeeman sensitivity approximately three orders of magnitude lower than that of conventional alkali-atom Raman transitions. We show that the proposed scheme increases the allowable spatial gradient of the magnetic-field magnitude by a factor of several tens, thereby relaxing the magnetic-field-control requirements from highly optimized shielding and compensation systems to standard magnetic-field-control techniques. Furthermore, we experimentally demonstrate Mach--Zehnder interference between metastable fine-structure states of barium, validating a key building block of the proposed inertial-sensing scheme.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T13:18:35Z</published>
+    <arxiv:comment>11 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Masaki Nagamori</name>
+    </author>
+    <author>
+      <name>Hiromi Hatano</name>
+    </author>
+    <author>
+      <name>Toshiyuki Hosoya</name>
+    </author>
+    <author>
+      <name>Yuki Miyazawa</name>
+    </author>
+    <author>
+      <name>Tomoya Sato</name>
+    </author>
+    <author>
+      <name>Mikio Kozuma</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.19402v1</id>
+    <title>Wigner time delay in the $4d$ giant-resonance region of iodoalkanes</title>
+    <updated>2026-10-14T01:50:31Z</updated>
+    <link href="https://arxiv.org/abs/2610.19402v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.19402v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The iodine $4d$ giant resonance provides an unusually strong and predominantly iodine-centered photoionization channel in iodoalkanes. Recent attosecond measurements by Schröder et al. [Phys. Rev. A 112, L051104 (2025)] reported pronounced, nonmonotonic, and isomer-dependent variations of the streaking-derived $4d$ photoemission delay across the molecular series. We calculate field-free molecular Eisenbud--Wigner--Smith (EWS) delays from photoionization amplitudes represented in a multicenter B-spline basis of the time-dependent density-functional theory (TDDFT). A tensor formulation is developed in which the delay for randomly oriented molecules is evaluated from the same rank-0 and rank-2 contractions that determine the cross section and anisotropy parameter. The resulting TDDFT delays of CH$_3$I, C$_2$H$_5$I, 2-iodopropane, and both calculated conformers of 1-iodopropane form a narrow bundle throughout the 90--118~eV region and closely follow atomic-I and I$^-$ reference calculations. This robustness is consistent with the similarly weak molecular dependence of the giant resonance cross section and angular distribution, but it is in marked contrast with the much larger molecular variation found by streaking experiments. The asymptotic Coulomb--laser-coupling/continuum--continuum correction is controlled mainly by the photoelectron energy and residual charge and is therefore expected to be nearly common to the iodoalkane series. This does not exclude target-specific molecular IR effects beyond the universal Coulomb term.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T01:50:31Z</published>
+    <arxiv:comment>16 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Anatoli S. Kheifets</name>
+    </author>
+    <author>
+      <name>Daniele Toffoli</name>
+    </author>
+    <author>
+      <name>Piero Decleva</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.19055v1</id>
+    <title>Photoemission study of Iodoalkanes</title>
+    <updated>2026-10-13T18:52:45Z</updated>
+    <link href="https://arxiv.org/abs/2610.19055v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.19055v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Core level atomic photoionization is influenced by the molecular environment of the emitting atom. To probe this influence we used extreme ultraviolet (XUV) radiation to measure the I$\left(4d\to\varepsilon f \right)$ photoemission of four iodine substituted alkanes in the range from 60 eV to 160 eV photon energy. Using two detection angles relative to light polarization allowed us to extract and compare the asymmetry parameter of the investigated compounds. These results are in agreement with theory by Pi and Landsman (L.-W. Pi and A. Landsman, Attosecond time delay in photoionization of noble-gas and halogen atoms, Applied Sciences 8, 322 (2018)) and previous experiments by Olney et al. (T. N. Olney, G. Cooper, and C. Brion, Quantitative studies of the photoabsorption (4.5-488 ev) and photoionization (9-59.5 ev) of methyl iodide using dipole electron impact techniques, Chemical Physics 232, 211 (1998)) for iodomethane. 2-iodopropane behaves nearly identical to iodomethane, while for iodoethane and 1-iodopropane we find a distinct and consistent, energy dependant difference most prominent at around 130 eV photon energy. This further proves the influence of the chemical environment on core level photoionization. Due to the sensitivity on the exact positions of the carbon atoms and the energy dependence we hypothesise this difference is caused by intramolecular scattering of the outgoing photoelectron wave packet, causing changes in the angular distribution.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-13T18:52:45Z</published>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Maximilian Forster</name>
+    </author>
+    <author>
+      <name>Maximilian Pollanka</name>
+    </author>
+    <author>
+      <name>Sven-Joachim Paul</name>
+    </author>
+    <author>
+      <name>Pascal Freisinger</name>
+    </author>
+    <author>
+      <name>Christian Schröder</name>
+    </author>
+    <author>
+      <name>Robert Richter</name>
+    </author>
+    <author>
+      <name>Michele Alagia</name>
+    </author>
+    <author>
+      <name>Alessio Bruno</name>
+    </author>
+    <author>
+      <name>Stefano Stranges</name>
+    </author>
+    <author>
+      <name>Reinhard Kienberger</name>
+    </author>
+  </entry>
+</feed>

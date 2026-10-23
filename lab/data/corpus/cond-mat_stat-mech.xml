@@ -1,0 +1,1095 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/eNm1U4q2rVPqc6kSL2SQ6Sao03g</id>
+  <title>arXiv Query: search_query=cat:cond-mat.stat-mech&amp;id_list=&amp;start=0&amp;max_results=50</title>
+  <updated>2026-10-23T08:38:03Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=cat:cond-mat.stat-mech&amp;start=0&amp;max_results=50&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <opensearch:totalResults>83978</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31580v1</id>
+    <title>Mixed State Deep Thermalization under Generic Quantum Errors</title>
+    <updated>2026-10-22T17:16:16Z</updated>
+    <link href="https://arxiv.org/abs/2610.31580v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31580v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Pure-state deep thermalization predicts that, after sufficient scrambling, projected ensembles approach universal distributions that contain information beyond the reduced density matrix. In realistic quantum systems, however, noise is unavoidable and the projected states are generally mixed. Whether mixed-state deep thermalization admits an analogous universal limiting distribution has remained unclear. Here we answer this question for quantum dynamics containing local quantum channels, i.e., errors. We show that the late-time mixed-state projected ensemble is completely determined by the normalized Choi state of the error channel and is universal, independent of the microscopic details of the underlying unitary dynamics. We establish this result analytically for dual-unitary circuits, global Haar-random dynamics, and local Haar-random circuits at large local dimension, and verify it numerically in qubit circuits and kicked Ising dynamics. In a solvable setting, we further find exponentially fast convergence to the limiting ensemble. Our results extend deep thermalization to noisy quantum dynamics and establish a direct correspondence between quantum errors and universal random mixed-state ensembles.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T17:16:16Z</published>
+    <arxiv:comment>18+15 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Xie-Hang Yu</name>
+    </author>
+    <author>
+      <name>Pavel Kos</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31541v1</id>
+    <title>Sign-problem-free Bosonic Auxiliary Field Quantum Monte Carlo</title>
+    <updated>2026-10-22T16:48:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.31541v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31541v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The sign problem poses a fundamental barrier to numerically exact quantum Monte Carlo simulations, severely hindering our understanding of quantum many-body physics across disciplines ranging from condensed matter to particle and nuclear physics. Geometrical frustration makes this barrier especially acute for interacting bosons. Here, we develop a bosonic auxiliary-field quantum Monte Carlo (BAFQMC) method and rigorously prove that time-reversal symmetry and reflection positivity each provide a general sufficient condition for sign-problem-free simulations. Crucially, under either criterion, BAFQMC evades the sign problem even on frustrated lattices where conventional world-line and stochastic-series-expansion methods fail. Benchmarking our approach on a two-flavor Bose-Hubbard model on the triangular lattice yields excellent quantitative agreement with finite-temperature exact diagonalization. By establishing unifying principles to solve the sign problem in BAFQMC, our work substantially expands the reach of unbiased, numerically exact simulations for frustrated bosonic matter.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T16:48:36Z</published>
+    <arxiv:comment>9+26 pages, 2+1 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Yin-Kai Yu</name>
+    </author>
+    <author>
+      <name>Zhong-Chao Wei</name>
+    </author>
+    <author>
+      <name>Zi-Xiang Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31390v1</id>
+    <title>Orbital-coherence memory in electrical transport and its self-consistent Maxwell response</title>
+    <updated>2026-10-22T14:54:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.31390v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31390v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>An internal electronic coherence changes electrical transport only when it feeds back on the physical current. We develop a reduced description of this feedback and distinguish its exact consequences from the assumptions required for a microscopic realization. An opposite-parity two-orbital Hamiltonian identifies a current-coupled orbital force. Under an explicitly stated moment closure and collision ansatz, it yields a passive three-state response with an exponentially damped oscillatory memory. The resulting conductivity redistributes a fixed optical weight and predicts a nonmonotonic dependence of dc conduction on coherence damping at fixed remaining parameters. The orbital reduction constrains the coupling and internal frequency through a shared bare splitting, providing a test beyond unconstrained spectral fitting. A charge-conserving spatial extension couples to Maxwell equations through a positive energy balance and separates the constitutive response from longitudinal collective and transverse electromagnetic modes. We formulate complex-conductivity and transmission tests, including the limits of parameter identification over a finite bandwidth. The model supplies a conditional connection between orbital dynamics, transport memory, and electromagnetic observables; conductivity alone does not establish a uniquely quantum mechanism, and a material-specific collision calculation and closure-error assessment remain necessary.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T14:54:12Z</published>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>Pengfei Zhu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31350v1</id>
+    <title>Graph-Recurrent Learning of Emergent Collective Dynamics</title>
+    <updated>2026-10-22T14:31:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.31350v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31350v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Collective ordering in correlated electron systems emerges from microscopic dynamics, yet the evolution of observable textures need not admit a closed, memoryless description. We introduce a graph-recurrent neural network (GRNN) framework that learns such emergent dynamics directly from trajectories without specifying microscopic equations of motion. The framework integrates gated recurrent memory with graph message passing: local hidden states encode information beyond the instantaneous observables, while spatial coupling allows this information to propagate between sites. The observable and hidden fields evolve jointly through a shared local rule, providing a scalable representation of dynamics with spatial interactions and temporal memory. We demonstrate this framework on the emergent dynamics of charge-density-wave order in the semiclassical Holstein model, successfully reproducing temporal and spatial correlations and dynamical scaling during domain coarsening. By learning finite-time evolution directly, the GRNN offers a route to efficient, data-driven descriptions of collective dynamics with unresolved microscopic degrees of freedom.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T14:31:12Z</published>
+    <arxiv:comment>13 pages, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Ali Rayat</name>
+    </author>
+    <author>
+      <name>Acacia Lee</name>
+    </author>
+    <author>
+      <name>Gia-Wei Chern</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31330v1</id>
+    <title>Quantum Fokker-Planck solvers as trainable generative models</title>
+    <updated>2026-10-22T14:20:28Z</updated>
+    <link href="https://arxiv.org/abs/2610.31330v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31330v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We develop and analyze generative models based on quantum solvers of stochastic differential equations. Unlike the common approach based on layered variational quantum circuits with parameterized rotations, we parameterize the potential of a Langevin process. The associated Fokker-Planck (FP) equations are Hermitianized and solved using a linear combination of cosine operators implemented through quantum singular value transformation. By encoding the square root of the stationary density, the model enables sampling through computational-basis measurements and is efficiently controlled by coefficients of the block-encoded diagonal potential. We train the proposed model to match empirical distributions within the family described by FP equations, demonstrating parameter recovery for multivariate probability distributions. Crucially, the model remains trainable at scale. Sample-efficient and convex optimization for in-distribution targets arises from a physics-informed inductive bias and holds regardless of the dimensionality of the problem. We provide circuit constructions and efficient block encodings of the main components of the algorithm and analyze resource requirements. Our approach frames quantum generative learning as quantum model discovery and provides a foundation for extending this framework to high-dimensional, strongly correlated scientific data.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T14:20:28Z</published>
+    <arxiv:comment>16 pages, 14 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Tariq Mahassen</name>
+    </author>
+    <author>
+      <name>Marcin Jastrzebski</name>
+    </author>
+    <author>
+      <name>Oleksandr Kyriienko</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31319v1</id>
+    <title>Atomic limits of empirical measures of interacting particle systems with self-duality</title>
+    <updated>2026-10-22T14:11:05Z</updated>
+    <link href="https://arxiv.org/abs/2610.31319v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31319v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the fixed-particle limit of empirical measures for a unified self-dual family of conservative particle systems on $\mathbb{Z}^d$: independent random walkers, the symmetric exclusion process, and the symmetric inclusion process. For a fixed number of particles $k$, under diffusive space-time scaling parametrised by $n$, we prove that as $n\to\infty$ the normalised empirical measure converges in $D([0,T],\mathcal{M}_1(\mathbb{R}^d))$ to an atomic empirical measure carried by $k$ independent diffusions, with constant covariance determined by the microscopic jump kernel.
+  Equivalently, the limit is the unique atomic solution of the Dean-Kawasaki martingale problem with mass quantisation $1/k$. In particular, exclusion and inclusion have the same fixed-$k$ atomic limit as independent walkers: the interaction contributes only through microscopic near-collisions, whose rescaled occupation time vanishes. The proof combines self-duality, consistency-based reduction to two particles, and Green-function estimates for finite perturbations of symmetric random walks.</summary>
+    <category term="math.PR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T14:11:05Z</published>
+    <arxiv:comment>36 pages. Submitted to the Journal of Statistical Physics</arxiv:comment>
+    <arxiv:primary_category term="math.PR"/>
+    <author>
+      <name>Mario Ayala</name>
+    </author>
+    <author>
+      <name>Nicolas Dirr</name>
+    </author>
+    <author>
+      <name>Johannes Zimmer</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31269v1</id>
+    <title>Monodromy Defects of 3D Wilson-Fisher Criticality on the Fuzzy Sphere</title>
+    <updated>2026-10-22T13:39:41Z</updated>
+    <link href="https://arxiv.org/abs/2610.31269v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31269v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Monodromy (twist) line defects arise as the boundaries of topological symmetry surfaces, which are among the simplest non-trivial conformal defects with direct realizations as magnetic vortex in quantum magnets, as Wilson and t Hooft lines of gauge theories, and as the replica twist operators in quantum information theory. However, their interacting dynamics remains difficult to characterize non-perturbatively. Here we design a way to realize the monodromy boundary conditions in the fuzzy-sphere regularization by threading a symmetry-selective Aharonov-Bohm flux through the two poles of the sphere. We apply this construction to the $\mathbb{Z}_2$ twist of the 3D Ising conformal field theory (CFT), $π$-twist of the 3D O(2) CFT and three inequivalent monodromies of O(3) (centre twist, z-axis $π$-twist and the reflection). For each defect, we extract the low-lying defect spectrum together with bulk-to-defect and defect-defect operator product expansion coefficients, which characterize the operators living on the defect line, their mutual interactions, and how they couple to the surrounding critical bulk. Among the low-lying defect primaries resolved in our spectra, we find no relevant scalar perturbation that preserves all the symmetries of the corresponding defect. The relevant deformations identified in our calculations break at least one preserved symmetry, providing evidence that these monodromy defects are stable against symmetry-preserving relevant perturbations. These results establish a systematic set of non-perturbative conformal data for monodromy defects beyond the Ising twist. Our construction therefore turns the symmetry flux into a tunable knob of the fuzzy-sphere regularization, opening a route to exploring the response of critical matter to distinct defects.</summary>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T13:39:41Z</published>
+    <arxiv:comment>11+8 pages</arxiv:comment>
+    <arxiv:primary_category term="hep-th"/>
+    <author>
+      <name>Yin Tang</name>
+    </author>
+    <author>
+      <name>W. Zhu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31244v1</id>
+    <title>Optimal Search Strategies under Finite Resource Constraints: The Role of Environmental Memory and Directional Information in Informed and Blind Protocols</title>
+    <updated>2026-10-22T13:25:39Z</updated>
+    <link href="https://arxiv.org/abs/2610.31244v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31244v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Improving the efficiency of a stochastic search often requires to provide the searching agent with resources that modify its dynamics and help it explore space more quickly. Although such resources are often assumed to be unlimited and treated as a cost to mitigate, many realistic search processes operate under a finite resource budget, e.g. in processes with environmental memory in which the searcher deposits long-lasting cues along its path that it can interact with at later times to guide its further search. Here, we address the question of how to allocate a limited budget to maximize search efficiency by investigating a one-dimensional diffusing agent whose access to resources is constrained. We consider three resource models, namely an external force applied by an external controller to pull the searcher towards the target, directional flags deposited by the searcher along its path that redirect its motion towards the target, and self-generated chemorepulsive cues that act as a force field. For all these models, we find that resource usage should be concentrated in narrow regions of space when information about the searcher's current and past positions is available. In contrast, in blind strategies where a predefined time protocol is followed, resources should be used at a steady rate to ensure it to be used at most of its capacity by the time it reaches the target. We further show that blind strategies in non-Markovian processes with environmental memory are significantly less efficient due to the inherent fluctuations in the locations of deposited cues.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.data-an" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T13:25:39Z</published>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Hugues Meyer</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31190v1</id>
+    <title>Site and bond percolation thresholds of all $k$-uniform tilings with $k\le 10$</title>
+    <updated>2026-10-22T12:39:29Z</updated>
+    <link href="https://arxiv.org/abs/2610.31190v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31190v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We determine the site and bond percolation thresholds of all 23,396 $k$-uniform tilings of the plane by regular polygons with $k\le 10$, the complete set according to the known enumeration. We use Monte Carlo simulation on tori and the condition that no wrapping and a cross-wrapping cluster are equally probable, the Monte Carlo form of the critical-polynomial criterion, which needs no knowledge of the large-scale anisotropy that most of these lattices have. The 486 thresholds with $k\le4$ have uncertainties of a few units in the sixth decimal and reproduce the 22 Archimedean reference values (rms deviation 0.71 standard errors) and unpublished bond thresholds of the 20 two-uniform lattices ($χ^2=19.5$ for 20 values); the others have median statistical uncertainties of $2\times10^{-5}$ ($k\le7$) to $7\times10^{-5}$ ($k\ge8$) and no detectable finite-size bias. The vertex-type fractions alone fix the thresholds for $k\ge5$ to about $2\times10^{-3}$ (linear rule fitted on $k\le4$), while tilings with equal composition differ by up to $6\times10^{-3}$ (site) and $2\times10^{-2}$ (bond). In the range of domain sizes covered, descriptors of radius one account for more than half of this difference, and stackings of identical strips have thresholds linear in the fraction of each boundary type. For tilings that differ only by the registry of strips separated by $h$ rows of squares, the bond threshold difference decreases by a factor of 6-8 per row, comparable to the leading momentum-$π$ eigenvalue of the square-band transfer matrix.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T12:39:29Z</published>
+    <arxiv:comment>19 pages, 5 figures, 9 tables. Code, data and raw histograms: https://doi.org/10.5281/zenodo.23533708</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Maksim Elisov</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31126v1</id>
+    <title>Entropy-production cost limits hierarchical decision-making in homing pigeon flocks</title>
+    <updated>2026-10-22T11:43:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.31126v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31126v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Collective decision-making requires individuals to reconcile diverse, often conflicting opinions to reach a common course of action. However, within a group, they rarely exert equal influence, leading to non-reciprocal communication patterns manifested as leader-follower relationships and social hierarchies. Here, using homing pigeon flocks as a model system, we develop a trajectory-based framework to infer and quantify hierarchy within navigating living collectives. We find that while small flocks exhibit pronounced hierarchy, increasing flock size progressively weakens it, driving the collection toward more egalitarian decision-making. We provide a physical basis of this observation using a thermodynamic framework in which non-reciprocal communication between birds carries an information-entropy cost. Our calculations reveal that hierarchy weakening observed in larger flocks is a direct consequence of maintaining a constant per-individual entropy production rate across flock sizes. Together, these results suggest that constraints on information-processing capacity may play an important role in the collective dynamics of living organisms.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T11:43:12Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Bibaswan Ghosh</name>
+    </author>
+    <author>
+      <name>Vipul Rai</name>
+    </author>
+    <author>
+      <name>Harsh Soni</name>
+    </author>
+    <author>
+      <name>Nitin Kumar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30958v1</id>
+    <title>Active phase separation from concentration-dependent diffusion in chemical networks</title>
+    <updated>2026-10-22T09:06:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.30958v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30958v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Active phase separation in living systems is ubiquitous, yet the microscopic origins of the non-equilibrium terms in active field theories remain largely unknown. Here, starting from stochastic mass-conserving reaction-diffusion dynamics of two interacting chemical species, we perform a systematic slow-mode reduction and derive the complete Active Model B+ field theory, with all phenomenological coefficients expressed in terms of microscopic parameters. We identify concentration-dependent diffusivities and asymmetric inter-species chemotactic couplings as the minimal microscopic ingredients generating the genuinely non-equilibrium coefficient responsible for microphase separation, cluster phases, and arrested coarsening. Our framework recovers the equilibrium limit consistently and is validated by stochastic numerical simulations. These results establish a direct, bottom-up link between the architecture of chemical reaction networks and the universality class of their emergent large-scale dynamics.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T09:06:36Z</published>
+    <arxiv:comment>6 pages, 2 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Giulia Pisegna</name>
+    </author>
+    <author>
+      <name>Ramin Golestanian</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30919v1</id>
+    <title>Learning Cole-Hopf Coordinates for Stochastic Growth Dynamics: the KPZ class</title>
+    <updated>2026-10-22T08:38:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.30919v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30919v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Inferring effective equations from observations of nonlinear stochastic processes is challenging because individual trajectories are noisy realizations, while the relevant physical information is encoded in ensemble statistics. We introduce a data-driven framework that learns a change of variables in which nonlinear stochastic dynamics become linear. The model combines a neural change of representation with a linear stochastic latent evolution and is trained through a short-time moment-matching objective, thereby avoiding trajectory \rev{simulation} during optimization. This construction yields an interpretable generative model: both the learned transformation and the latent evolution operators can be directly inspected.
+  We validate the method on the one-dimensional Kardar--Parisi--Zhang (KPZ) equation, a paradigmatic model of stochastic growth for which the Cole--Hopf transformation maps the nonlinear dynamics to the stochastic heat equation. From simulated height trajectories alone, the model recovers the local exponential Cole--Hopf map and the associated linear stochastic operator. Generated trajectories reproduce the main statistical signatures of the KPZ universality class, including the growth law $\mathrm{Var}(h^{t})\sim t^{2β}$ with $β=1/3$ and the GOE Tracy--Widom height distribution for flat initial conditions. These results show that interpretable stochastic equations can be inferred from data by learning representations in which the dynamics closes in a simple form. Furthermore the development of the physical informed learning permits to get insights on the physics of the dynamical process.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.data-an" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T08:38:27Z</published>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Lorenzo Mensi</name>
+    </author>
+    <author>
+      <name>Simone Cuonzo</name>
+    </author>
+    <author>
+      <name>Maria Chiara Angelini</name>
+    </author>
+    <author>
+      <name>Sergio Chibbaro</name>
+    </author>
+    <author>
+      <name>Cyril Furtlehner</name>
+    </author>
+    <author>
+      <name>Alberto Rosso</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30686v1</id>
+    <title>Time-reversal-based quantum metrology in a central-spin architecture: from SATIN to butterfly echo</title>
+    <updated>2026-10-22T03:58:57Z</updated>
+    <link href="https://arxiv.org/abs/2610.30686v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30686v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate quantum-enhanced time-reversal-based metrology using the central spin model, in which a single ancilla spin of magnitude $S_{\rm cen}$ mediates interactions between $N$ bath spins through a star-graph topology. We demonstrate that the SATIN (Signal Amplification Through Time-reversal Interaction) echo protocol can be implemented in this setup to achieve a Fisher information of $N^2/e$ with the collective $\langle J_y\rangle$ readout, corresponding to a $4.34\,\mathrm{dB}$ offset from the Heisenberg limit. Furthermore, we establish that this platform provides a pathway to perform the butterfly echo protocol by conjugating each evolution step with a random collective bath rotation, thereby achieving axis-agnostic Heisenberg-scaled sensing. Crucially, with a small $N-$independent number of random steps, the butterfly echo reaches a Fisher information of $N^2/4$ ($6\,\mathrm{dB}$ below the Heisenberg limit) for any unknown encoding axis, with the plateau gain tracking the Haar limit. Finally, we demonstrate that the central-spin magnitude $S_{\rm cen}$ provides a powerful knob to reduce the optimal protocol timescale without altering the metrological ceiling or the circuit depth required to reach isotropy. The proposed scheme is relevant to cavity QED and NMR quantum processors, where the central spin architecture arises naturally.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T03:58:57Z</published>
+    <arxiv:comment>15 pages, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Aditya Kumar</name>
+    </author>
+    <author>
+      <name>Sayan Choudhury</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30597v1</id>
+    <title>Hierarchical Reduction of Invariant Subspaces: From Fragmentation to Many-Body Scars</title>
+    <updated>2026-10-22T01:57:25Z</updated>
+    <link href="https://arxiv.org/abs/2610.30597v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30597v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate a hierarchy of invariant Hilbert-space structures connecting Hilbert-space fragmentation, partial solvability, and quantum many-body scars. For spin chains with fragmented spin-$1/2$ subspaces and their local deformations, we show, using the spin-$1$ $XXC$ chain as a representative example, how successive local deformations reduce extensive irreducible-string fragmentation through an implicitly embedded spin-$1/2$ invariant space and ultimately to a single scar tower, connecting the $XXC$, perturbed $XXC$, and spin-$1$ $XY$ scar models. Through the intermediate embedded space, local dynamics couples states from distinct frozen irreducible-string sectors and selects a new decomposition into representations, from which smaller invariant spaces can be retained. We also establish a rigidity constraint on isolating nonsymmetric towers and a constructive correspondence that transfers a reduction between locally realizable representations of the embedded dynamics. The latter demonstrates that the reduction hierarchy can be transferred through a unitary transformation within the embedded subspace, yielding an exact scar tower built on a Néel reference state without requiring unitary equivalence of the full Hamiltonians.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T01:57:25Z</published>
+    <arxiv:comment>15 pages</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Chihiro Matsui</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30555v1</id>
+    <title>Probing quasiperiodic spectral accessibility with a finite-rate quantum Otto cycle</title>
+    <updated>2026-10-22T00:20:13Z</updated>
+    <link href="https://arxiv.org/abs/2610.30555v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30555v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Quasiperiodic systems combine sharply different spectral and localisation regimes with a dense hierarchy of dynamical time scales. We show that a finite-rate quantum Otto cycle can use this structure as a thermodynamic probe, revealing which parts of the spectrum become dynamically accessible and thermodynamically relevant during a driven transformation. For a generalised Aubry-André-Harper chain, the resulting response is not determined by the static quasiperiodic regime alone: extended, near-critical, and crossing protocols do not exhibit universal ordering of work fluctuations. Instead, the statistics reflect transition pathways that are simultaneously dynamically coupled, thermally occupied, and energetically significant. The same spectral accessibility separates thermodynamic recovery from microscopic adiabatic recovery. Positive mean work can reappear while the population transfer dynamics remain strongly nonadiabatic because finite-rate population transfer is redistributed toward energetically less costly channels rather than suppressed. The full work distribution reveals a further separation, with a finite rate window in which positive-work cycles form a majority although the mean work remains negative. This behaviour persists in finite-size analysis. A thermally weighted spectral susceptibility connects these effects to a distributed hierarchy of dynamically active spectral regions rather than to a single minimum-gap bottleneck. Finite thermal contacts preserve this picture while introducing a second time scale and intercycle memory. Quantum Otto cycles can therefore provide a fluctuation-resolved thermodynamic probe of quasiperiodic spectral accessibility, complementary to direct spectroscopic and eigenstate-resolved diagnostics.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T00:20:13Z</published>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Shujie Cheng</name>
+    </author>
+    <author>
+      <name>Lucas C. Céleri</name>
+    </author>
+    <author>
+      <name>Norton G. de Almeida</name>
+    </author>
+    <author>
+      <name>Gao Xianlong</name>
+    </author>
+    <author>
+      <name>G. D. de Moraes Neto</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30457v1</id>
+    <title>Memory--Transport Competition in Physical Two-Bath Quantum Reset Dynamics</title>
+    <updated>2026-10-21T21:13:39Z</updated>
+    <link href="https://arxiv.org/abs/2610.30457v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30457v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Coherence preservation and environmental renewal offer competing ways of controlling quantum memory and transport. We show that a seemingly natural protocol which exactly replaces the bath occupations while preserving arbitrary system--bath coherences need not correspond to a physical fermionic state. We instead construct a two-reservoir protocol with independent, number-conserving thermal attenuators, for which complete positivity and fermionic admissibility hold by construction. Physical attenuation necessarily modifies bath populations as well as cross correlations; the coherence control is not an independent hard-reset knob. Quadratic dynamics reduces the stroboscopic problem to an exact matrix fixed-point equation without a weak-coupling or Markov approximation. Analytically, coherence retention enhances the leading short-cycle transfer rate, including the complete-erasure limit; no general endpoint-vanishing theorem exists. An exact stationary continuity theorem forces the through-current to vanish whenever either reservoir is left entirely unrefreshed, although no analogous theorem suppresses it at complete erasure. For biased structured reservoirs, exact finite-chain calculations display distinct coherence-, current-, and signed energy-transfer operating points; a resolved high-retention boundary layer exposes strong finite-size sensitivity of the coherence peak. The model provides a microscopic, fermion-admissible benchmark for the interplay of reservoir coherence, particle transport, and energetic exchange.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T21:13:39Z</published>
+    <arxiv:comment>15 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Jishad Kumar</name>
+    </author>
+    <author>
+      <name>Achilleas Lazarides</name>
+    </author>
+    <author>
+      <name>Tapio Ala-Nissila</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30301v1</id>
+    <title>Non-adiabatic Optimisation via Localisation-Delocalisation Transitions</title>
+    <updated>2026-10-21T18:16:44Z</updated>
+    <link href="https://arxiv.org/abs/2610.30301v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30301v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The promise of efficiently solving classical optimisation problems on quantum computers is tantalizing. As many such problems can be mapped to approximating the ground state of spin-glasses, paradigmatic models for studying many-body localisation, it is natural to ask if some of the intuition coming from quantum statistical mechanics can help guide the construction of novel quantum optimisation algorithms. In this work, we discuss how continuous reverse quantum annealing crossing a many-body localisation transition can be accelerated by considering the density of Landau-Zener crossings as the system is quenched. We provide an interpretation of this behaviour in terms of an effective Fokker-Planck equation for the success probability of the algorithm. This interpretation suggests an improvement in the required annealing time as a function of the system size $N$, which goes from $\mathcal{O}({\rm poly}(N))$ to $\mathcal{O}(1)$ for reference states with non-vanishing energy density. We show that the continuous dynamics can be Trotterised with a number of steps that remains modest as system size increases, making it appealing for near-term devices. For the resulting circuit implementation, we provide a quantitative strategy for determining the parameters of the time-dependent Hamiltonian. We compare the performance of our digitised algorithm, which we call FRIO, against that of the QAOA for finding the ground state of spin-glass problems, in particular the SK model. The numerical results suggest that with suitably selected circuit parameters which can be efficiently found using thermalizing dynamics, FRIO almost always outperforms the conventional QAOA ansatz with pre-optimized angles.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:16:44Z</published>
+    <arxiv:comment>25 pages, 5 figures + supplementary information</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Ryan Smith</name>
+    </author>
+    <author>
+      <name>Sabrina Yue Wang</name>
+    </author>
+    <author>
+      <name>Filippo Maria Gambetta</name>
+    </author>
+    <author>
+      <name>Raul A. Santos</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30266v1</id>
+    <title>Discrete time liquids</title>
+    <updated>2026-10-21T18:00:07Z</updated>
+    <link href="https://arxiv.org/abs/2610.30266v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30266v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Discrete time crystals exhibit robust subharmonic oscillations, spontaneously breaking the discrete time-translation symmetry of a periodic drive. Since their emergence, the question of whether other types of temporal many-body order can exist has attracted considerable attention. Here we identify discrete time liquids -- a new form of spatiotemporal order characterized by short-range temporal coherence as a result of time-solitons. We study a two-dimensional spin system coupled to a finite-temperature cavity, whose fluctuations provide a noisy, approximately periodic drive with only finite temporal coherence. Remarkably, the spins nevertheless form a metastable state with robust period-doubled dynamics over an extended parameter regime. Unlike a time crystal, this state has only finite temporal coherence: individual trajectories stochastically switch between the two symmetry-related temporal configurations of the period-doubled response. We identify these switches as time-solitons: topological defects in temporal order that preserve local period doubling while destroying long-range temporal coherence, thereby producing the time liquid state. We propose a minimal model which reproduces the distribution of temporal correlations of the many-body system, suggesting a general description of the time liquid as a time crystal with a finite density of time-solitons. Because these solitons can occur at arbitrary times, ensemble averaging restores continuous time-translation symmetry, raising the intriguing possibility that discrete time liquids can exist in thermal equilibrium.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:00:07Z</published>
+    <arxiv:comment>8 pages main + 9 pages supplement, 4 figures main + 10 figures supplement</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Zuo Wang</name>
+    </author>
+    <author>
+      <name>Paul M. Schindler</name>
+    </author>
+    <author>
+      <name>Marin Bukov</name>
+    </author>
+    <author>
+      <name>Marios H. Michael</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30236v1</id>
+    <title>Reentrant $d=2+1$ Superfluidity at High Temperature</title>
+    <updated>2026-10-21T18:00:00Z</updated>
+    <link href="https://arxiv.org/abs/2610.30236v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30236v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present a UV-complete model with a global $U(1)$ symmetry in $d=2+1$ dimensions that exhibits a Berezinskii-Kosterlitz-Thouless (BKT) ordered phase at arbitrarily high temperatures. A careful separation of scales yields a two-dimensional Euclidean effective field theory whose construction remains perturbatively controlled even when its soft modes become strongly coupled. We determine the BKT phase boundary by carefully matching this theory to existing lattice Monte Carlo results. The high-temperature phase supports gapless static modes and algebraically decaying correlations even as $T\to\infty$.</summary>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:00:00Z</published>
+    <arxiv:comment>5+2 pages, 1 figure</arxiv:comment>
+    <arxiv:primary_category term="hep-th"/>
+    <author>
+      <name>Subham Dutta Chowdhury</name>
+    </author>
+    <author>
+      <name>Joan Elias Miro</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30118v1</id>
+    <title>The role of locality and weight sharing in convolutional neural networks</title>
+    <updated>2026-10-21T17:56:22Z</updated>
+    <link href="https://arxiv.org/abs/2610.30118v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30118v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The success of convolutional neural networks is often attributed to locality and weight sharing. However, how these two properties separately shape learning, and how their effects depend on the spatial correlations of natural images, remain poorly understood. We address these questions in a teacher-student model with a convolutional teacher acting on $P$ input positions with correlation $c$ between positions. We compare convolutional and locally connected students trained by online stochastic gradient descent, and derive ordinary differential equations that describe their dynamics exactly in the limit of large feature dimension $D$. For uncorrelated positions ($c = 0$), the two students follow the same learning trajectory, with the convolutional student learning exactly $P$ times faster. We also find that locality affects the sample complexity: a student that matches the kernel size of the teacher recovers it from $\mathcal{O}_{D}(D)$ samples, whereas $\mathcal{O}_{D}(D\log(D))$ samples are needed with a larger kernel. For $c &gt; 0$, spatial correlations can reduce the advantage of weight sharing. The asymptotic error of the convolutional student grows with $c$, whereas that of the locally connected student is independent of $c$ and overall lower when evaluated at the same learning rate. When the learning rate is instead tuned to the training horizon, however, the locally connected student wins at early times and the convolutional student at late times, with a transition that we predict analytically.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T17:56:22Z</published>
+    <arxiv:comment>39 pages, 11 figures, including appendices</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Francesco Mori</name>
+    </author>
+    <author>
+      <name>Melanie Weber</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30094v1</id>
+    <title>Stockmayer Fluid with a Shifted Dipole. III. Ion Solvation</title>
+    <updated>2026-10-21T17:41:46Z</updated>
+    <link href="https://arxiv.org/abs/2610.30094v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30094v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Though ion solvation is well understood for the standard Stockmayer fluid, the effect of displacing the point dipole of a Stockmayer particle, a simple geometric modification, on ion-solvent structuring and solvation thermodynamics remains less understood. We use molecular dynamics simulations to describe how a dipole shift affects radial and orientational solvent structure around centered ions, how strongly the solvent distinguishes cations and anions, and how the solvent mediates ion-ion pairing. We show that, with a centered dipole, cations and anions have equal preferences for the local solvent environment. Shifting the dipole breaks the fore-aft symmetry of the local electrostatic field, leading to a stronger preference for a Stockmayer particle's dipole to orient towards an anion and a weaker preference to orient away from a cation. These structural asymmetries propagate to the solvation free energies: increasing dipole displacement makes anion solvation more favorable, while cation solvation becomes less favorable overall across dipole strengths. The same asymmetry also manifests in the effective ion-ion interaction-increasing the dipole shift reorganizes the local solvation environment, enhancing solvent shielding of short-range cation-anion contact while weakening screening at longer range. As a result, solvent-separated configurations become comparatively more favorable, whereas increasing dipole strength produces the opposite trend. Such effects cannot be explained by bulk dielectric screening alone, indicating that molecular charge geometry plays an important role in both single-ion solvation and solvent-mediated ion-ion interactions. This work demonstrates that dipole location, not only magnitude, provides a geometric control on ion-specific solvation and ion pairing in general polar fluids.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T17:41:46Z</published>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Ananya Venkatachalam</name>
+    </author>
+    <author>
+      <name>Pierre J. Walker</name>
+    </author>
+    <author>
+      <name>Samuel Varner</name>
+    </author>
+    <author>
+      <name>Bilin Zhuang</name>
+    </author>
+    <author>
+      <name>Zhen-Gang Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30062v1</id>
+    <title>Hydrodynamic description of correlation matrix eigenvalues in a finite temperature expanding free fermionic gas</title>
+    <updated>2026-10-21T17:21:38Z</updated>
+    <link href="https://arxiv.org/abs/2610.30062v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30062v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A recent work considered the Page curve for entanglement entropy of a freely expanding one-dimensional Fermi gas starting from a finite box (the system) in a zero-temperature initial state that then expands in to a semi-infinite vacuum (the environment). For the case with a single defect at the system-environment junction, it was shown that the Yang-Yang entropy of the system computed from semiclassical hydrodynamics agrees with the microscopically computed entanglement entropy, yielding the Page curve. On the other hand, the environment Yang-Yang entropy showed a monotonic increase. Here, we propose a hydrodynamic description to obtain the eigenvalues of the microscopic correlation matrix for a nonzero temperature freely-expanding Fermi gas. For the system, the phase space density directly gives the correlation matrix eigenvalues and thus, via the Yang-Yang formula, yields the von-Neumann entropy. For the reservoir, a modification of the phase space density is required in the Yang-Yang formula, to incorporate coherences, in order to reproduce accurately the entropy. The hydrodynamic description of correlation matrix eigenvalues also leads to a Levitov-Lesovik type formula for the full-counting-statistics for a finite system in the transient regime. We provide a heuristic derivation of the correlation matrix eigenvalues based on a semiclassical wave-packet picture.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T17:21:38Z</published>
+    <arxiv:comment>16 pages, 7 figures (including Supplementary Material)</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Atharva Naik</name>
+    </author>
+    <author>
+      <name>Madhumita Saha</name>
+    </author>
+    <author>
+      <name>David A. Huse</name>
+    </author>
+    <author>
+      <name>Manas Kulkarni</name>
+    </author>
+    <author>
+      <name>Abhishek Dhar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29998v1</id>
+    <title>Generalized Coordinate Bethe Ansatz and Quantum Integrability of the Time-Dependent Massive Thirring Model</title>
+    <updated>2026-10-21T16:36:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.29998v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29998v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We develop a generalized coordinate Bethe-ansatz framework for the massive Thirring model with an explicitly time-dependent fermion mass. Unlike the generalized Bethe ansatz for chiral quantum field theories, where particle transport acts in internal spin spaces and leads to quantum Knizhnik-Zamolodchikov equations, the present construction acts directly on particle coordinates and physical rapidities. Its central new feature is a rapidity lattice. Because the time-dependent mass couples right- and left-moving components already in the one-particle sector, a fixed-rapidity block is not closed under spatial winding. Periodicity therefore requires all sectors generated by the finite shift $β\toβ-p$. Particle exchange relates amplitudes on this lattice through scalar analytic difference equations of Ruijsenaars type, whose solutions determine the complete time-dependent many-body wavefunction. Consistency of the coordinate construction also selects an exponential evolution of the bare mass, providing a new realization of the time dependent integrability-renormalization group correspondence. In the static limit, the rapidity-lattice construction reduces to the conventional massive-Thirring Bethe equations. Through the massive-Thirring/sine Gordon equivalence, the result also connects this exact quantum construction to the generalized space-time dependent Lax formalism.</summary>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T16:36:19Z</published>
+    <arxiv:primary_category term="math-ph"/>
+    <author>
+      <name>Parameshwar R. Pasnoori</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29902v1</id>
+    <title>Morphological instability and negative geometric friction from contact with active and driven particles</title>
+    <updated>2026-10-21T15:43:55Z</updated>
+    <link href="https://arxiv.org/abs/2610.29902v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29902v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Overdamped particles on a deformable substrate induce a geometric friction through their response to metric perturbations. Nonequilibrium dynamics couples such a perturbation to kinetic effects, which can flip that friction negative, softening the substrate's rigidity and favoring invaginations and evaginations. A breathing circle, with local curvature radius as dynamical variable, is the main example. At equilibrium the friction reduces to an ordinary potential response and stays positive. Geometric response emerges as a new route by which active and driven matter reshape their environment.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:43:55Z</published>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Forouh Maleki</name>
+    </author>
+    <author>
+      <name>Christian Maes</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29801v1</id>
+    <title>Closing of density wake in concentrated colloidal suspensions: two regimes governed by compressibility, friction, and self-propulsion</title>
+    <updated>2026-10-21T14:28:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.29801v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29801v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>When an obstacle moves through a compressible medium, it creates a density perturbation. Theoretical arguments regarding the shape of this density wake in Brownian suspensions either suppose infinite dilution or describe only the far field. Here, we study via experiments and numerical simulations the closing of the density perturbation just behind a circular obstacle in dense 2D suspensions of particles that are thermal or self-propelled. In the thermal case, we show that the characteristic length of the wake is a non-monotonic function of density, decreasing then increasing. We rationalise the scalings of both regimes by analytical arguments that highlight the role of the compressibility factor of the suspension. Based on this new understanding of the passive case, we show that the influence of self-propulsion observed in experiments and simulations can be understood as if the obstacle is effectively larger in an active bath, with non-trivial and distinct roles of the self-propulsion velocity and of the persistence time.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T14:28:19Z</published>
+    <arxiv:comment>9 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Guillaume Duprez</name>
+    </author>
+    <author>
+      <name>Gianmarco Spera</name>
+    </author>
+    <author>
+      <name>Benjamin Buhl</name>
+    </author>
+    <author>
+      <name>François Graner</name>
+    </author>
+    <author>
+      <name>Vincent Démery</name>
+    </author>
+    <author>
+      <name>Cécile Cottin-Bizonne</name>
+    </author>
+    <author>
+      <name>Hélène Delanoë-Ayari</name>
+    </author>
+    <author>
+      <name>Mathieu Leocmach</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29670v1</id>
+    <title>Energy-fed commitment: a minimal model of random selection followed by reinforcement</title>
+    <updated>2026-10-21T12:44:41Z</updated>
+    <link href="https://arxiv.org/abs/2610.29670v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29670v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>When a symmetric instability is crossed, fluctuations choose one of several equivalent branches. We study a minimal stochastic model of what can then make that choice progressively harder to undo. After selection, the stiffness of the selected state grows in proportion to the energy released each time the structure recovers from a perturbation; in this conservative model that energy equals, up to small and explicitly computed terms, the work absorbed from the perturbing agent. The model is a phenomenological closure with one coupling constant. That energy reinforces a branch already chosen, rather than choosing it, is an assumption of the model, which we state and do not derive. Its consequences are quantitative. The growth of commitment depends on how the structure is driven: geometric under displacement control, linear under energy control and sublinear under force control, so that committed states absorb more work per cycle under displacement control and less under force control. Reinforcement suppresses reversal exponentially; beyond a finite commitment the alternative minimum disappears and reversals become rare crossings of an irreversibility threshold. With unbounded reinforcement a choice is retained forever with positive probability under stated conditions; with saturating reinforcement retention is finite, with a lifetime that grows exponentially with the saturation level. Exact first-passage calculations agree with stochastic simulations; these verify the closure and its analysis but cannot test the physical postulate. We identify the experiments that could: protocols that separate absorbed energy from the number of perturbations, and driven steady states with nonzero housekeeping heat, in which heat and absorbed work differ.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.AO" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T12:44:41Z</published>
+    <arxiv:comment>Short paper, 3 figures. Code, data and per-pulse event counts provided as ancillary files</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Haidar Issa Abbas</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29615v1</id>
+    <title>Mechanism of delayed elastic state absorption versus fatigue failure in cyclic shear of amorphous materials</title>
+    <updated>2026-10-21T11:56:11Z</updated>
+    <link href="https://arxiv.org/abs/2610.29615v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29615v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study cyclic shear in a lattice elastoplastic model of amorphous materials. The model displays a threshold shear amplitude $γ_{\rm c}$, which increases with sample annealing. For imposed amplitudes $γ_0\lesssimγ_{\rm c}$, it shows slow progression to an absorbing elastic state. For $γ_0\gtrsim γ_{\rm c}$, it shows slow fatigue and delayed material failure. Our key contribution is to elucidate a mechanistic understanding of this behaviour. We show that progression to an absorbing state maps to single element diffusion on a finite interval with two absorbing boundaries. We derive expressions for the decay rate of the fraction of active elements, and the survival distribution. The diffusing variable is the local elemental strain, which takes two jumps stroboscopically per cycle. Once the value at any site diffuses below its yielding threshold, the element behaves elastically. This leads to a gradual accumulation of strains just below threshold. For $γ_0\lesssim γ_{\rm c}$ this diffusive behaviour is preceded by many cycles in which cooperativity between elements via stress propagation is also important. For $γ_0 &gt; γ_{\rm c}$, stress propagation dominates and precipitates failure. For $γ_0\gtrsim γ_{\rm c}$, the same accumulation of elements just below local threshold that led to an elastic state for $γ_0\lesssimγ_{\rm c}$ accounts for the fatigue that brings the system to the brink of failure. We evidence this via simulations in which the strain amplitude artificially exceeds $γ_0 $ in each half cycle, before reverting to the system's actual state at $\pmγ_0$ and resuming the next half cycle. During fatigue, the stress-strain slope $dσ/dγ$ evolves towards unity at $|γ|=γ_0^-$, signifying perfect elasticity within cycle, yet towards zero at $|γ|=γ_0^+$, precipitating failure.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T11:56:11Z</published>
+    <arxiv:comment>13 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Samuel B. Walker</name>
+    </author>
+    <author>
+      <name>Suzanne M. Fielding</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29601v1</id>
+    <title>Stochastic resonance in time-delayed bistable active particles</title>
+    <updated>2026-10-21T11:41:21Z</updated>
+    <link href="https://arxiv.org/abs/2610.29601v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29601v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate analytically and numerically stochastic resonance in an underdamped active (Ornstein--Uhlenbeck) particle confined in a bistable potential with time-delayed feedback and subjected to an additional (non-thermal) white-noise source. Restricting the analysis to the active-noise-dominated bistable regime, with sufficiently short delay and active-noise correlation times, we develop a perturbative theory that yields analytical expressions for both the escape rate and the spectral power amplification within the framework of linear-response theory, without invoking detailed balance. The analytical predictions are in qualitative agreement with direct numerical simulations throughout the perturbative regime. We show that a moderate increase in the active-noise correlation time can enhance the stochastic-resonance response, in marked contrast to previous results for overdamped passive systems driven by colored noise. Conversely, the addition of white noise weakens the resonant response and shifts its optimum toward lower active-noise intensities. Time-delayed feedback further alters the matching condition between the escape rate and the driving frequency while preserving the resonant mechanism. Beyond the perturbative regime, we find that finite-memory effects progressively broaden the resonance profile and substantially decrease its amplitude. Overall, these results provide new insight into the combined role of inertia, activity, environmental fluctuations, and time delayed feedback in stochastic resonance in nonequilibrium systems.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.CD" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T11:41:21Z</published>
+    <arxiv:comment>14+16 pages, 6 figures. Comments are welcome</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Antonio A. Valido</name>
+    </author>
+    <author>
+      <name>Mattia Coccolo</name>
+    </author>
+    <author>
+      <name>Miguel A. F. Sanjuán</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29547v1</id>
+    <title>Splitting Probability in Monitored Quantum Dynamics</title>
+    <updated>2026-10-21T10:34:26Z</updated>
+    <link href="https://arxiv.org/abs/2610.29547v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29547v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We consider a continuous-time quantum walk stroboscopically subjected to projective measurements on two distinct targets with sampling time period $τ$. We construct a general renewal framework for the first-detection amplitude at each target, from which we obtain the associated splitting probabilities. For Hamiltonians with reflection symmetry, we further show that each dual-target first-detection amplitude can be viewed as an interference effect between a pair of single-target first-detection amplitudes. This formulation yields exact expressions for the splitting probabilities and gives special sampling times at which they undergo pointwise discontinuous jumps due to a form of ergodicity breaking associated with dark states. As an illustrative example, we apply the framework to a one-dimensional tight-binding lattice chain with nearest-neighbor hopping, and study the splitting probabilities as functions of the initial position and sampling time. Below a critical sampling time, $0&lt;τ&lt; τ_c$ where $τ_c = 2 π/ ΔE$ with $ΔE$ being the energy bandwidth, the splitting probabilities for large system sizes become equal to $1/2$, independent of the initial position, as long as this position does not coincide with target sites. Above the critical sampling time, $τ\geq τ_c$, the splitting probabilities deviate from $1/2$ and develop oscillations as a function of initial position. The wavenumber associated with these oscillations is $Q=2\sin^{-1}(rτ_c/τ)$, where $r$ is a positive integer. We also explore the effects of relative phase and spatial separation between different components of a coherent initial state on the splitting probabilities. Finally, we study how a finite number of measurements modifies the splitting probabilities and broadens the resonances at special sampling times.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T10:34:26Z</published>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Prashant Singh</name>
+    </author>
+    <author>
+      <name>Sabine Tornow</name>
+    </author>
+    <author>
+      <name>David A Kessler</name>
+    </author>
+    <author>
+      <name>Eli Barkai</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29531v1</id>
+    <title>Phase Transitions in Learning Driven by Extremal Data</title>
+    <updated>2026-10-21T10:22:18Z</updated>
+    <link href="https://arxiv.org/abs/2610.29531v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29531v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study an extremal regression problem, an example of multiple instance learning (MIL), where the predictors are given as multisets, called bags. The bag elements (called instances) possess hidden labels which are pooled to produce an observed bag-level label. Max pooling is common in MIL applications, but gives rise to vanishing gradients. To handle this, modern MIL pipelines approximate the max with a softmax, treating the sharpness as a learnable parameter, denoted $λ$. When the max pooling model is the true data generating process, learning will be successful when $λ$ is increased during gradient descent, thereby driving the dynamics into regions of parameter space with vanishing gradients. To understand the conditions under which gradient descent breaks down, we study a minimal model and derive a low dimensional projection of the gradient flow in the joint limit of large bags $n$ and high dimension $d$ with $α=\ln n/d$ fixed. The flow has two distinct phase transitions: an intrinsic freezing transition related to the random energy model of disordered systems, and a retrieval transition occurring in modern Hopfield networks. Numerical simulation confirms both the phase diagram and the convergence of the finite-size training gradient to its predicted asymptotic form.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.data-an" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T10:22:18Z</published>
+    <arxiv:comment>17 pages, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Ethan Levien</name>
+    </author>
+    <author>
+      <name>Trevor GrandPre</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30194v1</id>
+    <title>Einstein's theory of Brownian motion: The non-Fickian normal diffusion</title>
+    <updated>2026-10-21T06:41:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.30194v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30194v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Einstein's theory of diffusion defines what is considered {\it normal diffusion}. Historically, Einstein considered homogeneous diffusion characterised by a diffusion constant in his original calculations, resulting in what is known as {\it Fickian} diffusion, which thermally relaxes concentration inhomogeneities. However, in the same derivation of Einstein, the seed of generalisation of the theory to {\it non-Fickian} diffusion in the presence of space-dependent diffusivity is hidden. This indicates that non-Fickian diffusion, which can drive concentration inhomogeneities, can also be normal diffusion. The present article discusses the origin of the {\it normal} non-Fickian diffusion in Einstein's theory of diffusion.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T06:41:33Z</published>
+    <arxiv:comment>Five pages, no figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>A. Bhattacharyay</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29084v1</id>
+    <title>Algebraic criteria for complete relaxation in autonomous and periodically driven open quantum systems</title>
+    <updated>2026-10-21T02:16:34Z</updated>
+    <link href="https://arxiv.org/abs/2610.29084v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29084v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We derive sufficient criteria that guarantee convergence of open quantum system dynamics to a unique long-time state independent of the initial conditions. We refer to this behavior as complete relaxation. Focusing on systems described by Gorini-Kossakowski-Sudarshan-Lindblad (GKSL) master equations on finite-dimensional Hilbert spaces, our approach uses only elementary mathematical arguments. For autonomous systems, we recover three previously derived relaxation criteria, which can be expressed as algebraic conditions on the Lindblad operators and the Hamiltonian entering the GKSL equation. For periodically driven systems, we obtain a new criterion involving a similar algebraic condition and a local continuity requirement on the time-dependent GKSL generator. This result implies an earlier criterion for complete relaxation formulated in Ref. [J. Phys. A 52, 43LT01 (2019)]. We also discuss implications of our approach for periodically modulated classical master equations, as well as extensions to driven systems without a periodicity constraint.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T02:16:34Z</published>
+    <arxiv:comment>15 pages, 1 figure</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Paul Menczel</name>
+    </author>
+    <author>
+      <name>Kay Brandner</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30189v1</id>
+    <title>Foresight-dependent entropy production in stochastic two-agent dynamics</title>
+    <updated>2026-10-20T21:41:04Z</updated>
+    <link href="https://arxiv.org/abs/2610.30189v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30189v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Nonreciprocal interactions can break detailed balance by sustaining stationary probability currents. Here we ask whether such currents can also emerge when the agents' immediate coordination preferences are reciprocal, but their state-adjustment rules are determined by forward-looking optimization (foresight). We study a minimal stochastic linear-quadratic game in which two agents control noisy scalar states and minimize individual discounted costs in a full-information feedback Nash equilibrium. The optimized controls yield an Ornstein-Uhlenbeck process whose stationary probability current and entropy-production rate, measuring statistical time-irreversibility, can be calculated exactly. For reciprocal coordination with unequal self-anchoring strengths, the effective drift asymmetry first appears at order $τ^5$, where $τ$ is the planning timescale, and the normalized entropy production consequently scales as $τ^8$ in the limit $τ\to0$. We derive this cancellation from the coupled Nash Riccati equations. For conformist-contrarian coupling, normalized entropy production approaches a nonzero short-foresight limit and initially decreases from that limit by an amount proportional to $τ^2$. We also determine the long-foresight limit for a conformist-contrarian pair with equal self-anchoring strengths. Numerical solutions of the full Nash equations verify the asymptotic laws and reveal the effect of foresight. Thus, forward-looking optimization can generate or reduce normalized stationary irreversibility, depending on the underlying interaction.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T21:41:04Z</published>
+    <arxiv:comment>16 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Arpan Dey</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28846v1</id>
+    <title>Methods for Deriving Nonlinear Kinetic Equations from the Dynamics of Quantum Systems</title>
+    <updated>2026-10-20T19:20:13Z</updated>
+    <link href="https://arxiv.org/abs/2610.28846v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28846v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The article outlines key topics related to deriving kinetic equations and, in general, to the relationship between the evolution equations governing quantum many-particle systems. The main issues being considered are the mathematical origin of quantum kinetic equations, novel methods for deriving kinetic equations from hierarchies of evolution equations for quantum systems, specifically focusing on kinetics within the framework of the evolution of observables, and the generalization of the quantum kinetic equation specified by non-separable initial states.</summary>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T19:20:13Z</published>
+    <arxiv:comment>35 pages</arxiv:comment>
+    <arxiv:primary_category term="math-ph"/>
+    <author>
+      <name>V. I. Gerasimenko</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28621v1</id>
+    <title>Characterizing supersolid phase transitions in trapped quantum gases with tilted dipoles at finite temperature</title>
+    <updated>2026-10-20T17:58:01Z</updated>
+    <link href="https://arxiv.org/abs/2610.28621v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28621v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Motivated by a recent experimental work arXiv:2608.20327, we theoretically investigate the nature of phase transitions in a trapped dipolar quantum gas upon tuning the contact interaction strength and dipole orientation. Using extended Gross-Pitaevskii simulations including thermal and quantum effects, we map the phase diagram comprising unmodulated superfluids, triangular droplet arrays, and stripe states. We further characterize the order of the transitions separating them through imaginary-time hysteresis analysis. The unmodulated-to-modulated transition evolves from discontinuous to continuous with increasing dipole tilt before becoming discontinuous again at large tilts. The degree of continuity is further affected by particle number, temperature, and confinement. While continuous behavior generally correlates with the emergence of stripe states, this correspondence is not systematic, and finite-size effects also influence the continuity of the transition. The triangular-to-stripe transition is found to be discontinuous at small contact interaction strengths and becomes increasingly continuous upon approaching the unmodulated-to-modulated phase boundary. Our results reveal a tunable transition order in finite dipolar quantum gases and provide guidance for its experimental investigation.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T17:58:01Z</published>
+    <arxiv:comment>12 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Julian Kusch</name>
+    </author>
+    <author>
+      <name>Lauriane Chomaz</name>
+    </author>
+    <author>
+      <name>Wyatt Kirkby</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28614v1</id>
+    <title>Cumulative locality governs collective quantum charging</title>
+    <updated>2026-10-20T17:55:03Z</updated>
+    <link href="https://arxiv.org/abs/2610.28614v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28614v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Quantum batteries can outperform their classical counterparts through collective quantum effects, yet the conditions enabling such advantage remain unclear. Using a generic class of free-fermionic chargers we prove that global operators are insufficient for scalable superextensive charging and that a cumulative hierarchy of many-body operators is required, with the structure of the battery determining the degree of advantage. This is obtained by relating the charging power to the norm of the commutator between the battery and charger Hamiltonians and deriving an upper bound only capturing noncommuting terms. Moreover, we revisit the concept of participation number and propose an effective definition that accounts for the relative strength of the contributing terms, correlating it with the charging power scaling. Not limited to quadratic Hamiltonians, our results establish cumulative locality as a key resource for quantum charging advantage.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.CD" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T17:55:03Z</published>
+    <arxiv:comment>Main text: 7 pages, 5 figures. Supplementary Information: 16 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Sebastián V. Romero</name>
+    </author>
+    <author>
+      <name>Xi Chen</name>
+    </author>
+    <author>
+      <name>Yue Ban</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28365v1</id>
+    <title>Initial-State-Dictated Dynamical Universality Classes in Quantum Criticality</title>
+    <updated>2026-10-20T15:26:24Z</updated>
+    <link href="https://arxiv.org/abs/2610.28365v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28365v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The concept of universality class lies at the core of phase transition physics, with each class uniquely characterized by a dedicated set of critical exponents. Here, we introduce the concept of initial-state-dictated dynamical universality classes in nonequilibrium quantum critical dynamics. By studying the imaginary-time relaxation dynamics of the dimerized Heisenberg model, we demonstrate that distinct kinds of initial states can give rise to different dynamical universality classes within the same equilibrium universality class. Specifically, we find that "classical'' paramagnetic (random-spin) and "quantum'' paramagnetic (dimerized and antidimerized) initial states yield drastically different critical initial slip exponents in the bulk. This initial-state dependence also extends to boundary critical dynamics, where different initial states yield different surface critical initial slip exponents even within the same boundary universality class. Remarkably, for the antidimerized initial state, we uncover an anomalous scaling law violating the conventional relation between the bulk and surface critical initial slip exponents. Our results establish an initial-state-controlled dynamical classification of quantum criticality that extends beyond the conventional equilibrium universality paradigm.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T15:26:24Z</published>
+    <arxiv:comment>7 pages,4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Yu-Rong Shu</name>
+    </author>
+    <author>
+      <name>Shuai Yin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28336v1</id>
+    <title>Floquet ground state order</title>
+    <updated>2026-10-20T15:03:35Z</updated>
+    <link href="https://arxiv.org/abs/2610.28336v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28336v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Clean, interacting, periodically driven systems are believed to thermalize to featureless, infinite-temperature states that preclude the formation of stable ordered states. Here, we show stable quantum order, distinct from prethermal order, and its phase transitions in the ground state of the average-energy operator. Decomposing the time evolution into geometric and average-energy dynamics, we apply Geometric Floquet theory to identify the Floquet ground state. We derive a general variational principle to compute the Floquet ground state in large interacting periodically driven systems, and use it to develop a matrix product state algorithm. In driven nonintegrable chains of more than 100 interacting spins, our numerical simulations exhibit a gapped, area-law entangled Floquet ground state in extended parameter regimes; the ground-state manifold can support both dressed equilibrium order (e.g., Floquet antiferromagnets) and inherently nonequilibrium order (e.g., ground-state time crystals). This quantum order is protected by a finite average-energy gap, which closes at phase transition points upon changing model parameters. We decompose Floquet phases of matter into their equilibrium and nonequilibrium elements: whereas the Floquet ground state at any fixed time is a representative of an equilibrium phase of matter, the nonequilibrium content is entirely produced by the drive holonomy and is geometric. Finally, we identify quasilocal counterdiabatic driving as a mechanism for the stability against heating of gapped Floquet ground states in nonintegrable quantum systems, and argue why Floquet ground states evade the Eigenstate Thermalization Hypothesis. Our work enables the study of interacting nonequilibrium matter deep into the many-body regime, and lays the foundations for the engineering of strongly correlated ordered quantum states.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T15:03:35Z</published>
+    <arxiv:comment>13 + 29 pages, 6 + 8 figures, 4 algorithms</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Suman Mondal</name>
+    </author>
+    <author>
+      <name>Paul M. Schindler</name>
+    </author>
+    <author>
+      <name>Marin Bukov</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28031v1</id>
+    <title>Microscopically informed self-consistent multi-resolvent closure for dense many-body spectra</title>
+    <updated>2026-10-20T11:20:23Z</updated>
+    <link href="https://arxiv.org/abs/2610.28031v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28031v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The exact multi-resolvent hierarchy of dense many-body spectra encodes higher-order spectral-weight correlations, but closing it predictively for interacting Hamiltonians remains a challenge. We introduce the multi-resolvent self-consistency (MRSC) equations, which separate an exact algebraic hierarchy from an approximate finite-parameter closure. The exact Feshbach geometric identity organizes r-resolvent cumulants into a ladder over irreducible vertices Gamma^(r), and the projected hierarchy expresses those vertices as functionals of the cumulants. The closure works in finite parameters: a connectivity basis organizes a general Hamiltonian's seed into class amplitudes, and a causal r-fold Stieltjes representation with a moment-field identity reduce moment matching to a finite-dimensional problem closed at a predictive fixed point. On the free-fermion benchmark the tested exact identities are reproduced and the Faddeeva closure is recovered at r=1. In a blind test on the interacting Ising chain, with the exact two-resolvent data withheld, the Hamiltonian-derived closure predicts the tested probes to 0.35%-0.97%. At the observable level the exact two-resolvent sector supplies a sign-correct, energy-resolved correction to the single-resolvent baseline for the off-diagonal eigenstate-thermalization-hypothesis (ETH) variance, of order one relative to it. Closure errors organize hierarchically: a level-by-level deficit decomposition, anchor measurements of the isolatable terms, and an explicit propagation bound. The same moments further yield a diagnostic chain for the window conditions of local rotational invariance -- an exact drift-kernel identity, a proven single-state identifiability boundary, and a transferability census over couplings and realizations -- a finite-order framework, not a proof of universal emergence.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T11:20:23Z</published>
+    <arxiv:comment>61 pages, 2 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Zhiqiang Huang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27939v1</id>
+    <title>Local-Channel Stability of Classical $\mathbb Z_2$ Lattice Gauge Models</title>
+    <updated>2026-10-20T09:48:15Z</updated>
+    <link href="https://arxiv.org/abs/2610.27939v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27939v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We establish sufficient conditions for two-way local quantum-channel stability in classical $\mathbb Z_2$ lattice gauge models with spins on $m$-dimensional cells of a $d$-dimensional lattice. Each interaction multiplies the spins on the boundary of an $(m+1)$-cell. This family, defined on the full spin Hilbert space without a Gauss-law constraint, includes the Ising model at $m=0$ and the magnetic sector of the toric code at $m=1$. The low-temperature proof combines two ingredients: locally indistinguishable flat sectors and extended magnetic defects of dimension $d-m-1$. For $1\le m\le d-2$, sufficiently weak local classical perturbations at sufficiently low positive temperature preserve equivalence to the canonical flat ensemble. No internal or gauge symmetry is required of the perturbation. For weak noncommuting perturbations, we prove the same conclusion in a smaller sufficient window by reducing the diagonal probabilities to a weak classical interaction and recovering the coherences with a local channel. The conversion channels use product ancillary inputs, have polylogarithmic causal radius, and achieve any prescribed inverse-power whole-system trace-norm error. Sufficiently high-temperature states are instead two-way equivalent to a product state. Independent finite-dimensional onsite systems can be included with weak local couplings. An optimized covariance between two distant neighborhoods of parallel $m$-tori is nonincreasing under one-way local conversion and invariant under two-way conversion. Its values $\mathcal F_m=1$ and $0$ distinguish the proved low- and high-temperature domains without a protecting symmetry. These sufficient domains do not determine the full phase diagram.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T09:48:15Z</published>
+    <arxiv:comment>15+19 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Guanxi Xun</name>
+    </author>
+    <author>
+      <name>Weiguang Cao</name>
+    </author>
+    <author>
+      <name>Haruki Watanabe</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27938v1</id>
+    <title>Thermodynamic Stability of Classical $\mathbb Z_2$ Lattice Gauge Models</title>
+    <updated>2026-10-20T09:46:01Z</updated>
+    <link href="https://arxiv.org/abs/2610.27938v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27938v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Finite-temperature phases are traditionally studied through spontaneous symmetry breaking, but symmetry-breaking fields can remove their distinction, as in the Ising model. This motivates the search for stable nontrivial thermal phases without symmetry protection. For classical $\mathbb Z_2$ lattice gauge models with spins on $m$-dimensional cells in a fixed spatial dimension $d$, we prove joint analyticity of the thermodynamic free-energy density in temperature and perturbation strength at sufficiently low positive temperatures under sufficiently weak local perturbations, whenever $1\le m\le d-2$. Perturbations need not preserve internal or gauge symmetries and may include noncommuting quantum interactions. A separate high-temperature expansion yields an analytic region reaching infinite temperature at any fixed finite perturbation strength. These results establish thermodynamic stability and support the conjecture that low- and high-temperature regimes remain separated by a thermal transition without symmetry protection.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T09:46:01Z</published>
+    <arxiv:comment>6+29 pages, 2+4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Shunsuke Sengoku</name>
+    </author>
+    <author>
+      <name>Weiguang Cao</name>
+    </author>
+    <author>
+      <name>Haruki Watanabe</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27926v1</id>
+    <title>Monodromy line defects on the fuzzy sphere</title>
+    <updated>2026-10-20T09:38:46Z</updated>
+    <link href="https://arxiv.org/abs/2610.27926v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27926v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Monodromy line defects are of interest in the defect bootstrap program and are dual to electrically charged objects in dual gauge field descriptions. We investigate the Ising monodromy dCFT using a fuzzy sphere regularization, by imposing the twisted boundary condition in the UV. We obtain defect scaling dimensions $\hat Δ$ and ratios of defect operator expansion (DOE) coefficients using this method. We extend this machinery to the continuous family of $O(2)$ monodromy defects with twist angle $2πν$. In both cases, the lowest neutral defect scalar lies above dimension one, providing evidence that the monodromy defect reaches a stable dCFT without additional fine tuning.</summary>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T09:38:46Z</published>
+    <arxiv:comment>28 pages, 14 figures</arxiv:comment>
+    <arxiv:primary_category term="hep-th"/>
+    <author>
+      <name>Jiangyuan Qian</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27872v1</id>
+    <title>Moments of Random Permanents and Hafnians: A Replica Approach</title>
+    <updated>2026-10-20T08:54:29Z</updated>
+    <link href="https://arxiv.org/abs/2610.27872v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27872v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Using contour-integral representations of the permanent and of the Hafnian, we turn the computation of their moments for random matrices into a replica calculation, analogous to that of the moments of the partition function of a mean-field spin glass. For the $2k$-th moment of $N\times N$ matrices with independent entries, the dominant saddle point is replica symmetric for $k&gt;2$, and we obtain in closed form the exponential growth rate, the prefactor and the first $1/N$ correction, in agreement with exact enumerations. The growth rate depends only on whether the entries are real or complex; higher cumulants affect only the prefactor and the $1/N$ term. At $k=2$ the replica-symmetric solution becomes unstable, separating a power-law bulk of the distribution from a large-deviation tail, which we compute. The results apply to boson sampling with single photons and with squeezed light.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T08:54:29Z</published>
+    <arxiv:comment>19 pages, 6 figures, 4 tables</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Paolo Facchi</name>
+    </author>
+    <author>
+      <name>Angelo Mariano</name>
+    </author>
+    <author>
+      <name>Giorgio Parisi</name>
+    </author>
+    <author>
+      <name>Saverio Pascazio</name>
+    </author>
+    <author>
+      <name>Antonello Scardicchio</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27858v1</id>
+    <title>Classical-to-Quantum Transition in Blackbody Radiation Thermodynamics: Planck's Law without Statistical Assumptions</title>
+    <updated>2026-10-20T08:41:55Z</updated>
+    <link href="https://arxiv.org/abs/2610.27858v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27858v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Inspired by Fermi's model of radiation-matter interaction, we investigate the classical dynamics of a closed, finite-energy system, in which matter is coupled to an electromagnetic field. We find that energy is progressively transferred to increasingly high-frequency field modes, so that the effective temperature of both matter and radiation approaches zero in the long-time limit - in sharp contradiction with the finite-temperature equilibrium assumed by classical blackbody thermodynamics. Requiring consistency with the Stefan-Boltzmann and Wien laws identifies a characteristic time $t_L$, at which both laws are simultaneously satisfied. Strikingly, classical spectra obtained for different energies and cavity sizes collapse onto the universal Planck distribution at $t_L$. We conjecture that quantum dynamical localization arrests the classical energy cascade at $t_L$, and that the Planck distribution emerges as a dynamical consequence of this arrest - without invoking any a priori statistical assumption.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.CD" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T08:41:55Z</published>
+    <arxiv:comment>7 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>J. Wang</name>
+    </author>
+    <author>
+      <name>G. Casati</name>
+    </author>
+    <author>
+      <name>G. Benenti</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27811v1</id>
+    <title>A Transport-Information Framework for Continuous-Fiber-Aligned Coarse-Graining Representation Sets</title>
+    <updated>2026-10-20T08:05:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.27811v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27811v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Consider representation sets of interest whose elements are associated with continuous realizations related to them through coarse-graining (CG). CG can be regarded as an operation that reduces a representation by discarding information that is not retained in its output. However, a systematic description of the information structure associated with CG in general remains to be established. Here, we propose a transport-information framework for continuous-fiber-aligned representation sets, in which each representation is associated with a continuous realization through a fiber structure, with CG defining the projection onto the representation. Within this framework, CG is described through a local-map operation that transports continuous probability mass onto representative points. The resulting transport cost is expressed as the contraction of the second-moment structure of the underlying continuous representation with the transport metric. Building on the previously proposed framework of unavoidable canonical nonlinearity (UCN), this construction provides a non-arbitrary information-theoretic interpretation of the CG-associated transport cost in terms of information indistinguishability, quantified by an expected Kullback-Leibler divergence associated with the CG geometry. The present framework provides a basis for describing information costs associated with individual CG operations and for comparing representation sets while accounting for their underlying continuous realizations.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T08:05:42Z</published>
+    <arxiv:comment>7 pages</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Koretaka Yuge</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27666v1</id>
+    <title>Symmetry Enriched Criticality from Kennedy Tasaki Self-Duality</title>
+    <updated>2026-10-20T05:27:14Z</updated>
+    <link href="https://arxiv.org/abs/2610.27666v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27666v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The interplay between topology and quantum criticality has established symmetry enriched criticality as a new paradigm beyond conventional frameworks in condensed matter and statistical physics. However, the conditions under which such criticality emerges remain poorly understood. In this work, we show that a broad class of symmetry enriched critical points separating symmetry protected topological (SPT) and spontaneous symmetry breaking (SSB) phases is governed by Kennedy Tasaki (KT) self duality. At these criticalities, the KT transformation that interchanges the SPT and SSB phases acts as a self-dual noninvertible symmetry, endowing the critical points with nontrivial topological characteristics. We numerically demonstrate this mechanism in $\mathbb{Z}_{n} \times \mathbb{Z}_{n}$ cluster qudit chains and further argue that it naturally extends to higher dimensions, providing a duality based criterion for identifying symmetry-enriched criticality across dimensions.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T05:27:14Z</published>
+    <arxiv:comment>17 pages, 8 figures. Any comments or suggestions are welcome!</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Mingyuan Chen</name>
+    </author>
+    <author>
+      <name>Sheng Yang</name>
+    </author>
+    <author>
+      <name>Xue-Jia Yu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27369v1</id>
+    <title>Generation of non-Maxwell-Boltzmann energy distributions during thermalization of interacting baths</title>
+    <updated>2026-10-19T22:47:56Z</updated>
+    <link href="https://arxiv.org/abs/2610.27369v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27369v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We report on numerical experiments of thermalization between two reservoirs in which interspecies interactions are mediated via a Hamiltonian with a Gaussian dependence upon the distance between the particles. By using relatively high statistics, we are able to study deviations from the initially imprinted Maxwell-Boltzmann energy distributions as a function of the range and strength of the interaction, as well as the parameters of the two baths such as masses, trapping frequencies, that strongly affect the spatial overlap of the two species. At large interaction strengths and for any range, deviations are attributable to the sudden conversion of latent interaction energy into kinetic energy of the particles. In addition, long range interactions generate deviations even for interaction strengths in the weak regime, and non-uniform confinement introduces a further source of deviation from the Maxwell-Boltzmann energy distribution. This latter results in transient two temperature Maxwell-Boltzmann distributions suggestive of an inverse cascading route from inter-particle dynamics to thermalization. In the weakly-interacting regime, a simple expression for the equilibrium temperature is also obtained and discussed. These findings may be of relevance in the dynamics of exothermic chemical reactions, in the physics of ultracold atomic mixtures, and in self-sustained burning plasmas.</summary>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T22:47:56Z</published>
+    <arxiv:primary_category term="physics.plasm-ph"/>
+    <arxiv:journal_ref>Physical Review E 111, 064127 (2025)</arxiv:journal_ref>
+    <author>
+      <name>Roberto Onofrio</name>
+    </author>
+    <author>
+      <name>Bala Sundaram</name>
+    </author>
+    <arxiv:doi>10.1103/f6fm-wd95</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1103/f6fm-wd95" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27368v1</id>
+    <title>Dynamics of thermalization in classical three-dimensional many-body systems: Non-Maxwellian distributions and the role of anisotropic trapping</title>
+    <updated>2026-10-19T22:47:26Z</updated>
+    <link href="https://arxiv.org/abs/2610.27368v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27368v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The physics of interacting baths is of interest in a variety of contexts, ranging from ultracold atoms to ionized gases. While many features can already be captured in a one-dimensional model, others are specific to the situation of two or three-dimensional systems. In this paper, we focus on three-dimensional features of a model for thermalization between two baths that we have explored in earlier publications. In contrast to the one-dimensional situation we show that, en route to thermalization, deviations from the Maxwell-Boltzmann energy distributions more akin to $κ$-distributions are observed. In three dimensions, these can be seen in changes at the peak of the distribution, which is precluded by the expected monotonic behavior of the energy distributions in one dimension. Furthermore, we consider thermalization for anisotropic trapping and explore its role in the onset of anomalous scaling with respect to the particle number. These results may be pertinent to the understanding of the interplay between turbulent behavior and nonlinearities for a variety of many-body classical systems.</summary>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T22:47:26Z</published>
+    <arxiv:primary_category term="physics.plasm-ph"/>
+    <arxiv:journal_ref>Physical Review E 112, 044148 (2025)</arxiv:journal_ref>
+    <author>
+      <name>Roberto Onofrio</name>
+    </author>
+    <author>
+      <name>Bala Sundaram</name>
+    </author>
+    <arxiv:doi>10.1103/g7hm-4k1j</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1103/g7hm-4k1j" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27179v2</id>
+    <title>Large Deviations in Stochastic Dynamics: A Hamiltonian Perspective</title>
+    <updated>2026-10-21T09:45:24Z</updated>
+    <link href="https://arxiv.org/abs/2610.27179v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27179v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>These lecture notes present an introduction to large deviations in stochastic dynamical systems, adapted from a lecture series given at the Les Houches school ``Large Deviations: Theory and Applications'' in July 2024. The exposition develops the theory through a unified methodology: WKB analysis of backward Kolmogorov equations, which reveals the Hamiltonian structure underlying all large deviation principles considered here. We treat three asymptotic regimes systematically. First, the small-noise limit for stochastic differential equations and the large-volume limit for Markov jump processes, where the Large Deviation Principle emerges from the Law of Large Numbers through progressively finer characterizations of fluctuations. Second, the long-time limit combined with small noise, yielding the quasipotential formalism for metastability and transition rates in both equilibrium and nonequlibrium systems. Third, the long-time limit at finite noise, connecting to spectral methods via tilted generators and enabling reduction of multiscale systems. We survey computational approaches including minimum action methods, their geometric variants for quasipotential calculations, and neural network techniques. The Schlögl model of chemical bistability serves as a running example, illustrating both scalar and spatially extended settings. Appendices provide self-contained background on stochastic calculus and Markov jump processes.</summary>
+    <category term="math.PR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T19:11:23Z</published>
+    <arxiv:comment>47 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="math.PR"/>
+    <author>
+      <name>Lorenzo Cirigliano</name>
+    </author>
+    <author>
+      <name>William D. Piñeros</name>
+    </author>
+    <author>
+      <name>Anna Poggialini</name>
+    </author>
+    <author>
+      <name>Grant M. Rotskoff</name>
+    </author>
+    <author>
+      <name>Eric Vanden-Eijnden</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27154v1</id>
+    <title>Exact spectral integrability of a finite-channel random Schrödinger operator: from fermionization of the Dyson--Riccati gas to Kontsevich integral</title>
+    <updated>2026-10-19T18:45:35Z</updated>
+    <link href="https://arxiv.org/abs/2610.27154v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27154v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We solve exactly, for arbitrary finite channel number $N$, the Riccati dynamics of a quasi-one-dimensional random matrix Schrödinger operator with Hermitian white-noise potential in the $β=2$ unitary symmetry class. The associated Dyson--Riccati eigenvalue gas admits an exact free-fermion representation at any sample length $L$, which in the limit $L\to \infty$ expresses the density of states and the total Lyapunov growth rate exactly through a single Airy Hankel $τ$-function providing multichannel generalization of $N=1$ Halperin--Thouless formulas. The $τ-$function further admits an outgoing-contour Kontsevich matrix Airy integral representation. Its saddle-point and double-scaling analyses give, in a unified way, the finite-channel density Lifshitz tail, and the large-$N$ spectral edge. In particular, for $N\gg 1$ the sharp $N=\infty$ edge is softened within an $N^{-4/5}$ spectral window, with its profile governed by the tritronquée solution of Painlevé I. We conjecture universality of this quasi-one-dimensional scaling edge profile for a broad class of $β=2$ random band matrices.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.SI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T18:45:35Z</published>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Yan V. Fyodorov</name>
+    </author>
+    <author>
+      <name>Pierre Le Doussal</name>
+    </author>
+  </entry>
+</feed>

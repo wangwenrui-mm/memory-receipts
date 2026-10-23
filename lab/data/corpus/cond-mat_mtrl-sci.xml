@@ -1,0 +1,1573 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/FKzPexLLwbQKlu8cCyLI7G+WU34</id>
+  <title>arXiv Query: search_query=cat:cond-mat.mtrl-sci&amp;id_list=&amp;start=0&amp;max_results=50</title>
+  <updated>2026-10-23T07:46:18Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=cat:cond-mat.mtrl-sci&amp;start=0&amp;max_results=50&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <opensearch:totalResults>113559</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31591v1</id>
+    <title>Screening strongly correlated materials in solid oxide cells with quantum simulation</title>
+    <updated>2026-10-22T17:26:29Z</updated>
+    <link href="https://arxiv.org/abs/2610.31591v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31591v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We develop an end-to-end framework for assessing a quantum-computing application in industrial materials science: the screening of strongly correlated oxygen-electrode materials for SOFCs and SOECs. We formulate the materials problem in terms of interface observables including oxygen-vacancy formation energies, vacancy migration barriers, and electronic conductivity. We describe how these observables can be obtained using a diagrammatic GW-based embedding, either GW+DMFT or self-energy embedding theory (SEET), applied to a DFT-screened shortlist. The atomistic electrode/electrolyte interface defines the electronic structure problem from which the correlated impurity models are constructed. Quantum impurity solvers would provide the finite-temperature impurity Green's functions required by the embedding. The computational challenges that classical solvers may encounter as the interacting active space grows, together with the polynomial scaling of quantum Hamiltonian simulation for efficiently represented discretized models, open an opportunity for quantum advantage. We identify the benchmarks needed to assess this opportunity through convergence of vacancy and migration energetics and comparison with the best applicable classical solvers. We provide illustrative logical qubit counts and identify the thermal state preparation, simulation, measurement, and repeated-solve costs needed for a complete resource assessment. We connect microscopic observables to macroscopic engineering metrics using a continuum model for mixed ionic--electronic conducting oxygen electrodes that couples oxygen surface exchange, solid-state oxygen transport, electrode microstructure, and finite electrode thickness. Finally, we estimate the potential worldwide business value of improved electrode materials under SOFC and SOEC deployment scenarios informed by public technical targets and electrolyser deployment data.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T17:26:29Z</published>
+    <arxiv:comment>52 pages and 4 figures, including 36 pages of main text</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Ouns El Harzli</name>
+    </author>
+    <author>
+      <name>Jelle Bor</name>
+    </author>
+    <author>
+      <name>Linde Wester</name>
+    </author>
+    <author>
+      <name>Leonid Zhukov</name>
+    </author>
+    <author>
+      <name>Hanl Park</name>
+    </author>
+    <author>
+      <name>Jean-François Bobier</name>
+    </author>
+    <author>
+      <name>Matt Langione</name>
+    </author>
+    <author>
+      <name>Antonino Marco Saitta</name>
+    </author>
+    <author>
+      <name>Jonathan Owens</name>
+    </author>
+    <author>
+      <name>Richard Hart</name>
+    </author>
+    <author>
+      <name>Yudong Cao</name>
+    </author>
+    <author>
+      <name>François Jamet</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31508v1</id>
+    <title>Spin-Dependent Transport in One-Dimensional Mercury- and Silver-Mediated DNA Nanowires</title>
+    <updated>2026-10-22T16:24:49Z</updated>
+    <link href="https://arxiv.org/abs/2610.31508v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31508v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Metallo-DNA nanowires serve as a versatile, programmable scaffold for molecular-scale electronics. In this work, we demonstrate that periodic heavy-metal coordination fundamentally reshapes the electronic landscape of DNA, generating dispersive, metal-centered conduction bands rather than isolated localized states. Driven by enhanced inter-layer coupling, where second nearest-neighbor hopping plays a crucial role: the conduction bandwidth can approach 1 eV, more than double that of canonical DNA. These broad bands suggest enhanced robustness of transport against structural fluctuations. As a result of relativistic effects, in these quasi-one-dimensional materials, spin-orbit (SO) coupling enhances band dispersion and governs spin-dependent transport. We predict that although ligand hybridization reduces atomic SO splitting, the effective SO splitting in these nanowires is comparable to the next-nearest-neighbor hopping strength, which results in considerable spin mixing. We find that Hg2+-coordinated nanowire exhibit pronounced spin-flip conductance comparable to spin-conserving conductance across the LUMO manifold. This efficient spin conversion remains robust over extended molecular lengths and is accompanied by a set of highly delocalized unoccupied states with oscillating nodal structures, readily accessible under low-bias transport measurements. In contrast, the Ag+-coordinated nanowires exhibit weak spin-flip scattering that is more than an order of magnitude smaller than spin-preserving transport. This duality establishes the choice of coordination metal as a decisive parameter to govern metal-metal interaction, electron delocalization, and spin-dependent transport. Overall, our findings demonstrate how relativistic effects and quantum confinement intersect in these bio-templated, quasi-one-dimensional molecular conductors.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T16:24:49Z</published>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Arpan De</name>
+    </author>
+    <author>
+      <name>William Livernois</name>
+    </author>
+    <author>
+      <name>Simon Vecchioni</name>
+    </author>
+    <author>
+      <name>Yoel P. Ohayon</name>
+    </author>
+    <author>
+      <name>M. P. Anantram</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31206v1</id>
+    <title>Mn-deficient Ni-Mn-Ga alloys: phase transitions, magnetic properties, and disappearance of martensitic transformation</title>
+    <updated>2026-10-22T12:54:49Z</updated>
+    <link href="https://arxiv.org/abs/2610.31206v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31206v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Composition gradients formed during directional solidification are generally considered undesirable in Ni-Mn-Ga magnetic shape-memory alloys. However, these gradients offer a highly effective platform for systematically investigating composition-property relationships under identical growth and heat-treatment conditions. To exploit this approach, one Mn-deficient and two near-stoichiometric Ni-Mn-Ga oligocrystals were grown by optical zone remelting and characterized by X-ray fluorescence mapping, optical microscopy, X-ray diffraction, low-field magnetic measurements, and vibrating-sample magnetometry. The ingots contained elongated grains and axial compositional gradients, primarily associated with the redistribution of Mn and Ga, whereas Ni remained relatively uniformly distributed. The martensitic and premartensitic transformation temperatures generally increased with increasing Mn content. Neither transformation was detected between 10 and 400 K in specimens containing 20.5-22.0 at.% Mn, all of which had $e/a &lt; 7.40$. In contrast, both transformations were observed in the investigated specimens containing at least 22.1 at.% ($e/a \geq 7.46$). This abrupt change may indicate a possible electron-concentration threshold for the occurrence of these transformations. Saturation magnetization increased with Mn content up to 25.8 at.%, reaching 96.9 A m$^2$/kg at 10 K and 71.2 A m$^2$/kg at 300 K. Post-growth annealing increased the transition temperatures and changed the low-field magnetic response. The results indicate that composition-gradient oligocrystals serve as an effective platform for investigating the relationships between composition, structure, and magnetic properties in Ni-Mn-Ga alloys with the same processing history.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T12:54:49Z</published>
+    <arxiv:comment>19 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Valentina Moskvina</name>
+    </author>
+    <author>
+      <name>Jaroslav Čapek</name>
+    </author>
+    <author>
+      <name>Michal Rameš</name>
+    </author>
+    <author>
+      <name>Denys Musiienko</name>
+    </author>
+    <author>
+      <name>Petr Veřtát</name>
+    </author>
+    <author>
+      <name>Alexej Perevertov</name>
+    </author>
+    <author>
+      <name>Ladislav Straka</name>
+    </author>
+    <author>
+      <name>Oleg Heczko</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31184v1</id>
+    <title>Anomalous polar chains in halide perovskites</title>
+    <updated>2026-10-22T12:33:55Z</updated>
+    <link href="https://arxiv.org/abs/2610.31184v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31184v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Local polar distortions, their collective ordering, and their field-driven reversal have been studied extensively in ferroelectric perovskites for decades. Here we identify an unusual behavior in the ferroelectric halide perovskite CsGeBr3 using large-scale molecular dynamics with first-principles-trained interatomic potentials. In its nominally cubic phase the Ge off-centering forms one-dimensional polar chains that extend over at least tens of nanometers and relax on nanosecond timescales, four orders of magnitude slower than in BaTiO3 and PbTiO3, with CsSnBr3 in between. The cubic CsGeBr3 phase is a dynamically disordered state in which oppositely polarized chains flip throughout the crystal, and a long-lived one-dimensional local polarization coexists with zero net polarization. A simple three-dimensional perovskite thus hosts long-ranged one-dimensional polar correlations with remarkably slow dynamics. In the ferroelectric phase the same chains set a one-dimensional switching mechanism, in which the polarization reverses chain by chain.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T12:33:55Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Erik Fransson</name>
+    </author>
+    <author>
+      <name>Apinya Ngoipala</name>
+    </author>
+    <author>
+      <name>Priyanka Deswal</name>
+    </author>
+    <author>
+      <name>Ethan Berger</name>
+    </author>
+    <author>
+      <name>Nicholas C. Bristowe</name>
+    </author>
+    <author>
+      <name>Paul Erhart</name>
+    </author>
+    <author>
+      <name>Julia Wiktor</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31176v1</id>
+    <title>Tracking the Emergence and Persistence of Abnormal Grain Growth in an Aluminum Alloy using Diffraction-Contrast Tomography</title>
+    <updated>2026-10-22T12:29:52Z</updated>
+    <link href="https://arxiv.org/abs/2610.31176v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31176v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Abnormal grain growth is inherently three-dimensional, making 3D tracking of grain evolution essential for understanding its underlying mechanisms. This study combines synchrotron-based diffraction-contrast tomography and phase-contrast tomography to characterize the three-dimensional grain structure and quantify the size and spatial distribution of second-phase particles in the aluminum alloy AA5252. Using an interrupted annealing protocol, we tracked the persistent growth of abnormal grains and the emergence of abnormal growth in a grain initially belonging to the matrix. Although second-phase particles effectively suppressed grain growth in the matrix, variations in local particle density showed no apparent correlation with either the emergence or subsequent rapid growth of abnormal grains. Instead, crystallographic misorientation and, more notably, neighboring grain size were identified as stronger predictors of abnormal growth rate. Matrix grains were consumed more rapidly when they were relatively small and shared high-angle grain boundaries with the growing abnormal grain. The same trends were observed for the grain that underwent a transition from normal to abnormal growth. Remarkably, even before the onset of abnormal growth, this grain was surrounded by smaller matrix grains with exclusively high-angle grain boundaries, while the local particle density was slightly higher than average. These findings suggest that the same microstructural characteristics facilitate both the emergence and persistence of abnormal grain growth, although the mechanism triggering the transition to rapid growth remains unresolved.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T12:29:52Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Helmuth-André Schulz-Harder</name>
+    </author>
+    <author>
+      <name>Karolína Gutbrod</name>
+    </author>
+    <author>
+      <name>Madlen Atzen</name>
+    </author>
+    <author>
+      <name>Markus Ziehmer</name>
+    </author>
+    <author>
+      <name>Thomas Wilhelm</name>
+    </author>
+    <author>
+      <name>Orkun Furat</name>
+    </author>
+    <author>
+      <name>Yubin Zhang</name>
+    </author>
+    <author>
+      <name>Jette Oddershede</name>
+    </author>
+    <author>
+      <name>Haixing Fang</name>
+    </author>
+    <author>
+      <name>Pierre-Olivier Autran</name>
+    </author>
+    <author>
+      <name>Wolfgang Ludwig</name>
+    </author>
+    <author>
+      <name>Marc Bernacki</name>
+    </author>
+    <author>
+      <name>Volker Schmidt</name>
+    </author>
+    <author>
+      <name>Carl E. Krill</name>
+    </author>
+    <author>
+      <name>Jules M. Dake</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31157v1</id>
+    <title>Functional understanding of structural components in polypseudorotaxane gels</title>
+    <updated>2026-10-22T12:15:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.31157v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31157v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Biomedical devices, wearable interfaces, and soft robots require compliant soft materials with reliable mechanical performance, yet the molecular principles needed to design such materials are not always fully understood. Thus, there is an urgent need to understand how to design novel stretchable and soft hydrogels with enhanced toughness, i.e. resistance to breakage. Slide-ring gels (SRGs) are a class of unconventional soft materials formed by polyrotaxanes (PR) building blocks whereby sliding cyclodextrins (CD) replace traditional chemical and physical crosslinks and in turn enhance toughness and stretchability by several orders of magnitude. The rational design of SRGs re- mains challenging due to a lack of a mechanistic understanding of the role played by individual components. In this work, we implement simple synthetic perturbations that individually target polymer-CD and CD-CD interactions in unstoppered pseudopolyrotaxanes (pPR) solutions and measure the consequent changes in viscoelastic properties. Weakening the intermolecular interaction between CDs abolishes crystallisation and significantly weakens the gel. At the same time, thermodynamically favouring threading by using azobenzene-modified PEG chains favours the formation of stable and long-lived networks even at remarkably low CD stoichiometries. We rationalise these observations with coarse-grained Molecular Dynamics simulations which clarify the structure-function relationship of the components forming these materials. Our work contributes to guiding the rational design and development of enhanced SRG hydrogels and elastomers.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T12:15:02Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Ella Sapsford</name>
+    </author>
+    <author>
+      <name>Andrea Bonato</name>
+    </author>
+    <author>
+      <name>Simon Weir</name>
+    </author>
+    <author>
+      <name>Nawar Zebari</name>
+    </author>
+    <author>
+      <name>Paul J. Lusby</name>
+    </author>
+    <author>
+      <name>Chenfeng Ke</name>
+    </author>
+    <author>
+      <name>Davide Michieletto</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31127v1</id>
+    <title>The often overlooked role of sound in liquid thermal transport</title>
+    <updated>2026-10-22T11:49:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.31127v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31127v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Formulated a hundred years ago, the Bridgman formula for thermal conductivity of liquids postulates a proportionality between sound velocity and thermal conductivity. This designates phonons as heat carriers in a liquid. Its empirical success has been under-appreciated and its conceptual implications overlooked. It is not mentioned in well-known condensed-matter textbook. Here, we review its origin, its links to hydrodynamic Euler equations and to the fundamental paradox surrounding the parabolic heat equation and its fate across the quantum-classical crossover.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T11:49:27Z</published>
+    <arxiv:comment>10 pages, five figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Kamran Behnia</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31084v1</id>
+    <title>Nitrogen vacancy cluster-mediated ferroelectric domain growth in wurtzite AlN</title>
+    <updated>2026-10-22T10:56:32Z</updated>
+    <link href="https://arxiv.org/abs/2610.31084v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31084v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Aluminum nitride-based ferroelectrics combine high remanent polarization, thermal stability, weak size effects, a wide bandgap and back-end process compatibility, making them promising for high density non-volatile memory. However, their high coercive field ($E_\mathrm{c}$) and unclear polarization switching mechanism limit further applications. Theoretical predictions indicate preferential reversed domain growth along the polar axis, whereas experiments show nearly isotropic growth or preferential growth perpendicular to this axis. Here, we combine density functional theory, Deep Potential molecular dynamics and experimental characterization to determine how nitrogen vacancies ($V_\mathrm{N}$) regulate domain growth and $E_\mathrm{c}$. In ideal crystal, strong lattice coupling along the polar axis drives preferential domain growth in this direction. $V_\mathrm{N}$ locally weakens this coupling and promotes polarization nucleation. The spatial distribution of $V_\mathrm{N}$ and the temporal sequence of vacancy induced switching jointly determine the direction and morphology of reversed domain growth. We further show that scandium doping promotes $V_\mathrm{N}$ formation, thereby enhancing defect mediated nucleation and reducing $E_\mathrm{c}$. These findings establish a multiscale mechanism governing thin-film domain-growth kinetics and macroscopic $E_\mathrm{c}$, reconciling experimental observations with ideal crystal simulations and providing defect engineering principles for low-voltage, reliable and scalable ferroelectric devices.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T10:56:32Z</published>
+    <arxiv:comment>23 pages, 4 figures, with Supplementary Information</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Zijian Zhou</name>
+    </author>
+    <author>
+      <name>Kan-Hao Xue</name>
+    </author>
+    <author>
+      <name>Ziqi Pang</name>
+    </author>
+    <author>
+      <name>Heng Yu</name>
+    </author>
+    <author>
+      <name>Shanzhong Xie</name>
+    </author>
+    <author>
+      <name>Hang Liu</name>
+    </author>
+    <author>
+      <name>Haiming Qin</name>
+    </author>
+    <author>
+      <name>Yi Tong</name>
+    </author>
+    <author>
+      <name>Bowen Su</name>
+    </author>
+    <author>
+      <name>Yi Yang</name>
+    </author>
+    <author>
+      <name>Tian-Ling Ren</name>
+    </author>
+    <author>
+      <name>Xiangshui Miao</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30978v1</id>
+    <title>Role of Chalcogen-p States in the Optical Response of Bulk PtSe2 and PtTe2</title>
+    <updated>2026-10-22T09:22:54Z</updated>
+    <link href="https://arxiv.org/abs/2610.30978v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30978v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The type-II Dirac semimetals PtSe$_2$ and PtTe$_2$ are isostructural and isovalent layered compounds but exhibit distinct electronic properties. We measure the in-plane infrared reflectivity of bulk crystals between 10 and 300 K and compare the interband contribution to the optical conductivity with band-resolved density-functional calculations. At low temperature, the Drude spectral weight of PtTe$_2$ is an order of magnitude larger than that of PtSe$_2$. PtTe$_2$ also shows a broad mid-infrared absorption continuum, whereas the absorption of PtSe$_2$ remains weak. The calculations attribute this continuum to transitions from a predominantly chalcogen-$p$ band into a Pt-$d$ band. In PtTe$_2$, the chalcogen-$p$ band lies higher in energy, which lowers the onset of these transitions and increases the semimetallic band overlap, in line with the larger Drude spectral weight. The type-II Dirac points lie far below the Fermi level, so that transitions between the bands forming the Dirac cones do not contribute appreciably to the interband conductivity.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T09:22:54Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Ji Eun Lee</name>
+    </author>
+    <author>
+      <name>R. Mathew Roy</name>
+    </author>
+    <author>
+      <name>Premakumar Yanda</name>
+    </author>
+    <author>
+      <name>Chandra Shekhar</name>
+    </author>
+    <author>
+      <name>Claudia Felser</name>
+    </author>
+    <author>
+      <name>Martin Dressel</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30977v1</id>
+    <title>Donor-acceptor recombination in diamond</title>
+    <updated>2026-10-22T09:21:16Z</updated>
+    <link href="https://arxiv.org/abs/2610.30977v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30977v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We re-examine several optical systems that have previously been attributed to donor-acceptor (D-A) recombination in diamond, including the broad 2.8 eV and 2.3 eV bands, and the sharp-lined series in the ranges 2.0-2.7 eV and 4.0-5.0 eV. In all cases, internal transitions at one or multiple defect centers provide a more consistent explanation of the experimental observations than the D-A model. The 2.3 eV case is marginal, where the key argument against the D-A recombination is the improbably low probability of tunneling between remote donors and acceptors in diamonds with very low concentrations of impurities (~0.1 ppm). A more realistic model for the 2.3 eV band and the associated phosphorescence and thermoluminescence phenomena is trapping of electrons and holes at nitrogen and boron defects, respectively, followed by recombination at a deep center, which is tentatively assigned to the nearest neighbor B-N pair.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T09:21:16Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <arxiv:journal_ref>Physica Scripta, 2026</arxiv:journal_ref>
+    <author>
+      <name>Konstantin Iakoubovskii</name>
+    </author>
+    <author>
+      <name>Andrey Katrusha</name>
+    </author>
+    <author>
+      <name>Weihua Peng</name>
+    </author>
+    <author>
+      <name>Jianguo Peng</name>
+    </author>
+    <arxiv:doi>10.1088/1402-4896/aeb75b</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1088/1402-4896/aeb75b" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30964v1</id>
+    <title>Intensity-driven Mott-like transition in a 2D Ruddlesden-Popper perovskite</title>
+    <updated>2026-10-22T09:08:34Z</updated>
+    <link href="https://arxiv.org/abs/2610.30964v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30964v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Two-dimensional Ruddlesden-Popper-type halide perovskites have emerged as promising cutting-edge nonlinear optical materials due to their strong excitonic effects and carrier-density-dependent optical responses. In this work, we investigate the nonlinear optical properties and ultrafast carrier dynamics of (BA)$_2$PbI$_4$ under infrared excitation, resonant with the two-photon energy of its excitonic transition. Using a nonlinear femtosecond Z-scan measurement with a 1030\,nm pump pulse, we observe a pronounced intensity-dependent evolution of the nonlinear absorption coefficient and the refractive index. With increasing pump intensity, a switch from saturable absorption to reverse saturable absorption emerges, suggesting an intensity-driven Mott-like transition. To elucidate the underlying carrier dynamics, intensity-dependent transient absorption spectroscopy was performed under the same excitation intensities. This reveals a long-lived charge carrier population above the estimated Mott density, reflecting a clear phase transition from an exciton-dominated regime to a dense electron-hole plasma regime. Moreover, such an intensity-driven, high, and switchable nonlinear optical response, along with a Mott-like transition under infrared pulse excitation, makes the 2D (BA)$_2$PbI$_4$ perovskites suitable for all-optical operation in the infrared regime.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T09:08:34Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Koushik Mondal</name>
+    </author>
+    <author>
+      <name>Amit Haldar</name>
+    </author>
+    <author>
+      <name>Indrajit Mondal</name>
+    </author>
+    <author>
+      <name>Arpita Dutta</name>
+    </author>
+    <author>
+      <name>Himanshu Bhatt</name>
+    </author>
+    <author>
+      <name>Biswajit Mahata</name>
+    </author>
+    <author>
+      <name>Soumili Banerjee</name>
+    </author>
+    <author>
+      <name>Hirendra Nath Ghosh</name>
+    </author>
+    <author>
+      <name>Satyaprasad P Senanayak</name>
+    </author>
+    <author>
+      <name>Shovon Pal</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30930v1</id>
+    <title>Chiroptical Valleytronic in SnSe</title>
+    <updated>2026-10-22T08:52:01Z</updated>
+    <link href="https://arxiv.org/abs/2610.30930v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30930v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Quantum geometric properties of Bloch electrons play a central role in governing light-matter interactions and transport phenomena in solids. Here, we report quantum-geometric chiroptical selection rules that generate a helicity-dependent momentum-space population imbalance in the group-IV monochalcogenide SnSe. By combining time- and angle-resolved extreme-ultraviolet photoemission spectroscopy with ab initio real-time simulations of photoexcited carrier dynamics, we identify valley-selective excitation at opposite crystal momenta arising from the breaking of time-reversal symmetry under circularly polarized illumination. We theoretically demonstrate that the magnitude of valley circular dichroism is strongly constrained by crystal symmetry through its influence on the quantum geometric tensor, the key quantity underlying valley optical selection rules. The resulting chiroptically induced valley polarization decays on sub-picosecond timescales through intervalley scattering mediated by electron-phonon coupling. Furthermore, we show theoretically that the population imbalance between valleys at opposite momenta gives rise to a helicity-reversible transient photocurrent. These findings provide microscopic insight into how quantum geometry governs valley-selective light-matter interactions, valley polarization, and photocurrent generation in van der Waals materials exhibiting hidden and transient symmetry breaking.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T08:52:01Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Yiming Pan</name>
+    </author>
+    <author>
+      <name>Sotirios Fragkos</name>
+    </author>
+    <author>
+      <name>Umberto Dellasette</name>
+    </author>
+    <author>
+      <name>Quentin Courtade</name>
+    </author>
+    <author>
+      <name>Dominique Descamps</name>
+    </author>
+    <author>
+      <name>Stéphane Petit</name>
+    </author>
+    <author>
+      <name>Fabio Caruso</name>
+    </author>
+    <author>
+      <name>Samuel Beaulieu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30929v1</id>
+    <title>Piezo-Kerr effect in altermagnets and noncollinear antiferromagnets</title>
+    <updated>2026-10-22T08:49:03Z</updated>
+    <link href="https://arxiv.org/abs/2610.30929v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30929v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Symmetry is usually viewed as a constraint on physical responses, but it can also be used to design the fields that control them. Here, we adopt the representation-matching principle used to identify conjugate fields of order parameters and apply it to response tensors. A linear coupling, the key ingredient for sign-switching control, is symmetry-allowed when a component (or a combination of components) of the control field and the selected response component share the same irreducible representation of the magnetic point group (MPG) of the system. Applied to the magneto-optical Kerr effect, this principle yields a piezo-Kerr effect, in which specific strain combinations activate a Kerr response forbidden in the unstrained state. Enumerating all 122 MPGs, we identify 16 groups in which the unstrained Kerr response is forbidden while a linear strain-induced contribution is allowed. These groups are realized by altermagnets and noncollinear antiferromagnets with symmetry-enforced vanishing net magnetization. The active strain channels and the associated first-order sign reversals follow directly from symmetry. First-principles calculations for bulk MnTe$_{2}$ and CoF$_{2}$, and Cr$_{2}$Se$_{2}$O and Cr$_{2}$Te$_{2}$O monolayers confirm these predictions. In these materials, the Kerr rotation vanishes without strain, whereas 0.5-3% strain produces rotations ranging from tens to hundreds of millidegrees, and reversing the matched strain channel reverses the Kerr sign. These results establish a general route to large and switchable Kerr responses emerging from symmetry-forbidden states in compensated magnets.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T08:49:03Z</published>
+    <arxiv:comment>14 pages, 9 figures, including Supplemental Material</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Yuqi Liu</name>
+    </author>
+    <author>
+      <name>Qiu-Shi Huang</name>
+    </author>
+    <author>
+      <name>Xinfeng Chen</name>
+    </author>
+    <author>
+      <name>Yilin Han</name>
+    </author>
+    <author>
+      <name>Run-Wu Zhang</name>
+    </author>
+    <author>
+      <name>Zhi-Ming Yu</name>
+    </author>
+    <author>
+      <name>Yugui Yao</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30918v1</id>
+    <title>Thermal expansion mechanisms, heat transport, and band-gap renormalization in strongly anharmonic Rb$_2$SO$_4$, Rb$_2$Ca$_2$(SO$_4$)$_3$, and Ba$_3$Lu(BO$_3$)$_3$ from machine-learned interatomic potentials</title>
+    <updated>2026-10-22T08:37:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.30918v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30918v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Rb$_2$SO$_4$, Rb$_2$Ca$_2$(SO$_4$)$_3$, and Ba$_3$Lu(BO$_3$)$_3$ are structurally complex materials whose thermal expansion has been interpreted, on the basis of high-temperature x-ray diffraction, in terms of specific polyhedral rearrangements. We study their lattice dynamics and its consequences for thermal and electronic properties using molecular dynamics with actively learned moment tensor potentials trained on density-functional theory data. The anharmonicity measure $σ^A$ (compares the anharmonic contribution to the interatomic forces with the total forces acting on atoms) reaches $\approx$0.3-0.5 for $β$-Rb$_2$SO$_4$, Rb$_2$Ca$_2$(SO$_4$)$_3$, and Ba$_3$Lu(BO$_3$)$_3$ and $\approx$0.75 for orientationally disordered $α$-Rb$_2$SO$_4$, and the imaginary harmonic modes of Rb$_2$Ca$_2$(SO$_4$)$_3$ and $α$-Rb$_2$SO$_4$ are stabilized at finite temperature. The simulations reproduce the measured thermal expansion and support the mechanisms proposed from diffraction: expansion along $c$ in $β$-Rb$_2$SO$_4$ arises from both elongation and straightening of corrugated Rb chains, BO$_3$ reorientation accompanies the anisotropic expansion of Ba$_3$Lu(BO$_3$)$_3$, and bending of polyhedral linkages limits expansion along the weakly expanding directions and in cubic Rb$_2$Ca$_2$(SO$_4$)$_3$. Green-Kubo lattice thermal conductivities differ by more than an order of magnitude between compounds with comparable $σ^A$, showing that the anharmonicity measure alone does not determine heat transport. Phonon-induced band-gap renormalization, including lattice thermal expansion, reaches 2.7 and 1.7 eV at 1250 K in Rb$_2$Ca$_2$(SO$_4$)$_3$ and Ba$_3$Lu(BO$_3$)$_3$ and 1.4 eV at 650 K in $β$-Rb$_2$SO$_4$, with zero-point renormalizations of 0.64, 0.70, and 0.31 eV for $β$-Rb$_2$SO$_4$, Rb$_2$Ca$_2$(SO$_4$)$_3$, and Ba$_3$Lu(BO$_3$)$_3$, respectively.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T08:37:27Z</published>
+    <arxiv:comment>12 pages, 13 figures; Supplementary Material: 33 pages, 31 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Ekaterina Spirande</name>
+    </author>
+    <author>
+      <name>Rustam Arabov</name>
+    </author>
+    <author>
+      <name>Sofya Demina</name>
+    </author>
+    <author>
+      <name>Nikita Rybin</name>
+    </author>
+    <author>
+      <name>Alexander Shapeev</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30870v1</id>
+    <title>Designing sustainable high-entropy alloys directly from mixed oxides: A thermodynamic perspective</title>
+    <updated>2026-10-22T07:53:04Z</updated>
+    <link href="https://arxiv.org/abs/2610.30870v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30870v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Hydrogen-based direct reduction (HyDR) of mixed oxide precursors offers an alternative route to produce sustainable alloys, bypassing the sequential extraction, refining, and remelting steps that dominate the carbon footprint of conventional metallurgy and individual metal production. However, the thermodynamic limits and most effective H$_2$/H$_2$O ratio needed for full metallization of multicomponent oxides are not yet established. This is because the formation of metallic and oxide solid solutions alters the chemical activity of both the reduced metallic phases and the unreduced oxides, coupling their equilibria in ways that cannot be deduced from the stability of the pure individual oxides. Herein, we develop a CALPHAD-based thermodynamic framework to establish the compoistion-temperature-H$_2$/H$_2$O window for complete metallization of CoCrFeMnNi-based oxide mixtures. Mn and Cr generally increase oxide stability, while Co, Fe, and Ni decrease it, allowing reduction at lower H$_2$/H$_2$O ratios. The effect of each element is not fixed; it depends on the starting mixed oxide composition and can reverse when the last oxide to reduce changes. Furthermore, we show that the reduction pathway complexity does not correlate with the difficulty of removing the final oxygen: a system with few intermediate transformation steps can still terminate as a highly stable residual oxide, whereas extensive partial reduction may leave the stability of the final residual oxide essentially unchanged. By linking residual-oxide stability to the H$_2$/H$_2$O ratio, the framework identifies the thermodynamic limits and provides guidelines for designing sustainable multicomponent alloys directly from mixed oxide precursors.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T07:53:04Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Albert Linda</name>
+    </author>
+    <author>
+      <name>Shiv Shankar</name>
+    </author>
+    <author>
+      <name>Dierk Raabe</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30764v1</id>
+    <title>Universal Synthesis of Large-Area Hybrid Perovskite Monolayers Enabling Lithography-Free, Low-Static-Power Optoelectronics</title>
+    <updated>2026-10-22T05:35:37Z</updated>
+    <link href="https://arxiv.org/abs/2610.30764v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30764v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Solution-phase synthesis of monolayer hybrid organic-inorganic perovskites is constrained by rapid out-of-plane crystal growth, uncontrolled nucleation, and strong interlayer aggregation, yielding flakes of only a few μm. We introduce a steric-engineering ternary-solvent growth strategy to synthesize monolayer and few-layer A2MX4 hybrid perovskites with exceptionally large surface areas. By combining alcohol cosolvents with an amine additive, out-of-plane stacking is suppressed. Using (PEA)2CuCl4 as a model system, monolayers with lateral areas exceeding 1000 μm2 are achieved, representing a massive dimensional increase over conventional methods. Molecular dynamics and quantum-chemical calculations show that longer-chain alcohols reorganize precursor solvation, while solvent volatility prolongs edge-mediated precursor transport during annealing. This strategy demonstrates universal applicability across diverse organic spacer cations (PEA+, F-PEA+, PentA+), metal centers (Cu2+, Mn2+, Pb2+), and halides (Cl-, Br-, I-). The large lateral dimensions enable direct, solvent-free electrical contact fabrication via physical shadow masking, bypassing chemical degradation from solvents used in conventional lithography. Planar devices fabricated from isolated ultrathin (PEA)2PbI4 channels exhibit ultra-low dark currents down to the 10^-15 - 10^-13 A range, enabling femtowatt-to-picowatt static power consumption, ~ 0.2 pW at 5 V, a 250-fold reduction relative to drop-cast films, while maintaining a high light-to-dark current ratio of 4.3 x 102. This work establishes precise steric and solvation control as a paradigm for scalable, compositionally diverse, low-static-power monolayer 2D perovskite optoelectronics.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T05:35:37Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Shankeerthan Kalyanasundaram</name>
+    </author>
+    <author>
+      <name>Swarit Dwivedi</name>
+    </author>
+    <author>
+      <name>Sanje Mahasivam</name>
+    </author>
+    <author>
+      <name>Christopher R. McNeill</name>
+    </author>
+    <author>
+      <name>Sudha Mokkapati</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30684v1</id>
+    <title>Impact of localized $4f$ magnetism on Berry curvature and the intrinsic anomalous Hall effect in CeRu$_2$Si$_2$</title>
+    <updated>2026-10-22T03:53:50Z</updated>
+    <link href="https://arxiv.org/abs/2610.30684v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30684v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The intrinsic anomalous Hall effect (AHE), originating from Berry curvature, has been extensively studied in $f$-electron systems, including Ce-based compounds. However, how the magnetism of localized $f$ electrons affect the intrinsic AHE remains unclear. Here, we investigate this issue in CeRu$_2$Si$_2$ by calculating the intrinsic anomalous Hall conductivity (AHC) for several occupied Ce-$4f$ states using first-principles LDA+$U$ calculations combined with Wannier interpolation method. We find that the intrinsic AHC remains finite even when the Ce-$4f$ states are localized and do not contribute directly to the Fermi surface, and that its magnitude depends on which Ce-$4f$ state is occupied. We show that localized $4f$-electron magnetism induces exchange splitting in the conduction bands, generating Berry curvature in specific regions near the Fermi surface. This mechanism enables conduction bands that are derived from nonmagnetic orbitals and form the Fermi surface to contribute to the intrinsic AHE, suggesting a route to realizing large intrinsic AHE in $f$-electron materials.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T03:53:50Z</published>
+    <arxiv:comment>6 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Takehiro Kobayashi</name>
+    </author>
+    <author>
+      <name>Shunsuke Hirai</name>
+    </author>
+    <author>
+      <name>Ibuki Terada</name>
+    </author>
+    <author>
+      <name>Michi-To Suzuki</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30665v1</id>
+    <title>From phase analysis to phase tracking: a robust approach to atomic-scale strain mapping</title>
+    <updated>2026-10-22T03:29:10Z</updated>
+    <link href="https://arxiv.org/abs/2610.30665v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30665v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Atomic-scale strain governs the electronic, ferroic and mechanical properties of materials, and atomic-resolution microscopy measures it most directly. Geometric phase analysis (GPA) is the standard tool, but it fails when a Bragg reflection moves outside its fixed Fourier aperture under large strain or rotation, or in misoriented grains. Here we introduce geometric phase tracking analysis (GPTA), whose Fourier aperture tracks the Bragg reflection at each pixel in real space. A narrow aperture can therefore reject noise without losing a displaced reflection. On 13,795 simulated and experimental atomic-resolution images under various imaging conditions, GPTA reduces GPA's failure rate from 27% to 11.5% with up to 335 times better accuracy. It also gives strain and dislocation maps across grains, resistance to dynamical-scattering extinction, and a confidence map, capabilities that GPA lacks. Tracking the aperture combines reciprocal-space dose efficiency with real-space spatial resolution and extends atomic-scale strain metrology to beam-sensitive materials and challenging imaging conditions.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T03:29:10Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Ying Han</name>
+    </author>
+    <author>
+      <name>Yuan Tian</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30641v1</id>
+    <title>How good are universal MLIPs for alloys? A benchmark is only as trustworthy as its controls</title>
+    <updated>2026-10-22T03:01:28Z</updated>
+    <link href="https://arxiv.org/abs/2610.30641v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30641v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Universal machine-learned interatomic potentials (uMLIPs) are ranked by their formation-energy error against a DFT database, as if that database were ground truth, but independent DFT databases disagree. We benchmark fourteen uMLIPs on 1.45 million ordered intermetallics against AFLOW, which none trained on, and compare every energy and stability error with that disagreement. For half the structures, AFLOW, Alexandria, and OQMD differ by less than 6-8 meV/atom, but a minority differ by far more, raising the average to 16-30. That disagreement sets a floor on any model's measurable error. Re-referenced, the best uMLIP agrees with AFLOW as closely as Alexandria does, and the next four sit 2-7 meV/atom above the floor. Once broken elemental references are screened, the energy and stability rankings agree almost everywhere. Three apparent model failures shrink or vanish under the right control: poorly correlated shear moduli, thousands of "bad" DFT references, and the leader's inflated lead.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T03:01:28Z</published>
+    <arxiv:comment>47 pages (31 main + 16 SI), 12 figures; submitted to npj Computational Materials</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Gus L. W. Hart</name>
+    </author>
+    <author>
+      <name>Jacob N. Pursley</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30598v1</id>
+    <title>Strain-induced structural transformations in hexagonal monolayer boron nitride. A density functional study</title>
+    <updated>2026-10-22T01:58:53Z</updated>
+    <link href="https://arxiv.org/abs/2610.30598v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30598v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this work we theoretically study the structural transformations occurring in monolayer hexagonal boron nitride (h-BN) subjected to strong deformations. The first-principle computer simulations are based on the density functional theory employing the pseudopotentials with the exchange-correlation energy given in Perdew-Burke-Ernzerhof form. Depending on the direction and the type of the strain, the simulations reveal different types of structural transformations in two-dimensional (2D) h-BN associated with the elastic failure. It is found that, under certain shear strains, there can form an ordered 2D orthorhombic phase with the 2D layer space symmetry pmmm. Thermal stability of the latter up to ~900 K is demonstrated by first-principle Born-Oppenheimer molecular dynamics. The examination of electronic structure indicates that, in contrast to the conventional h-BN, which is an insulator with the wide band gap, the predicted orthorhombic phase is expected to be a semiconductor with the narrow band gap of ~ 0.65 eV.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T01:58:53Z</published>
+    <arxiv:comment>10 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>O. Bystrenko</name>
+    </author>
+    <author>
+      <name>B. Ilkiv</name>
+    </author>
+    <author>
+      <name>S. Petrovska</name>
+    </author>
+    <author>
+      <name>O. Foia</name>
+    </author>
+    <author>
+      <name>T. Bystrenko</name>
+    </author>
+    <author>
+      <name>O. Khyzhun</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30591v1</id>
+    <title>Decoding Composition-Structure-Performance Relations in Sodium Layered Oxide Positive Electrode Materials</title>
+    <updated>2026-10-22T01:47:59Z</updated>
+    <link href="https://arxiv.org/abs/2610.30591v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30591v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Layered sodium transition-metal (TM) oxides, Na$_x$TMO$_2$, are among the most promising sodium-ion positive electrode materials, yet their Na/vacancy orderings, layer stacking sequences, and cooperative Jahn--Teller distortions are known only for a few single-TM compounds. We compile the Na/vacancy orderings reported in earlier studies into a single library of 41 unique orderings and apply this uniformly to five single-TM and all ten Na$_x$TM$_{0.5}$TM$'_{0.5}$O$_2$ oxides (TM = Ti, Mn, Fe, Co, Ni), screening more than 120,000 structures with machine-learning interatomic potentials prior to 1,025 accurate first-principles calculations. The phase diagrams explain the observed O3/P3/O1 sequences and voltages, and the O3-to-P3 competition hinges on ordering energies of a few meV per atom that scalar descriptors, such as the cationic potential and the interlayer-slab distance, miss. Our extensive analysis reveals that the redox couples form a nearly partner-independent ladder, Ti$^{3+/4+}$ $&lt;$ Mn$^{3+/4+}$ $&lt;$ Co$^{3+/4+}$ $&lt;$ Ni$^{2+/3+}$ $&lt;$ Fe$^{3+/4+}$, explaining pristine charge transfer and the oxidation sequence. Van Vleck analysis of every TMO$_6$ octahedron reveals that TM mixing suppresses the cooperative Jahn--Teller distortions of Mn$^{3+}$ and Ni$^{3+}$ through charge transfer to Jahn--Teller-inactive states or dilution of Jahn--Teller-active centers. We formulate an energy-density-versus-strain map that yields a design rule: a high-voltage couple without Jahn--Teller strain, which Mn$^{4+}$/Ni$^{2+}$ charge transfer realizes in Na$_x$Mn$_{0.5}$Ni$_{0.5}$O$_2$, the most practical composition. We release the ordering-resolved dataset as a training set for subsequent training of accurate machine-learning interatomic potentials.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T01:47:59Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Yunyeong Choi</name>
+    </author>
+    <author>
+      <name>Hasindhi H. Lokuge</name>
+    </author>
+    <author>
+      <name>Joshua D. Bocarsly</name>
+    </author>
+    <author>
+      <name>Pieremanuele Canepa</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30556v1</id>
+    <title>Field-free superconducting diode and tunable vortex dynamics in NbN/FePt stripe-domain heterostructures</title>
+    <updated>2026-10-22T00:22:11Z</updated>
+    <link href="https://arxiv.org/abs/2610.30556v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30556v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We demonstrate reconfigurable, field-free superconducting diode behavior in NbN/FePt and NbN/AlN/FePt heterostructures with remanent stripe domains in the FePt layer. NbN films 10 nm thick are capped either directly with FePt or through a thin AlN spacer, which reduces electronic proximity effects while preserving magnetic coupling through stray fields. At zero applied magnetic field, the superconducting diode efficiency reaches approximately 50--60% in NbN/FePt when the stripes are perpendicular to the current and is strongly reduced when they are parallel. The diode effect persists in NbN/AlN/FePt with efficiencies reaching approximately 35--40%, supporting a magnetic origin of the nonreciprocity. We interpret the response as asymmetric vortex transport in the remanent magnetic landscape, with preferential edge vorticity and a Lorentz force that favors inward flux injection or outward motion depending on current polarity. Under applied perpendicular magnetic fields, the interplay between the external field and the magnetic stray fields modifies the flux-flow instability and the apparent instability velocity inferred from transport, with values below those reported for bare NbN films. These results show that stripe-domain ferromagnetic overlayers provide a reconfigurable route to control superconducting nonreciprocity and flux-flow stability in NbN-based heterostructures.</summary>
+    <category term="cond-mat.supr-con" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T00:22:11Z</published>
+    <arxiv:comment>16 pages, 9 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.supr-con"/>
+    <author>
+      <name>Juan C. Zapata</name>
+    </author>
+    <author>
+      <name>Emilio De Biasi</name>
+    </author>
+    <author>
+      <name>Martin Sirena</name>
+    </author>
+    <author>
+      <name>Jeehoon Kim</name>
+    </author>
+    <author>
+      <name>Nestor Haberkorn</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30502v1</id>
+    <title>Chiral Cavity Vacua as Local Generators and Probes of Non-Abelian Kitaev Topology</title>
+    <updated>2026-10-21T22:32:30Z</updated>
+    <link href="https://arxiv.org/abs/2610.30502v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30502v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We show how a gyrotropic cavity vacuum generates, probes, and spatially programs non-Abelian topology in the Kitaev honeycomb model. Gauge-consistent virtual-photon elimination produces a universal helicity-odd interaction $\mathrm{i}[P_x,P_y]$ alongside same-order even dressing. For the leading bond polarization, this commutator is exactly the Kitaev three-spin mass. Mode normalization imposes a thermodynamic constraint: one extended normalized mode gives a local mass that vanishes with sample area, whereas a localized mode writes a finite topological island and a finite mode density enables a bulk mass. The exact Majorana solution yields helicity-reversed Chern gaps and edge propagation, while integrated circular dichroism exactly measures the mass generator, $\langle\mathrm{i}[P_x,P_y]\rangle=-\sqrt3p^2\langle O_3\rangle$. Real-space calculations reveal a non-Abelian island and a helicity wall with two co-propagating Majorana modes. Uniform helicity reversal is a Dirac-mass quench with $n_{\rm ex}\proptoτ_Q^{-1}$, whereas moving a wall localizes the gap closing. The equilibrium vacuum kernel contains sum-frequency rather than resonant denominators. These results establish distinct criteria for local and bulk cavity-induced topology.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T22:32:30Z</published>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Yu Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30451v1</id>
+    <title>Suppression of Grain Boundary Nitrogen Degradation by Boron in Superalloys</title>
+    <updated>2026-10-21T21:06:47Z</updated>
+    <link href="https://arxiv.org/abs/2610.30451v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30451v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Superalloys enable the hottest sections of jet engines to operate at high temperatures, but environmentally assisted degradation limits their lifetime. In polycrystalline alloys, nitrogen penetrates beneath the protective surface oxides, to produce embrittling grain boundary nitrides. Boron is added in trace amounts to improve grain boundary strength, yet its role, if any, in oxidation-related degradation remains unclear. Here we show that boron segregates to an internal nitride--matrix interface in a Ni/Co-base $γ$/$γ^{\prime}$ strengthened superalloy. Both B-free and B-containing alloys develop stratified chromia/alumina scales at 800~$^{\circ}$C in \SI{100}{\hour}, but the B-free variant produces larger, deeper and more elongated Ti/Nb-rich subsurface grain boundary nitrides. Correlative 4D S/TEM and atom probe tomography identify the particle as a chemically complex B1 nitride and reveal interfacial boron segregation. This shows that trace alloying as an alloy strategy can control damaging internal reaction product precipitation and growth by core-shell segregation.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T21:06:47Z</published>
+    <arxiv:comment>6 figures, superalloys, nitrides, oxidation</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>C. Crabb</name>
+    </author>
+    <author>
+      <name>G. Topore</name>
+    </author>
+    <author>
+      <name>J. O. Douglas</name>
+    </author>
+    <author>
+      <name>M. C. Hardy</name>
+    </author>
+    <author>
+      <name>M. S. Conroy</name>
+    </author>
+    <author>
+      <name>D. Dye</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30416v1</id>
+    <title>Design of Nuclear and Magnetic Scattering Length Density Profiles</title>
+    <updated>2026-10-21T20:20:59Z</updated>
+    <link href="https://arxiv.org/abs/2610.30416v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30416v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The scattering length density (SLD) profile of a sample can be deliberately designed to enhance the information of interest obtained from neutron reflectometry. Here, we demonstrate this approach using amorphous $\mathrm{Fe}_{x}\mathrm{Co}_{y}\mathrm{Al}_{8}\mathrm{Zr}_{2}$ thin films. Four samples, each comprising ten repetitions of an AlZr spacer layer and a magnetic layer, were prepared with magnetic-layer compositions of $\mathrm{Fe}_{80}\mathrm{Co}_{10}\mathrm{Al}_{8}\mathrm{Zr}_{2}$, $\mathrm{Fe}_{70}\mathrm{Co}_{20}\mathrm{Al}_{8}\mathrm{Zr}_{2}$, $\mathrm{Fe}_{60}\mathrm{Co}_{30}\mathrm{Al}_{8}\mathrm{Zr}_{2}$, and $\mathrm{Fe}_{45}\mathrm{Co}_{45}\mathrm{Al}_{8}\mathrm{Zr}_{2}$, and characterised using X-ray and polarised neutron reflectometry. Across the series, the nuclear SLD of the FeCoAlZr alloy decreases approximately linearly from $7.14 \times 10^{-6}$ to $4.63 \times 10^{-6}$ $\mathring{\mathrm{A}}^{-2}$ with increasing Co content, while the magnetic SLD is approximately $4.3$-$4.5 \times 10^{-6}$ $\mathring{\mathrm{A}}^{-2}$. These results demonstrate that the nuclear and magnetic contributions can be controlled largely independently, with composition primarily tuning the nuclear SLD and the applied magnetic field offering, in principle, additional control of the magnetic contribution.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T20:20:59Z</published>
+    <arxiv:comment>12 pages, 5 Figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Alexandros Barnasas</name>
+    </author>
+    <author>
+      <name>Edward J. Stuckey</name>
+    </author>
+    <author>
+      <name>Alexei A. Vorobiev</name>
+    </author>
+    <author>
+      <name>Joashaniel F. K. Cooper</name>
+    </author>
+    <author>
+      <name>Sjoerd Stendahl</name>
+    </author>
+    <author>
+      <name>Björgvin Hjörvarsson</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30404v1</id>
+    <title>Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</title>
+    <updated>2026-10-21T20:11:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.30404v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30404v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Metal additive manufacturing (AM) offers substantial advantages to the fabrication of complex structural components, but its widespread adoption is slowed due to complexities in the process-structure-property relations which is the cause for uncertainty and drives risk. Accurately quantifying these complex relations solely via experimental workflows is time consuming and costly. Integrated computational materials and engineering (ICME) frameworks address this challenge by leveraging advanced computational tools, such as crystal plasticity finite element models (CPFEM), to predict critical mechanical properties directly from microstructural data. However, these frameworks require a large datasets that are often difficult to obtain, and their predictive accuracy depends on the availability of realistic AM microstructure representations. Generative deep learning models are a promising approach towards synthesizing AM microstructures which contain complex morphological and crystallographic features. Denoising diffusion probabilistic models (DDPMs), in particular, show a strong potential to capture the inherent complexities of AM structures. In this work, we demonstrate that DDPMs can reliably synthesize digital-twin orientation-imaging micrographs, and we support this claim with quantitative evidence of the fidelity of the generated samples. Additionally, we establish a classifier-free guidance framework for solving complex inverse problems such as property-to-structure and process-to-structure mappings, and we showcase a potential application on a qualification-relevant uncertainty quantification problem. Our work highlights the potential of AI-based generative modeling as a key component of computational frameworks for accelerating AM materials qualification and certification.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T20:11:02Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Pablo Luna Falcon</name>
+    </author>
+    <author>
+      <name>Jason Mayeur</name>
+    </author>
+    <author>
+      <name>Amirkoushyar Ziabari</name>
+    </author>
+    <author>
+      <name>Vincent Paquit</name>
+    </author>
+    <author>
+      <name>Patxi Fernandez-Zelaia</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30389v1</id>
+    <title>Robust topology optimization of isogeometric Kirchhoff--Love shells by the Speed Method</title>
+    <updated>2026-10-21T19:48:38Z</updated>
+    <link href="https://arxiv.org/abs/2610.30389v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30389v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper presents a framework for robust topology optimization of Kirchhoff-Love (KL) multi-patch shells using isogeometric analysis and non-matching meshes and provides a CAD-compatible method. The material distribution is optimized via a NURBS-based level set method, enabling accurate boundary representation and seamless export to standard CAD/CAM workflows. The shape derivative is computed using the speed method, yielding a volume-based formulation that avoids boundary approximations and aligns with the isogeometric principle of coarse, high-order discretizations. This eliminates the need for local refinement, adaptive quadrature, or trimming as the descent direction for the compliance and volume objectives are obtained through a biharmonic equation. The framework is extended to robust optimization under uncertainty, accounting for stochastic loading and material properties via Monte Carlo sampling and Gaussian Random Fields. Numerical examples demonstrate the method's efficiency and robustness across single- and multi-patch shells, reproducing literature results with fewer elements than traditional FEM or refined IGA approaches. The developed methods and tools can be directly extended to problems involving stress-based optimization and risk-averse metrics. The numerical implementations are open-source and available on GitHub.</summary>
+    <category term="math.NA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T19:48:38Z</published>
+    <arxiv:primary_category term="math.NA"/>
+    <author>
+      <name>Philipp Eisenhardt</name>
+    </author>
+    <author>
+      <name>Fernando Hübner Scherer</name>
+    </author>
+    <author>
+      <name>Barbara Wohlmuth</name>
+    </author>
+    <author>
+      <name>Andrei Constantinescu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30375v1</id>
+    <title>Delta-Doped GeV$^-$ in diamond with isotope resolvable optical spectra</title>
+    <updated>2026-10-21T19:36:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.30375v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30375v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Group IV color centers in diamond -- silicon, germanium, tin, and lead-vacancy centers -- are a promising platform for quantum networking. Typical Group-IV creation utilizes ion implantation during diamond growth that leaves the color centers with a broad depth distribution and damage-induced strain inhomogeneity. Deterministic placement and damage reduction in Group IV generation are essential for improving this platform. In this letter, we report on the localization of germanium-vacancy (GeV$^-$) to a $&lt;$ 10 nm layer via the timed injection of GeH$_4$ during microwave plasma chemical vapor deposition. In this layer we have realized 17 ppm of Ge and a strain-free environment for the GeV$^-$. Subsequent electron irradiation and annealing have generated a sheet density of 0.12 GeV$^-$/$μ$m$^2$. The minimal damage from color center generation mitigates spectral inhomogeneity and allows spectral resolution of isotopic clusters, with the best cluster having an inhomogeneous distribution of 2.14 GHz and an average linewidth of $47 \pm 11$ MHz. Our study gives insight into formation dynamics of GeV$^-$ in delta-doped systems and estimates our vacancy to GeV$^-$ yield to be $\geq$ 90%, establishing an athermal nearest-neighbor formation model. We further characterized the spin $T_2^*$ and set a lower bound of 730 ns, limited by a paramagnetic defect.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T19:36:36Z</published>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Ian N. Hammock</name>
+      <arxiv:affiliation>Pritzker School of Molecular Engineering, University of Chicago, Chicago, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Kinfung Ngan</name>
+      <arxiv:affiliation>JILA and Department of Physics, University of Colorado Boulder, Boulder, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Antoni W. Wellisz</name>
+      <arxiv:affiliation>Pritzker School of Molecular Engineering, University of Chicago, Chicago, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Keira Linder</name>
+      <arxiv:affiliation>Pritzker School of Molecular Engineering, University of Chicago, Chicago, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Midrel Wilfried Ngandeu Ngambou</name>
+      <arxiv:affiliation>Materials Science Division and Center for Molecular Engineering, Argonne National Laboratory, Lemont, USA</arxiv:affiliation>
+      <arxiv:affiliation>Q-NEXT, Argonne National Laboratory, Lemont, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Jiefei Zhang</name>
+      <arxiv:affiliation>Pritzker School of Molecular Engineering, University of Chicago, Chicago, USA</arxiv:affiliation>
+      <arxiv:affiliation>Materials Science Division and Center for Molecular Engineering, Argonne National Laboratory, Lemont, USA</arxiv:affiliation>
+      <arxiv:affiliation>Q-NEXT, Argonne National Laboratory, Lemont, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Xinghan Guo</name>
+      <arxiv:affiliation>Pritzker School of Molecular Engineering, University of Chicago, Chicago, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Benjamin Pingault</name>
+      <arxiv:affiliation>Pritzker School of Molecular Engineering, University of Chicago, Chicago, USA</arxiv:affiliation>
+      <arxiv:affiliation>Materials Science Division and Center for Molecular Engineering, Argonne National Laboratory, Lemont, USA</arxiv:affiliation>
+      <arxiv:affiliation>Q-NEXT, Argonne National Laboratory, Lemont, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Shuo Sun</name>
+      <arxiv:affiliation>JILA and Department of Physics, University of Colorado Boulder, Boulder, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>David D. Awschalom</name>
+      <arxiv:affiliation>Pritzker School of Molecular Engineering, University of Chicago, Chicago, USA</arxiv:affiliation>
+      <arxiv:affiliation>Materials Science Division and Center for Molecular Engineering, Argonne National Laboratory, Lemont, USA</arxiv:affiliation>
+      <arxiv:affiliation>Department of Physics, University of Chicago, Chicago, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>F. Joseph Heremans</name>
+      <arxiv:affiliation>Pritzker School of Molecular Engineering, University of Chicago, Chicago, USA</arxiv:affiliation>
+      <arxiv:affiliation>Materials Science Division and Center for Molecular Engineering, Argonne National Laboratory, Lemont, USA</arxiv:affiliation>
+      <arxiv:affiliation>Q-NEXT, Argonne National Laboratory, Lemont, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Alexander A. High</name>
+      <arxiv:affiliation>Pritzker School of Molecular Engineering, University of Chicago, Chicago, USA</arxiv:affiliation>
+      <arxiv:affiliation>Materials Science Division and Center for Molecular Engineering, Argonne National Laboratory, Lemont, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Nazar Delegan</name>
+      <arxiv:affiliation>Pritzker School of Molecular Engineering, University of Chicago, Chicago, USA</arxiv:affiliation>
+      <arxiv:affiliation>Materials Science Division and Center for Molecular Engineering, Argonne National Laboratory, Lemont, USA</arxiv:affiliation>
+      <arxiv:affiliation>Q-NEXT, Argonne National Laboratory, Lemont, USA</arxiv:affiliation>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30371v1</id>
+    <title>Emergent altermagnetism in (LaVO$_3$)$_n$/(LaNiO$_3$)$_m$ superlattices from interfacial charge transfer and octahedral tilts</title>
+    <updated>2026-10-21T19:31:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.30371v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30371v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Using first-principles calculations, we show that altermagnetism emerges in (LaVO$_3$)$_n$/(LaNiO$_3$)$_m$ superlattices, with $(n,m) = (1,1), (2,2)$ and $(2,4)$, from the interplay of interfacial charge transfer and octahedral tilts. Charge transfer drives the system towards the V$^{4+}$ and Ni$^{2+}$ configuration, turning the otherwise paramagnetic nickelate layers into a magnetically active sublattice. The resulting $C$-type antiferromagnetic order, combined with $a^-b^+c^-$ or $a^-b^-c^-$ octahedral tilts, links opposite-spin sublattices only through nonsymmorphic operations, yielding a $d$-wave spin splitting without spin-orbit coupling. Within DFT+U, the splitting reaches 118 meV in the insulating (LVO)$_1$/(LNO)$_1$ superlattice, about twice that calculated for bulk LaVO$_3$, and decreases as the nickelate layers become thicker. Our findings indicate that this splitting is hosted by both the V and Ni sublattices, with nearly half of its weight on oxygen $2p$ states through $p$-$d$ covalency. Interfacial charge transfer thus emerges as a \textit{design} principle for engineering altermagnetism in oxide heterostructures.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T19:31:42Z</published>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Gustavo H. Cassemiro</name>
+    </author>
+    <author>
+      <name>Walber H. Brito</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30356v1</id>
+    <title>Peridynamic Thermo-Mechanical Modeling of Cracking in Tungsten under Fusion-Relevant Heat Fluxes</title>
+    <updated>2026-10-21T19:15:39Z</updated>
+    <link href="https://arxiv.org/abs/2610.30356v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30356v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Plasma-facing materials (PFMs) are the primary armor materials in fusion reactors, protecting reactor wall components from extreme heat fluxes, energetic particles, and intense neutron irradiation. These harsh conditions induce thermo-mechanical stresses, irradiation damage, and overall degradation in PFMs. Among these, thermo-mechanical damage induced by extreme heat flux is one of the key factors limiting the lifetime of PFMs. We present a modeling and simulation approach for predicting thermo-mechanical cracking and damage in tungsten, a leading PFM candidate, under fusion-reactor-relevant heat fluxes. Specifically, we study damage induced by cyclic electron beam (e-beam) exposure under different combinations of base temperature and heat flux. We carry out component-scale thermo-mechanical simulations using CabanaPD, a peridynamics fracture mechanics code, informed by experimental data for recrystallized pure tungsten from the JUDITH e-beam facility. The simulations compare well with the experimental classification and enable identification of cracking thresholds across a range of heat fluxes and base temperatures. These predictions can provide detailed insights into the spatial distribution and temporal accumulation of cracks and damage, while offering a pathway for screening candidate PFMs and quantifying their lifespan under fusion-relevant conditions.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T19:15:39Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Rinkle Juneja</name>
+    </author>
+    <author>
+      <name>Pablo Seleson</name>
+    </author>
+    <author>
+      <name>Samuel Temple Reeve</name>
+    </author>
+    <author>
+      <name>Justin Weinmeister</name>
+    </author>
+    <author>
+      <name>Gary Staebler</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30318v1</id>
+    <title>Domain walls in $R3c$-structured NaNbO$_3$</title>
+    <updated>2026-10-21T18:31:09Z</updated>
+    <link href="https://arxiv.org/abs/2610.30318v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30318v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this work, we undertake a systematic first-principles study of structural domain walls in the low-temperature rhombohedral $R3c$ phase of perovskite oxide NaNbO$_3$. Employing a group-theoretic classification, we introduce eight unique classes of domain walls in the $R3c$ structure, four of which have a domain wall orientation determined uniquely by the conditions of elastic compatibility and charge neutrality, and perform structural relaxations for each representative domain wall class. We find that one class of 109° domain walls has a notably low energy of 9 mJ m$^{-2}$, comparable to the low-energy ferroelectric walls in BaTiO$_3$. Finally, we find that this class of 109° walls is compatible with the crystal twinning observed in experiments on the $R3c$ phase, and propose an atomistic mechanism for the $R3c \leftrightarrow Pbcm$ phase transition.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:31:09Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Jack G. Nedell</name>
+    </author>
+    <author>
+      <name>Craig J. Fennie</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30241v1</id>
+    <title>Vacancy-driven topological transition of a Chern insulator</title>
+    <updated>2026-10-21T18:00:01Z</updated>
+    <link href="https://arxiv.org/abs/2610.30241v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30241v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We develop a microscopic description of the strong-disorder transition in a Chern insulator using the in-gap ring states bound to individual vacancies. Using Green's function formalism, we construct an energy-dependent Hamiltonian describing their hybridization. In a commensurate periodic vacancy lattice, a Dirac inversion of the zero-energy vacancy kernel accounts for the change in the occupied-state Chern number of the full system. We treat weak positional disorder using the self-consistent Born approximation and numerical disorder averaging, and study independently distributed vacancies using transfer-matrix and multifractal scaling. The local Chern marker and current textures track the transition in real space. Together, these results highlight the role that nonperturbative ring states have as microscopic degrees of freedom through which strong disorder destroys the Chern phase.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:00:01Z</published>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Peize Ding</name>
+    </author>
+    <author>
+      <name>Raquel Queiroz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30030v1</id>
+    <title>Methane and ethane adsorption on calcite surfaces: effects of surface morphology from molecular dynamics and 3D-RISM</title>
+    <updated>2026-10-21T16:52:49Z</updated>
+    <link href="https://arxiv.org/abs/2610.30030v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30030v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Understanding the adsorption of alkanes on mineral surfaces is important for industrial processes such as oil and gas recovery from shale reservoirs. Previous studies have examined the adsorption of functionalized and non-functionalized alkanes on calcite, as well as adsorption under confinement. However, real surfaces commonly exhibit defects that can influence adsorption behavior. In this work, molecular dynamics (MD) simulations and the three-dimensional reference interaction site model (3D-RISM) are used to investigate the adsorption of methane and ethane on calcite surfaces with step defects. MD simulations were carried out with and without positional restraints to investigate the effects of carbonate reorientation. 3D-RISM calculations were performed on these structures and on energy-minimized configurations of the relaxed crystal. Both methods show adsorption enhanced at step defects relative to flat regions, with methane exhibiting higher excess adsorption than ethane. Carbonate reorientation at the relaxed step edges reduces the local density peaks at specific step sites in both methods, while the integrated excess adsorption from MD remains comparable to that of the restrained surface. 3D-RISM predicts lower maxima for the highest density peaks and larger excess adsorption than MD, but reproduces the spatial organization and overall adsorption trends at a fraction of the computational cost. These results highlight the importance of surface heterogeneity in fluid-mineral interactions and demonstrate that 3D-RISM is an efficient tool for semi-quantitative screening of adsorption across complex surface geometries</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T16:52:49Z</published>
+    <arxiv:comment>27 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Felipe Silva Carvalho</name>
+    </author>
+    <author>
+      <name>Tyler Luchko</name>
+    </author>
+    <author>
+      <name>Zhen-Gang Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30010v1</id>
+    <title>Electronic, structural and magnetic properties of goldene nanoribbons</title>
+    <updated>2026-10-21T16:41:57Z</updated>
+    <link href="https://arxiv.org/abs/2610.30010v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30010v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Recently, two-dimensional goldene, a single-atomic-layer gold sheet, has been experimentally realized and is expected to be a promising material for next-generation devices, offering new possibilities beyond three-dimensional bulk gold. Because quasi-one-dimensional derivatives can exhibit properties markedly different from their two-dimensional counterparts, we investigate the stability, electronic, and magnetic properties of goldene-based nanoribbons (GOLDNRs) using first-principles computational methods. Our findings demonstrate that the electronic structure of these nanoribbons depends strongly on both edge chirality and ribbon width. Depending on the boundary configuration, the systems can exhibit semiconducting behavior with electronic band gaps of approximately 0.77 eV and 0.04 eV, or retain metallic characteristics. Additionally, the edge regions act as electronically active sites that may significantly enhance chemical reactivity relative to the central regions. As the ribbon width increases, the metallic characteristics of the infinite goldene sheet are progressively recovered, while the influence of quantum confinement and edge effects on the central region diminishes. These results provide important insights into tailoring the physical properties of goldene through lateral confinement, highlighting its potential for applications in nanoscale field-effect transistors, spintronic devices, and catalysis.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T16:41:57Z</published>
+    <arxiv:comment>15 pages , 12 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Fabrício M. de Vasconcelos</name>
+    </author>
+    <author>
+      <name>Kleuton A. L. Lima</name>
+    </author>
+    <author>
+      <name>Paloma V. Silva</name>
+    </author>
+    <author>
+      <name>Eduardo C. Girão</name>
+    </author>
+    <author>
+      <name>Alexandre C. Dias</name>
+    </author>
+    <author>
+      <name>Douglas S. Galvão</name>
+    </author>
+    <author>
+      <name>Luiz A. R. Junior</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29916v1</id>
+    <title>Stabilizing and detecting electron fractionalization in the Hofstadter-Hubbard model</title>
+    <updated>2026-10-21T15:55:01Z</updated>
+    <link href="https://arxiv.org/abs/2610.29916v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29916v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Motivated by the recent progress in correlated Chern insulator physics in moiré systems, we investigate the half-filled triangular-lattice Hofstadter--Hubbard model and its electron fractionalization. Among various competing non-magnetic states, increasing the orbital flux stabilizes and broadens the $\mathrm{U}(1)_2$ chiral spin liquid phase in the Mott regime. In this exotic regime, the electron is fractionalized into gapped spinons and gapped chargons, whose effective bands are linked to the orbital flux. The convolution of the narrow spinon bands with the gapped chargon excitations produces rich and discernible structures in the electron spectral function and the density of states. These results not only identify the orbital flux as a control parameter for the detailed patterns of electron fractionalization and the nature of the Mott transition, but also provide the key spectral characteristics for the angle-resolved photoemission and scanning tunneling studies of the relevant systems, linking the free-particle band topology to intrinsic topological order in the correlated regime.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:55:01Z</published>
+    <arxiv:comment>14 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Jiahao Yang</name>
+    </author>
+    <author>
+      <name>Zeyu Han</name>
+    </author>
+    <author>
+      <name>Gang v. Chen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29895v1</id>
+    <title>Automated Materials Data and Knowledge Extraction using Machine Learning and Large Language Models</title>
+    <updated>2026-10-21T15:38:05Z</updated>
+    <link href="https://arxiv.org/abs/2610.29895v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29895v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Over the past decade, substantial efforts have been devoted to developing machine learning (ML) methods for extracting materials data and, where possible, materials knowledge directly from the scientific literature. This review traces the evolution of these methods from heuristic, rule-based pipelines through natural language processing (NLP) models and transformer-based encoders to, lastly, large language models (LLMs) and agentic systems capable of extracting materials information across multiple modalities, including text, tables, and figures. Beside construction of large, queryable materials databases and knowledge graphs that support downstream materials discovery, we discuss how these advances have enabled new capabilities, such as, generic question answering across materials science, AI co-scientists and chatbots for research assistance, and closed-loop optimization and discovery when integrated with autonomous laboratories. We critically assess the datasets generated using these approaches, their extraction accuracy and computational costs, and the respective strengths and limitations of different methodologies, and even provide practical guidelines for developing more reliable and scalable materials data extraction pipelines. Finally, we identify key open challenges, including the extraction of full materials structure-property-processing-performance tetrahedron at the sample level, the scarcity of reliable benchmark datasets for systematic evaluation, and the resolution of non-standard materials terminology across different document modalities.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:38:05Z</published>
+    <arxiv:comment>25 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Aravindan Kamatchi Sundaram</name>
+    </author>
+    <author>
+      <name>B. Pabitramohan Prusty</name>
+    </author>
+    <author>
+      <name>Rohit Batra</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29858v1</id>
+    <title>Robust Anomalous Hall Effect in Epitaxial Cubic D0$_3$-Fe$_3$Ge Nanoplates Grown by Chemical Vapor Deposition</title>
+    <updated>2026-10-21T15:15:37Z</updated>
+    <link href="https://arxiv.org/abs/2610.29858v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29858v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The iron-based ferromagnetic materials have emerged as a promising system for spintronics due to their high Curie temperatures and significant anomalous Hall effect (AHE) driven by Berry curvature. While there have been investigations into the epitaxial growth of non-layered iron-based ferromagnetic materials, the realization of high-quality single crystal thin films continues to be a formidable obstacle. Meanwhile, the issues such as grain boundary scattering further hinder their characterization and application. Here, we report the first chemical vapor deposition (CVD) synthesis of single-crystalline cubic D0$_3$-Fe$_3$Ge nanoplates. This compound represents a substantial departure from the conventional hexagonal phases typically observed in the Fe-Ge system. Structural characterizations confirm the cubic lattice and stoichiometric purity of the crystals. Structural analysis identifies a strong epitaxial effect, resulting in a giant compressive strain of ~4.16% at the interface that relaxes gradually toward the surface. The second-harmonic generation (SHG) signals might further reveal that such interfacial strain disrupted the inherent centro-symmetry of the cubic phase. SQUID magnetometry shows robust room-temperature ferromagnetism and clear magnetic anisotropy. Magneto-transport measurements reveal a robust AHE that remains stable at temperatures far exceeding room temperature. The scaling observed between the anomalous Hall resistance and longitudinal resistance strongly suggests that this effect is dominated by the intrinsic Berry curvature mechanism. Furthermore, density functional theory (DFT) calculations reveal that the huge epitaxial strain induces band reconstructions and creates dense spin-orbit coupling gaps near the Fermi level, effectively doubling the anomalous Hall conductivity to match our experimental observations.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:15:37Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Mingxuan Chen</name>
+    </author>
+    <author>
+      <name>Chao Chen</name>
+    </author>
+    <author>
+      <name>Siqi Jiang</name>
+    </author>
+    <author>
+      <name>Shuxiang Qiao</name>
+    </author>
+    <author>
+      <name>Hongyan Lu</name>
+    </author>
+    <author>
+      <name>Di Zhang</name>
+    </author>
+    <author>
+      <name>Jiabei Huang</name>
+    </author>
+    <author>
+      <name>Fuzhuo Lian</name>
+    </author>
+    <author>
+      <name>Zhaochen Qu</name>
+    </author>
+    <author>
+      <name>Siqin Wang</name>
+    </author>
+    <author>
+      <name>Ziyi Wang</name>
+    </author>
+    <author>
+      <name>Shuai Zhang</name>
+    </author>
+    <author>
+      <name>Yulu Liu</name>
+    </author>
+    <author>
+      <name>Ronghua Liu</name>
+    </author>
+    <author>
+      <name>Xiaoxiang Xi</name>
+    </author>
+    <author>
+      <name>Renjun Du</name>
+    </author>
+    <author>
+      <name>Lei Wang</name>
+    </author>
+    <author>
+      <name>Geliang Yu</name>
+    </author>
+    <arxiv:doi>10.1021/acsami.6c14914</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1021/acsami.6c14914" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29848v1</id>
+    <title>Framework to identify defect-insensitive electron transport in topological semimetals</title>
+    <updated>2026-10-21T15:09:29Z</updated>
+    <link href="https://arxiv.org/abs/2610.29848v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29848v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Topological semimetals are of increasing interest to replace conventional metals for interconnects in future semiconductor chips, due to their potential to exhibit decreasing resistivity with reducing wire dimensions and a lower sensitivity to electron scattering at defects. First-principles evaluation of promising topological semimetals for interconnects typically employ non-equilibrium Green's functions (NEGF) techniques to estimate defect scattering, but such calculations for specific defect geometries are difficult to systematize and compare between disparate materials. Here, we develop an NEGF-based approach to systematically and rapidly evaluate the defect sensitivity of electron transport in materials without depending on material-specific defect geometries. Specifically, we analyze the eigen-spectrum of the transmission matrix for an incoherent ensemble of all-possible single-atom vacancy defects, which clearly reveals eigenvalues close to 1 for defect-insensitive transport modes. Applied to the leading candidates, we show that this robustness to defect scattering is extremely sensitive to surface orientation and Fermi level for each material. We find nearly-perfect insensitivity to defects only for wavevectors with single transport modes within specific Fermi level ranges in CoSi(001) and PtAl(001). Importantly, we also find high insensitivity for certain non-isolated modes in NbAs that emerge specifically due to spin-orbit coupling; these modes could not be identified previously as they were buried in the total transmission. These non-isolated modes have been buried in previous studies of total transmission, and can now be directly compared to other materials due to our standardization of defect-creation. This technique improves the state-of-the-art NEGF method and enables unbiased evaluation of future topological semimetal candidates for nanoscale interconnects.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:09:29Z</published>
+    <arxiv:comment>7 pages, 4 figures, SI within source archive</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Lily Jade Joyce</name>
+    </author>
+    <author>
+      <name>Michelle M. Kelley</name>
+    </author>
+    <author>
+      <name>Timothy Philicelli</name>
+    </author>
+    <author>
+      <name>Ching-tzu Chen</name>
+    </author>
+    <author>
+      <name>Ravishankar Sundararaman</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30210v1</id>
+    <title>Electronic Screening as a Design Lever in La-Doped BaTiO$_3$: Coupled Polarization, Dielectric Response, and Optical Anisotropy</title>
+    <updated>2026-10-21T14:26:16Z</updated>
+    <link href="https://arxiv.org/abs/2610.30210v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30210v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Donor substitution can tune the coupled ferroelectric, dielectric, electronic, and optical properties of perovskite oxides by modifying lattice distortions and electronic screening. We investigate these effects in La-doped BaTiO3 using density functional theory, density-functional perturbation theory, and the Berry-phase formalism for polarization. For a model with 12.5% La substitution at the Ba site, La incorporation induces anisotropic lattice contraction, reduces tetragonality and Ti off-centering, and weakens the energetic stabilization of the tetragonal ferroelectric phase. The accompanying reduction in polarization is associated with enhanced electronic screening and reduced anomalous Born effective charges. Phonon calculations indicate that the relaxed doped structure is dynamically stable, while hardening of a low-frequency polar mode is consistent with weakened ferroelectricity. The high-frequency dielectric response increases moderately, whereas the static dielectric response decreases as the lattice contribution is suppressed. Electronic-structure calculations show a Fermi-level shift toward the conduction band without mid-gap defect states. The optical spectra exhibit an absorption-edge shift consistent with a Burstein-Moss-type mechanism, enhanced near-edge transparency, and reduced birefringence. Together, these results suggest a microscopic connection between donor-induced screening, polar-mode hardening, reduced dynamical charges, polarization suppression, and decreased optical anisotropy. The conclusions apply to the investigated 12.5% composition; calculations at additional concentrations are needed to establish quantitative doping trends.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T14:26:16Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Sikandar Azam</name>
+    </author>
+    <author>
+      <name>Muhammad Fareed</name>
+    </author>
+    <author>
+      <name>Qaiser Rafiq</name>
+    </author>
+    <author>
+      <name>Jan Minar</name>
+    </author>
+    <author>
+      <name>Abed Alataway</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29765v1</id>
+    <title>Hierarchical Response Theory of Electronegativity from Atomic Mean Inner Potential</title>
+    <updated>2026-10-21T14:01:23Z</updated>
+    <link href="https://arxiv.org/abs/2610.29765v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29765v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Electronegativity, introduced by Pauling nearly a century ago, remains chemistry's most widely used yet conceptually ambiguous quantity: is it a fixed atomic constant, or does it depend on chemical environment? We resolve this debate by recasting electronegativity as a continuous response function rooted in the Atomic Mean Inner Potential (AMIP), a quantum-mechanical observable accessible through first-principles calculation and, ultimately, electron holography. Expanding the AMIP with respect to fractional electron removal defines a hierarchy of physically distinct coefficients: the static electronegativity $χ_0$, the Electrostatic Rigidity $\mathcal{R}$---whose sign indicates whether an atom hardens or softens upon oxidation---and the Electrostatic Anharmonic Modulus $\mathcal{A}$. A logarithmic-derivative decomposition links these coefficients to two competing microscopic channels, electronic screening loss and geometric volume collapse, whose balance governs the response of all 102 elements. This competition produces a systematic dichotomy between softening main-group elements and hardening d-block elements, two scaling laws within the transition series (closed-shell stiffening and principal quantum softening), and two anomalies: a pronounced exchange-driven effect at half-filled d$^{5}$ configurations and a near-perfect cancellation in Ce. It also resolves the long-standing Cs--Fr controversy, identifying Fr as a critical element whose near-boundary response is amplified fivefold by relativistic contraction of the 7s orbital. The framework reproduces the classical Allen, Pauling, and Mulliken scales as well as Lewis acidity trends, and makes three falsifiable experimental predictions. It transforms electronegativity from a lookup-table number into a predictive, hierarchically structured quantum descriptor.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T14:01:23Z</published>
+    <arxiv:comment>39 pages, 3 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Jin-Cheng Zheng</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29729v2</id>
+    <title>Intertwined complex orbital order and ferrimagnetism in honeycomb molybdate Fe$_2$Mo$_3$O$_8$</title>
+    <updated>2026-10-22T14:53:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.29729v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29729v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Motivated by the recent experimental interest in honeycomb molybdates A$_2$Mo$_3$O$_8$, we return and develop the minimal models to capture the essential physics for Fe$_2$Mo$_3$O$_8$. It is pointed out that, the magnetism in these materials arises from the mutual induction between the spin-orbit coupling of the tetrahedral sublattice with active orbitals and the superexchange with the spins from the octahedral sublattice. Essentially, the superexchange between the tetrahedral and octahedral sublattices directly drives the ferrimagnetism, and the residual spin-orbit coupling on the tetrahedral sublattice induces the complex orbital order. The hybrid magnon-phonon excitations are further explored together with their resulting Berry curvatures and thermal Hall effect. We discuss the experimental relevance with Fe$_2$Mo$_3$O$_8$, and the framework can be extended to FeNiMo$_3$O$_8$, Ni$_2$Mo$_3$O$_8$ and other isostructural magnets.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T13:32:42Z</published>
+    <arxiv:comment>5+10 pages, 3+2 figures, add small corrections and more elaboration</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Hong-Hao Song</name>
+    </author>
+    <author>
+      <name>Gang v. Chen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29693v1</id>
+    <title>Zero-group-velocity modes in textured steel plates: experiments and elastic modeling</title>
+    <updated>2026-10-21T13:08:20Z</updated>
+    <link href="https://arxiv.org/abs/2610.29693v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29693v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Zero-group-velocity (ZGV) resonances are investigated as a non-contact ultrasonic probe of elastic anisotropy in textured steel plates. Directional laser-ultrasonic measurements were performed on 70% cold-rolled Ti-stabilized interstitial-free steel plates in the full-hard and recrystallized condition. Experimental results were compared with predictions based on effective elastic stiffness tensors derived from X-ray diffraction measurements. Classical Voigt-Reuss-Hill estimates and microstructure-resolved finite-element homogenization reproduce the measured angular dependence of the ZGV frequencies well for both states, with the finite-element KUBC/SUBC bounds considerably narrower than the classical Voigt-Reuss bounds. For the full-hard state, agreement with the texture-based model is obtained only after a recovery treatment. This indicates that dislocations present in the full-hard material contribute to its elastic response, an interpretation that is further supported by theoretical estimations. An identifiability analysis shows that the directional ZGV measurements provide access to at least three independently observable combinations of the stiffness tensor components, and concluding suggestions for application in recrystallization monitoring are provided.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.data-an" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T13:08:20Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>C. Grünsteidl</name>
+    </author>
+    <author>
+      <name>C. Kerschbaummayr</name>
+    </author>
+    <author>
+      <name>G. Yan</name>
+    </author>
+    <author>
+      <name>G. Watzl</name>
+    </author>
+    <author>
+      <name>F. Rudinger</name>
+    </author>
+    <author>
+      <name>E. Scherleitner</name>
+    </author>
+    <author>
+      <name>M. Sonnleitner</name>
+    </author>
+    <author>
+      <name>C. Hoflehner</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29635v1</id>
+    <title>Confirmation of complex non-collinear Fe(II) spin ordering in the iron oxychalcogenide La$_2$O$_2$Fe$_2$OSe$_2$ by broad range $^{139}$La-NQR</title>
+    <updated>2026-10-21T12:15:28Z</updated>
+    <link href="https://arxiv.org/abs/2610.29635v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29635v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The transition metal oxychalcogenide La$_2$O$_2$Fe$_2$OSe$_2$ exhibits a non-collinear spin-ice like antiferromagnetic ordering below $T_N \approx $ 90 K due to complex magnetic exchange interactions and axial single-ion anisotropy of Fe$^{2+}$ spins. The magnetic structure was deduced/determined from combined $^{57}$Fe Mössbauer spectroscopy and $^{139}$La-NMR on polycrystalline specimen. In this work, we present zero-field $^{139}$La-NQR investigations on polycrystalline La$_2$O$_2$Fe$_2$OSe$_2$ in a broad frequency and temperature range between 2.8 - 20 MHz and 4.2 - 100 K. The measured resonances at $ν_Q$, $2 \, ν_Q$, and $3 \, ν_Q$ are fully consistent with the previous NMR studies and also with the magnetic structure. A substantial modification of the electric field gradient at the La-position below $T_N$ is inconsistent with the current investigations.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T12:15:28Z</published>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Tillmann Weinhold</name>
+    </author>
+    <author>
+      <name>Jerin Abraham George</name>
+    </author>
+    <author>
+      <name>Cornelius Herrmann</name>
+    </author>
+    <author>
+      <name>Domenic Nowak</name>
+    </author>
+    <author>
+      <name>Rajib Sarkar</name>
+    </author>
+    <author>
+      <name>Felix Seewald</name>
+    </author>
+    <author>
+      <name>Rowena Wachtel</name>
+    </author>
+    <author>
+      <name>Sabine Wurmehl</name>
+    </author>
+    <author>
+      <name>Bernd Büchner</name>
+    </author>
+    <author>
+      <name>Hans-Henning Klauss</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29634v1</id>
+    <title>Symmetry-Based Parameter Efficient Low-Rank Fine-Tuning for High-Throughput Calculation of Lattice Thermal Conductivity</title>
+    <updated>2026-10-21T12:15:15Z</updated>
+    <link href="https://arxiv.org/abs/2610.29634v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29634v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Accurate and efficient prediction of lattice thermal conductivity (LTC) is essential for developing materials for thermoelectric, microelectronic, and photovoltaic applications. Here, we present a methodology for high-throughput calculation of LTC across large datasets of compounds sharing a common crystal symmetry. Our approach combines fine-tuning of the MatterSim 1M universal machine-learned interatomic potential with LTC calculations based on the solution of the Boltzmann transport equation. We introduce a symmetry-based few-shot fine-tuning strategy (SBFS-FT) based on low-rank adaptation. In this approach, MatterSim 1M is fine-tuned on a small, carefully selected set of compounds that share a common crystal symmetry. The resulting potential is then applicable for accurate LTC calculations for compounds with this crystal symmetry, even if they were not included in the fine-tuning set. We tested our methodology on datasets of half-Heusler compounds (space group 216), materials with space group 225, and spinels (space group 227). We demonstrated that LTC calculations with MatterSim 1M fine-tuned using SBFS-FT exhibited a mean absolute relative difference from the reference results (obtained using moment tensor potentials and polyMLPs) 2-3 times smaller than that achieved with the non-fine-tuned MatterSim 1M potential. Moreover, the accuracy of LTC calculations with MatterSim 1M after SBFS-FT was comparable to that achieved using the MatterSim 1M potentials individually fine-tuned for each compound. Importantly, SBFS-FT enabled generation of the potential suitable for accurate LTC calculations across large compound datasets substantially faster than fine-tuning of MatterSim 1M for each compound individually, reducing the computational time by approximately a factor of 5-7 for a dataset of 100 compounds.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T12:15:15Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Rustam Arabov</name>
+    </author>
+    <author>
+      <name>Konstantin Sozykin</name>
+    </author>
+    <author>
+      <name>Nikita Rybin</name>
+    </author>
+    <author>
+      <name>Alexander Shapeev</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29615v1</id>
+    <title>Mechanism of delayed elastic state absorption versus fatigue failure in cyclic shear of amorphous materials</title>
+    <updated>2026-10-21T11:56:11Z</updated>
+    <link href="https://arxiv.org/abs/2610.29615v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29615v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study cyclic shear in a lattice elastoplastic model of amorphous materials. The model displays a threshold shear amplitude $γ_{\rm c}$, which increases with sample annealing. For imposed amplitudes $γ_0\lesssimγ_{\rm c}$, it shows slow progression to an absorbing elastic state. For $γ_0\gtrsim γ_{\rm c}$, it shows slow fatigue and delayed material failure. Our key contribution is to elucidate a mechanistic understanding of this behaviour. We show that progression to an absorbing state maps to single element diffusion on a finite interval with two absorbing boundaries. We derive expressions for the decay rate of the fraction of active elements, and the survival distribution. The diffusing variable is the local elemental strain, which takes two jumps stroboscopically per cycle. Once the value at any site diffuses below its yielding threshold, the element behaves elastically. This leads to a gradual accumulation of strains just below threshold. For $γ_0\lesssim γ_{\rm c}$ this diffusive behaviour is preceded by many cycles in which cooperativity between elements via stress propagation is also important. For $γ_0 &gt; γ_{\rm c}$, stress propagation dominates and precipitates failure. For $γ_0\gtrsim γ_{\rm c}$, the same accumulation of elements just below local threshold that led to an elastic state for $γ_0\lesssimγ_{\rm c}$ accounts for the fatigue that brings the system to the brink of failure. We evidence this via simulations in which the strain amplitude artificially exceeds $γ_0 $ in each half cycle, before reverting to the system's actual state at $\pmγ_0$ and resuming the next half cycle. During fatigue, the stress-strain slope $dσ/dγ$ evolves towards unity at $|γ|=γ_0^-$, signifying perfect elasticity within cycle, yet towards zero at $|γ|=γ_0^+$, precipitating failure.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T11:56:11Z</published>
+    <arxiv:comment>13 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Samuel B. Walker</name>
+    </author>
+    <author>
+      <name>Suzanne M. Fielding</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29614v1</id>
+    <title>Perpendicular Magnetization from Crystallite Boundaries in Polycrystalline Antiferromagnetic $γ$-FeMn</title>
+    <updated>2026-10-21T11:55:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.29614v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29614v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Single-crystalline noncollinear antiferromagnets, such as Mn$_3$Sn, are actively explored as memory media, but they generally require high-temperature growth that is incompatible with industrial-scale device fabrication. Here, we show that polycrystalline films of antiferromagnetic $γ$-FeMn, grown at room temperature, develop a perpendicular magnetization and an anomalous Hall effect, opening an industrially compatible route to antiferromagnetic memory. While conventional noncollinear antiferromagnets demand near-perfect crystal order, $γ$-FeMn films derive their memory-enabling properties from crystal defects, particularly boundaries separating nanoscale crystallites. When the crystallite size $D$ falls below $\approx$ 30 nm, a field-switchable magnetization emerges and increases with the boundary density $\propto 1/D$. This magnetization is accompanied by a room-temperature anomalous Hall conductivity exceeding 10 S/cm, comparable to that of single-crystalline Mn$_3$Sn. Our systematic experimental results, including scanning magnetometry, indicate uncompensated spin moments in the boundaries coupled to the compensated antiferromagnetism within the crystallites. We further find that the perpendicular easy axis of the magnetization is stabilized by residual strain within the $γ$-FeMn film. Our findings in manufacturing-friendly polycrystalline $γ$-FeMn redefine crystal defects as enablers, rather than impediments, for scalable antiferromagnetic memory.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T11:55:27Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Rachel E. Maizel</name>
+    </author>
+    <author>
+      <name>Sachli Abdizadeh</name>
+    </author>
+    <author>
+      <name>Ali Almahmoud</name>
+    </author>
+    <author>
+      <name>Omolara A. Bakare</name>
+    </author>
+    <author>
+      <name>Galen T. Street</name>
+    </author>
+    <author>
+      <name>Hanu Arava</name>
+    </author>
+    <author>
+      <name>Sauviz P. Alaei</name>
+    </author>
+    <author>
+      <name>Sanyum Channa</name>
+    </author>
+    <author>
+      <name>Daisy A. O'Mahoney</name>
+    </author>
+    <author>
+      <name>Rishav Khatiwada</name>
+    </author>
+    <author>
+      <name>Jing Zhao</name>
+    </author>
+    <author>
+      <name>Charis Horn</name>
+    </author>
+    <author>
+      <name>Evan Stocker</name>
+    </author>
+    <author>
+      <name>Benjamin Kostroun</name>
+    </author>
+    <author>
+      <name>Emilio Corrales</name>
+    </author>
+    <author>
+      <name>Christoph Klewe</name>
+    </author>
+    <author>
+      <name>Alpha T. N'Diaye</name>
+    </author>
+    <author>
+      <name>Yuri Suzuki</name>
+    </author>
+    <author>
+      <name>Jean J. Heremans</name>
+    </author>
+    <author>
+      <name>Frederick M. Michel</name>
+    </author>
+    <author>
+      <name>Mitsuhiro Murayama</name>
+    </author>
+    <author>
+      <name>Vsevolod M. Ivanov</name>
+    </author>
+    <author>
+      <name>Satoru Emori</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29599v1</id>
+    <title>Microstructural evolution during isothermal tempering of a highly supersaturated metastable austenitic state of a PM high-speed steel</title>
+    <updated>2026-10-21T11:39:16Z</updated>
+    <link href="https://arxiv.org/abs/2610.29599v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29599v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This study investigates the microstructural evolution of the powder metallurgical high-speed steel PM HS 3-3-4 during isothermal holding within the transformation gap between pearlite and bainite formation. The focus is on the mechanism of carbide spheroidization and the proposed formation of a chemically graded carbide rim. The heat treatments were carried out in a quenching dilatometer, enabling precise control of the thermal cycles and isothermal holding conditions. Spatially resolved analytic microscopy techniques, including scanning transmission electron microscopy (STEM), Auger electron spectroscopy (AES) and atom probe tomography (APT), image analysis and complementary thermodynamic simulations (MatCalc) were used to characterize the carbide evolution. Isothermal holding increased carbide circularity, carbide volume fraction, and hardness, while MatCalc calculations predict a strong thermodynamic driving force for additional carbide precipitation. The analytic techniques revealed a compositional gradient of approximately 15 nm at the carbide-matrix interface in the isothermally treated condition, compared with a sharp transition of only 2-3 nm in the directly quenched state. This nanometer-scale gradient provides strong evidence for epitaxial, interface-controlled carbide growth and the formation of a chemically graded carbide rim. The associated solute depletion of the surrounding austenite provides a plausible explanation for its reduced stability, reflected by an increase in the martensite start temperature. The combined results demonstrate that isothermal holding promotes interfacial chemical reorganization, offering new insights into carbide spheroidization and providing a basis for tailoring carbide morphology and the resulting mechanical properties through heat treatment.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T11:39:16Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Stefan Müller</name>
+    </author>
+    <author>
+      <name>Santiago Benito</name>
+    </author>
+    <author>
+      <name>Hendric Schaefer</name>
+    </author>
+    <author>
+      <name>Yujiao Li</name>
+    </author>
+    <author>
+      <name>Leonhard Gertlowski</name>
+    </author>
+    <author>
+      <name>Oliver Schenk</name>
+    </author>
+    <author>
+      <name>Ulrich Hagemann</name>
+    </author>
+    <author>
+      <name>Christoph Broeckmann</name>
+    </author>
+    <author>
+      <name>Sebastian Weber</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29463v1</id>
+    <title>Large anisotropic magnetoresistance in paramagnetic Fe-doped Ta4SiTe4</title>
+    <updated>2026-10-21T09:20:32Z</updated>
+    <link href="https://arxiv.org/abs/2610.29463v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29463v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large anisotropic magnetoresistance (AMR) usually relies on magnetic ordering, which fixes a preferred moment orientation and couples it to charge transport. Here, we demonstrate that pronounced AMR can instead arise from the anisotropic magnetic-field-induced polarization of dilute local moments in paramagnetic Fe-doped Ta4SiTe4, a quasi-one-dimensional van der Waals narrow-gap semiconductor. Magnetization measurements reveal Curie-like paramagnetism down to 2 K, with the c axis as the magnetic easy axis. The magnetization is described by an effective S = 1/2 model with an anisotropic g-factor ratio of g_c/g_ab = 1.43(1). With the electrical current applied along the c axis, the Fe-doped sample exhibits a large negative magnetoresistance for B//c and only a weak positive response for B//ab, whereas the undoped sample shows little magnetoresistance for either field orientation. The resulting AMR ratio reaches -33% at 8 K and 10 T and exhibits a nonmonotonic temperature dependence qualitatively captured by a minimal spin-disorder model. These results show that engineering the local environment of dilute magnetic ions provides a route to large paramagnetic AMR without long-range magnetic order, extending the materials design space for AMR beyond magnetically ordered systems.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T09:20:32Z</published>
+    <arxiv:comment>16 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Keita Nagasawa</name>
+    </author>
+    <author>
+      <name>Ryutaro Okuma</name>
+    </author>
+    <author>
+      <name>Jun-ichi Yamaura</name>
+    </author>
+    <author>
+      <name>Yoshihiko Okamoto</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29421v1</id>
+    <title>Two-dimensional structures formed by pair potentials: An analytical and numerical study</title>
+    <updated>2026-10-21T08:46:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.29421v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29421v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Understanding the thickness dependence of the excess energy of thin films and identifying the deviation from the scaling law that holds for thicker films are crucial for predicting the formation of two-dimensional (2D) materials derived from nonlayered structures, commonly referred to as non-van der Waals (non-vdW) 2D materials. Here, we analytically study the excess energy of thin films as a function of the number of layers $N$, assuming pair potentials. We show that the $1/N$ scaling law of the excess energy breaks down in the monolayer limit when the interatomic interactions are long-ranged. The analytical results are confirmed by numerical simulations using the Lennard-Jones and Morse potentials. The present work suggests that non-vdW 2D structures can be formed by pair potentials alone.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T08:46:33Z</published>
+    <arxiv:comment>5 pages, 2 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Shota Ono</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29420v1</id>
+    <title>Microscopic origin of field-induced multiferroicity in Ni3TeO6</title>
+    <updated>2026-10-21T08:45:40Z</updated>
+    <link href="https://arxiv.org/abs/2610.29420v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29420v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The continued demand for smaller, faster, and more energy-efficient technologies has driven condensed-matter research towards materials combining multiple responses within a single phase. Particularly interesting examples are multiferroic materials featuring cross-couplings between order parameters. Ni3TeO6 is a prominent member of this material class, exhibiting a hysteresis-free transition under magnetic field which simultaneously affects the magnetic structure, electric polarization, and phonon frequencies. Here, we uncover the microscopic origin of this multiferroic transition using a combination of neutron scattering techniques. We establish the presence of a finite Dzyaloshinskii-Moriya exchange term giving rise to non-reciprocal, chiral spin waves which soften in magnetic field. Their condensation alters the magnetic structure which controls the electric polarization and drives an ionic displacement, thereby coupling the magnetic, electric, and lattice degrees of freedom. Our study demonstrates that neutron scattering is a powerful technique to elucidate microscopic interactions in multiferroic materials, informing the design of next-generation electronic devices.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T08:45:40Z</published>
+    <arxiv:comment>13 pages, 9 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>J. Lass</name>
+    </author>
+    <author>
+      <name>R. Toft-Petersen</name>
+    </author>
+    <author>
+      <name>A. A. Turrini</name>
+    </author>
+    <author>
+      <name>Ø. S. Fjellvåg</name>
+    </author>
+    <author>
+      <name>B. Decrausaz</name>
+    </author>
+    <author>
+      <name>K. M. L. Krighaar</name>
+    </author>
+    <author>
+      <name>R. Sibille</name>
+    </author>
+    <author>
+      <name>H. Jacobsen</name>
+    </author>
+    <author>
+      <name>M. E. Kamminga</name>
+    </author>
+    <author>
+      <name>C. R. Y. Andersen</name>
+    </author>
+    <author>
+      <name>D. Sheptyakov</name>
+    </author>
+    <author>
+      <name>J. Ollivier</name>
+    </author>
+    <author>
+      <name>U. B. Hansen</name>
+    </author>
+    <author>
+      <name>M. Enderle</name>
+    </author>
+    <author>
+      <name>A. M. Läuchli</name>
+    </author>
+    <author>
+      <name>H. M. Rønnow</name>
+    </author>
+    <author>
+      <name>K. Lefmann</name>
+    </author>
+    <author>
+      <name>D. G. Mazzone</name>
+    </author>
+  </entry>
+</feed>

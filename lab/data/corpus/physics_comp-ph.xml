@@ -1,0 +1,1135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/ypt7DN+xAUjEDk3Sv/r2/rVltC0</id>
+  <title>arXiv Query: search_query=cat:physics.comp-ph&amp;id_list=&amp;start=0&amp;max_results=50</title>
+  <updated>2026-10-23T08:38:09Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=cat:physics.comp-ph&amp;start=0&amp;max_results=50&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <opensearch:totalResults>29985</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31324v1</id>
+    <title>Multigroup Radiation Diffusion with Compton Scattering on a Moving Mesh: Implementation in RICH and Application to Tidal Disruption Events</title>
+    <updated>2026-10-22T14:14:20Z</updated>
+    <link href="https://arxiv.org/abs/2610.31324v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31324v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Compton scattering exchanges energy between radiation and hot gas and changes the spectrum in high-energy astrophysical systems such as tidal disruption events (TDEs). Because it couples all photon energies and can act faster than the hydrodynamic time step, many radiation-hydrodynamics (RHD) simulations omit its spectral redistribution or treat its energy exchange in the gray approximation. We extend the multigroup flux-limited diffusion module of the moving-mesh RHD code RICH to include Compton scattering with the exact thermal Compton kernel. In our semi-implicit scheme for the thermal radiative transfer equation, the temperature dependence of the kernel enters a generalized Fleck factor, and the group Compton operator conserves photon number and satisfies detailed balance. In equilibration tests, the scheme agrees with independent solutions, relaxes without absorption and emission to a Bose-Einstein spectrum, and remains stable for time steps that do not resolve the Compton equilibration timescale. We apply it to a three-dimensional simulation of the disruption of a $0.5\,M_\odot$ star by a $10^6\,M_\odot$ black hole. We find that during the X-ray flash, inverse Compton scattering dominates the coupling between the gas and the radiation near the nozzle shock, where it adds X-ray energy much faster than thermal emission and may affect the dynamics. Outside the X-ray thermalization radii, its instantaneous X-ray production rate during the flash is comparable to or larger than the escaping X-ray luminosity, so it may contribute substantially to the X-ray emission from TDEs.</summary>
+    <category term="astro-ph.HE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T14:14:20Z</published>
+    <arxiv:comment>27 pages, 16 figures, 3 tables. Submitted to ApJS</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.HE"/>
+    <author>
+      <name>Itamar Giron</name>
+    </author>
+    <author>
+      <name>Menahem Krief</name>
+    </author>
+    <author>
+      <name>Elad Steinberg</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31151v1</id>
+    <title>Influence of nanoparticle shapes in nanofluid film boiling on vertical cylinders: A numerical study</title>
+    <updated>2026-10-22T12:09:03Z</updated>
+    <link href="https://arxiv.org/abs/2610.31151v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31151v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This research explores how nanoparticle shapes affect the thermal behavior of nanofluid film boiling along a vertical cylinder, using a Continuous-Species-Transfer method within a Computational Multi-Fluid Dynamics framework. The behavior of nanoparticles in both liquid and vapor phases is modeled, accounting for Brownian motion and thermophoresis. A comprehensive two-dimensional axisymmetric analysis is conducted to investigate the effects of various Al2O3 nanoparticle shapes, including spheres, bricks, blades, cylinders, and platelets, on boiling heat transfer. The results demonstrate that nanoparticle shape has a minimal impact on deposition dynamics but significantly affects kinematic viscosity, particularly for platelet-shaped nanoparticles. Blade-shaped nanoparticles provide substantial enhancement of thermal transport, as indicated by pronounced temperature gradients and increased thermal conductivity. These nanoparticles also improve the Nusselt number, suggesting enhanced boiling heat transfer efficiency. This improvement is particularly significant at higher nanoparticle concentrations, although the relationship is not strictly linear. Future work will explore different nanoparticle materials, boiling scenarios, and experimental validation.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T12:09:03Z</published>
+    <arxiv:comment>Published in the International Journal of Thermofluids (2024)</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <arxiv:journal_ref>Yahyaee, A. "Influence of nanoparticle shapes in nanofluid film boiling on vertical cylinders: A numerical study." International Journal of Thermofluids 22 (2024): 100631</arxiv:journal_ref>
+    <author>
+      <name>Ali Yahyaee</name>
+    </author>
+    <arxiv:doi>10.1016/j.ijft.2024.100631</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1016/j.ijft.2024.100631" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31072v1</id>
+    <title>Extended-regularized lattice Boltzmann method</title>
+    <updated>2026-10-22T10:49:39Z</updated>
+    <link href="https://arxiv.org/abs/2610.31072v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31072v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Regularized lattice Boltzmann methods improve numerical stability by projecting the nonequilibrium distribution onto its hydrodynamic second-order Hermite sector and filtering the remaining kinetic modes. We introduce a separate relaxation time for the complete complementary kinetic subspace. The resulting extended-regularized lattice Boltzmann method (E-RLBM) interpolates continuously between the Bhatnagar-Gross-Krook and regularized collision operators while retaining a two-rate implementation. A Chapman-Enskog expansion shows that the isothermal Navier-Stokes equations are recovered with kinematic viscosity $ν=c_s^2(τ-Δt/2)$, independently of the kinetic relaxation time $τ_{\rm nh}$, whereas $τ_{\rm nh}$ changes higher-order truncation errors. For linear transverse shear, its first effect is a fourth-derivative term whose coefficient depends on the direction of propagation relative to the lattice. This fourth-order coefficient is affine in $τ_{\rm nh}$. For linear shear on D2Q9 and $τ_{\rm nh}$ between $τ$ and $Δt$, it lies between the corresponding BGK and RLBM values in every propagation direction. Stability maps for the decaying Taylor-Green vortex and flow past a rectangular obstacle show that an appropriate kinetic relaxation substantially enlarges the stable parameter domain. In a Taylor-Green convergence test with consistent initialization, all three operators converge at second order, and their error differences follow the hyperviscous coefficient for diagonal shear waves: the E-RLBM error is about 6% above the BGK error and about 40% below the RLBM error; in a double shear layer at Re = 80000, the E-RLBM follows the RLBM convergence curve. The proposed collision operator therefore provides a low-cost means of controlling nonhydrodynamic modes without introducing a full multiple-relaxation-time basis.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T10:49:39Z</published>
+    <arxiv:comment>21 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Luís Orlando Emerich dos Santos</name>
+    </author>
+    <author>
+      <name>Diogo Nardelli Siebert</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30852v1</id>
+    <title>Stiff source terms inside ADER-DG method</title>
+    <updated>2026-10-22T07:29:03Z</updated>
+    <link href="https://arxiv.org/abs/2610.30852v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30852v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>ADER-DG numerical method with the LST-DG predictor, when used to solve hyperbolic equations with stiff source terms, exhibits properties characteristic of IMEX computational schemes. With increasing stiffness, characterized by the parameter $z = ν{Δt}^{n} &lt; 0$, the maximum of the Courant number $\mathrm{CFL}_{\rm max}$ of the ADER-DG numerical method increases. In the region of strong stiffness $|z| \gg 1$, a linear increase in the Courant number $\mathrm{CFL}_{\rm max}(z) \sim |z|$ occurs. In the region of small source terms $|z| \ll 1$, the results $\mathrm{CFL}_{\rm max}(z)$ transform into known results for the problem $\mathrm{CFL}_{\rm max}(0)$ without source terms. In the transition region $|z| \sim 1$, a range of insignificant decrease in the Courant number $\mathrm{CFL}_{\rm max}(z)$ is discovered. In the linear case, instability is violated precisely when one of the matrix eigenvalues reaches $λ= -1$, regardless of the phase $θ$ of the numerical solution. A rigorous stability theory of the ADER-DG numerical method for stiff problems for arbitrary degree $N$ of basis polynomials is constructed. The stability condition is simplified to solving a polynomial equation for the Courant number $\mathrm{CFL}$. Highly accurate dependencies of the Courant number $\mathrm{CFL}_{\rm max}(N, z)$ of the ADER-DG method on the parameter $z$ are obtained. A rigorous direct proof of the approximation of the ADER-DG method is presented. Approximation orders $p = N+1$ for arbitrary degrees $N$ are rigorously derived. A set of numerical experiments is carried out to apply the ADER-DG method to solving both a linear advection-reaction equation and the system of Euler equations for a two-component reacting medium. The results obtained in these calculations confirm the theoretical results well.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.NA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T07:29:03Z</published>
+    <arxiv:comment>93 pages, 32 figures, 15 tables</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>I. S. Popov</name>
+    </author>
+    <author>
+      <name>A. P. Popova</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30398v1</id>
+    <title>QuDPy-FDGF: A Python-Based Tool for Computing Ultrafast Nonlinear Optical Responses Using Frequency Domain Green's Functions</title>
+    <updated>2026-10-21T20:03:40Z</updated>
+    <link href="https://arxiv.org/abs/2610.30398v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30398v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present QuDPy-FDGF, an open-source Python framework that evaluates Liouville-space pathways as hybrid chains of time propagators and frequency-domain Green's functions. Frequency-resolved intervals are computed directly through shifted linear systems, without time propagation followed by a Fourier transform, while other intervals may remain in the time domain. A model-agnostic block interface separates the physical model from pathway construction, numerical propagation, and detection. The released implementation provides an explicit dense Liouville-space backend for reference calculations and a sector-resolved sparse backend using matrix-free generator actions, Krylov time propagation, and generalized minimal residual (GMRES) resolvent solves. Its observable layer reuses propagated pathway responses to evaluate operator expectation values, action-detected readout interactions, instantaneous jump rates, and integrated mean jump counts.
+  The framework is assessed on an analytically solvable open two-level system and on two examples of increasing complexity: the complete third-order rephasing response, with its eight sequences, of a thermally initialized anisotropic Heisenberg (XXZ) spin chain with unequal excitation sectors, and two coupled dissipative anharmonic modes whose spectra depend on the detected observable, with the fifth-order double-quantum response of their closed limit. The calculations reproduce the analytical two-level response, check the matrix-free sparse evaluation against the dense assembly of the generator, and recover the harmonic-limit cancellation of the fifth-order signal when the required three-excitation manifold is retained. QuDPy-FDGF therefore provides a unified framework for pathway- and observable-resolved nonlinear spectroscopy in finite or truncated Hilbert spaces with unitary or Markovian Gorini--Kossakowski--Sudarshan--Lindblad (GKSL) dynamics.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T20:03:40Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Mathieu Desmarais</name>
+    </author>
+    <author>
+      <name>Simón Paiva-Ortega</name>
+    </author>
+    <author>
+      <name>Félix Brunell</name>
+    </author>
+    <author>
+      <name>Eric R. Bittner</name>
+    </author>
+    <author>
+      <name>Hao Li</name>
+    </author>
+    <author>
+      <name>Carlos Silva-Acuña</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30012v1</id>
+    <title>DiffVortex: A quantum-inspired fast solver for incompressible flows</title>
+    <updated>2026-10-21T16:43:52Z</updated>
+    <link href="https://arxiv.org/abs/2610.30012v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30012v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Matrix-product-state (MPS) and quantized tensor-train (QTT) representations offer a promising framework for computational fluid dynamics, with logarithmic run time and memory scaling in mesh size when bond dimensions remain bounded. Existing MPS-based solvers are Eulerian: they compress velocity fields and enforce immersed-body boundary conditions through static masks or body-fitted coordinates. Moving or flexible bodies complicate this approach: deformation requires updating MPS masks every time step, while filamentary vorticity in high-Reynolds-number flows may resist low-rank compression. We propose a complementary approach: compress the Biot--Savart kernel rather than the flow state, evolve vorticity using Lagrangian vortex particles, and represent immersed bodies by bound vortex sheets on Lagrangian surface points. Our main theoretical result is a lifting theorem: QTT rank $r$ of the kernel implies matrix-product-operator (MPO) rank at most $2^d r$ for the corresponding convolution operator in $d$ dimensions, independent of grid resolution. This bound is sharp for our interleaved ordering. With quantics tensor cross interpolation, the moment-to-local stage of a single-level fast multipole method becomes a precomputed tensor-network contraction with quasi-linear complexity, retaining Lagrangian flexibility for immersed bodies. Our PyTorch implementation (\texttt{DiffVortex}) is end-to-end differentiable, runs on GPUs, and handles $6.7\times10^{7}$ particles on a single device. We validate against reference vortex-method results for an impulsively started cylinder and exact and reference solutions for inviscid elliptical vortices. We also demonstrate two-dimensional flows past rigidly moving, multiple, and deforming bodies, including gradients propagated through the full time integration.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T16:43:52Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Yu Jun Loo</name>
+    </author>
+    <author>
+      <name>Silas Alben</name>
+    </author>
+    <author>
+      <name>Shravan Veerapaneni</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29909v2</id>
+    <title>Tractable Inference with Kolmogorov-Arnold Networks</title>
+    <updated>2026-10-22T04:11:37Z</updated>
+    <link href="https://arxiv.org/abs/2610.29909v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29909v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Machine-learning surrogates in computational science often require not only accurate predictions but also expectations, variances, conserved integrals, and normalization constants. Conventional neural networks, including Kolmogorov--Arnold networks (KANs), generally evaluate these quantities through Monte Carlo sampling or multidimensional quadrature, making repeated inference costly, particularly in high dimensions. We introduce KANs with Tractable Operators for Uncertainty and Constraints (TOUCKANs), whose finite-degree polynomial outer functions yield a decomposable sum--product representation. Under factorizing input measures, expectations and higher moments then reduce algebraically to deterministic recursions over one-dimensional leaf integrals. Independent and shared inner-block variants form a parameter-efficiency hierarchy, and a universal-approximation proof for its most restricted member extends to the complete class. The same deterministic operators allow conserved integrals and normalization to be imposed throughout training. Across uniform and Gaussian benchmarks through 50 dimensions, deterministic mean and variance errors remained below the median fixed-budget Monte Carlo errors in every case. TOUCKANs also conserved Cahn--Hilliard mass to machine precision and imposed normalization and orthogonality through deterministic moments, enabling joint computation of the lowest four Schrödinger eigenpairs in two, three, and five dimensions. TOUCKANs therefore connect KAN approximation with tractable probabilistic circuits, making statistical operators and integral constraints directly available within an expressive neural surrogate.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.NA" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:49:10Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Juan Diego Toscano</name>
+    </author>
+    <author>
+      <name>Sascha Ranftl</name>
+    </author>
+    <author>
+      <name>Zhiwei Gao</name>
+    </author>
+    <author>
+      <name>Li-Lian Wang</name>
+    </author>
+    <author>
+      <name>George Em Karniadakis</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30213v1</id>
+    <title>Bridge change-of-measure for propagator estimation of diffusions</title>
+    <updated>2026-10-21T15:20:52Z</updated>
+    <link href="https://arxiv.org/abs/2610.30213v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30213v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The propagator of one-dimensional diffusions has relevant applications in statistical inference and across many disciplines. Yet it is obtained in closed form only for very few simple models. Here we analyze an importance sampling strategy based on a bridge change of measure to estimate propagators: paths are generated under an auxiliary diffusion whose bridge between the two fixed boundary points is easy to generate, and the target propagator is recovered through a Radon-Nikodym derivative or likelihood ratio correction derived from Girsanov's theorem. This method overcomes the main limitations of the crude Monte Carlo estimator, which relies on binning in state space, introducing bias and becoming inefficient with rare transitions. We apply the method to a range of benchmark processes and show that the bridge-based estimator matches the accuracy of crude Monte Carlo with orders of magnitude fewer sample paths. Finally, we elaborate on discretization schemes for the Radon-Nikodym derivative and on approximations to the best-in-class change of measure, both of which increase the efficiency of the method.</summary>
+    <category term="stat.ME" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.PR" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.ST" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.CO" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:20:52Z</published>
+    <arxiv:primary_category term="stat.ME"/>
+    <author>
+      <name>Javier Aguilar</name>
+    </author>
+    <author>
+      <name>Riccardo Gatto</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28845v1</id>
+    <title>Pushing beyond the memory barrier in propagation algorithms with randomization</title>
+    <updated>2026-10-20T19:17:03Z</updated>
+    <link href="https://arxiv.org/abs/2610.28845v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28845v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Performant classical tools for simulating quantum circuits are important for benchmarking and supporting upcoming quantum devices. Pauli propagation offers promising capabilities, but deep circuits usually cause a rapid growth in the number of Pauli strings and can quickly exhaust the available memory. In this work, we introduce a randomized protocol that combines a specialized resampling schedule, merging, and a controlled amount of bias to keep the propagating Pauli sum within any prescribed memory budget. Additional computational resources can then be spent on embarrassingly parallel repetitions that systematically improve the estimate. Building on the open-source library PauliPropagation.jl, we show that 1) increasing memory of each simulation reduces the error systematically more than outside averaging, 2) resampling just enough to apply the next gate delays variance accumulation and gives better error-per-time trade-offs than more aggressive resampling, and 3) a small, controlled bias is crucial in cutting down variance and pushing far beyond unbiased randomization. The resulting framework can reproduce deterministic calculations while requiring several orders of magnitude less memory.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T19:17:03Z</published>
+    <arxiv:comment>47 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Manuel S. Rudolph</name>
+    </author>
+    <author>
+      <name>Ricard Puig</name>
+    </author>
+    <author>
+      <name>Slimane Thabet</name>
+    </author>
+    <author>
+      <name>Zoë Holmes</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28496v1</id>
+    <title>Delayed Convergence of S-Parameter Sensitivities to Design Parameters in FDTD Simulations</title>
+    <updated>2026-10-20T16:40:45Z</updated>
+    <link href="https://arxiv.org/abs/2610.28496v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28496v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In the finite-difference time-domain (FDTD) method, the sensitivities of S-parameters to design parameters come from discrete Fourier transforms of responses ending at a simulation time T. We show that, when a design parameter moves a resonance, the sensitivity converges later than the S-parameter. For a single mode with field decay time $τ$, the truncation error of the sensitivity is $(1+T/τ)e^{-T/τ}$, against $e^{-T/τ}$ for the resonant part of the S-parameter, so a 1% sensitivity error needs $T \geq 6.6τ$ instead of $4.6τ$. Automatic differentiation, the discrete adjoint and finite differences on the same run carry this error, so their agreement cannot reveal it. In three solvers, with no fitted parameter, the estimate predicts the simulated error within 4% at cavity resonances with $Q$ of 1000-7000; at lower $Q$ the error is larger. On a cavity whose slowest mode is weakly coupled, common end criteria leave $|S_{11}|$ within 0.5 dB of a 1.3 dB dip but its sensitivity 10-72% in error. A matrix-pencil extrapolation inside the differentiable computation recovers the sensitivity on a cavity with field probes from a run 66 times shorter. In a single-pole filter loop with a symmetric objective, truncation leaves the maximum of the objective in place, and the optimizer reaches the resonance of a full run despite the wrong gradient. With two coupled poles, the truncated objective moves the optimum: on runs of $1τ$ it over-couples by $Δk \approx 1.24/Q$, and an equal-ripple objective still shifts it by about $0.2\barα$ at $3τ$, but not at $4.6τ$.</summary>
+    <category term="eess.SP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T16:40:45Z</published>
+    <arxiv:comment>10 pages, 7 figures. Submitted to IEEE Transactions on Microwave Theory and Techniques</arxiv:comment>
+    <arxiv:primary_category term="eess.SP"/>
+    <author>
+      <name>Byungkwan Kim</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28494v1</id>
+    <title>Photonic band structure by direct second-kind free-space boundary integral equations</title>
+    <updated>2026-10-20T16:39:55Z</updated>
+    <link href="https://arxiv.org/abs/2610.28494v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28494v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present a direct boundary integral equation (BIE) formulation of the Bloch eigenvalue problem for two-dimensional photonic crystals that uses only the free-space Helmholtz Green function. The unknowns are the Cauchy data of the Bloch mode on the inclusion boundary and on two cell walls. On the inclusion boundary, the transmission conditions are imposed via Müller's formulation. The wall equations, in turn, come from a stack formulation, in which Green's formula is applied on stacks of three cells, so that the wall self-interactions and the interactions between arcs sharing endpoints cancel exactly. The resulting system is of the second kind, Fredholm of index zero, and free of corner singularities, and the walls may be curved to keep the cell boundary away from the inclusions. Its operators are assembled once per frequency and reused for all Bloch vectors. We prove that every Bloch mode yields a nonzero null vector, and that a null vector comes from a Bloch mode exactly when its cell representation vanishes outside the cell, which gives an inexpensive test for spurious null vectors. The band frequencies are computed with a high-order Nyström discretization and the search of Bruno, Santana and Trefethen, which locates them as poles of adaptive Antoulas--Anderson (AAA) rational approximants to a randomly scalarized resolvent sampled on the real frequency axis. Numerical examples validate the method against exact and published band structures and include a challenging triangular lattice of air pores in a dielectric, whose cell requires curved walls.</summary>
+    <category term="math.NA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T16:39:55Z</published>
+    <arxiv:primary_category term="math.NA"/>
+    <author>
+      <name>Carlos Pérez-Arancibia</name>
+    </author>
+    <author>
+      <name>Tao Yin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27906v1</id>
+    <title>DeHNSSo-v2: A compressible, curvilinear, and efficient extension of the Delft Harmonic Navier-Stokes Solver</title>
+    <updated>2026-10-20T09:21:28Z</updated>
+    <link href="https://arxiv.org/abs/2610.27906v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27906v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present DeHNSSo-v2, a major update of DeHNSSo-v1 (Westerbeek et al., Comput. Phys. Commun. 302, 2024), the open-source Delft Harmonic Navier-Stokes Solver for nonlinear stability analysis of shear flows. The new release adds a compressible formulation on general two-dimensional body-fitted geometries, automatic grid generation, linear-cost sparse assembly, reusable per-mode factorizations, and Newton pseudo-arclength continuation for high-amplitude nonlinear solutions. The curvilinear formulation preserves the fourth-order accuracy of the discretization on strongly distorted grids, and the compressible solver is confirmed to reproduce DeHNSSo-v1 in the incompressible limit. Validation spans published benchmarks for linear instability of compressible flat-plate boundary layers from $\mathrm{Ma}=0.5$ to $\mathrm{Ma}=4.5$, nonlinear oblique-mode breakdown at $\mathrm{Ma}=1.6$, nonlinear swept-wing crossflow compared with direct numerical simulations, and linear Tollmien-Schlichting wave interaction with a modeled surface-embedded Helmholtz resonator compared with experimentally validated linearized Navier-Stokes simulations. On the nonlinear test cases of DeHNSSo-v1, the computational developments result in a speed-up of approximately one order of magnitude. By broadening the scope and reducing the cost of DeHNSSo-v1, DeHNSSo-v2 provides the boundary-layer-transition and flow-control community with an accessible tool for studying receptivity, nonlinear disturbance evolution, and instability interactions with complex surface geometry and metamaterials across compressibility regimes.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T09:21:28Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Pietro Carlo Boldini</name>
+    </author>
+    <author>
+      <name>Yifu Chen</name>
+    </author>
+    <author>
+      <name>Marios Kotsonis</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27880v1</id>
+    <title>Proper generalized decomposition with synthetic preconditioning for multiscale parametric phonon transport</title>
+    <updated>2026-10-20T09:02:04Z</updated>
+    <link href="https://arxiv.org/abs/2610.27880v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27880v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Deterministic solution of the phonon Boltzmann transport equation is costly for two reasons: the distribution depends on high-dimensional phase space, and source iteration converges slowly when scattering is frequent. We address both for the steady linearized gray Callaway model in two dimensions by combining proper generalized decomposition (PGD) with the general synthetic iterative scheme (GSIS). The distribution is a sum of products of a space--azimuth factor and a polar factor. This splitting is intrinsically low-rank: along each characteristic the polar angle only stretches the in-plane optical depth, so the rank is bounded, uniformly in the Knudsen numbers, by the numerical rank of the kernel $\exp(-τ/\sinφ)$. PGD--GSIS updates the factors against a macroscopic source frozen within each alternating step and refreshed by the GSIS moment equations. A Fourier analysis shows that pure PGD, although implicit in the polar factor, moves macroscopic information only through lagged spatial sweeps and stalls like source iteration, whereas the synthetic refresh sees only third-order moments of the representation error. On an isothermal cavity, cross-plane conduction and phonon Poiseuille flow, PGD--GSIS reproduces full-order solutions at ranks 3--14, with heat-flux errors below $6\times10^{-3}$ from the diffusive to the ballistic regime and memory independent of the polar resolution. Treating the inverse Knudsen numbers as coordinates of the polar factor yields one spatial basis over four decades of both; a joint update of all polar factors, which costs only small nodal linear systems, is required for accuracy at large Knudsen numbers.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T09:02:04Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Jia Liu</name>
+    </author>
+    <author>
+      <name>Wei Su</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27761v1</id>
+    <title>Good-$Γ$ Numbers: A Shell-Optimized Route to the Thermodynamic Limit in Quantum Monte Carlo Calculations of the High-Density Two-Dimensional Electron Gas</title>
+    <updated>2026-10-20T07:24:50Z</updated>
+    <link href="https://arxiv.org/abs/2610.27761v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27761v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Single-particle finite-size errors remain a central obstacle in quantum Monte Carlo (QMC) simulations of periodic systems, conventionally reduced via twist averaging (TA). Here we introduce Good-$Γ$ (GG) particle numbers as system sizes $N$ at which the $Γ$-point Hartree--Fock (HF) energy of the high-density two-dimensional uniform electron gas (2D UEG) lies anomalously close to its thermodynamic-limit (TL) value. All results in this work concern the 2D UEG in its high-density Fermi-liquid regime, $r_s=1$--$4$. We systematically investigate the kinetic- and exchange-energy errors, $ΔKE(N)$ and $ΔEX(N)$, that underlie this one-body finite-size-error cancellation across four densities and both spin polarizations. We then compare diffusion Monte Carlo (DMC) energies extrapolated to the TL from GG-$N$ sequences against twist-averaged extrapolations at the same densities and polarizations, finding agreement to within a fraction of a millihartree in every case, independent of whether a $1/N$ or an $N^{-5/4}$ extrapolation form is used.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T07:24:50Z</published>
+    <arxiv:comment>https://journals.aps.org/apsos/accepted/10.1103/2l4w-tl87</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>S. Azadi</name>
+    </author>
+    <author>
+      <name>T. D. Kühne</name>
+    </author>
+    <author>
+      <name>A. Principi</name>
+    </author>
+    <author>
+      <name>M. S. Bahramy</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27718v1</id>
+    <title>Non-uniform grids to accelerate electron-phonon coupling calculations for superconductivity</title>
+    <updated>2026-10-20T06:38:04Z</updated>
+    <link href="https://arxiv.org/abs/2610.27718v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27718v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Efficient and accurate evaluation of electron-phonon interactions is essential for predictive superconductivity calculations, but dense Brillouin zone sampling requirements pose a major computational bottleneck. To overcome this, we introduce an accelerated, highly scalable framework that combines a double delta truncation scheme with non-uniform Farey grids in both $\mathbf{k}$ and $\mathbf{q}$ space. The truncation strategy significantly reduces computational cost by restricting integration to states satisfying energy constraints near the Fermi level, while the Farey grids dynamically resolve sampling errors from localized scattering and stabilize convergence. Applied to elemental aluminium and several high-pressure hydrides, this combined methodology reduces computational cost by up to two orders of magnitude and yields electron-phonon coupling constants and superconducting critical temperatures Tc typically within about 5% of full-grid benchmarks. This approach overcomes sampling bottlenecks associated with dense uniform grids, making accurate, low-cost predictions of superconductivity in complex quantum materials feasible.</summary>
+    <category term="cond-mat.supr-con" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T06:38:04Z</published>
+    <arxiv:primary_category term="cond-mat.supr-con"/>
+    <author>
+      <name>Kang Wang</name>
+    </author>
+    <author>
+      <name>Siyu Chen</name>
+    </author>
+    <author>
+      <name>Sun-Woo Kim</name>
+    </author>
+    <author>
+      <name>Kieran Bozier</name>
+    </author>
+    <author>
+      <name>Chris Pickard</name>
+    </author>
+    <author>
+      <name>Bartomeu Monserrat</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27411v1</id>
+    <title>Fully Automated Wannier Disentanglement via Projectability Selection in Gaussian and Augmented Plane-Wave Frameworks</title>
+    <updated>2026-10-20T00:06:55Z</updated>
+    <link href="https://arxiv.org/abs/2610.27411v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27411v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Constructing the frozen manifold for entangled bands requires balancing exact reproduction of the target bands with sufficient variational freedom to build a well-localized subspace from the broader Bloch pool. We present a workflow that systematically determines the energy ceiling for a target number of selected Wannier projections, freezing every Bloch state below this threshold across the sampled k-mesh. By measuring projectability, the spectral weight of each Bloch state projected onto the target localized basis, the workflow detects missing conduction channels and quantifies discrepancies between orbital character and energy-based freezing. In comparisons where we controlled the extent of the energy ceiling, freezing all sub-ceiling states is generally favored over projectability-based frozen states. Of the seven materials we tested, freezing all sub-ceiling states lowers the band error on four from between 11 meV and 1.2 eV to 18 meV or less, and matches the projectability-based choice to within about 2 meV on the remaining three. In each of the four, projectability-based frozen states give the lower spread, showing that spread alone cannot identify the better model. With the frozen states held fixed, the workflow minimizes the gauge-invariant spread, constructs the gauge from density-matrix columns on atomic orbitals, and passes an isolated set of bands to Wannier90 for localization. The workflow is implemented in two programs for seamless high-throughput Wannierization with WIEN2k (wien2wannier) and CRYSTAL (LCAO2Wannier). Using a single set of calibrated defaults, the CRYSTAL implementation with analytic overlaps produces models that reproduce the reference bands of five cells, from bulk h-BN in a joint valence-and-conduction model to a magnetic framework with 1424 orbitals. The WIEN2k implementation produces eight such models from seven calculations.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T00:06:55Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>William P. Comaskey</name>
+    </author>
+    <author>
+      <name>Jose L. Mendoza-Cortes</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27369v1</id>
+    <title>Generation of non-Maxwell-Boltzmann energy distributions during thermalization of interacting baths</title>
+    <updated>2026-10-19T22:47:56Z</updated>
+    <link href="https://arxiv.org/abs/2610.27369v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27369v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We report on numerical experiments of thermalization between two reservoirs in which interspecies interactions are mediated via a Hamiltonian with a Gaussian dependence upon the distance between the particles. By using relatively high statistics, we are able to study deviations from the initially imprinted Maxwell-Boltzmann energy distributions as a function of the range and strength of the interaction, as well as the parameters of the two baths such as masses, trapping frequencies, that strongly affect the spatial overlap of the two species. At large interaction strengths and for any range, deviations are attributable to the sudden conversion of latent interaction energy into kinetic energy of the particles. In addition, long range interactions generate deviations even for interaction strengths in the weak regime, and non-uniform confinement introduces a further source of deviation from the Maxwell-Boltzmann energy distribution. This latter results in transient two temperature Maxwell-Boltzmann distributions suggestive of an inverse cascading route from inter-particle dynamics to thermalization. In the weakly-interacting regime, a simple expression for the equilibrium temperature is also obtained and discussed. These findings may be of relevance in the dynamics of exothermic chemical reactions, in the physics of ultracold atomic mixtures, and in self-sustained burning plasmas.</summary>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T22:47:56Z</published>
+    <arxiv:primary_category term="physics.plasm-ph"/>
+    <arxiv:journal_ref>Physical Review E 111, 064127 (2025)</arxiv:journal_ref>
+    <author>
+      <name>Roberto Onofrio</name>
+    </author>
+    <author>
+      <name>Bala Sundaram</name>
+    </author>
+    <arxiv:doi>10.1103/f6fm-wd95</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1103/f6fm-wd95" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27368v1</id>
+    <title>Dynamics of thermalization in classical three-dimensional many-body systems: Non-Maxwellian distributions and the role of anisotropic trapping</title>
+    <updated>2026-10-19T22:47:26Z</updated>
+    <link href="https://arxiv.org/abs/2610.27368v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27368v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The physics of interacting baths is of interest in a variety of contexts, ranging from ultracold atoms to ionized gases. While many features can already be captured in a one-dimensional model, others are specific to the situation of two or three-dimensional systems. In this paper, we focus on three-dimensional features of a model for thermalization between two baths that we have explored in earlier publications. In contrast to the one-dimensional situation we show that, en route to thermalization, deviations from the Maxwell-Boltzmann energy distributions more akin to $κ$-distributions are observed. In three dimensions, these can be seen in changes at the peak of the distribution, which is precluded by the expected monotonic behavior of the energy distributions in one dimension. Furthermore, we consider thermalization for anisotropic trapping and explore its role in the onset of anomalous scaling with respect to the particle number. These results may be pertinent to the understanding of the interplay between turbulent behavior and nonlinearities for a variety of many-body classical systems.</summary>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T22:47:26Z</published>
+    <arxiv:primary_category term="physics.plasm-ph"/>
+    <arxiv:journal_ref>Physical Review E 112, 044148 (2025)</arxiv:journal_ref>
+    <author>
+      <name>Roberto Onofrio</name>
+    </author>
+    <author>
+      <name>Bala Sundaram</name>
+    </author>
+    <arxiv:doi>10.1103/g7hm-4k1j</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1103/g7hm-4k1j" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27317v1</id>
+    <title>Machine-learned spectral PDE solvers for fluids and plasmas</title>
+    <updated>2026-10-19T21:37:54Z</updated>
+    <link href="https://arxiv.org/abs/2610.27317v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27317v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Sparse regression methods for discovering governing partial differential equations (PDEs) from data are sensitive to observation noise and are not constrained to reproduce the data under forward integration. We address both limitations by performing weak-form discovery in the spatial discretization in which the PDE is solved, learned by differentiating through multistep rollouts anchored at the observed states. The new method, Weak-form Anchored Rollout for PDEs (WARP), produces a machine-learned PDE solver. In this work, we focus on systems amenable to a spectral Galerkin solver. Across eight benchmark fluid and plasma systems, including high-dimensional turbulent simulations, WARP produces numerically stable rollouts from new random initial conditions and substantially improves coefficient recovery, rollout accuracy, and statistical measures compared with a single-step weak-form SINDy baseline.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T21:37:54Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Mellow Baixuan Chen</name>
+    </author>
+    <author>
+      <name>Alan A. Kaptanoglu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26701v1</id>
+    <title>Challenging Atomistic Foundation Models on Disordered Carbons</title>
+    <updated>2026-10-19T16:37:53Z</updated>
+    <link href="https://arxiv.org/abs/2610.26701v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26701v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Foundation machine-learned interatomic potentials (MLIPs) promise broad transferability, yet their out-of-domain reliability is hard to establish. Here, we use pure and O/H-containing disordered carbon spanning multiple phases, competing hybridisations and porous frameworks to stress-test six popular foundation MLIPs. We first screen all six on density functional theory (DFT) energy and force errors and binding curves, then subject four to melt-quench-anneal molecular dynamics and evaluate the resulting structural observables. Binding curves and O/H-containing trajectories reveal unphysical extrapolation and dynamical failures that low DFT energy and force errors fail to reveal. Of the models tested, MACE-MH-1 is the most consistently robust, with low DFT errors and stable MD. Despite differing architectures, OMAT-based models share structural biases, highlighting the importance of training coverage. All four models generate structures of nanoporous carbon that reproduce the principal experimental and specialised carbon potential signatures. Incorporating O/H leaves short-range order largely unchanged but shifts pore-size distributions towards larger pores. These results emphasise the need for application-specific validation and extend molecular dynamics modelling of nanoporous carbon towards experimentally realistic structures.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T16:37:53Z</published>
+    <arxiv:comment>40th Conference on Neural Information Processing Systems (NeurIPS 2026). Workshop: Sim2Science: ML with Imperfect Scientific Models</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Joseph Hart</name>
+    </author>
+    <author>
+      <name>Samuel G. H. Brookes</name>
+    </author>
+    <author>
+      <name>Fabian L. Thiemann</name>
+    </author>
+    <author>
+      <name>Christoph Schran</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26694v2</id>
+    <title>CuAD: Source-to-Source Automatic Differentiation of CUDA Kernels for Discrete Adjoints in Computational Fluid Dynamics</title>
+    <updated>2026-10-20T03:05:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.26694v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26694v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Discrete adjoint methods give the sensitivities that aerodynamic design and data assimilation require, but they remain hard to obtain for flow solvers that run on graphics processors. This paper presents CuAD, a source-to-source automatic differentiation tool that reads CUDA kernels and writes their tangent and adjoint versions as ordinary CUDA source. Its reverse mode is organised around the GPU thread. It adopts the convention of CUDA kernels that inputs and outputs do not alias, recomputes intermediate values instead of storing them, differentiates pure accumulations without a tape and keeps any remaining tape in a fixed thread-local array. We evaluate CuAD on four kernels from simple flow models and on a two-dimensional Euler solver. All generated derivatives pass dot-product tests to round-off, and the adjoint kernels cost two to six times the primal kernels. On a Biot-Savart summation compiled by one compiler, the CuAD adjoint costs about four times the primal at every size, as does Enzyme when the source declares the absence of aliasing with __restrict__. On the unchanged source Enzyme caches the loop in the device heap and costs 9 to 240 times the primal, while the heap tape of Clad costs 60 to 4400 times the primal and fails beyond 8192 vortices. Exact Jacobians assembled from the generated tangents also matter for accuracy. In single precision, the adjoint gradient of a finite-difference Jacobian reaches errors of 45 to 75 per cent on a stiff Burgers problem and of $5\times10^{-4}$ to $4\times10^{-2}$ on a transonic airfoil, whereas the generated Jacobian keeps them below $5\times10^{-5}$ and $3\times10^{-6}$. The applications include the shape sensitivities of lift and drag of a transonic NACA 0012, for which the residual, the boundary conditions and the wall force are differentiated by CuAD and the adjoint agrees with the tangent to $10^{-13}$.</summary>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T16:35:05Z</published>
+    <arxiv:comment>v2: comparison with Enzyme and repeated timings, ablation of the accumulation analysis, 2-D Euler airfoil with adjoint shape sensitivities, single-precision study on a non-polynomial residual, CuAD v0.2.1. 25 pages, 10 figures, 10 tables. Code: https://github.com/SEUNGHYUN-JOO/CuAD</arxiv:comment>
+    <arxiv:primary_category term="physics.flu-dyn"/>
+    <author>
+      <name>Seunghyun Joo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26591v1</id>
+    <title>Coupling Evaporation, Chemical Reactions, and Crystallization: A Population-Balance Framework Applied to Two-Step Perovskite Crystallization</title>
+    <updated>2026-10-19T15:37:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.26591v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26591v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A limited understanding of how evaporation couples to crystallization pathways hampers control over the formation of solution-processed perovskite photoactive layers. Identifying these mechanisms-and learning how to select and tune them-is essential for achieving the desired crystal morphology and, ultimately, improving solar-cell performance and stability. To investigate crystallization pathways in evaporating thin films, we develop a simple and general zero-dimensional population-balance model that couples evaporation, chemical reactions, and crystallization. We use the model to explore a range of parameters for a solvent-solute system that follows a two-step crystallization pathway: solvent evaporation first induces formation of a crystalline precursor, which subsequently recrystallizes into the final phase. The model predicts the evolution of the film composition during drying and provides quantitative LaMer curves. Based on these results, we introduce a vocabulary of "supply limitations" and "rate limitations" that enables the interpretation of crystallization kinetics in terms of the governing process conditions.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T15:37:42Z</published>
+    <arxiv:comment>16 pages, 11 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>K. Segadlo</name>
+    </author>
+    <author>
+      <name>O. J. J. Ronsin</name>
+    </author>
+    <author>
+      <name>J. Harting</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26495v1</id>
+    <title>A mixed leading variable physics-informed neural network for nonsmooth dynamics simulation in contact systems</title>
+    <updated>2026-10-19T14:34:50Z</updated>
+    <link href="https://arxiv.org/abs/2610.26495v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26495v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>High-accuracy computation of nonsmooth dynamics is a challenging problem in systems with multiple frictional contacts. This study proposes a general physics-informed neural network framework, termed the mixed leading variable physics-informed neural network (MLV-PINN). By using the governing equations and contact-friction laws as physical constraints, this framework provides common solution approaches for computing nonsmooth dynamics not only in discrete systems but also in continuum systems. Specifically, the network represents accelerations, normal contact forces and friction margins as independent outputs and determines them simultaneously, without first reducing the dynamics to discrete velocity-impulse complementary subproblems. A composite physics-informed loss is constructed from the equations of motion in their original form, contact-friction complementary conditions and a friction-margin consistency relation. To improve stick-slip state identification during PINN optimisation, a mixed leading variable combining relative tangential velocity and acceleration is introduced to reformulate the tangential complementary conditions. Four benchmark simulations cover one-dimensional (1-D) nonsmooth dynamics involving single-contact stick-slip, 1-D nonsmooth dynamics involving multi-contact stick-slip, two-dimensional (2-D) nonsmooth dynamics with coupled normal contact-separation and tangential stick-slip, and 2-D nonsmooth dynamics in a continuum system involving moving contact on an elastic beam. Benchmark comparisons show substantial reductions in displacement and velocity errors relative to the corresponding conventional methods at large time steps. These results, together with an ablation study and tests involving friction-velocity slopes, long-time integration and loss weights, illustrate the computational accuracy and support the broad applicability of the proposed framework.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:34:50Z</published>
+    <arxiv:comment>41 pages, 17 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Xinyuan Li</name>
+    </author>
+    <author>
+      <name>Zilin Li</name>
+    </author>
+    <author>
+      <name>Hongtao Wei</name>
+    </author>
+    <author>
+      <name>Ronghan Wei</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26458v1</id>
+    <title>Residual-Based Adaptive Refinement in Hybrid Variational-Collocation PINNs for Singular Elliptic PDEs with Mixed Dirichlet-Neumann Boundary Conditions</title>
+    <updated>2026-10-19T14:11:14Z</updated>
+    <link href="https://arxiv.org/abs/2610.26458v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26458v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Solutions of second-order elliptic PDE problems on nonconvex or cracked domains with mixed Dirichlet-Neumann conditions typically lie outside $H^2(Ω)$. Near re-entrant corners, crack tips and points where the boundary condition changes type, the gradient grows like $r^{λ-1}$ with $λ&lt;1$. We study residual-based adaptive refinement in hybrid variational-collocation PINNs. A multiscale Fourier-feature network is trained on a composite loss. The loss combines a variational residual tested against Legendre bubble functions, a strong-form collocation term and penalties for the Dirichlet and Neumann data. The variational term needs only first derivatives of the network, whereas the collocation term requires second derivatives and provides a residual that can be evaluated at any point. After each training stage, candidate points selected by this residual are added to the collocation set. The method is tested on five two dimensional benchmarks, namely a Mode~III crack, a cross-shaped domain with four re-entrant corners with unequal amplitude, a reaction-diffusion problem with four localized peaks, a monotone semilinear problem with a boundary layer and the Motz problem. Compared with uniform point insertion under the same collocation and iteration budget, residual-based refinement reduced the relative $L^2$ error by up to a factor of $32$, the relative $L^\infty$ error by up to a factor of $38$ and the relative $H^1$ semi-norm error by up to a factor of $15$.</summary>
+    <category term="math.NA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:11:14Z</published>
+    <arxiv:comment>27 pages, 50 figures</arxiv:comment>
+    <arxiv:primary_category term="math.NA"/>
+    <author>
+      <name>Somnath Giri</name>
+    </author>
+    <author>
+      <name>Muslim Malik</name>
+    </author>
+    <author>
+      <name>Rishikesh Yadav</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26033v1</id>
+    <title>Decoherence of the pair entangled states at thermalization and interparticle interaction. Heisenberg--Wigner path integral Monte Carlo simulations</title>
+    <updated>2026-10-19T08:54:15Z</updated>
+    <link href="https://arxiv.org/abs/2610.26033v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26033v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>For deeper understanding of quantum non-local correlations a new path integral real-time quantum dynamics approach has been developed and applied to the Monte Carlo simulation of the decoherence of pair entangled states in many-body systems in the framework of the ``replica trick''. Calculations have been carried out for the Heisenberg-Wigner path integral representation of the entangled state correlation function (ESCF) in the modified unified electron gas model as example. The Wiener-Khinchin transformation of ESCF has been applied to random paths in path integral allowing for the Monte Carlo simulation of ESCF. Presented results include the spin-resolved radial distribution functions, ESCFs and estimations of the decoherence time of the entangled electron pairs due to thermalization and interparticle interaction.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T08:54:15Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>V. S. Filinov</name>
+    </author>
+    <author>
+      <name>P. R. Levashov</name>
+    </author>
+    <author>
+      <name>A. S. Larkin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26984v1</id>
+    <title>Load-Balanced Neural-Network-Aided Adaptive Tabulation of Phase Equilibria for Transcritical Multiphase Flows</title>
+    <updated>2026-10-19T03:17:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.26984v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26984v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Simulating high-pressure transcritical flows with phase change is critical for advanced propulsion, yet traditional first-principles approaches, vapor-liquid equilibrium (VLE) calculations, consume most of the runtime and frequently fail to converge. Standalone machine learning models introduce heavy evaluation overhead across large grids, while dynamic tabulation still relies on fragile iterative solvers. To resolve these limitations, this study introduces a hybrid In-Situ Adaptive Tabulation and Artificial Neural Network (ISAT-ANN) framework. A pre-trained ANN replaces the iterative solver during table expansion to guarantee crash-free operation, while ISAT enables rapid data retrieval via local linear interpolation. To eliminate parallel load imbalances, an O(N) greedy load-balancing algorithm redistributes computational tasks across cores. Coupled with Adaptive Mesh Refinement (AMR), the framework was validated on a Mach 5 shock-droplet interaction benchmark. It accurately captured shock-interface dynamics without instability, achieving a 2.30 times speedup in thermodynamic calculations on a single core and 2.62 times in parallel over standalone ANNs, with AMR providing an additional 2.92 times overall efficiency boost. This plug-and-play framework offers a stable, scalable path for high-fidelity multiphase flow simulations.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T03:17:42Z</published>
+    <arxiv:comment>43 pages, 18 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Navneeth Srinivasan</name>
+    </author>
+    <author>
+      <name>Po-Yu Lai</name>
+    </author>
+    <author>
+      <name>Suo Yang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25565v1</id>
+    <title>Concurrent two-scale topology optimization of printable bone scaffolds via rectified-flow generation and exact latent-space refinement</title>
+    <updated>2026-10-18T22:00:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.25565v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25565v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Bone scaffolds must reconcile a macroscale mechanical response with microscale geometric feasibility, yet conventional approaches to their design restrict attainable constitutive properties. This work presents a concurrent two-scale topology optimization framework; a conditional rectified flow generates periodic lattice microstructures, which are then refined in latent space by exact finite-element homogenization sensitivities. The resulting unit-cell geometries and their spatial assignments are jointly optimized under mechanical and feature-size constraints. In a distal rabbit femur benchmark, all eight flow-started refinements produce printable cells with maximum relative errors under 1\% across six prescribed engineering moduli. Constructing the implant from a single tiled cell reproduces intact whole-femur compliance within 0.1\% and regional strain energy within 0.35\% under four loading conditions. In human femoral reconstruction, multiscale concurrent optimization produces a cortical mid-shaft scaffold with porosity 63\% while satisfying the compliance constraint within 2\% under walking and stair-climbing loads. It achieves an 84\% porosity on a proximal cancellous scaffold with strain-energy deviations below 0.25\% under the same loads. Analysis of the learned representations reveals distinct architectural families in latent space. Further, the attention heads of the rectified-flow transformer specialize for spatial shifts -- learning the analogue of a finite-difference stencil -- and coordinate symmetries, with ablations showing their influence on generated topologies. These results establish a route to printable, mechanically constrained scaffold designs. The framework is general enough for extending to many other multiscale structural design applications including topology-microstructure co-design in metal additive manufacturing.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T22:00:02Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Reza T Batley</name>
+    </author>
+    <author>
+      <name>Sourav Saha</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25477v1</id>
+    <title>NEP-kappa 2.0: A unified framework for phonon transport and nonequilibrium thermalization with machine-learning interatomic potentials</title>
+    <updated>2026-10-18T19:04:08Z</updated>
+    <link href="https://arxiv.org/abs/2610.25477v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25477v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present NEP-kappa 2.0, a unified framework that integrates density-functional theory, material-specific machine-learning interatomic potentials, and pretrained force models for advanced phonon calculations. A common workflow enables harmonic lattice dynamics, quasi-harmonic and stochastic self-consistent phonon treatments, three- and four-phonon transport, Wigner population--coherence transport, and time-dependent phonon dynamics. Applications to 3C-SiC, BAs, and Cs$_2$AgInCl$_6$ demonstrate consistent force-model comparisons, finite-temperature renormalization, higher-order scattering, and intermode coherence. Beyond steady-state transport, mode-resolved simulations of selectively excited 3C-SiC reveal that half of the injected optical-phonon energy reaches acoustic modes within approximately 3.75 ps, primarily through one-optical--two-acoustic scattering. Acoustic branches exhibit response times differing by a factor of five, with competing scattering channels producing a transient energy overshoot. Channel-resolved entropy production and persistent nonthermal occupations distinguish interbranch energy redistribution from intrabranch thermalization. The framework connects equilibrium phonon transport with microscopic nonequilibrium energy dynamics.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T19:04:08Z</published>
+    <arxiv:comment>23 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Shixian Liu</name>
+    </author>
+    <author>
+      <name>Bin Liu</name>
+    </author>
+    <author>
+      <name>Fei Yin</name>
+    </author>
+    <author>
+      <name>Gang Wang</name>
+    </author>
+    <author>
+      <name>Yiming Dong</name>
+    </author>
+    <author>
+      <name>Yangjun Qin</name>
+    </author>
+    <author>
+      <name>Alexandra V. Kosyakova</name>
+    </author>
+    <author>
+      <name>Qiang Xian</name>
+    </author>
+    <author>
+      <name>Alexander A. Barinov</name>
+    </author>
+    <author>
+      <name>Ke Xu</name>
+    </author>
+    <author>
+      <name>Gang Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25409v1</id>
+    <title>A Unified Interface Neural Network for Elliptic Interface Problems</title>
+    <updated>2026-10-18T17:08:41Z</updated>
+    <link href="https://arxiv.org/abs/2610.25409v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25409v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We develop a Unified Interface Neural Network (UINN) framework for elliptic interface problems with discontinuous coefficients. A single shared network provides a unified representation of the solution in both subdomains, while a projection--correction construction embeds the solution and flux jump conditions directly into the neural trial space. This design aligns with the classical numerical principle of incorporating interfacial physics into the approximation basis to construct interface-unfitted numerical methods. The jump conditions are therefore satisfied exactly for any network parameters. Compared with methods based on separate phase networks and numerical formulations with interface penalty terms, UINN provides a unified representation with exact enforcement of interfacial jump conditions and interface-penalty-free optimization. Those features streamline the numerical formulations and can enhance training robustness. Numerical experiments on smooth interfaces at modestly large and high coefficient contrasts demonstrate UINN's solution accuracy, near-machine-precision satisfaction of the interface jump conditions, and enhanced robustness.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T17:08:41Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Qiao Zhuang</name>
+    </author>
+    <author>
+      <name>Xu Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26963v1</id>
+    <title>FoundPDE: A generative foundation model for data-driven symbolic discovery of partial differential equations</title>
+    <updated>2026-10-18T15:40:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.26963v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26963v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Discovering governing partial differential equations (PDEs) from observed data is a central inverse problem in computational science and engineering: the goal is not only to predict trajectories, but to identify interpretable symbolic laws that can be analyzed and reused. Existing PDE discovery methods often depend on hand-designed libraries, accurate numerical derivatives, or per-equation symbolic search, making them fragile under sparse observations, noisy data, broad equation families, and unseen symbolic compositions. Here, we introduce FoundPDE, a pretrained data-to-symbol foundation model for PDE discovery. FoundPDE maps discretized spatio-temporal trajectories to symbolic equations with a transformer, uses Fourier and first-order spatial-derivative augmentation to expose complementary trajectory information, refines numerical coefficients, and supports downstream extension with improved generalization through few-shot fine-tuning and hierarchical discovery. On a clean in-domain benchmark spanning 20 PDE families, our model reaches 97.50% type recognition. Under coefficient shifts beyond the training support, type recognition remains 90.53%; under multiplicative Gaussian noise on the model input, it is 94.43% at a 2% noise level but falls to 52.09% at 10%. For unseen composite equations, few-shot fine-tuning reaches over 90% exact recovery on four held-out families, and we further develop a hierarchical discovery algorithm that recovers two-term composites without fine-tuning FoundPDE. By amortizing symbolic discovery across equation families, FoundPDE shifts PDE discovery from per-dataset search toward a reusable pretrained model that extends to new physics with limited additional data, a step toward foundation models that uncover interpretable governing laws directly from scientific data.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T15:40:42Z</published>
+    <arxiv:comment>42 pages, 13 figures, 12 tables</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Langchen Liu</name>
+    </author>
+    <author>
+      <name>Junlin Luo</name>
+    </author>
+    <author>
+      <name>Min Zhu</name>
+    </author>
+    <author>
+      <name>Zhuoran Yang</name>
+    </author>
+    <author>
+      <name>Lu Lu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25174v1</id>
+    <title>Multigroup Implicit Monte Carlo Radiation Hydrodynamics on Moving Voronoi Meshes with STORM and RICH</title>
+    <updated>2026-10-18T10:56:47Z</updated>
+    <link href="https://arxiv.org/abs/2610.25174v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25174v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present and validate an Implicit Monte Carlo (IMC) radiation-transport solver in the open-source, mesh-agnostic storm library, coupled to the moving-mesh hydrodynamics code rich in three-dimensional Voronoi tessellations. The solver is multigroup, or continuous in frequency, throughout; it transforms photon packets exactly between the comoving and laboratory frames, books every exchange with the material as a laboratory four-momentum so that the IMC path conserves energy to roundoff, formulates the Fleck factor in the fluid's proper time, and accelerates optically thick cells with multigroup Discrete Diffusion Monte Carlo (DDMC) behind an emissivity-preserving interface. We tested the solver on a broad suite of benchmark problems, and it performed well on all of them. The solver is built on the MPI-parallel Monte Carlo framework of storm, which scales to 13,440 cores.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T10:56:47Z</published>
+    <arxiv:comment>See STORM's paper at https://arxiv.org/abs/2607.20639. This paper has been submitted to ApJS in October 2026. Comments are welcome and appreciated: maormiz@cs.huji.ac.il</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Maor Mizrachi</name>
+    </author>
+    <author>
+      <name>Barak Raveh</name>
+    </author>
+    <author>
+      <name>Elad Steinberg</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25105v1</id>
+    <title>Generative marginal learning for finite-size molecular simulation with application to stress calculation</title>
+    <updated>2026-10-18T08:31:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.25105v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25105v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We propose generative marginal learning (GML), a framework for equilibrium sampling and local observable estimation in molecular simulations. By training a conditional diffusion model on large-system simulations, GML learns the marginal distribution of a retained region, enabling configuration generation without explicitly simulating the surrounding environment or imposing periodic boundary conditions on the retained region. We derive a marginal effective potential and the associated conditional mean-force identity, which provide the basis for both denoising and force-alignment training. As an application, we estimate the spatially averaged Irving--Kirkwood stress near a vacancy defect. Numerical results demonstrate that GML substantially improves pair structure and local stress accuracy compared with small periodic molecular dynamics simulations, mitigating finite-size effects in calculating local molecular observables.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T08:31:19Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Cheng Yuan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24932v1</id>
+    <title>Second-Order Correction for Statistical Bias in Monte Carlo Depletion Calculations</title>
+    <updated>2026-10-18T01:02:45Z</updated>
+    <link href="https://arxiv.org/abs/2610.24932v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24932v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Depletion analyses are often driven by Monte Carlo neutron transport methods that introduce uncertainty into the transmutation matrix used to evolve a material composition. The nonlinearity of the matrix exponential applied to this transmutation matrix causes the uncertainty to introduce a systematic bias in the computed isotope vectors. This work derives a second-order correction for this bias that can be computed with quantities obtainable from typical Monte Carlo transport routines. An augmented Bateman system is formulated to evaluate these quantities and an adapted Chebyshev rational approximation method uses transmutation matrix factorizations for efficient evaluation of the second-order correction. Then, the correction is demonstrated using a ten-nuclide verification problem, an ITER port-plug activation problem, and a 9-pin boiling water reactor lattice containing self-shielded gadolinium-bearing fuel.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T01:02:45Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Esthem Bouvet</name>
+    </author>
+    <author>
+      <name>Benoit Forget</name>
+    </author>
+    <author>
+      <name>Dean Price</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26931v1</id>
+    <title>Matrix-Free Resolvent Analysis for Large-Scale Aerodynamic Systems</title>
+    <updated>2026-10-17T16:11:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.26931v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26931v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>At industrial scale the cost of resolvent analysis is set by the linear solves and the assembly and storage of the Jacobian. We present a matrix-free resolvent framework in the Reynolds-averaged Navier-Stokes solver ADflow: automatic differentiation supplies the action of the shifted Jacobian and its Hermitian transpose, preconditioned Krylov solves recycle subspaces across a Lanczos bidiagonalization, and every gain is certified by a backward error. It is applied to the NASA Common Research Model wing at Mach 0.85 and 4.2 degrees on three grid levels of 0.45, 3.6 and 28.8 million cells, the finest with 1.73x10^8 complex unknowns, 2.3 times the largest reported resolvent computation. On the coarsest level an unstable buffet mode makes the gain peak a resonance; on the finer two the operator is stable and the peak, 1.33x10^4 at omega = 6.4 and 3.0x10^3 near omega = 7.7, is a pseudo-resonance of damped modes whose buffet cells travel outboard at about 0.3 times the free-stream speed. Refinement turns an oscillator into an amplifier of the same mechanism, as forced simulations confirm. A certified frequency costs 3.6 minutes on 128 cores at 2.7 million unknowns, with 14 to 34 kB per unknown, nearly four orders of magnitude below a sparse factorization.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T16:11:33Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Rohit Sunil Kanchi</name>
+    </author>
+    <author>
+      <name>Sicheng He</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24616v1</id>
+    <title>SIESTA-QCOMP: Bridging Classical and Quantum Computing for Strongly Correlated Systems</title>
+    <updated>2026-10-17T10:44:04Z</updated>
+    <link href="https://arxiv.org/abs/2610.24616v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24616v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Density Functional Theory (DFT) is the established workhorse of computational materials science, yet it faces fundamental challenges with strongly correlated electrons, such as in transition metal complexes and bond-breaking processes. While quantum computing offers a theoretically exact path to resolve these problems, current hardware limitations prohibit fully quantum simulations of realistic material systems. To bridge this gap, we present SIESTA-QCOMP, a modular suite embedding quantum methodologies within DFT. Harnessing SIESTA's localised basis set, we implement a projection-based embedding scheme that treats the bulk environment classically while mapping the strongly correlated "impurity" subspace to a quantum processor. The architecture uses a socket-based driver to orchestrate workflows between the Fortran-based SIESTA engine and Python-based frameworks like Qiskit, ensuring high interoperability. We detail the hybrid workflow, currently utilising a Variational Quantum Eigensolver (VQE), and discuss the road map toward methods such as Sample-based Quantum Diagonalisation (SQD). We illustrate the framework on an hypothetical iron porphyrin calculation and argue that such hybrid architectures are not merely interim solutions but essential foundations for integrating quantum utility into materials design, as envisioned by our broader QCOMP4DFT initiative.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T10:44:04Z</published>
+    <arxiv:comment>17 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Yann Pouillon</name>
+    </author>
+    <author>
+      <name>Federico Marchesin</name>
+    </author>
+    <author>
+      <name>Ivano Tavernelli</name>
+    </author>
+    <author>
+      <name>Emilio Artacho</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24432v1</id>
+    <title>A GRACE Interatomic Potential for W--Ta Systems: Application to Ta Segregation and Pinning of Shear-Coupled Grain-Boundary Migration</title>
+    <updated>2026-10-17T03:50:08Z</updated>
+    <link href="https://arxiv.org/abs/2610.24432v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24432v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Tungsten-tantalum alloys are promising plasma-facing materials for fusion reactors, but simulations of their coupled defect, mechanical, and microstructural evolution require an interatomic potential that remains accurate across diverse atomic environments. We develop a transferable W-Ta potential within the GRaph Atomic Cluster Expansion (GRACE) framework. The primary training dataset was generated automatically by maximizing information entropy in an atomically relevant feature space, avoiding manual enumeration of the structures and processes required for specific downstream applications. Extensive validation demonstrates a consistent description of unary and binary phase stability, elasticity, phonons, high-pressure response, surfaces, point defects, dislocation energetics, transformation pathways, alloy thermodynamics, and melting behavior.
+  As a demonstration, the potential is applied to Ta segregation and shear-coupled migration of a $\Sigma5(120)$ W GB. Simulations reveal strongly site-selective segregation: Ta preferentially occupies a small subset of crystallographically distinct atomic rows. Under shear, segregated Ta impedes disconnection-mediated grain boundary migration. The de-pinning stress initially increases with Ta concentration but plateaus as the dominant pinning environment becomes saturated, while increasing temperature weakens both segregation and pinning. These results establish a broadly validated W-Ta potential and demonstrate how automated entropy-maximized data generation can produce transferable atomistic models capable of resolving mechanisms not explicitly targeted during training.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atm-clus" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T03:50:08Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Omar Hussein</name>
+    </author>
+    <author>
+      <name>Laurent Capolungo</name>
+    </author>
+    <author>
+      <name>Danny Perez</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24151v1</id>
+    <title>Boundary Element Modeling for THz-SNOM Near-Field Probes</title>
+    <updated>2026-10-16T19:23:14Z</updated>
+    <link href="https://arxiv.org/abs/2610.24151v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24151v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Terahertz scanning near-field optical microscopy (THz-SNOM) enables spatially and spectrally resolved investigation of low-energy collective and topological states in quantum materials and nano-structured devices by exploiting the strongly localized near field generated by a polarized atomic force microscopy (AFM) tip. Because the THz near-field response is highly sensitive to tip geometry, understanding how geometric parameters control field confinement and decay is essential for selecting tip designs that provide the spatial resolution required for specific experiments. In this work, we develop a boundary element method (BEM) for modeling the electrostatic near-field of a conducting AFM tip in response to an external background field. The tip is represented by a simplified closed, blunt-cone geometry with its surface discretized into panels using increased mesh density near the apex. A modified Green's function is used to calculate interactions between surface panels, while an augmented linear system simultaneously enforces the equipotential boundary condition on the conducting surface and overall charge neutrality to determine the induced surface-charge distribution. We validate the BEM by comparing the resulting near-field decay with that obtained from a three-dimensional quasi-static COMSOL Multiphysics simulation. The BEM accurately reproduces the COMSOL field-decay behavior while requiring orders of magnitude fewer mesh elements and substantially reducing computational cost. These results demonstrate that the BEM provides an accurate and computationally efficient framework for systematically investigating the dependence of THz near-field confinement on AFM tip geometry. This framework can be extended to more complex and experimentally realistic tip geometries, providing a route toward rational tip selection and design for application-specific spatial-resolution requirements.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T19:23:14Z</published>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Noah Reich</name>
+    </author>
+    <author>
+      <name>Richard Kim</name>
+    </author>
+    <author>
+      <name>Thomas Koschny</name>
+    </author>
+    <author>
+      <name>Jigang Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24074v1</id>
+    <title>QRecoupling.jl: numerical and exact computation of classical and quantum recoupling coefficients</title>
+    <updated>2026-10-16T18:01:10Z</updated>
+    <link href="https://arxiv.org/abs/2610.24074v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24074v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>QRecoupling.jl is a Julia package for numerical, exact and symbolic evaluation of classical and quantum recoupling coefficients and generic finite sums of quantum factorials, with one interface across the classical limit, principal unitary levels and real or complex deformation. A compact factorial rule and its cyclotomic exponents expose factor cancellation, polynomial structure and level support. The package covers quantum Clebsch-Gordan coefficients, 3j and 6j symbols and user-defined sums. Its adaptive numerical evaluation is combined with exact decisions for sums that cancel to zero. Classical 3j and 6j symbols are evaluated at a speed comparable to that of WIGXJPF, which is based on prime factorization tables, at the smallest spins, and about 6 and 10 times faster at spin cutoff 500. Under real, root-of-unity and complex deformation, the largest relative error measured against independent high-precision references is $3.5 \times 10^{-14}$ for spins up to 400. Fusion matrices with 401 channels are computed about 100 times faster than by loops over their entries.</summary>
+    <category term="cs.MS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T18:01:10Z</published>
+    <arxiv:comment>19 pages, 4 figures, 5 tables. Software: https://github.com/sethkasante/QRecoupling.jl (v0.5.1, doi:10.5281/zenodo.23268481)</arxiv:comment>
+    <arxiv:primary_category term="cs.MS"/>
+    <author>
+      <name>Seth K. Asante</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26896v1</id>
+    <title>Commutative Coarse-graining on the Sphere</title>
+    <updated>2026-10-16T17:52:01Z</updated>
+    <link href="https://arxiv.org/abs/2610.26896v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26896v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Filtering by spatial convolution underlies coarse-graining and Large Eddy Simulation, the analysis of multiscale dynamics, and data processing across the sciences. Yet, as commonly practiced on the sphere, it violates a basic consistency requirement: commutation with differential operators, which is necessary for deriving coarse-grained dynamics and preserving the physics across lengthscales. We discuss the root of the problem, which is intrinsic to the curved geometry rather than being a result of metric terms, coordinate system, or numerical grid. A recently proposed generalized spherical convolution is, for a given scalar kernel, the unique linear operator commuting with the radial projection, divergence, and curl. Any consistent linear operator, be it spectral truncation, wavelet transform, diffusion, Green's-function inversion, or a machine-learned convolution, necessarily takes this form. From a simulation of an unstable jet, we demonstrate commutation to within numerical round-off, whereas common filtering that ignores curvature produces significant spurious divergence where none exists and gradient errors comparable to the gradients themselves.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ao-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T17:52:01Z</published>
+    <arxiv:comment>7 pages + 1 page Supplementary Material, submitted to Europhysics Letters: Focus Issue on Complex Flows and Complex Fluids</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Chayut Teeraratkul</name>
+    </author>
+    <author>
+      <name>Hussein Aluie</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23776v1</id>
+    <title>Active Learning for Interatomic Potentials: A Review of Uncertainty-Driven Data Efficiency</title>
+    <updated>2026-10-16T17:11:07Z</updated>
+    <link href="https://arxiv.org/abs/2610.23776v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23776v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Developing a machine learning interatomic potential (MLIP) that is accurate for the specific conditions under which it will be applied, rather than simply for the predefined configurations chosen by the model developer, is a significant challenge in atomistic simulation. Active learning (AL) addresses this challenge by closing the loop between candidate generation, data selection, reference calculation, and model updating. Here, we survey more than seventy studies, with an emphasis on work from 2020 to 2026, to understand how active learning has evolved from a niche, on-the-fly training technique for query-by-committee and Gaussian process force fields into a diverse family of data-efficient strategies. he reviewed examples include on-the-fly molecular dynamics, active data selection for fine-tuning pretrained models, kernel- and representation-based acquisition using frozen pretrained models, and reaction-aware sampling for chemical systems far from equilibrium. We explore the use of active learning in elemental and alloy mechanics, hydrogen and ion diffusion, ferroelectrics and effective Hamiltonians of functional materials, reactive and photochemical dynamics, high-entropy and compositionally disordered materials, as well as generative and autonomous material discovery pipelines. Drawing on a growing body of critical, methodologically self-aware literature, we also show that this achievement carries systematic caveats. Uncertainty estimates are not interchangeable across model architectures and are frequently the least reliable exactly where they matter most. We close by discussing the outlook for standardized, uncertainty-calibrated, and observable-targeted active-learning workflows in the foundation-model era.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T17:11:07Z</published>
+    <arxiv:comment>51 pages, 27 figures, 9 tables</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Ilya V. Chepkasov</name>
+    </author>
+    <author>
+      <name>Alexander V. Shapeev</name>
+    </author>
+    <author>
+      <name>Alexander G. Kvashnin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23674v1</id>
+    <title>Plastic Flow Rule Based on Dislocation Link Velocity</title>
+    <updated>2026-10-16T16:05:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.23674v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23674v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We develop a theory for the plastic shear rate $\dotγ_i$ on each slip system $i$ of face-centered cubic (FCC) single crystals, by integrating the shear rate contributions $\dotγ_i(l)$ from dislocation links of length $l$. A generalized Orowan equation expresses $\dotγ_i(l)$ in terms of the link density $n_i(l)$ and the average link velocity $v_i(l)$. This model accurately reproduces the discrete dislocation dynamics (DDD) shear-rate data for all 12 slip systems across 99 loading orientations. In particular, it explains why the plastic shear rate depends exponentially on the resolved shear stress $τ_i$, as reported previously, in the absence of any thermally activated mechanism. This dependence arises from the exponential tail of $n_i(l)$ filtered through the threshold-like velocity function $v_i(l)$. Furthermore, $v_i(l)$ is well approximated by a single two-dimensional function $v(τ_i,l)$ for all these slip systems. The link velocity is therefore governed mainly by $τ_i$ and $l$, with only a minor effect from the complex interactions between slip systems. These interactions instead manifest themselves mainly through $n_i(l)$. As a demonstration of the effect of the link-length distribution on the slip rate, we show that even when $τ_i$ is limited to a narrow window, the shear rates still span two orders of magnitude. The supply of long links is therefore the dominant factor controlling slip-system activity, outweighing the direct effect of $τ_i$ on the link velocity.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T16:05:33Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Hanfeng Zhai</name>
+    </author>
+    <author>
+      <name>Sh. Akhondzadeh</name>
+    </author>
+    <author>
+      <name>Ryan B. Sills</name>
+    </author>
+    <author>
+      <name>Nicolas Bertin</name>
+    </author>
+    <author>
+      <name>Wei Cai</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24041v1</id>
+    <title>Residual Carleman lift for nonlinear lattice Boltzmann simulations</title>
+    <updated>2026-10-16T14:04:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.24041v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24041v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Low-order Carleman embeddings replace nonlinear dynamics by a larger linear system, but truncation errors can accumulate even when the underlying nonlinear model is accurately approximated by a quadratic equation. We construct a residual Carleman lift (RC2) of lattice Boltzmann dynamics in which an independently evolved spectral background supplies the coefficients and forcing of a second-order residual lift. In a double-shear-layer test, conventional fixed-rest Carleman reaches $87.3\%$ final error, whereas prepared RC2 achieves $0.136\%$ through vortex roll-up, without restarting the lift or using fine-reference feedback. The results demonstrate control of the finite-time accuracy of a fixed-order linear embedding through nonlinear preparation.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T14:04:19Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Ilya Karlin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23371v1</id>
+    <title>Foundation-Model Supervision of Distilled Potentials for Million-Atom Molecular Dynamics</title>
+    <updated>2026-10-16T12:23:04Z</updated>
+    <link href="https://arxiv.org/abs/2610.23371v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23371v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Machine-learned interatomic potentials distilled from foundation models enable fast large-scale molecular dynamics (MD), but they can fail locally in chemical environments that their training data did not sample. System-averaged error metrics and small random audits often miss such sparse or isolated failures. Here we use an exact equivariant foundation model, MACE-MPA-0, to check every atom of million-atom production simulations. Reorganizing two-layer MACE inference into a receiver-chunked three-pass schedule that keeps no per-edge intermediates resident reduces the marginal memory per atom 340-fold, evaluates up to $2.86\times10^{7}$ atoms on a single H200 GPU, and supervises $10^{6}$-atom trajectories in LAMMPS at 1.3% of the run time. Distilled MACE students run four to nine times slower than NEP89 with 0.95-1.28 times the teacher's force error against density functional theory (DFT). In molten SiO$_2$, whole-system checks uncover a persistent tail of under-coordinated atoms hidden by the system-averaged error and an isolated, unphysical O-O contact that a 1% random audit misses 94% of the time. On-the-fly retraining on teacher-labelled 13-Å clusters, with the force loss restricted to their inner 6 Å, removes three quarters of the failure tail and the kilobar-level pressure biases in SiO$_2$ and compressed water; the repair converges to the teacher, not to DFT.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T12:23:04Z</published>
+    <arxiv:comment>31 pages, 6 figures, 1 table; Supporting Information (21 pages, 12 figures, 18 tables) appended after the references</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Xiaoqing Liu</name>
+    </author>
+    <author>
+      <name>Yangshuai Wang</name>
+    </author>
+    <author>
+      <name>Lei Shen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23244v1</id>
+    <title>Simulation of centrifugal separation of particles with equal sedimentation velocities</title>
+    <updated>2026-10-16T10:12:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.23244v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23244v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Conventional centrifugal sedimentation cannot readily separate particles with the same sedimentation velocities. Density gradient centrifugation, although highly selective, exposes delicate particles such as drug delivery system (DDS) nanoparticles and exosomes to high osmotic pressure that can cause shrinkage, rupture, or expansion. To separate particles with equal or similar sedimentation velocities while preserving their properties, we propose two methods that exploit thermal fluctuations (Brownian motion): the centrifugal Brownian ratchet method, which uses asymmetric structures, and the centrifugal wavy-channel method, which uses geometric barriers. Two-dimensional Brownian dynamics simulations combining Stokes-Einstein diffusion with centrifugal sedimentation were performed, and particle transport was analyzed using the Péclet number. In the ratchet method, particles with identical sedimentation velocities but different Péclet numbers showed statistically distinct mean arrival positions and times. In the wavy-channel method, periodic entropic barriers interacting with differences in transport properties produced arrival-time differences, achieving temporal separation even for particles with identical sedimentation velocities or Péclet numbers. Both methods separate particles without relying on sedimentation-velocity differences and are expected to preserve particle properties. Because they neither depend on electrical properties nor require a change of medium, they may also be applicable to particles in liquid metals, oils, organic solvents, and ionic liquids.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T10:12:36Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Yurika Miyake</name>
+    </author>
+    <author>
+      <name>Natsuki Asami</name>
+    </author>
+    <author>
+      <name>Ken-ichi Amano</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22903v1</id>
+    <title>PINN-LPCDD: Physics-Informed Neural Network with Learnable and Physically Consistent Domain Decomposition for Compressible Multi-Medium Flows</title>
+    <updated>2026-10-16T04:08:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.22903v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22903v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The physics-informed neural network (PINN) faces significant challenges when solving compressible multi-medium flows, including the inability to locate interface positions, poor approximation of discontinuities, and difficulty in handling high-pressure-ratio problems between media with large stiffness differences. To address these issues, we propose PINN with Learnable and Physically Consistent Domain Decomposition (PINN-LPCDD), a framework that incorporates the sharp interface method (SIM) into PINNs for solving compressible multi-medium flows. Firstly, we design separate sub-networks for each medium with learnable parameters to automatically learn interface positions, so that the domain decomposition is physically consistent, and the contact discontinuity at the interface is naturally sharp. Secondly, the Euler equations with artificial viscosity are solved to enhance robustness when handling problems involving shock waves. Lastly, the scaling invariance of the Euler equations is exploited to facilitate the solution of high pressure ratio problems. Numerical experiments on air-air, air-helium, air-water, and air-R22 problems demonstrate the acceptable accuracy of the proposed method in simulating multi-medium flows.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.NA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T04:08:19Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Weiheng Zeng</name>
+    </author>
+    <author>
+      <name>Hao Wang</name>
+    </author>
+    <author>
+      <name>Jiaxin Zhu</name>
+    </author>
+    <author>
+      <name>Kun Wang</name>
+    </author>
+    <author>
+      <name>Tiegang Liu</name>
+    </author>
+    <author>
+      <name>Chengliang Feng</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22780v1</id>
+    <title>Azimuthal Instability in Oscillating Liquid Jets by the Weber Number Variations</title>
+    <updated>2026-10-16T00:43:55Z</updated>
+    <link href="https://arxiv.org/abs/2610.22780v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22780v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper investigates the dependence of azimuthal mode growth rate of oscillating liquid laminar jets on the Weber number. The oscillating liquid laminar jets were simulated over a range of Weber numbers. The simulation setup was validated by comparing the instantaneous interface shapes and the visible azimuthal mode from experimental measurements. As the Weber number increases, the spreading angle rises due to the small surface tension, and higher azimuthal modes are observed. Fourier Transform analysis is used to find the exact azimuthal mode of the simulation results. The dominant azimuthal mode increases as the Weber number increases. A power-law dependence of the growth rate on the Weber number is identified, with the obtained exponents showing good agreement with linear instability analysis. Furthermore, the rescaled Fast Fourier Transform (FFT) results collapse onto a single growth curve for each azimuthal mode, validating the proposed power-law for predicting the growth rates of oscillating liquid jets.</summary>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T00:43:55Z</published>
+    <arxiv:comment>The following article has been submitted to Physics of Fluids</arxiv:comment>
+    <arxiv:primary_category term="physics.flu-dyn"/>
+    <author>
+      <name>Hyoungwoo Kim</name>
+    </author>
+    <author>
+      <name>Seungwon Shin</name>
+    </author>
+    <author>
+      <name>Hyosang Yoon</name>
+    </author>
+    <author>
+      <name>Sanghyuen Park</name>
+    </author>
+    <author>
+      <name>Dong-hyuk Shin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22687v1</id>
+    <title>Managing complexity for integrated fusion reactor design using a differentiable graph-based MDAO framework: PROCESS as a case study</title>
+    <updated>2026-10-15T21:56:04Z</updated>
+    <link href="https://arxiv.org/abs/2610.22687v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22687v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Integrated design of nuclear fusion reactors requires combining an increasingly large number of models from different disciplines self-consistently, with model selection and parametrisation changing between design studies. Manual definition of execution order and solvers for cyclic dependencies is error-prone, inefficient, and inflexible. We propose to use a generic graph-based coordination and execution core that enables automated execution order, cycle detection, and solver architecture specification for any set of models or parametrisation. To this end, a computational dependency graph of purely functional models is extended by a conditional node and nesting edges, treating solvers and optimisers in the same way. A minimal set of graph operations then allows for fine-tuned control on feedback resolution, making both optimiser and solver architectures easily reconfigurable. Existing monolithic multidisciplinary design analysis and optimisation (MDAO) architectures can be recovered by sequentially applying these operations. The cottax package implements this extended dependency graph, graph operations, executability checks, and a JAX-based execution layer. This execution layer eliminates runtime overhead and provides native gradient computation through the whole graph. As a proof of principle, cottax is then applied to the PROCESS systems code. Graph sequencing shows that for PROCESS only three small coupled components need to be solved every optimiser iteration. Monolithic MDAO architectures are then assigned to seven different PROCESS configurations, demonstrating the ease of (re)configuring its architecture. Compared to PROCESS, the sequencing and execution back-end together yield a two to three orders of magnitude reduction in model runtime during optimisation. cottax is currently being considered as the basis for developing an integrated stellarator MDAO framework.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T21:56:04Z</published>
+    <arxiv:comment>40 pages, 23 figures, 14 tables. Code: https://github.com/timobogaarts/cottax. Interactive PROCESS diagrams: https://timobogaarts.github.io/process-dsm</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Timo J. Bogaarts</name>
+    </author>
+    <author>
+      <name>Willem Rutten</name>
+    </author>
+    <author>
+      <name>Felix Warmer</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22624v1</id>
+    <title>Time-Domain Data-Driven Loewner Reduced-Order Models for Electromagnetic Simulation</title>
+    <updated>2026-10-15T20:25:18Z</updated>
+    <link href="https://arxiv.org/abs/2610.22624v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22624v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper presents a data-driven Loewner framework for constructing reduced-order models (ROMs) from time-domain electromagnetic (EM) simulation data. High-fidelity simulation of microwave devices can be computationally expensive, particularly when fine spatial discretization and long observation windows are required. The proposed method uses transient input-output data to construct Loewner and shifted Loewner matrices, from which a reduced descriptor realization is obtained through singular value decomposition (SVD). The resulting models are identified from a limited training window and used to predict responses over substantially longer time intervals, with prediction windows up to 50 times the duration of the training window. The method is formalized as an explicit, reproducible algorithm and validated against full-order simulations for four microwave structures: a substrate-integrated-waveguide filter, a frequency-selective surface, an evanescent-mode coaxial comb-line filter, and a diplexer. The results demonstrate the potential of Loewner-based identification to provide compact models of electromagnetic responses while reducing the need for repeated full-order simulation.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="eess.SP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T20:25:18Z</published>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Pablo Biurrun</name>
+    </author>
+    <author>
+      <name>Carlos J. Ramos-Salas</name>
+    </author>
+    <author>
+      <name>Luis D. Angulo</name>
+    </author>
+    <author>
+      <name>Valentin de la Rubia</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24004v1</id>
+    <title>Transient Heat Conduction on Quantum Hardware: Replicated Temperature-Field Reconstruction and Shot-Count Sensitivity with a Variational Quantum Linear Solver</title>
+    <updated>2026-10-15T17:16:25Z</updated>
+    <link href="https://arxiv.org/abs/2610.24004v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24004v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Implicit discretizations of transient heat conduction repeatedly generate sparse linear systems, making diffusion problems a natural test bed for quantum linear solvers. This study evaluates how accurately a variational quantum linear solver (VQLS) recovers the temperature field produced by one backward-Euler step of one-dimensional conduction on IBM quantum hardware. A pre-specified confirmatory experiment compares N=4 interior temperatures encoded on two qubits with N=8 temperatures encoded on three qubits using ten paired hardware blocks; a separately defined N=16, four-qubit extension is evaluated in five independently scheduled exploratory blocks. Local VQLS optimization reduces relative temperature-field error to approximately 10^{-8} for all three cases, establishing an essentially exact ideal reference at this scale. On hardware, mean relative L2 temperature-field error is 8.07% for N=4 and 20.14% for N=8, a paired increase of 12.06 percentage points (95% CI, 10.71-13.42; exact paired sign-flip p=0.001953). The exploratory N=16 mean is 24.75+/-1.84%. A pre-specified N=16 shot-count follow-up then evaluates the same locked circuit at 2,048, 8,192, and 32,768 shots in six independently scheduled blocks. Mean field error remains 23.64%, 24.57%, and 24.37%, respectively; the 32,768-minus-2,048-shot contrast is +0.74 percentage points (95% CI, -0.65 to 2.12; p=0.281). In contrast, ideal multinomial sampling predicts a reduction from 2.68% to 0.75%. Higher shot counts reduce block-to-block variability but do not recover the mean cold-side temperature field. The results show that full-field readout of a strongly nonuniform thermal state is limited by more than ordinary finite-shot sampling under the tested hardware conditions, motivating observable-focused quantum formulations for heat flux, stored energy, and selected temperatures.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T17:16:25Z</published>
+    <arxiv:comment>14 pages, 6 figures, 2 tables</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>Yijin Mao</name>
+    </author>
+    <author>
+      <name>Yuwen Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22157v1</id>
+    <title>The importance of tensor handling and implementation of physics-informed DeepONets</title>
+    <updated>2026-10-15T16:22:05Z</updated>
+    <link href="https://arxiv.org/abs/2610.22157v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22157v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Physics-informed neural networks (PINNs) reduce or eliminate the need for large labelled datasets by enforcing governing equations during training. Physics-informed Deep Operator Networks (PI-DeepONets) extend this approach to learning solution operators, enabling rapid prediction across families of problems. Despite these advantages, we show that their application to higher-dimensional problems remains limited by the computational cost of training. To address this issue, we propose a modified PI-DeepONet architecture that reduces this cost by removing redundancy in how the Branch network processes input functions across collocation points. The proposed formulation is mathematically equivalent to the original architecture but reduces input tensor sizes and the number of Branch network evaluations. We analyse the computational complexity of both architectures and derive theoretical scaling laws for training time with respect to the number of collocation points and input functions. The proposed architecture is evaluated on 1D, 2D, and 3D linear advection problems. In all cases, it achieves comparable predictive accuracy to the original PI-DeepONet while consistently reducing training time. In 2D experiments, a maximum speed-up of $3.75\times$ is observed, with empirical training-time scaling agreeing with the predicted linear dependence on collocation points and input functions. Furthermore, training a 3D model on an NVIDIA A100 GPU is only feasible using the proposed architecture, as the original formulation exceeds memory limits. These results demonstrate that careful consideration of how PI-DeepONets are implemented can yield substantial gains, enhancing the practical performance of PI-DeepONets and enabling their application to otherwise intractable physics-informed learning problems.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T16:22:05Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Nahum Banks</name>
+    </author>
+    <author>
+      <name>Gustavo A. M. de Almeida</name>
+    </author>
+    <author>
+      <name>Sergio Maldonado</name>
+    </author>
+  </entry>
+</feed>

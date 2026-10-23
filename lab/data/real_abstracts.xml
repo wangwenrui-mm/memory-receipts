@@ -1,0 +1,752 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/N1SYdXgfAJQwAtPC3jfXmjttYAQ</id>
+  <title>arXiv Query: search_query=cat:cond-mat.mtrl-sci AND abs:semiconductor&amp;id_list=&amp;start=0&amp;max_results=25</title>
+  <updated>2026-10-23T08:13:42Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=cat:cond-mat.mtrl-sci+AND+abs:semiconductor&amp;start=0&amp;max_results=25&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>25</opensearch:itemsPerPage>
+  <opensearch:totalResults>8935</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30598v1</id>
+    <title>Strain-induced structural transformations in hexagonal monolayer boron nitride. A density functional study</title>
+    <updated>2026-10-22T01:58:53Z</updated>
+    <link href="https://arxiv.org/abs/2610.30598v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30598v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this work we theoretically study the structural transformations occurring in monolayer hexagonal boron nitride (h-BN) subjected to strong deformations. The first-principle computer simulations are based on the density functional theory employing the pseudopotentials with the exchange-correlation energy given in Perdew-Burke-Ernzerhof form. Depending on the direction and the type of the strain, the simulations reveal different types of structural transformations in two-dimensional (2D) h-BN associated with the elastic failure. It is found that, under certain shear strains, there can form an ordered 2D orthorhombic phase with the 2D layer space symmetry pmmm. Thermal stability of the latter up to ~900 K is demonstrated by first-principle Born-Oppenheimer molecular dynamics. The examination of electronic structure indicates that, in contrast to the conventional h-BN, which is an insulator with the wide band gap, the predicted orthorhombic phase is expected to be a semiconductor with the narrow band gap of ~ 0.65 eV.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T01:58:53Z</published>
+    <arxiv:comment>10 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>O. Bystrenko</name>
+    </author>
+    <author>
+      <name>B. Ilkiv</name>
+    </author>
+    <author>
+      <name>S. Petrovska</name>
+    </author>
+    <author>
+      <name>O. Foia</name>
+    </author>
+    <author>
+      <name>T. Bystrenko</name>
+    </author>
+    <author>
+      <name>O. Khyzhun</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29848v1</id>
+    <title>Framework to identify defect-insensitive electron transport in topological semimetals</title>
+    <updated>2026-10-21T15:09:29Z</updated>
+    <link href="https://arxiv.org/abs/2610.29848v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29848v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Topological semimetals are of increasing interest to replace conventional metals for interconnects in future semiconductor chips, due to their potential to exhibit decreasing resistivity with reducing wire dimensions and a lower sensitivity to electron scattering at defects. First-principles evaluation of promising topological semimetals for interconnects typically employ non-equilibrium Green's functions (NEGF) techniques to estimate defect scattering, but such calculations for specific defect geometries are difficult to systematize and compare between disparate materials. Here, we develop an NEGF-based approach to systematically and rapidly evaluate the defect sensitivity of electron transport in materials without depending on material-specific defect geometries. Specifically, we analyze the eigen-spectrum of the transmission matrix for an incoherent ensemble of all-possible single-atom vacancy defects, which clearly reveals eigenvalues close to 1 for defect-insensitive transport modes. Applied to the leading candidates, we show that this robustness to defect scattering is extremely sensitive to surface orientation and Fermi level for each material. We find nearly-perfect insensitivity to defects only for wavevectors with single transport modes within specific Fermi level ranges in CoSi(001) and PtAl(001). Importantly, we also find high insensitivity for certain non-isolated modes in NbAs that emerge specifically due to spin-orbit coupling; these modes could not be identified previously as they were buried in the total transmission. These non-isolated modes have been buried in previous studies of total transmission, and can now be directly compared to other materials due to our standardization of defect-creation. This technique improves the state-of-the-art NEGF method and enables unbiased evaluation of future topological semimetal candidates for nanoscale interconnects.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:09:29Z</published>
+    <arxiv:comment>7 pages, 4 figures, SI within source archive</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Lily Jade Joyce</name>
+    </author>
+    <author>
+      <name>Michelle M. Kelley</name>
+    </author>
+    <author>
+      <name>Timothy Philicelli</name>
+    </author>
+    <author>
+      <name>Ching-tzu Chen</name>
+    </author>
+    <author>
+      <name>Ravishankar Sundararaman</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29463v1</id>
+    <title>Large anisotropic magnetoresistance in paramagnetic Fe-doped Ta4SiTe4</title>
+    <updated>2026-10-21T09:20:32Z</updated>
+    <link href="https://arxiv.org/abs/2610.29463v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29463v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Large anisotropic magnetoresistance (AMR) usually relies on magnetic ordering, which fixes a preferred moment orientation and couples it to charge transport. Here, we demonstrate that pronounced AMR can instead arise from the anisotropic magnetic-field-induced polarization of dilute local moments in paramagnetic Fe-doped Ta4SiTe4, a quasi-one-dimensional van der Waals narrow-gap semiconductor. Magnetization measurements reveal Curie-like paramagnetism down to 2 K, with the c axis as the magnetic easy axis. The magnetization is described by an effective S = 1/2 model with an anisotropic g-factor ratio of g_c/g_ab = 1.43(1). With the electrical current applied along the c axis, the Fe-doped sample exhibits a large negative magnetoresistance for B//c and only a weak positive response for B//ab, whereas the undoped sample shows little magnetoresistance for either field orientation. The resulting AMR ratio reaches -33% at 8 K and 10 T and exhibits a nonmonotonic temperature dependence qualitatively captured by a minimal spin-disorder model. These results show that engineering the local environment of dilute magnetic ions provides a route to large paramagnetic AMR without long-range magnetic order, extending the materials design space for AMR beyond magnetically ordered systems.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T09:20:32Z</published>
+    <arxiv:comment>16 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Keita Nagasawa</name>
+    </author>
+    <author>
+      <name>Ryutaro Okuma</name>
+    </author>
+    <author>
+      <name>Jun-ichi Yamaura</name>
+    </author>
+    <author>
+      <name>Yoshihiko Okamoto</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29081v1</id>
+    <title>The Spectroscopic Atlas of Excitonic Complexes in hBN-Encapsulated S-TMD Monolayers: From Excitons to Oxcitons and Beyond</title>
+    <updated>2026-10-21T02:09:58Z</updated>
+    <link href="https://arxiv.org/abs/2610.29081v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29081v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Hexagonal boron nitride (hBN) encapsulation has transformed the optical spectroscopy of semiconducting transition-metal dichalcogenide monolayers (MLs) by suppressing extrinsic disorder and enabling the resolution of an increasingly complex hierarchy of excitonic states. This Review provides a spectroscopy-oriented framework for understanding and identifying excitonic complexes in hBN-encapsulated Mo- and W-based MLs and their alloys. The discussion covers bright and dark excitons, Rydberg states, charged excitons, biexcitons, phonon-assisted replicas, and higher-order Fermi-sea many-body states, including hexcitons and oxcitons, with an emphasis on the experimental signatures that distinguish them. Particular attention is given to the combined use of photoluminescence and absorption-related spectroscopy, electrostatic gating, polarization analysis, excitation-power and temperature dependences, magnetic fields, and time-resolved measurements to establish microscopic assignments. The role of alloying as an additional degree of freedom for engineering the excitonic hierarchy, spin-valley configuration, and magneto-optical response is also highlighted. By organizing the rapidly expanding phenomenology around experimentally accessible fingerprints rather than individual material systems, this Review aims to provide a practical and broadly applicable guide for identifying, comparing, and engineering excitonic states in high-quality two-dimensional semiconductors.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T02:09:58Z</published>
+    <arxiv:comment>23 pages, 12 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Maciej R. Molas</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28877v1</id>
+    <title>Ultrafast and Anisotropic Exciton Transport in Layered NbOI$_2$</title>
+    <updated>2026-10-20T19:57:10Z</updated>
+    <link href="https://arxiv.org/abs/2610.28877v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28877v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Ferroelectric layered semiconductors provide a unique platform for exploring coupled excitonic and electronic phenomena in reduced dimensions. Here, exciton transport in layered NbOI$_2$ is investigated using transient absorption microscopy. Ultrafast and strongly anisotropic exciton diffusion is observed. The diffusion coefficient of about 160 cm$^2$ s$^{-1}$ along the nonpolar crystal axis is among the highest reported for van der Waals semiconductors. The transport exhibits an approximately twofold in-plane anisotropy between the polar and nonpolar directions, reflecting the intrinsic low-symmetry crystal structure of NbOI$_2$. The environmental stability of NbOI$_2$ is further investigated, and fabrication and encapsulation conditions required to achieve long-term sample stability are identified. These results establish NbOI$_2$ as a promising platform for studying anisotropic exciton transport and highlight the critical role of interface protection in air-sensitive van der Waals materials.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T19:57:10Z</published>
+    <arxiv:comment>7 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Salman Ahsanullah</name>
+    </author>
+    <author>
+      <name>Neema Rafizadeh</name>
+    </author>
+    <author>
+      <name>Hui Zhao</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27798v1</id>
+    <title>Accelerating real-time hybrid-functional calculations with learned ACE and symmetry-based FFT reuse</title>
+    <updated>2026-10-20T07:56:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.27798v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27798v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Real-time hybrid-functional calculations require repeated reconstruction of nonlocal exchange, whose cost grows rapidly with Brillouin-zone sampling. We develop two methods to improve the efficiency of time evolution and spatial processing. The first learns the time evolution of adaptively compressed exchange (ACE) factors and predicts their updates, reducing the frequency of explicit reconstruction. The second uses crystal symmetry to reuse exchange fast Fourier transforms (FFTs) among equivalent real-space points. This symmetry-based FFT reuse (SBFR) reduces the number of FFTs while retaining the full $\bm k$-point sum. The methods can be used with a variety of hybrid functionals, and we use HSE06 in this work. Relative to an ACE reference using full-row mesh FFTs, learned prediction provides more than fivefold acceleration, SBFR more than fourteenfold, and their combination more than sixty-threefold. The combined method shows efficient parallel scaling. After learning, propagation takes less than 0.5 s per step. The reduced computational cost allows us to study nonlinear and nonequilibrium electron dynamics with hybrid functionals and to examine the role of excitonic effects in semiconductors and insulators.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T07:56:12Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Tomohito Otobe</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27460v1</id>
+    <title>Nanocrystalline cubic boron arsenide growth on GaAs(100) by gas source molecular beam epitaxy</title>
+    <updated>2026-10-20T01:20:44Z</updated>
+    <link href="https://arxiv.org/abs/2610.27460v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27460v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Cubic boron arsenide (c-BAs) is a promising ultrahigh thermal conductivity semiconductor, but its direct synthesis on lattice-mismatched substrates remains challenging. Here, we demonstrate the synthesis of nanocrystalline c-BAs thin films on GaAs(100) substrates using gas source molecular beam epitaxy. X-ray photoelectron spectroscopy reveals an optimal growth temperature window of 250-400 C to maintain near stoichiometry and suppress severe arsenic loss. Surface and structural characterizations via atomic force microscopy, reflection high-energy electron diffraction, and grazing-incidence X-ray diffraction demonstrate a Volmer-Weber 3D island growth mode and a preferential crystallographic alignment with the GaAs substrate. High-resolution transmission electron microscopy confirms a chemically sharp interface without gallium interdiffusion into the c-BAs layer. These findings establish an initial step for the integration of c-BAs into advanced thermal and optoelectronic platforms.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T01:20:44Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Matthew A. Delmont</name>
+    </author>
+    <author>
+      <name>Yu Wu</name>
+    </author>
+    <author>
+      <name>Han-Hsuan Wu</name>
+    </author>
+    <author>
+      <name>Xiaoqing Pan</name>
+    </author>
+    <author>
+      <name>Christopher J. Palmstrom</name>
+    </author>
+    <author>
+      <name>Bolin Liao</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24769v1</id>
+    <title>Molecular Doping of MoS$_2$ with N-Heterocyclic Carbenes: A Raman Study of Interfacial Charge Transfer</title>
+    <updated>2026-10-17T16:26:13Z</updated>
+    <link href="https://arxiv.org/abs/2610.24769v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24769v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We demonstrate efficient electron doping of exfoliated MoS$_2$ through the deposition of N-heterocyclic carbene (NHC) molecules onto its surface. Raman spectroscopy reveals a pronounced softening of the optical A$_{1g}$ phonon mode after NHC deposition, consistent with electron transfer from the NHC molecules to the MoS$_2$ layers. The largest phonon-energy shifts are observed in monolayer and bilayer flakes whereas changes in bulk-like MoS$_2$ are negligible, indicating that the doping efficiency depends on the number of layers. This thickness dependence highlights the dominant role of interfacial charge transfer at the NHC/MoS$_2$ interface. Quantitative analysis of the Raman modes of as-exfoliated and NHC-covered MoS$_2$, together with comparison with literature values, allows us to estimate an increase in the two-dimensional electron density of about two-orders of magnitude in MoS$_2$ mono- and bilayers. These results demonstrate that NHC-based surface deposition is a promising approach for chemically tuning the carrier density of semiconducting transition-metal dichalcogenides and provide a potential route toward molecularly tunable two-dimensional electronic devices, in which, analogous to modulation doping, the donors reside outside the semiconductor lattice.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T16:26:13Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Ana Senkić</name>
+    </author>
+    <author>
+      <name>Arne Nalop</name>
+    </author>
+    <author>
+      <name>Xenia Sieverding</name>
+    </author>
+    <author>
+      <name>Ariane Ufer</name>
+    </author>
+    <author>
+      <name>Sebastian Roling</name>
+    </author>
+    <author>
+      <name>Frank Glorius</name>
+    </author>
+    <author>
+      <name>Ursula Wurstbauer</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24768v1</id>
+    <title>Epitaxial Displacement-etched GaAsSb Quantum Dots Emitting at Telecom Wavelengths</title>
+    <updated>2026-10-17T16:20:06Z</updated>
+    <link href="https://arxiv.org/abs/2610.24768v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24768v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Semiconductor quantum dots (QDs) are essential components for integrated photonic and quantum information systems, yet current epitaxial growth techniques face significant limitations in complexity of growth, material selection, and density tunability. Here we report a displacement etch technique that enables controlled formation of GaAsSb QDs with emission at telecommunications wavelengths. Our approach uses arsenic molecular flux (As$_2$) to react with antimonide surfaces through thermodynamically favorable displacement reactions, creating three-dimensional quantum confined nanostructures without requiring strain-driven growth or complex droplet-based processes. Density functional theory shows the two competing As-for-Sb exchange pathways to be nearly equivalent in both reaction energy and activation barrier, which places morphological control in the subsequent adatom kinetics rather than in the surface reaction itself. A single process parameter, the As$_2$ exposure, sets the QD areal density across three orders of magnitude, from 10$^2$ to 10$^5$ $μm^{-2}$, covering both isolated emitters and dense gain media. Structural analysis reveals well-defined GaAsSb QDs with a mixed GaAs/GaSb composition and no extended defects. Temperature-dependent photoluminescence measurements confirm emission at 1550 nm (0.8 eV) within the telecommunications C-band, with characteristic QD-like temperature dependence. Because the QDs form on a lattice-matched GaSb surface in a single growth step, the technique offers a practical route to C-band emitters built into the GaSb/AlGaSb device family already used for mid-infrared sources and detectors.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T16:20:06Z</published>
+    <arxiv:comment>Manuscript plus supplementary information</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Sadhvikas Addamane</name>
+    </author>
+    <author>
+      <name>Sanghyeok Park</name>
+    </author>
+    <author>
+      <name>Quinn T. Campbell</name>
+    </author>
+    <author>
+      <name>Evan M. Anderson</name>
+    </author>
+    <author>
+      <name>Thomas Rotter</name>
+    </author>
+    <author>
+      <name>Darryl Shima</name>
+    </author>
+    <author>
+      <name>Julia Deitz</name>
+    </author>
+    <author>
+      <name>Paul Kotula</name>
+    </author>
+    <author>
+      <name>Ganesh Balakrishnan</name>
+    </author>
+    <author>
+      <name>Oleg Mitrofanov</name>
+    </author>
+    <author>
+      <name>Igal Brener</name>
+    </author>
+    <author>
+      <name>Prasad P. Iyer</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24460v1</id>
+    <title>Water-Driven Porous Silicon as a Platform for Blue Materials</title>
+    <updated>2026-10-17T04:59:18Z</updated>
+    <link href="https://arxiv.org/abs/2610.24460v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24460v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Living organisms control water to transport matter, transfer energy and drive chemical reactions. In this perspective, we argue that porous silicon can give engineering materials comparable control over water. Its pore architecture, surface chemistry and semiconducting skeleton can be shaped across length scales with the precision of semiconductor processing and, like the water it can host, it relies on one of the most abundant chemical elements on Earth. Liquids in porous silicon, most often water, can flow as a continuum through pores a few nanometers wide, strain the skeleton through capillary and electrosorption stresses, shift structural color, switch transparency, and modulate or generate electrical signals. We describe three directions to combine and extend these effects and overcome their limitations. Pore hierarchy resolves the classical trade-off between interface area and transport speed by combining large and small pores and thereby allows functions to be scaled from thin planar films to three-dimensional components. Surface modification becomes a design variable that tunes the interaction between water and the pore wall. It can be set locally and, with switchable coatings, on demand. Finally, pores only a few molecules wide alter the properties of water itself. In the absence of a bulk-like volume, water can become dielectrically anisotropic and highly conductive. Altogether, these steps turn porous silicon from a responsive material into an adaptive, water-driven material.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T04:59:18Z</published>
+    <arxiv:comment>9 pages, 1 figure</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Marc Thelen</name>
+    </author>
+    <author>
+      <name>Julia Brandt</name>
+    </author>
+    <author>
+      <name>Stella Gries</name>
+    </author>
+    <author>
+      <name>Manuel Brinker</name>
+    </author>
+    <author>
+      <name>Alexander Petrov</name>
+    </author>
+    <author>
+      <name>Patrick Huber</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23773v1</id>
+    <title>Engineering nonrelativistic spin splitting in semiconductors by altermagnetic proximity</title>
+    <updated>2026-10-16T17:09:46Z</updated>
+    <link href="https://arxiv.org/abs/2610.23773v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23773v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Altermagnets combine vanishing net magnetization with momentum-dependent, nonrelativistic spin splitting, offering functionalities attractive for spintronics and quantum devices. Their practical use, however, is constrained by the limited availability of materials that simultaneously possess the required altermagnetic symmetry, semiconducting electronic structure, and weak spin-orbit coupling. Here we show that these requirements can instead be separated between constituent materials through proximity engineering. We develop an analytical theory for a conventional semiconductor coupled to a gapped $d$-wave altermagnet and demonstrate that virtual tunneling transfers the altermagnetic spin splitting to the semiconductor. Crucially, the induced nonrelativistic and relativistic spin splittings exhibit qualitatively different dependences on band alignment. Virtual processes involving the valence and conduction bands of the altermagnet can reinforce the altermagnetic splitting while contributing with opposite signs to the interfacial Rashba coupling. Consequently, electrostatic tuning can access a regime in which the Rashba splitting vanishes while a sizable $d$-wave spin splitting persists. Exact diagonalization of the full heterostructure model confirms the analytical theory and establishes the robustness of this mechanism beyond the perturbative regime. Our results identify altermagnetic proximity as a route for engineering nonrelativistic spin-split electronic states in established semiconductor platforms, providing a general strategy for disentangling magnetic and relativistic spin interactions in quantum heterostructures.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T17:09:46Z</published>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Sing Lam Wong</name>
+    </author>
+    <author>
+      <name>Marcel Franz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23433v1</id>
+    <title>Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandgap Semiconductor Heterointegration</title>
+    <updated>2026-10-16T13:18:40Z</updated>
+    <link href="https://arxiv.org/abs/2610.23433v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23433v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Single-crystal diamond membranes (SCDms) were created using a hydrogen ion-cut process combined with a two-step post-implantation annealing, electrochemical etching, and micro-transfer printing. Monte Carlo simulations comparing H, He, C, and O implantation predicted a narrower vacancy-distribution profile for hydrogen under the implantation conditions examined. Raman spectroscopy was used to evaluate implantation-induced lattice damage and its recovery during annealing and membrane release, while optical bandgap analysis provided further evidence of restoration of the diamond lattice structure. After delamination and removal of residual graphitic material, freestanding SCDms with improved crystalline quality were obtained. The SCDms were subsequently transferred to GaN, SiC, AlGaN, and AlN substrates without an adhesive layer. The successful formation of diamond/WBG and diamond/UWBG heterostructures demonstrates the feasibility of integrating the SCDms with a range of semiconductor platforms. Overall, these results establish hydrogen implantation as an effective route for producing high-quality SCDms for future diamond-based heterogeneous integration applications.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T13:18:40Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Xuanyu Zhou</name>
+    </author>
+    <author>
+      <name>Chenyu Wang</name>
+    </author>
+    <author>
+      <name>Dmitry Shinyavskiy</name>
+    </author>
+    <author>
+      <name>Lu Chen</name>
+    </author>
+    <author>
+      <name>Luke Suter</name>
+    </author>
+    <author>
+      <name>Andreas Graff</name>
+    </author>
+    <author>
+      <name>Michel Simon-Najasek</name>
+    </author>
+    <author>
+      <name>Vincent Gambin</name>
+    </author>
+    <author>
+      <name>Katherine T. Fountaine</name>
+    </author>
+    <author>
+      <name>Zhenqiang Ma</name>
+    </author>
+    <author>
+      <name>Frank Altmann</name>
+    </author>
+    <author>
+      <name>Matthias Muehle</name>
+    </author>
+    <author>
+      <name>Jung-Hun Seo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22911v1</id>
+    <title>From Surface Reactions to Inhibitor Coverage: A Machine-Learning-Assisted Computational Study of Area-Selective Atomic Layer Deposition</title>
+    <updated>2026-10-16T04:19:08Z</updated>
+    <link href="https://arxiv.org/abs/2610.22911v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22911v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Area-selective atomic layer deposition (AS-ALD) enables selective material growth for the fabrication of nanoscale semiconductor devices. Predicting inhibitor coverage is essential for understanding and optimizing surface blocking in AS-ALD. Here, we present a computational workflow combining a pretrained universal machine-learning interatomic potential with off-lattice grand canonical Monte Carlo simulations and apply it to inhibitor adsorption and precursor blocking on amorphous SiO2. Realistic surface models reveal substantial site-dependent variations in reaction energies and activation barriers, with silanol groups serving as the primary adsorption sites for aminosilane and related inhibitors and metal precursors. Coverage simulations show that inhibitors producing identical adsorbed fragments can yield different coverages because the intact molecules impose distinct steric constraints, leading to different accessible site densities and blocking capabilities. Beyond coverage, we highlight the importance of the reactivity of adsorbed inhibitor fragments toward precursors in determining inhibitor stability and blocking performance. Together, these findings demonstrate the need to consider both steric effects and chemical reactivity on realistic amorphous surfaces. Our calculations connect local reaction chemistry with inhibitor coverage and provide a computational basis for understanding inhibition mechanisms and selecting suitable inhibitor-precursor combinations for AS-ALD.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T04:19:08Z</published>
+    <arxiv:comment>15 pages, 9 figures, 1 table. Supplementary information included as ancillary file (+7 pages)</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Gijin Kim</name>
+    </author>
+    <author>
+      <name>Seungwu Han</name>
+    </author>
+    <author>
+      <name>Youngho Kang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22901v1</id>
+    <title>Coherent phonons in photoexcited semiconductors from first principles</title>
+    <updated>2026-10-16T04:04:49Z</updated>
+    <link href="https://arxiv.org/abs/2610.22901v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22901v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Coherent phonons are phase-locked lattice vibrations that provide a sensitive probe of nonequilibrium dynamics in materials. Existing first-principles equation-of-motion (EOM) approaches have successfully described coherent phonons in metals and semimetals, but their extension to semiconductors requires treating the long-lived electron--hole plasma created by above-gap excitation. Here we extend the first-principles EOM framework to photoexcited semiconductors by incorporating the residual plasma force that shifts the lattice equilibrium together with the plasma-induced renormalization of the electronic structure. For monolayer MoTe$_2$, the calculated carrier-density-dependent Te displacement agrees with constrained density-functional perturbation theory only when the renormalized band structure is included. We then show that increasing the photoexcited carrier density enhances both the initial total force and the plasma-shifted equilibrium position of the $A_{1g}$ mode, producing larger coherent lattice oscillations. This density-controlled response appears in both the atomic displacement and the coherent-phonon-induced band renormalization, providing complementary signatures for ultrafast reflectivity and time- and angle-resolved photoemission spectroscopy.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T04:04:49Z</published>
+    <arxiv:comment>8 pages, 4 figures; accepted for publication in Physical Review B</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Yuhui Qiu</name>
+    </author>
+    <author>
+      <name>Rong-Tian Pang</name>
+    </author>
+    <author>
+      <name>Meng-Xue Guan</name>
+    </author>
+    <author>
+      <name>Jin-Jian Zhou</name>
+    </author>
+    <arxiv:doi>10.1103/k283-ts25</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1103/k283-ts25" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.21733v1</id>
+    <title>Low magnon damping of a EuSe film down to millikelvin temperatures</title>
+    <updated>2026-10-15T11:49:03Z</updated>
+    <link href="https://arxiv.org/abs/2610.21733v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.21733v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The rapid development of quantum magnonics over the past decade has created a demand for magnetic materials that keep their magnon losses low at millikelvin temperatures and add functionality beyond that of the established iron garnets and ferromagnetic metals. The europium chalcogenides are natural candidates $-$ they are magnetic semiconductors whose moment of $7\,μ_{\mathrm{B}}$ per Eu$^{2+}$ ion stems from a half-filled $4f$ shell with zero orbital momentum, so that spin-orbit coupling and intrinsic damping are expected to be weak. Here we characterize an epitaxial film of the metamagnet EuSe on diamagnetic BaF$_2$ by magnetometry and broadband ferromagnetic resonance from 10 K down to 30 mK. EuSe combines a saturation magnetization of 1100 kA/m with antiferromagnetic, ferrimagnetic and ferromagnetic phases that are reached with fields below 0.25 T. In contrast to a Gilbert-damped ferromagnet, the linewidth of the field-aligned film decreases with increasing frequency and field, and below 750 mK it no longer depends on temperature. At 30 mK, 68 GHz and 1.8 T, it reaches 5.5 mT, close to the values of bulk single crystals, which corresponds to a magnon lifetime of 2 ns and to an upper bound of $1.1\times10^{-3}$ for the Gilbert damping parameter. These properties make EuSe and the europium chalcogenides promising materials for hybrid quantum systems and quantum magnonics.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T11:49:03Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Rostyslav O. Serha</name>
+    </author>
+    <author>
+      <name>Jan Hofer</name>
+    </author>
+    <author>
+      <name>Khrystyna O. Levchenko</name>
+    </author>
+    <author>
+      <name>Andreas Ney</name>
+    </author>
+    <author>
+      <name>Sergej O. Demokritov</name>
+    </author>
+    <author>
+      <name>Gunther Springholz</name>
+    </author>
+    <author>
+      <name>Andrii V. Chumak</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.21683v1</id>
+    <title>Novel high-pressure silicon allotrope with quartz topology from first principles</title>
+    <updated>2026-10-15T11:09:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.21683v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.21683v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A novel silicon allotrope, qtz Si, with quartz topology is proposed and investigated alongside four known allotropes (dia Si-I, lon Si-IV, bsn Si-II, and gsi Si-III) using first-principles density functional theory. qtz Si is found to exhibit the smallest atom-averaged volume (18.06 A3), highest density (2.582 g/cm3), highest bulk modulus (98 GPa), and highest maximum phonon frequency (16 THz) among the five, while showing the lowest shear modulus (37 GPa). All five allotropes are confirmed to satisfy the Born stability criteria and to display positive phonon frequencies throughout the Brillouin zone, i.e., they are mechanically and dynamically stable. Electronic structure calculations show that qtz Si is a semimetal with a vanishing gap, whereas dia Si and lon Si are semiconductors, and bsn and gsi allotropes are weakly metallic. Energy-volume equations of state place gsi and qtz 0.11-0.15 eV/atom above dia, bsn, and lon, consistent with their identification as high-pressure or metastable phases.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T11:09:36Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Samir F. Matar</name>
+    </author>
+    <author>
+      <name>Vladimir L. Solozhenko</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20779v1</id>
+    <title>Enabling large language model agents for high-fidelity many-body perturbation theory calculations</title>
+    <updated>2026-10-14T18:27:29Z</updated>
+    <link href="https://arxiv.org/abs/2610.20779v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20779v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Many-body perturbation theory (MBPT) methods, including the GW approximation, the GW plus Bethe-Salpeter equation (GW-BSE) method, and GW perturbation theory (GWPT), among others, provide accurate first-principles descriptions of excited-state properties and multiparticle interactions of materials. However, their use remains limited due to complex multi-software workflows, interdependent physical parameters, and substantial theoretical expertise. Large language model (LLM) agents, which couple a language model to software tools, show potential in automating computational tasks, but MBPT remains an unaddressed challenge. We show that LLM agents tested in our work, including frontier models such as Opus 4.7 and GPT-5.5, do not reliably construct MBPT workflows in one attempt, suggesting that correct setup requires expert knowledge and consistency that current models lack. Across tested model-harness combinations, out-of-the-box agents average 54%, 36%, and 19% on GW, GW-BSE, and GWPT workflow benchmarks, with strong model dependence and large run-to-run variation. Errors typically originate from cross-stage inconsistencies that surface only several stages after they are introduced. We therefore develop AI-Donkey, an agentic framework that combines expert-curated knowledge with deterministic execution to enable high-fidelity GW, GW-BSE, and GWPT calculations and analyses. With AI-Donkey, all tested agents, from frontier proprietary models to open-weight models, produce complete, runnable MBPT workflows with no observed run-to-run variation. We further demonstrate autonomous calculations and post-processing on 1D, 2D, and bulk materials, including the many-body enhancement of Fröhlich electron-phonon coupling in polar semiconductors. Our approach provides a general framework for knowledge engineering to enable reliable agentic workflows in computational materials science.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T18:27:29Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Benran Zhang</name>
+    </author>
+    <author>
+      <name>Byeongchan Lee</name>
+    </author>
+    <author>
+      <name>Zien Zhu</name>
+    </author>
+    <author>
+      <name>Chih-En Hsu</name>
+    </author>
+    <author>
+      <name>Zhenfa Zheng</name>
+    </author>
+    <author>
+      <name>Hung-Chung Hsueh</name>
+    </author>
+    <author>
+      <name>Young Woo Choi</name>
+    </author>
+    <author>
+      <name>Mauro Del Ben</name>
+    </author>
+    <author>
+      <name>Zhenglu Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.19542v1</id>
+    <title>Pressure engineering of the excitonic moiré-potential landscape and exciton-charge interplay in semiconductor moiré superlattices</title>
+    <updated>2026-10-14T03:59:51Z</updated>
+    <link href="https://arxiv.org/abs/2610.19542v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.19542v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Semiconductor moiré superlattices, owing to strongly bound excitons and pronounced electronic correlation, have emerged as an intriguing solid platform for exploring correlated bosonic phenomena, where the moiré potential landscape plays a central role. Hydrostatic pressure allows continuous, in-situ tuning of this landscape, but remains underexplored because of experimental challenges. Here we integrate a diamond anvil pressure cell with high quality dual gated WSe2/WS2 twisted bilayers and perform cryogenic optical spectroscopy. We observe distinct pressure evolutions of moiré intralayer excitons, which reveal drastic modulation of the excitonic moiré-potential landscape captured by a continuum model and suggest the capability of engineering the exciton-band topology. Moreover, we demonstrate efficient pressure control over the interplay between charges and both intralayer and interlayer excitons: the intralayer charge-transfer exciton becomes less sensitive to doping, likely due to reduced charge-transfer character; in contrast, the interlayer exciton exhibits enhanced exciton-charge repulsion. Our results establish hydrostatic pressure as a powerful tuning knob for engineering bosonic quasiparticles and Bose-Fermi interactions in moiré materials.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T03:59:51Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Wenbing Li</name>
+    </author>
+    <author>
+      <name>Tianhao Yue</name>
+    </author>
+    <author>
+      <name>Wenjian Su</name>
+    </author>
+    <author>
+      <name>Zhexu Shan</name>
+    </author>
+    <author>
+      <name>Chen Xu</name>
+    </author>
+    <author>
+      <name>Jichen Zhou</name>
+    </author>
+    <author>
+      <name>Kenji Watanabe</name>
+    </author>
+    <author>
+      <name>Takashi Taniguchi</name>
+    </author>
+    <author>
+      <name>Liguo Ma</name>
+    </author>
+    <author>
+      <name>Yuanfeng Xu</name>
+    </author>
+    <author>
+      <name>Shiyao Zhu</name>
+    </author>
+    <author>
+      <name>Yang Gao</name>
+    </author>
+    <author>
+      <name>Yanhao Tang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.18550v1</id>
+    <title>Direct growth of crystalline spinel GaON films: A wide-bandgap mixed-anion semiconductor</title>
+    <updated>2026-10-13T15:26:49Z</updated>
+    <link href="https://arxiv.org/abs/2610.18550v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.18550v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Mixed-anion semiconductors offer opportunities for bandgap engineering beyond conventional multication alloys, but competing phases and disorder complicate their synthesis and the identification of their electronic properties. Gallium oxynitride (GaON) could connect the technologically important GaN and Ga2O3 systems, yet establishing a clear relation between its crystal structure, composition and bandgap remains challenging. Here we report the direct growth of crystalline spinel gamma-GaON films by nitrogen-plasma-assisted pulsed-laser deposition. Varying the nitrogen and oxygen supply yields monoclinic beta-Ga2O3, predominantly disordered films and crystalline spinel GaON. Complementary diffraction, atomic-resolution microscopy and elemental analysis establish the spinel structure and nitrogen incorporation. Temperature-dependent photocurrent spectroscopy reveals a clear redshift of the crystalline gamma-GaON response, supporting assignment of a band-edge transition near 4.3 eV at room temperature. These results open opportunities to investigate mixed-anion wide-bandgap semiconductor physics and develop heterostructures.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-13T15:26:49Z</published>
+    <arxiv:comment>13 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Baikui Li</name>
+    </author>
+    <author>
+      <name>Zecheng Yang</name>
+    </author>
+    <author>
+      <name>Wenhao Yin</name>
+    </author>
+    <author>
+      <name>Zijing Wu</name>
+    </author>
+    <author>
+      <name>Haitao Zhao</name>
+    </author>
+    <author>
+      <name>Yunwei Sheng</name>
+    </author>
+    <author>
+      <name>Honglei Wu</name>
+    </author>
+    <author>
+      <name>Jiannong Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.18279v1</id>
+    <title>Coherent Phonon Generation from Prethermal Carrier Populations in a Semiconductor</title>
+    <updated>2026-10-13T12:32:16Z</updated>
+    <link href="https://arxiv.org/abs/2610.18279v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.18279v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Ultrafast laser excitation of carriers in semiconductors often results in the creation of fully symmetric coherent optical phonons, typically understood in terms of a thermalized transient carrier population. We test this understanding with systematic measurements and first-principles calculations of the photon-energy dependence of ultrafast-laser-driven coherent phonon generation in tellurium, using excitation wavelengths around the electronic band gap. We observe that, contrary to the expectations of models assuming a thermalized carrier population, the coherent amplitude of the fully symmetric $A_1$ mode changes only weakly when tuning wavelength across the band gap. The measured spectral dependence is instead reproduced by a transition-resolved prethermal force weighted by optical matrix elements and band- and momentum-dependent $A_1$ deformation potentials. Fitting this model to the data yields an excited transition state lifetime of a few femtoseconds. These results identify transition selectivity, rather than a thermalized total carrier density, as a key factor controlling coherent-phonon generation in semiconductors excited near a band gap.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-13T12:32:16Z</published>
+    <arxiv:comment>6 pages, 4 figures; Supplemental Material: 22 pages, 9 figures, appended</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Mingyu Shi</name>
+    </author>
+    <author>
+      <name>Matteo Savoini</name>
+    </author>
+    <author>
+      <name>Patrick Friebel</name>
+    </author>
+    <author>
+      <name>Andrea Annunziata</name>
+    </author>
+    <author>
+      <name>Thomas Metzger</name>
+    </author>
+    <author>
+      <name>Yunpei Deng</name>
+    </author>
+    <author>
+      <name>Laura Cattaneo</name>
+    </author>
+    <author>
+      <name>Steven L. Johnson</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.18076v1</id>
+    <title>Tellurium trioxide as an n-type wide-gap semiconductor with ultrahigh work functions from first principles</title>
+    <updated>2026-10-13T09:58:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.18076v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.18076v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The exploration of next-generation wide-gap semiconductors with extreme work functions is highly desirable for the continued advancement of electronic and optoelectronic devices. By using first principles calculations, we show that \b{eta}-TeO3, with a wide band gap exceeding 3 eV, emerges as a promising n-type semiconductor exhibiting ultrahigh work functions of up to ~8 eV. Intentionally or unintentionally incorporated interstitial H, Li, Na, Cu, Mg, and Zn impurities and substitutional F impurities are identified as shallow donors, whereas O vacancies act as minor carrier-compensating defects that locally trap electrons at neighbouring Te sites. The work function is evaluated across a series of low-index nonpolar surfaces. The presence of ordered O vacancies is energetically favoured on these surfaces and tends to reduce the corresponding work functions. These findings underscore the significance of precise control over the O chemical potential to suppress surface O-vacancy formation, thereby preserving the exceptional electronic performance of \b{eta}-TeO3 associated with ultrahigh work functions. Collectively, the results highlight the potential of \b{eta}-TeO3 for hole injection/extraction/transport layers as well as transparent electrodes for applications such as light-emitting devices and photovoltaic cells, while providing useful guidance on carrier doping and surface tuning for these practical applications through elucidating the effects of the point-defect and surface configurations on the electronic properties.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-13T09:58:19Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Tianwei Wang</name>
+    </author>
+    <author>
+      <name>Teruya Nagafuji</name>
+    </author>
+    <author>
+      <name>Kota Hanzawa</name>
+    </author>
+    <author>
+      <name>Hidenori Hiramatsu</name>
+    </author>
+    <author>
+      <name>Fumiyasu Oba</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.17854v1</id>
+    <title>ARES: a plane-wave density-functional-theory code in Rust</title>
+    <updated>2026-10-13T07:18:23Z</updated>
+    <link href="https://arxiv.org/abs/2610.17854v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.17854v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>ARES (Ab initio atomic mateRial modEling Software at JLU) is a plane-wave density-functional-theory (DFT) code written entirely in Rust as a layered 22-crate workspace. It supports norm-conserving pseudopotentials and the projector augmented-wave (PAW) method with the local-density approximation (LDA) and Perdew-Burke-Ernzerhof (PBE) functionals, Γ-only and explicit k-point sampling, smearing and mixing, forces, stress, relaxation, band structures, densities of states (DOS) and dispersion corrections; execution is serial or MPI-distributed over k-point pools, band groups and plane-wave rows. The code's distinguishing engineering choice is its validation apparatus. Every numerical component is checked against Quantum ESPRESSO driven from the same physical and numerical inputs, and the comparison is organized as numbered fixtures kept in the repository whose reference data is regenerated by a script instead of being captured once. On six materials spanning a semiconductor, three metals and two two-dimensional systems, band energies within one electronvolt of the Fermi level agree with the reference to a median below 0.4 meV. The pseudopotentials the code reads are validated against all-electron reference data as well: the median delta factor is 0.696 meV/atom over all 65 paired elements. Restrictions are stated with the capabilities: two functionals, no spin-polarized or spin-orbit path, a stress implementation with an explicit scope, and no accelerator execution.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-13T07:18:23Z</published>
+    <arxiv:comment>19 pages, 2 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Zehan Liu</name>
+    </author>
+    <author>
+      <name>Qian Wang</name>
+    </author>
+    <author>
+      <name>Xiangyu Zheng</name>
+    </author>
+    <author>
+      <name>Jiaxiang Li</name>
+    </author>
+    <author>
+      <name>Chuntian Wu</name>
+    </author>
+    <author>
+      <name>Yongshuo Chen</name>
+    </author>
+    <author>
+      <name>Xuecheng Shao</name>
+    </author>
+    <author>
+      <name>Qiang Xu</name>
+    </author>
+    <author>
+      <name>Yu Xie</name>
+    </author>
+    <author>
+      <name>Yanming Ma</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.16949v1</id>
+    <title>First-Principles Calculations of the Electron-Hole-Pair Creation Energy in Semiconductors and Dielectrics</title>
+    <updated>2026-10-12T15:20:46Z</updated>
+    <link href="https://arxiv.org/abs/2610.16949v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.16949v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present first-principles calculations of the electron-hole-pair creation energy in semiconductors and dielectrics, focusing in particular on AlN, 3C-SiC, 4H-SiC, Si, and SiO2. We have employed density functional theory (DFT) to calculate the band structure, density-functional perturbation theory to obtain the phonon dispersion, and time-dependent DFT (TDDFT) to calculate the electron energy loss function (via the dielectric function). We performed full-band Monte Carlo simulations of electron thermalization for energies up to ~100 eV and calculated the average energy required to excite an electron-hole pair. We calculated pair-creation energies of approximately 12.2, 6.5, 7.3, 3.10, and 16.7 eV/pair for AlN, 3C-SiC, 4H-SiC, Si, and SiO2, respectively. These values are in good agreement with measured data, with the largest discrepancy being that of Si (about 14.9% lower than the accepted experimental value of ~3.6 eV/pair). To improve the agreement for Si, we used the GW approach and the Bethe-Salpeter equation (BSE) to calculate the quasiparticle shifts of the electronic band structure and the dielectric function, respectively. Finally, using the GW/BSE data, we calculated a creation energy of ~3.50 eV/pair. We find that the marked improvement in the accuracy of the calculated creation energy, when using the GW/BSE approach, is primarily attributable to the slight decrease in the magnitude of the electron energy-loss function when using the GW/BSE approach for energies below ~10-15 eV. Overall, it is clear that the competition between phonon emission and ionization near the intersection of the phonon scattering and ionization rates is largely responsible for determining the value of the creation energy, with the other major factor being the location and shape of the plasmon peak in the energy-loss function.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-12T15:20:46Z</published>
+    <arxiv:comment>14 pages, 14 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Dallin O. Nielsen</name>
+    </author>
+    <author>
+      <name>Massimo V. Fischetti</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.16438v1</id>
+    <title>Decoupling Trap States in Amorphous Oxide Semiconductor Transistor Using a Conductive-Semiconducting-Conductive MOS Structure</title>
+    <updated>2026-10-12T09:03:22Z</updated>
+    <link href="https://arxiv.org/abs/2610.16438v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.16438v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We propose a novel amorphous oxide semiconductor (AOS)-based conductive-semiconducting-conductive (CSC) MOS test structure to effectively sense, discriminate, and analyze distinct trap-induced conductance losses in AOS transistors. In conventional test structures, non-ideal metal-AOS contacts convolute the conductance loss generated by various trap states. The CSC architecture mitigates these contact-related artifacts, enabling the decoupling of interface states and shallow states. Furthermore, the contributions from leakage, series resistance, and device-geometry effects are identified and calibrated. Our results yield bias-resolved trap profiles and reveal three distinct regimes: (1) In the depletion region, interface states dominate the conductance loss. These states exhibit sub-microsecond time constants and their density increases slightly with deeper depletion, which is associated with donor-like states. (2) From weak to moderate accumulation, shallow states become the primary contributor, displaying a Gaussian-like volumetric density-of-states distribution with response times spanning from microseconds to nanoseconds. (3) In the strong accumulation regime, interface states regain dominance with an increased state quantity, while their time constants remain invariant. These bias-resolved profiles clarify how different trap populations impact AOS transistors under distinct operating conditions, providing intuitive metrics for understanding reliability degradation. Consequently, the CSC structure offers a simple, scalable, and robust platform for trap characterization in AOS transistors.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-12T09:03:22Z</published>
+    <arxiv:comment>4 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Kai Chen</name>
+    </author>
+    <author>
+      <name>Wei Zhang</name>
+    </author>
+    <author>
+      <name>Xuanyao Fong</name>
+    </author>
+    <author>
+      <name>Shengman Li</name>
+    </author>
+    <author>
+      <name>Yunlong Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.15904v1</id>
+    <title>Transfer learning-aided, artificial intelligence approach to evaluate optical properties of materials for classical and quantum photonic applications</title>
+    <updated>2026-10-11T20:30:56Z</updated>
+    <link href="https://arxiv.org/abs/2610.15904v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.15904v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this study, an artificial intelligence-assisted evaluation of the refractive indices of different materials is performed. The evaluation of the refractive index is necessary to design photonic devices for various classical and quantum photonic applications, and to theoretically analyse experimental results. The refractive index is one of the crucial parameters that affect the interaction of light with matter. Although the refractive index can be measured experimentally, its estimation via computational means provide the advantage of not requiring costly instrumentation, trained researchers and could avoid potential laboratory-based uncertainties. Therefore, in this study, artificial intelligence is implemented to estimate the optical constants of two types of materials, i.e., noble metals, and semiconductors. To this end, an artificial neural network is used to estimate the real and the imaginary parts of the refractive index of a specific material for various wavelengths of light. Then, the knowledge of the trained neural network is employed to initiate and train new neural networks to estimate the refractive indices of other materials. For the training of a neural network, various methods can be deployed. However, the application of the training can be a time-consuming process. A transfer learning approach is here implemented to provide a faster training solution for the problem under study. The implementation of transfer learning allows training the neural networks for a new material with higher speed or accuracy when compared to non-knowledge transfer-based training. Our results show the efficiency of the proposed technique in accurately evaluating the real and imaginary parts of the refractive index of different materials.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-11T20:30:56Z</published>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Mohammad Reza Habibi</name>
+    </author>
+    <author>
+      <name>Luca Sapienza</name>
+    </author>
+    <author>
+      <name>Juan C. Vasquez</name>
+    </author>
+  </entry>
+</feed>

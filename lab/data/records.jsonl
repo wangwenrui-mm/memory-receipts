@@ -1,0 +1,7 @@
+{"id": "R-001", "date": "2026-09-12", "param": "退火温度", "value": 850, "unit": "℃", "note": "Ar 气氛 30 min", "source": "EXP-2026-13", "scope": "样品1"}
+{"id": "R-002", "date": "2026-09-12", "param": "退火时间", "value": 30, "unit": "min", "note": "", "source": "EXP-2026-13", "scope": "样品1"}
+{"id": "R-003", "date": "2026-09-15", "param": "氧化层厚度", "value": 120, "unit": "nm", "note": "椭偏仪测得", "source": "EXP-2026-15", "scope": "样品1"}
+{"id": "R-004", "date": "2026-09-20", "param": "载流子迁移率", "value": 1450, "unit": "cm²", "note": "Hall 测试", "source": "EXP-2026-18", "scope": "样品2"}
+{"id": "R-005", "date": "2026-09-20", "param": "载流子浓度", "value": 3.2e+18, "unit": "cm-2", "note": "", "source": "EXP-2026-18", "scope": "样品2"}
+{"id": "R-006", "date": "2026-10-02", "param": "栅极电压", "value": 3, "unit": "V", "note": "击穿前上限", "source": "EXP-2026-21", "scope": "样品2"}
+{"id": "R-007", "date": "2026-10-02", "param": "漏电流", "value": 1.5, "unit": "mA", "note": "", "source": "EXP-2026-21", "scope": "样品2"}

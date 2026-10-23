@@ -1,0 +1,11 @@
+# 核心依赖
+requests>=2.31
+websockets>=11.0
+
+# 向量记忆（可选，没有会退化为纯关键词检索）
+onnxruntime>=1.16
+numpy>=1.24
+tokenizers>=0.15
+
+# 可选：语音合成
+edge-tts>=6.1

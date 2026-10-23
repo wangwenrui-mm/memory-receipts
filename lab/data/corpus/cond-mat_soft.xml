@@ -1,0 +1,1148 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/ZeShn2WdCHYPt/UNdp06z8HQ0ak</id>
+  <title>arXiv Query: search_query=cat:cond-mat.soft&amp;id_list=&amp;start=0&amp;max_results=50</title>
+  <updated>2026-10-23T08:16:19Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=cat:cond-mat.soft&amp;start=0&amp;max_results=50&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <opensearch:totalResults>46484</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31157v1</id>
+    <title>Functional understanding of structural components in polypseudorotaxane gels</title>
+    <updated>2026-10-22T12:15:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.31157v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31157v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Biomedical devices, wearable interfaces, and soft robots require compliant soft materials with reliable mechanical performance, yet the molecular principles needed to design such materials are not always fully understood. Thus, there is an urgent need to understand how to design novel stretchable and soft hydrogels with enhanced toughness, i.e. resistance to breakage. Slide-ring gels (SRGs) are a class of unconventional soft materials formed by polyrotaxanes (PR) building blocks whereby sliding cyclodextrins (CD) replace traditional chemical and physical crosslinks and in turn enhance toughness and stretchability by several orders of magnitude. The rational design of SRGs re- mains challenging due to a lack of a mechanistic understanding of the role played by individual components. In this work, we implement simple synthetic perturbations that individually target polymer-CD and CD-CD interactions in unstoppered pseudopolyrotaxanes (pPR) solutions and measure the consequent changes in viscoelastic properties. Weakening the intermolecular interaction between CDs abolishes crystallisation and significantly weakens the gel. At the same time, thermodynamically favouring threading by using azobenzene-modified PEG chains favours the formation of stable and long-lived networks even at remarkably low CD stoichiometries. We rationalise these observations with coarse-grained Molecular Dynamics simulations which clarify the structure-function relationship of the components forming these materials. Our work contributes to guiding the rational design and development of enhanced SRG hydrogels and elastomers.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T12:15:02Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Ella Sapsford</name>
+    </author>
+    <author>
+      <name>Andrea Bonato</name>
+    </author>
+    <author>
+      <name>Simon Weir</name>
+    </author>
+    <author>
+      <name>Nawar Zebari</name>
+    </author>
+    <author>
+      <name>Paul J. Lusby</name>
+    </author>
+    <author>
+      <name>Chenfeng Ke</name>
+    </author>
+    <author>
+      <name>Davide Michieletto</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31126v1</id>
+    <title>Entropy-production cost limits hierarchical decision-making in homing pigeon flocks</title>
+    <updated>2026-10-22T11:43:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.31126v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31126v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Collective decision-making requires individuals to reconcile diverse, often conflicting opinions to reach a common course of action. However, within a group, they rarely exert equal influence, leading to non-reciprocal communication patterns manifested as leader-follower relationships and social hierarchies. Here, using homing pigeon flocks as a model system, we develop a trajectory-based framework to infer and quantify hierarchy within navigating living collectives. We find that while small flocks exhibit pronounced hierarchy, increasing flock size progressively weakens it, driving the collection toward more egalitarian decision-making. We provide a physical basis of this observation using a thermodynamic framework in which non-reciprocal communication between birds carries an information-entropy cost. Our calculations reveal that hierarchy weakening observed in larger flocks is a direct consequence of maintaining a constant per-individual entropy production rate across flock sizes. Together, these results suggest that constraints on information-processing capacity may play an important role in the collective dynamics of living organisms.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T11:43:12Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Bibaswan Ghosh</name>
+    </author>
+    <author>
+      <name>Vipul Rai</name>
+    </author>
+    <author>
+      <name>Harsh Soni</name>
+    </author>
+    <author>
+      <name>Nitin Kumar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30958v1</id>
+    <title>Active phase separation from concentration-dependent diffusion in chemical networks</title>
+    <updated>2026-10-22T09:06:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.30958v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30958v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Active phase separation in living systems is ubiquitous, yet the microscopic origins of the non-equilibrium terms in active field theories remain largely unknown. Here, starting from stochastic mass-conserving reaction-diffusion dynamics of two interacting chemical species, we perform a systematic slow-mode reduction and derive the complete Active Model B+ field theory, with all phenomenological coefficients expressed in terms of microscopic parameters. We identify concentration-dependent diffusivities and asymmetric inter-species chemotactic couplings as the minimal microscopic ingredients generating the genuinely non-equilibrium coefficient responsible for microphase separation, cluster phases, and arrested coarsening. Our framework recovers the equilibrium limit consistently and is validated by stochastic numerical simulations. These results establish a direct, bottom-up link between the architecture of chemical reaction networks and the universality class of their emergent large-scale dynamics.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T09:06:36Z</published>
+    <arxiv:comment>6 pages, 2 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Giulia Pisegna</name>
+    </author>
+    <author>
+      <name>Ramin Golestanian</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30831v1</id>
+    <title>Surface morphology and shear effect on lubricated granular system</title>
+    <updated>2026-10-22T07:01:24Z</updated>
+    <link href="https://arxiv.org/abs/2610.30831v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30831v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Improving the particle surface frictional behavior is of considerable importance in several industries so as to manipulate the powder flowability and handling. In this work, we have studied the lubrication phenomena in an assembly of flowing bulk powder particles in presence of a fine powder lubricant. Experiments were conducted in two different shear environments, for two different levels of confinement and using three different bulk powder particles having distinct surface morphology. The added lubricant particles tend to adhere to the surface of bulk particles thereby altering their surface morphology. This results in altered inter-particle friction, which typically reduces for small addition of lubricant, but increases on its excess addition, thereby altering the particle flowability. While this behavior is generally understood through previous studies, the current work explores how the effect of confinement, shear environment and particle surface characteristics combine in a unique manner to provide modified flow behavior for different lubricant concentrations. Extended shear duration seems to extend the range of lubricant concentrations for improved flowability. On the other hand flow confinement seems to limit the extent of lubrication for these range of concentrations. Both these opposing effects also exhibit a unique dependence on the particle surface morphology and its seeming affinity with the lubricant particle. The parameter types and ranges explored comprise most conditions encountered in industrial systems, the outcome thereby providing a basis for designing of applications handling lubricant-particle mixtures.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T07:01:24Z</published>
+    <arxiv:comment>39 pages, 11 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <arxiv:journal_ref>Ind. Eng. Chem. Res., 65, 21859-21871 (2026)</arxiv:journal_ref>
+    <author>
+      <name>Ravindra S. Ghodake</name>
+    </author>
+    <author>
+      <name>Ashish V. Orpe</name>
+    </author>
+    <arxiv:doi>10.1021/acs.iecr.6c03774</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1021/acs.iecr.6c03774" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30749v1</id>
+    <title>Strain Waves Generate Compression and Trigger Buckling in Active Polymers</title>
+    <updated>2026-10-22T05:18:13Z</updated>
+    <link href="https://arxiv.org/abs/2610.30749v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30749v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Chemical reactions can sustain polymer motion without necessarily generating the compression required for buckling. Theory and simulations show that tension-dependent chemical transitions coupled to bond elasticity generate finite-wavelength traveling strain waves in a semiflexible polymer. In the straight chain at fixed axial span, the waves reduce mean active contraction while leaving mean elastic tension unchanged, generating compression that drives bending above a threshold. Releasing the mean load allows longitudinal waves to persist while transverse perturbations decay.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.AO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T05:18:13Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Wen-de Tian</name>
+    </author>
+    <author>
+      <name>Kang Chen</name>
+    </author>
+    <author>
+      <name>Tianhui Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30627v1</id>
+    <title>Emergent Entropic Forces Drive Inverse and Reentrant Phase Transitions in Condensates of Intrinsically Disordered Proteins</title>
+    <updated>2026-10-22T02:50:45Z</updated>
+    <link href="https://arxiv.org/abs/2610.30627v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30627v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present a phenomenological, mean-field model for condensates of intrinsically disordered proteins that describes inverse phase transitions and qualitatively predicts reentrant phase behavior as a function of salt concentration. The model is based on a matrix-based formulation of the Flory-Huggins free energy, in which the enthalpic interaction parameter and the protein valence, defined here as the number of effective "sticky patches", are treated as free parameters. Its central insight is that integrating out dynamics of fast-moving molecular species generates an effective entropic force that increases the free-energy barrier to mixing, even within a mean-field description. We account for this by linking Gaussian integration of co-solutes to the Schur complement of the matrix-based Flory-Huggins free energy. This provides a general thermodynamic framework illustrating how enthalpic interactions that increase the number of available microstates necessarily induce effective entropic forces. We demonstrate the expressiveness and predictive power of the model by qualitatively reproducing recent experimental observations on the rabies virus phosphoprotein.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T02:50:45Z</published>
+    <arxiv:comment>20 pages. 7 Figures. Comments welcome!</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>David A. Herrera-Martí</name>
+    </author>
+    <author>
+      <name>Marc Jamin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30588v1</id>
+    <title>Supercoiling Drives DNA-Protein Co-Condensation</title>
+    <updated>2026-10-22T01:42:38Z</updated>
+    <link href="https://arxiv.org/abs/2610.30588v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30588v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The co-condensation of DNA and proteins plays an important role in genome compaction, including heterochromatin formation and chromosome segregation. Meanwhile, transcription and replication continuously generate DNA supercoiling, yet how the resulting torsional stress affects co-condensation remains poorly understood. Here, by coupling DNA elasticity to a protein concentration field, we show that supercoiling acts as a topological catalyst for co-condensation through a mutually reinforcing interplay with protein wetting. Specifically, protein wetting facilitates twist-to-writhe conversion, generating highly writhed DNA conformations that in turn promote capillary collapse into a protein-rich droplet. In the absence of supercoiling, DNA remains kinetically trapped in metastable extended states within our model, whereas sufficiently strong supercoiling removes the nucleation barrier and enables spontaneous co-condensation. These results establish topology as a distinct control parameter for biomolecular condensation and provide a mechanical framework for how active genomic processes can dynamically regulate large-scale genome organization.</summary>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.BM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T01:42:38Z</published>
+    <arxiv:comment>12 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.bio-ph"/>
+    <author>
+      <name>Sihan Liu</name>
+    </author>
+    <author>
+      <name>Hongbo Zhao</name>
+    </author>
+    <author>
+      <name>Andrej Košmrlj</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30330v1</id>
+    <title>Shear-induced mechanical yielding controls cluster morphology and dynamics in aggregating non-Brownian suspensions</title>
+    <updated>2026-10-21T18:46:10Z</updated>
+    <link href="https://arxiv.org/abs/2610.30330v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30330v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In sheared aggregating suspensions, flow drives both the formation and breakage of particle clusters, whose dynamic evolution influences transport and rheological properties. Understanding these mechanisms remains challenging due to the complex interplay between interparticle forces, hydrodynamic interactions, and shear flow. Using parallelized Accelerated Stokesian Dynamics (PASD) simulations, we investigate cluster microstructure and rotational dynamics, and how their coupling produces suspension stress in sheared, attractive non-Brownian suspensions. When interparticle attraction dominates over separating shear forces, clusters grow until mechanical loading balances maximum interparticle bond strength. We examine how the cluster stresslet depends on cluster size, with both quantities normalized by their mechanical yielding scales. Scaled cluster stresslets collapse onto a master curve exhibiting three distinct regimes: cubic, quadratic, and linear with respect to the scaled radius of gyration $R_g$. In the cubic regime, small, compact clusters behave as rigid bodies, whose hydrodynamic stresslet scales with cluster volume $R_g^3$. As clusters grow into the quadratic regime, low-aspect-ratio clusters preferentially yield under flow, driving a proportional increase in average aspect ratio with size. High-aspect-ratio clusters follow Jeffery rotational dynamics within the flow-gradient plane, spending longer durations aligned with the flow and thereby reducing their time-averaged hydrodynamic stresslet to scale as $R_g^2$. In the linear regime, clusters approach the maximum size sustainable by the interparticle bonds. The internal tension is bounded by the maximum bond strength, limiting the stresslet to an $R_g$ dependence. These findings establish a mechanistic framework connecting microscale cluster morphology and dynamics to macroscale rheology.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:46:10Z</published>
+    <arxiv:comment>A 6-page article</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Jae Hwan Jeong</name>
+    </author>
+    <author>
+      <name>Donald L. Koch</name>
+    </author>
+    <author>
+      <name>Sarah Hormozi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30287v1</id>
+    <title>Non-Destructive Detection of Early Drought Stress via Spectral Submanifold Analysis</title>
+    <updated>2026-10-21T18:05:09Z</updated>
+    <link href="https://arxiv.org/abs/2610.30287v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30287v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Non-destructive early detection of water stress is critical for precision agriculture, yet current detection methods are often labor-intensive or destructive. We propose a rapid, non-invasive method based on Spectral Submanifold (SSM) reduction to analyze the nonlinear vibration dynamics of soybean plants. Unlike traditional linear modal analysis, our data-driven approach reveals a distinct transition in the dominant dynamics of the plant stem as drought progresses. Specifically, we uncover a sign reversal in the nonlinear damping coefficient within SSM-reduced models of full plants. Our finding reveals a fundamental transition in the plant's dissipative mechanics from a pressurized, fluid-rich vessel exhibiting superlinear (viscoelastic) damping to a dry, cellular solid dominated by sublinear (frictional) damping. This transition is closely correlated with the onset of physiological stress indicated by a significant decrease in the values of mature-leaf soil plant analysis development (SPAD) and colorimetric metrics. In contrast, traditional metrics, such as linear frequency and leaf wilting, do not provide consistent statistical signals of water stress. This study provides the first experimental evidence that SSM-based nonlinear model reduction can detect the changing internal state of a living organism, offering a physics-based metric for high-throughput plant phenotyping.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.QM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T18:05:09Z</published>
+    <arxiv:comment>Includes supplementary information and one supplementary video. This manuscript has been submitted</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Sunghwan Jung</name>
+    </author>
+    <author>
+      <name>Isabella Thiel</name>
+    </author>
+    <author>
+      <name>Jisoo Yuk</name>
+    </author>
+    <author>
+      <name>George Haller</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30092v1</id>
+    <title>Spatial Control of Compressible Active Fluids</title>
+    <updated>2026-10-21T17:41:26Z</updated>
+    <link href="https://arxiv.org/abs/2610.30092v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30092v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the response of compressible microtubule-based active fluids to sinusoidally varying activity patterns, using experiments and theory. Microtubules accumulate in low-activity regions and are depleted from high activity ones, with the density difference controlled by the wavelength of the activity pattern. To explain these observations the continuum model needs to account for both active stresses that are proportional to nematic order tensor and the isotropic active pressure. At short wavelengths, active vortices spanning adjacent high and low activity regions suppress density modulation. At larger wavelengths, vortical flows confined to the low or high activity region allow for the emergence of the density contrast. Our work shows that a minimal theoretical model of active compressible fluids accurately reproduces experiments, while elucidating the fundamental constraints on control protocols that seek to tame their chaotic dynamics.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T17:41:26Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Yu-Chuan Cheng</name>
+    </author>
+    <author>
+      <name>Dimitris Krommydas</name>
+    </author>
+    <author>
+      <name>Seungwoo Shin</name>
+    </author>
+    <author>
+      <name>Paarth Gulati</name>
+    </author>
+    <author>
+      <name>Michael F. Hagan</name>
+    </author>
+    <author>
+      <name>Aparna Baskaran</name>
+    </author>
+    <author>
+      <name>Cristina M. Marchetti</name>
+    </author>
+    <author>
+      <name>Zvonimir Dogic</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30077v1</id>
+    <title>A linear, second-order, unconditionally energy-stable scalar-auxiliary-variable scheme for the CHQ viscoelastic phase-separation model</title>
+    <updated>2026-10-21T17:27:54Z</updated>
+    <link href="https://arxiv.org/abs/2610.30077v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30077v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The CHQ model describes viscoelastic phase separation in a polymer--solvent mixture: a Cahn--Hilliard equation for the polymer volume fraction $φ$ is two-way coupled, through a phase-dependent cross-diffusion flux, to a damped relaxation equation for a scalar bulk elastic stress $q$. We propose a scalar-auxiliary-variable (SAV) time discretisation of this system, combining the SAV reformulation of the double-well potential with a second-order backward differentiation formula (BDF2) and a second-order extrapolation of all phase-dependent mobilities: a linear, computationally cheaper complement to the reference scheme's fully nonlinear Newton solve. The resulting method is (i) linear at every time step, with a coupling structure we prove has exactly one solution at every step, for every choice of time-step size; (ii) mass conserving, exactly, as an algebraic identity of the discrete equations themselves (the only drift ever seen numerically traces to the finite tolerance of the iterative linear solver, not a failure of the conservation property); and (iii) unconditionally stable for a modified discrete energy, via an exact one-step energy--dissipation identity. We show the energy identity extends to this filtered variant as well, with two explicit extra non-negative terms. Hence, the scheme actually producing the physics results is itself provably stable for the same energy. A Fourier--Galerkin implementation verifies that the energy identity holds at every time step to within floating-point round-off. It also confirms second-order temporal accuracy, including in the steep-interface regime, and agreement with an independently implemented nonlinear Newton--BDF2 solver. Compared with that independent nonlinear Newton--BDF2 solver, at equal grid resolution, the SAV method uses $2.5$--$3.0\times$ fewer linear-solver iterations and $1.7$--$2.0\times$ less wall-clock time.</summary>
+    <category term="math.NA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T17:27:54Z</published>
+    <arxiv:primary_category term="math.NA"/>
+    <author>
+      <name>Ritesh Bhola</name>
+    </author>
+    <author>
+      <name>Michael te Vrugt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30008v1</id>
+    <title>Clutter Noise Induced Phase Segregation in Binary Active Polar Flocks</title>
+    <updated>2026-10-21T16:41:28Z</updated>
+    <link href="https://arxiv.org/abs/2610.30008v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30008v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Macroscopic phase segregation in binary active mixtures can emerge solely from clutter noise: local, composition-dependent stochasticity, without repulsion or anti-alignment torques. Using an agent-based Vicsek model, we show that clutter noise alone destabilizes the mixed state, producing multi-stripe, co-moving band, and metastable counter-propagating morphologies, as well as a stable phase-segregated polar fluid. Our hydrodynamic theory shows that clutter noise suppresses local polar order and transport efficiency, consistent with the demixing observed in the agent-based model.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T16:41:28Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Pradeep Kumar Yadav</name>
+    </author>
+    <author>
+      <name>Ignacio Pagonabarraga</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29931v1</id>
+    <title>Two-stage Slowdown of Vacancy-mediated Diffusion in a Lattice Gas Model with Quenched Disorder and Spins</title>
+    <updated>2026-10-21T16:04:20Z</updated>
+    <link href="https://arxiv.org/abs/2610.29931v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29931v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present a lattice gas model with random interactions quenched in space and spins quenched to the particles. The vacancy-mediated diffusion is studied in equilibrium. A two-stage slowdown is witnessed in both the mean squared displacement and the spatial overlaps. We demonstrate that the plateaus are due to anti-correlation at the corresponding length scale. The anti-correlation diminishes quickly with increasing lag time. A broad and yet finite distribution of the survival function of vacancies suggests their normal diffusion at large time limit. Our model can serve as a new playground for understanding hierarchical dynamics in glassy-like dynamical systems.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T16:04:20Z</published>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Qiang Zhai</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29862v1</id>
+    <title>Quenched disorder in polymerized membranes: from anomalous elasticity to a glassy phase</title>
+    <updated>2026-10-21T15:18:48Z</updated>
+    <link href="https://arxiv.org/abs/2610.29862v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29862v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Polymerized membranes are paradigmatic fluctuating systems in which geometry, elasticity, and statistical fluctuations combine to produce anomalous long-distance behavior. In the disorder-free flat phase, bending rigidity increases at long wavelengths while in-plane elastic moduli soften. Quenched random metric and curvature introduce competing thermal and disorder-induced fluctuations. We review perturbative and nonperturbative field-theoretical approaches to these systems, from pure membranes to their disordered counterparts. Early one-loop studies identified a disorder-free fixed point, $P_4$, and a zero-temperature disorder-dominated fixed point, $P_5$. A subsequent nonperturbative renormalization-group analysis revealed a third fixed point, $P_c$, at finite temperature and disorder, governing a continuous wrinkling transition between the thermally dominated flat phase and a disorder-dominated glassy phase. Higher-order perturbative calculations also recover a $P_c$-like fixed point, with anomalous dimensions remarkably close to the reexpanded nonperturbative predictions. This scenario connects naturally with the wrinkling transition observed in partially polymerized lipid membranes. The three experimental scaling regimes of height fluctuations can be associated with $P_4$, $P_c$, and $P_5$, with theoretical exponents showing good quantitative agreement with measurements, particularly at criticality. Finally, we discuss the status of the glassy scenario, the unresolved discrepancy between perturbative and nonperturbative fixed-point stability predictions, and possible extensions to defective graphene and related two-dimensional crystalline materials.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:18:48Z</published>
+    <arxiv:comment>20 pages, 1 figure, Proceedings of the IRS (Inhomogeneous Random Systems) workshop, Institut Henri Poincaré (Paris), Janvier 27-28, 2026</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>D. Mouhanna</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29801v1</id>
+    <title>Closing of density wake in concentrated colloidal suspensions: two regimes governed by compressibility, friction, and self-propulsion</title>
+    <updated>2026-10-21T14:28:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.29801v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29801v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>When an obstacle moves through a compressible medium, it creates a density perturbation. Theoretical arguments regarding the shape of this density wake in Brownian suspensions either suppose infinite dilution or describe only the far field. Here, we study via experiments and numerical simulations the closing of the density perturbation just behind a circular obstacle in dense 2D suspensions of particles that are thermal or self-propelled. In the thermal case, we show that the characteristic length of the wake is a non-monotonic function of density, decreasing then increasing. We rationalise the scalings of both regimes by analytical arguments that highlight the role of the compressibility factor of the suspension. Based on this new understanding of the passive case, we show that the influence of self-propulsion observed in experiments and simulations can be understood as if the obstacle is effectively larger in an active bath, with non-trivial and distinct roles of the self-propulsion velocity and of the persistence time.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T14:28:19Z</published>
+    <arxiv:comment>9 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Guillaume Duprez</name>
+    </author>
+    <author>
+      <name>Gianmarco Spera</name>
+    </author>
+    <author>
+      <name>Benjamin Buhl</name>
+    </author>
+    <author>
+      <name>François Graner</name>
+    </author>
+    <author>
+      <name>Vincent Démery</name>
+    </author>
+    <author>
+      <name>Cécile Cottin-Bizonne</name>
+    </author>
+    <author>
+      <name>Hélène Delanoë-Ayari</name>
+    </author>
+    <author>
+      <name>Mathieu Leocmach</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29719v1</id>
+    <title>Hydrodynamics of microalgae in sea spray</title>
+    <updated>2026-10-21T13:29:45Z</updated>
+    <link href="https://arxiv.org/abs/2610.29719v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29719v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Airborne transmission of biological matter is likely to cause numerous respiratory distress in coastal populations during certain harmful algal blooms. While we know that dissolved algal toxins aerosolize, the contribution of particle-associated toxins is still unknown. The observation of microalgae in the atmosphere suggests that cells or cell debris could be a carrier. Exchange of particulate matter between ocean and atmosphere is driven by sea spray: microplastics and bacteria aerosolize in jet droplets, following the bursting of air bubbles. However, current models for particle capture only consider surface effects, which fail to explain how large microalgal cells (5-50 um) can be entrapped in jet drops (100-800 um). Here, we demonstrate with a variety of species that microalgae are consistently captured in jet drops, and derive a new particle capture model based on the hydrodynamics of the jet. Using the enrichment factor, which measures the increase in concentration in the first jet drop relative to the bulk, we uncover two regimes. The transition between regimes strongly depends on cell size. In addition, we highlight the dynamics of particles within the jet and derive an enrichment model based on hydrodynamics rather than surface considerations. This work widens and generalizes established results on bacterial and microplastic entrapment in jet drops, resolving discrepancies found in the literature. Finally, we demonstrate that sea spray can aerosolize toxic Ostreopsis cf. ovata cells. This reveals a potential particulate pathway for airborne toxicity during harmful algal blooms and raises the question of the relative contribution of particles to that of dissolved toxins.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ao-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T13:29:45Z</published>
+    <arxiv:comment>20 pages, 9 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Elettra Figà Talamanca</name>
+    </author>
+    <author>
+      <name>Juliette Pierre</name>
+    </author>
+    <author>
+      <name>Eva Ternon</name>
+    </author>
+    <author>
+      <name>Paula Cohen</name>
+    </author>
+    <author>
+      <name>Maarten De Rijcke</name>
+    </author>
+    <author>
+      <name>Hélène de Maleprade</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29703v1</id>
+    <title>Choosing Spatial Resolution in the Residence-Time Approach to Local Diffusivity</title>
+    <updated>2026-10-21T13:16:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.29703v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29703v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Estimating position-dependent diffusivity with the residence-time approach (RTA) requires choosing an interval width that resolves spatial variation while probing time scales compatible with a local diffusion model. We develop a selection criterion that combines bulk diffusivity convergence with local model agreement measured by the Kullback-Leibler divergence between observed and predicted first-exit-time distributions, and assess global model agreement through independent propagator analysis against unbiased molecular dynamics. Applications to water in a fluid phospholipid bilayer and three permeants in a model skin lipid barrier show that local agreement alone does not ensure global fidelity: in the skin barrier, narrow intervals minimize exit-time mismatch but predict excessive spreading, whereas requiring bulk convergence selects wider intervals with better longer-time predictions. In propagator tests, RTA profiles at the selected interval widths outperform velocity-autocorrelation-based profiles and generally improve agreement relative to position-autocorrelation-based profiles in the skin barrier, while phospholipid-bilayer rankings depend on lag time and discrepancy metric; both autocorrelation methods use harmonically restrained simulations.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T13:16:33Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Michael von Domaros</name>
+    </author>
+    <author>
+      <name>Rinto Thomas</name>
+    </author>
+    <author>
+      <name>Praveen Ranganath Prabhakar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29653v1</id>
+    <title>Construction of highly coarse-grained molecular models for aqueous electrolytes</title>
+    <updated>2026-10-21T12:35:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.29653v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29653v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Molecular modelling of electrochemical systems at larger than atomic scales poses particular challenges, not least the ability to represent correct thermodynamic, hydrodynamic and dielectric properties while still being computationally viable for large scale applications. In the case of aqueous electrolytes such as those used in vanadium-based batteries with oxidation-reduction (redox) reactions, both a background medium that can respond to localised electric fields due to high-valence ions and control over ion transport properties are crucial to embed consistently in the model. To this end, we propose the use of Dissipative Particle Dynamics (DPD) combined with a newly-devised highly coarse-grained polarisable water model with pairwise interactions designed to produce realistic thermodynamic behaviour as the basis for the aqueous electrolytes found in vanadium redox flow batteries (VRFB). We consider how the core water model can be modified to incorporate the ionic species found in VRFB catholytes and anolytes, as well as how the DPD pairwise thermostat forces can be parameterised to attain realistic diffusivities for those species.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T12:35:42Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Michael A. Seaton</name>
+    </author>
+    <author>
+      <name>Benjamin T. Speake</name>
+    </author>
+    <author>
+      <name>Tristan Rimmer</name>
+    </author>
+    <author>
+      <name>Ilian T. Todorov</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29615v1</id>
+    <title>Mechanism of delayed elastic state absorption versus fatigue failure in cyclic shear of amorphous materials</title>
+    <updated>2026-10-21T11:56:11Z</updated>
+    <link href="https://arxiv.org/abs/2610.29615v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29615v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study cyclic shear in a lattice elastoplastic model of amorphous materials. The model displays a threshold shear amplitude $γ_{\rm c}$, which increases with sample annealing. For imposed amplitudes $γ_0\lesssimγ_{\rm c}$, it shows slow progression to an absorbing elastic state. For $γ_0\gtrsim γ_{\rm c}$, it shows slow fatigue and delayed material failure. Our key contribution is to elucidate a mechanistic understanding of this behaviour. We show that progression to an absorbing state maps to single element diffusion on a finite interval with two absorbing boundaries. We derive expressions for the decay rate of the fraction of active elements, and the survival distribution. The diffusing variable is the local elemental strain, which takes two jumps stroboscopically per cycle. Once the value at any site diffuses below its yielding threshold, the element behaves elastically. This leads to a gradual accumulation of strains just below threshold. For $γ_0\lesssim γ_{\rm c}$ this diffusive behaviour is preceded by many cycles in which cooperativity between elements via stress propagation is also important. For $γ_0 &gt; γ_{\rm c}$, stress propagation dominates and precipitates failure. For $γ_0\gtrsim γ_{\rm c}$, the same accumulation of elements just below local threshold that led to an elastic state for $γ_0\lesssimγ_{\rm c}$ accounts for the fatigue that brings the system to the brink of failure. We evidence this via simulations in which the strain amplitude artificially exceeds $γ_0 $ in each half cycle, before reverting to the system's actual state at $\pmγ_0$ and resuming the next half cycle. During fatigue, the stress-strain slope $dσ/dγ$ evolves towards unity at $|γ|=γ_0^-$, signifying perfect elasticity within cycle, yet towards zero at $|γ|=γ_0^+$, precipitating failure.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T11:56:11Z</published>
+    <arxiv:comment>13 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Samuel B. Walker</name>
+    </author>
+    <author>
+      <name>Suzanne M. Fielding</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29389v1</id>
+    <title>Tuning Thermal Memory and Dissipation in Colloidal Glasses via Microgel Particle Stiffness</title>
+    <updated>2026-10-21T08:16:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.29389v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29389v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The Kovacs effect, characterized by nonlinear, path-dependent structural recovery, is a hallmark of glassy systems. In soft colloidal microgel glasses, the stiffness of the constituent particles governs their deformation, swelling, rearrangement, and response to external stimuli, thereby dictating the path-dependent structural recovery of these jammed non-equilibrium systems. To investigate this influence, microgels of different stiffnesses were synthesized by adjusting the concentration of the polar crosslinker, N, N'-methylenebisacrylamide (MBA). The relaxation of the storage and loss moduli was measured using oscillatory rheology under diverse temperature ramp rates, and cryo-FESEM imaging provided direct visualization of the underlying particle packing. While the rapid adaptability of soft particles and the kinetic arrest of stiff ones suppresses Kovacs asymmetry, intermediate-stiffness particles exhibit moderate thermoresponsivity, traversing distinct energy landscapes on heating and cooling to maximize asymmetry and dissipation. Cryo-FESEM micrographs, displaying gel-like networks in soft particle suspensions, dense packing in stiff particle suspensions, and disordered, compact structures in intermediate-stiffness systems, corroborate these findings. Our results demonstrate that intermediate-stiffness PNIPAM microgels optimize structural recovery, rendering them promising candidates for forming colloidal glasses and establishing Kovacs asymmetry as a robust probe of non-equilibrium dynamics in glassy systems.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T08:16:12Z</published>
+    <arxiv:comment>36 pages, 17 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Sonali Vasant Kawale</name>
+    </author>
+    <author>
+      <name>Ranjini Bandyopadhyay</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29270v1</id>
+    <title>Stochastic model of elongation-shortening-switching kinetics of a polymeric filament: Critical slowing down of first-passage and finite-size regularization</title>
+    <updated>2026-10-21T06:18:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.29270v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29270v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Several filamentous biopolymers exhibit unusual polymerization-depolymerization kinetics where continued elongation (shortening) is possible only in an `active' (`inactive') state while occasional random transition (switching) between the active and inactive states takes place. Here, we present a minimal stochastic model capturing only the key features of random elongation-shortening-switching kinetics of a generic filament. The structure and/or function of the filament ends when its length hits a critical value during its shortening; the time to reach this critical length can be formulated as a first-passage time (FPT) and for its calculation the critical length is treated as an absorbing boundary. Moreover, the lengths of the filaments that inspire our model are constrained to a finite maximum value $\mathcal{N}$; therefore, in our model we impose a reflecting boundary beyond which the filament cannot grow. We determined the distribution of the FPT and derived its first two moments. We identify a critical point where the drift of the tip of the filament vanishes making its movement purely diffusive; at this critical point, in the limit $\mathcal{N} \to \infty$, the fluctuations in the FPT diverges and MFPT becomes infinite indicating `critical slowing down'. Our analytical results will serve as the testing ground for the accuracy of the approximate theoretical results of more realistic models for polymerization-depolymerization kinetics of specific bio-filaments.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T06:18:42Z</published>
+    <arxiv:comment>5 pages, 3 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <arxiv:journal_ref>Physical Review E 114, 045404 (2026)</arxiv:journal_ref>
+    <author>
+      <name>Manvendra Singh</name>
+    </author>
+    <author>
+      <name>Ashok Garai</name>
+    </author>
+    <author>
+      <name>Debashish Chowdhury</name>
+    </author>
+    <arxiv:doi>10.1103/gr8t-t7gr</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1103/gr8t-t7gr" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29163v1</id>
+    <title>Numerical Prediction of NaCl Solubility in Water Using the TIP4P/05 Water Model NaCl/Madrid</title>
+    <updated>2026-10-21T03:54:10Z</updated>
+    <link href="https://arxiv.org/abs/2610.29163v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29163v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The solid-liquid equilibrium and solubility of NaCl in water were investigated using molecular dynamics simulations with the NaCl/Madrid force field and the TIP4P/05 water model. Particular attention was given to the influence of the intermolecular cut-off radius, rcut, used to identify ions belonging to the crystalline phase. Simulations were initiated from a NaCl crystal immersed in an aqueous NaCl solution, following the configuration proposed by Manzanilla-Granados et al. After equilibration, the system was analysed over an extended simulation trajectory. The radial distribution function, g(r), was used to establish a physically motivated criterion for distinguishing the crystalline and aqueous phases. Specifically, the first minimum following the principal Na-Cl correlation peak was used to characterise the ionic coordination environment and constrain the range of meaningful cut-off radii. The number of ions remaining in the crystalline phase was then evaluated as a function of rcut, allowing the corresponding solubility to be estimated. The resulting curve exhibits a well-defined inflection point, providing a criterion for identifying the transition between predominantly crystalline and dissolved ionic populations. This approach offers a structural basis for determining NaCl solubility directly from the evolution of the solid-liquid system, avoiding the arbitrary selection of the cut-off distance. The results demonstrate that combining radial distribution functions with cut-off-dependent analysis provides a useful framework for characterising solid-liquid behaviour and estimating the solubility of ionic crystals through molecular dynamics simulations.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T03:54:10Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Raúl Fuentes-Azcatl</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29016v1</id>
+    <title>Influence of embedding depth on the pullout of a plate from a confined granular medium</title>
+    <updated>2026-10-21T00:37:38Z</updated>
+    <link href="https://arxiv.org/abs/2610.29016v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29016v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Understanding the behaviour of moving objects within confined granular media is important in many technical applications. In this work we study the vertical pullout of a plate-like intruder buried at different depths within a dense granular aggregate from the onset of motion to flow around the intruder in the steady state by means of a two-dimensional polygonal Discrete Element Method. We find that the peak and steady-state drag forces depend differently on their embedding depth for different friction coefficients. Depending on the strength of friction the plate may interact with the domain walls, which enhances the drag force until failure of the aggregate, but not in the steady-state as dilation around intruder directs the force chains emanating from the plate upwards and away from the walls. If the inter-particle friction is weak, it is possible for the overhead pressure to overcome frictional resistance beyond a certain embedding depth. This prevents the formation of dilated failure zones above the intruder and changes the failure mode of the aggregate, leading to a slower decay of the steady-state drag forces with pullout distance.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T00:37:38Z</published>
+    <arxiv:comment>15 pages, 15 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Dominik Krengel</name>
+    </author>
+    <author>
+      <name>Jian Chen</name>
+    </author>
+    <author>
+      <name>Shun Nomura</name>
+    </author>
+    <author>
+      <name>Hidenori Takahashi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28850v1</id>
+    <title>CRAFT-ε: A Conformer-Resolved Atom- and Fragment-based Theory for the Static Relative Permittivity of Pure Organic Liquids</title>
+    <updated>2026-10-20T19:24:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.28850v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28850v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The static relative permittivity is an important property in thermodynamic modeling, electrochemistry, and solvent design, but predicting it directly from molecular structure remains challenging because both electronic polarization and molecular dipole orientation contribute to the measured response. Here, we introduce CRAFT-ε (Conformer-Resolved Atom- and Fragment-based Theory for ε), a conformer-resolved molecular descriptor model for predicting the static relative permittivity of neutral pure liquids. Conformer free energies, molecular dipoles, and atom-resolved polarizabilities are obtained from a GFN2-xTB/ALPB 10 workflow. The molecular dipole is decomposed into chemically defined polar-fragment vectors, allowing fitted corrections to retain both the magnitude and relative orientation of local dipolar contributions. Electronic and orientational polarization are combined with a group-contribution molar volume in the Onsager-Kirkwood-Fröhlich relation. A staged parameterization with 41 parameters is applied to nonpolar, polar, and hydrogen-bonding compounds. For 1393 liquids with permittivities between 1.5 and 183, CRAFT-ε reaches a five-fold cross-validated average absolute deviation of 2.40 ({R^2} = 0.93). Conformational averaging 15 is essential for liquids with several polar groups. Compared with an established fragment-based model with 139 parameters, it reaches a similar cross-validated RMSE (3.65 versus 3.41) with about a quarter of the parameters and applies to every liquid of the dataset. The resulting framework provides a computationally inexpensive route from molecular structure to liquid dielectric response and forms a basis for later application to solvent mixtures and electrolyte systems.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T19:24:36Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Simon Müller</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28312v1</id>
+    <title>A terminal-group and fluorination matrix for designing polar nematic liquid crystals</title>
+    <updated>2026-10-20T14:51:44Z</updated>
+    <link href="https://arxiv.org/abs/2610.28312v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28312v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Lateral fluorination has emerged as a powerful design variable in the design of polar liquid crystals, but its interplay with terminal-group identity remains poorly understood. Here we report a 40-member matrix of biphenyl-ester-phenyl mesogens that independently varies lateral core fluorination and terminal-group identity. Increasing lateral fluorination generally suppresses apolar mesophases and clearing points, however this same change can enable polar nematic phase behaviour in conjunction with suitable terminal units. Graph Fourier analysis of conformer averaged atomic charges shows polar materials occupy a high-frequency region of charge-spectral space, consistent with a bond-scale electrostatic motif. Different terminal units can bias this towards higher or lower frequencies, and in doing so can enable polar order to emerge.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T14:51:44Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Calum J. Gibb</name>
+    </author>
+    <author>
+      <name>Jordan Hobbs</name>
+    </author>
+    <author>
+      <name>William C. Ogle</name>
+    </author>
+    <author>
+      <name>Richard. J. Mandle</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28254v1</id>
+    <title>Dramatic pressure-induced slowdown and the soft glassy rheology of water at 2D material interface</title>
+    <updated>2026-10-20T14:12:25Z</updated>
+    <link href="https://arxiv.org/abs/2610.28254v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28254v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The flow of molecularly confined water has attracted considerable interest in recent years. Yet despite their exquisite character, current nanofluidic devices cannot probe molecular water flow beyond the linear-response regime, while nanomechanical force- based approaches have produced markedly inconsistent results. Here, using tuning- fork-based atomic force microscopy, we tackle these limitations by measuring the full linear-to-nonlinear, shear-dependent viscoelastic rheology of molecularly confined water at various two-dimensional material interfaces -- demonstrating pronounced rate effects in water flow response. The observed rheological behaviors are remarkably analogous to that of macroscopic soft glassy yielding materials and fully captured by a non-linear model accounting for the shear-induced acceleration of the dynamics -- a hallmark of disordered supercooled and metastable systems. We further unveil a pronounced pressure-induced slowdown in nanoconfined water dynamics, with relaxation times extending into the microsecond range and marked material dependence. These results reveal non-linear, glassy rheology as a general feature of interfacial water and offer a route to tunable, non-linear nanofluidic elements.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T14:12:25Z</published>
+    <arxiv:comment>Main text is 11 pages with 3 figures. Supplementary Information is 15 pages with 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Guilhem Mariette</name>
+    </author>
+    <author>
+      <name>Kenji Watanabe</name>
+    </author>
+    <author>
+      <name>Takashi Taniguchi</name>
+    </author>
+    <author>
+      <name>Jean Comtet</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28215v1</id>
+    <title>Variable-Resolution Scattering Reveals Ensemble Properties</title>
+    <updated>2026-10-20T13:50:38Z</updated>
+    <link href="https://arxiv.org/abs/2610.28215v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28215v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>SAXS/SANS determine the size and structure of particles and macromolecules in solution. However, the conventional low-angle determination of the radius of gyration, Rg, cannot separately resolve its scattering-weighted mean and the width of its distribution. Because the apparent Rg includes a contribution from ensemble variance, the distribution width is required even to recover the mean Rg. Here, we introduce TENOR-SAXS, a method for estimating the scattering-weighted width of an Rg distribution by applying two anisotropic digital smearings to a single 2D scattering image. Comparing the smeared images provides curvature information unavailable from the conventional radial profile. The resulting observables require no explicit model of the native instrumental point-spread function and show only weak sensitivity over the range of native resolutions typical of SAXS measurements examined here. Analytical expressions are derived in the low-angle and narrow-distribution limits for ensembles described by a known or independently constrained single-particle form factor. For verification, we simulated scattering by particles with several form factors and ensembles with different size distributions, all agree well with the analytical theory. To leading order, the principal observable depends on the scattering-weighted mean and variance rather than on the distribution's functional form or higher moments. For simulated data corresponding to feasible synchrotron exposure times for biological samples, the distribution width and, expressed as a fraction of its mean, was recovered with a typical discrepancy of ~0.1, while the scattering-weighted mean Rg was recovered with ~2% relative discrepancy. TENOR-SAXS thus provides a framework for estimating ensemble width from existing 2D scattering data without explicit instrumental desmearing and for correcting the variance contribution to the apparent radius</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.data-an" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T13:50:38Z</published>
+    <arxiv:comment>49 Pages, 11 Figures, 3 Tables</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Uri Steinitz</name>
+    </author>
+    <author>
+      <name>Mathar Kravikass</name>
+    </author>
+    <author>
+      <name>Gil Koren</name>
+    </author>
+    <author>
+      <name>Roy Beck</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28128v1</id>
+    <title>Tracking multiscale liquid crystal order with high harmonic spectroscopy</title>
+    <updated>2026-10-20T12:35:30Z</updated>
+    <link href="https://arxiv.org/abs/2610.28128v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28128v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Can high-harmonic generation track how microscopic intermolecular interactions give rise to macroscopic order? We address this question in the thermotropic liquid crystal 4-cyano-4'-n-pentylbiphenyl, a model system with a well-defined nematic-to-isotropic transition. Using a temperature-controlled flat jet, we show that polarization-resolved high-harmonic generation driven by mid-infrared strong-field pulses is highly sensitive to liquid-crystal order. In the nematic phase, the harmonic yield forms a four-lobed angular pattern with twofold rotational symmetry and is strongest when the driving-field polarization is perpendicular to the molecular director; this anisotropy vanishes in the isotropic liquid. A tight-binding model parameterized by first-principles calculations attributes this response to intermolecular orbital hybridization in short-range antiparallel molecular arrangements. Temperature-dependent measurements across multiple harmonic orders resolve the same first-order phase transition, with each harmonic order exhibiting a distinct optical sensitivity. A multiscale model combining the microscopic response, Landau-de Gennes orientational correlations and phase matching explains this behaviour through the interplay between orientational correlation lengths and harmonic coherence lengths. High-harmonic generation therefore links local electronic coupling to mesoscopic order and macroscopic propagation, providing an all-optical probe of multiscale organization in soft matter.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T12:35:30Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Marta L. Murillo-Sánchez</name>
+    </author>
+    <author>
+      <name>Andrea Annunziata</name>
+    </author>
+    <author>
+      <name>Simon Vendelbo Bylling Jensen</name>
+    </author>
+    <author>
+      <name>Ángel Rubio</name>
+    </author>
+    <author>
+      <name>Caterina Vozzi</name>
+    </author>
+    <author>
+      <name>Thomas Pfeifer</name>
+    </author>
+    <author>
+      <name>Davide Faccialà</name>
+    </author>
+    <author>
+      <name>Nicolas Tancogne-Dejean</name>
+    </author>
+    <author>
+      <name>Laura Cattaneo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27964v1</id>
+    <title>Effect of interfacial water structure on the adsorption of weakly hydrated anions</title>
+    <updated>2026-10-20T10:08:48Z</updated>
+    <link href="https://arxiv.org/abs/2610.27964v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27964v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Weakly hydrated anions tend to partition to macromolecular surfaces, leading to salting-in at low salt concentrations. Recent studies have linked this partitioning to disruption of the interfacial water network. Here, we investigate the role of interfacial-water-network disruption as an indirect driving force for the adsorption of weakly hydrated anions and its interplay with direct solute-anion and anion-cation interactions using computer simulations. We study the adsorption of SCN$^{-}$ and I$^{-}$ ions on a model extended solute that interacts with water and ions only via van der Waals interactions. To probe the indirect contribution, we increase the effective solute size while simultaneously decreasing the attractive solute-water and solute-ion interactions, resulting in progressively greater disorder in the interfacial water network in pure aqueous solutions. Our results show that iodide adsorption increases despite weaker direct solute-iodide interactions and correlates with greater disruption of the interfacial water network, although iodide remains depleted overall. In contrast, preferential adsorption of SCN$^{-}$ decreases, but the rate of decrease becomes smaller at higher levels of interfacial-water-network disorder. This suggests that the indirect contribution associated with interfacial-water-network disruption partly compensates for the decrease in SCN$^{-}$ adsorption caused by weaker direct solute-SCN$^{-}$ interactions. Our results highlight that the indirect contribution associated with interfacial-water-network disruption promotes the adsorption of weakly hydrated anions on macromolecular surfaces, while the extent of adsorption also depends on direct solute-ion interactions and anion-cation pairing. This interplay may be particularly important in mixed-salt solutions, where the presence of strongly hydrated anions can also disrupt the interfacial water network.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T10:08:48Z</published>
+    <arxiv:comment>Main text: 16 pages, 6 figures, Supplementary information is included after the references</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Swaminath Bharadwaj</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27927v1</id>
+    <title>Programmable nonlinear rotation of acoustically levitated chiral stars</title>
+    <updated>2026-10-20T09:39:40Z</updated>
+    <link href="https://arxiv.org/abs/2610.27927v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27927v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Acoustic levitation enables objects to be suspended and manipulated without physical contact, providing a versatile platform for studying the dynamics of freely suspended matter. Yet levitated objects, from droplets and thin films to particle assemblies, frequently rotate spontaneously, and this axial rotation often remains difficult to predict or control. There is no general understanding of how the shape of a levitated object determines whether it rotates, in which direction, or how its rotation changes with acoustic amplitude. Here, we establish how particle geometry and acoustic amplitude govern spontaneous rotation of acoustically levitated objects. We work with a family of shapes we call ``chiral stars'', within which we systematically vary handedness and number of arms. In a symmetric acoustic field, stars that preserve in-plane mirror symmetry do not rotate, while those that break it spontaneously rotate with a direction set by handedness. Beyond this symmetry requirement, we demonstrate that geometry, as encoded by the number of star arms, couples with acoustic amplitude to produce complex, nonlinear dynamics, including spontaneous reversal of rotation direction. To explain these behaviors, we develop a minimal torque model constrained by independent measurements of rotational drag, which captures the observed responses across all star geometries. We then demonstrate predictive power by designing a ``hybrid star'' with a prescribed amplitude-dependent response and reversal voltage. Our results not only establish how particle geometry and acoustic amplitude combine to govern rotation in acoustically levitated systems, but also reveal unanticipated higher-order couplings with the acoustic field. Beyond explaining spontaneous rotation, they open a route toward programmable rotational dynamics in acoustically levitated matter.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T09:39:40Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Sue Shi</name>
+    </author>
+    <author>
+      <name>Maximilian C. Hübl</name>
+    </author>
+    <author>
+      <name>Aarnav Panda</name>
+    </author>
+    <author>
+      <name>Thorfinn Barton</name>
+    </author>
+    <author>
+      <name>Carl P. Goodrich</name>
+    </author>
+    <author>
+      <name>Scott R. Waitukaitis</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27821v1</id>
+    <title>Emergent non-reciprocal pair interactions in catalytically propelled active polyhedra</title>
+    <updated>2026-10-20T08:12:29Z</updated>
+    <link href="https://arxiv.org/abs/2610.27821v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27821v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Particle shape plays a fundamental role in the dynamics and pair interactions of active particles. Yet, experimental measurements of anisotropic active particles are largely lacking. Here, we introduce an experimental system that allows us to observe and measure the effective pair interactions of self-propelled active colloidal polyhedra. We realize such a system by 3D micro-printing quasi- 2D polyhedral colloids with edge number N= 3,4,5,6 and infinity and induce propulsion by partially coating them with an iridium catalytic cap and dispersing them in hydrazine. Despite their different geometries, all shapes exhibit similar single-particle positional dynamics. Stochastic Force Inference reveals predominantly radial, non-reciprocal pair interactions with similar attractive and repulsive regimes for all particle shapes at center-to center distances of about two particle diameters. A minimal plausible phoretic active-Brownian-particle model with a disc shape reproduces the experimentally observed behavior and identifies the physical origins: concentration-dependent slowing down sets their dominant angular symmetry, while the spatial geometry of the chemical coupling and phoretic attraction recover their relative magnitudes and angular dependence. We find that the shape anisotropy present in experiments only modulates the magnitudes and angular dependence of these interactions, and that these variations become more pronounced the stronger the anisotropy. Our results demonstrate the interplay of chemically mediated interactions and particle geometry-induced effects at intermediate interaction distances.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T08:12:29Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Silvana A. Caipa Cure</name>
+    </author>
+    <author>
+      <name>Sander C. Kammeraat</name>
+    </author>
+    <author>
+      <name>Jerome Hem</name>
+    </author>
+    <author>
+      <name>Silke Henkes</name>
+    </author>
+    <author>
+      <name>Daniela J. Kraft</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27787v1</id>
+    <title>Emergent Active-Blob Length Scale Governs the Collapse Transition of Tangentially Driven Polymers</title>
+    <updated>2026-10-20T07:51:22Z</updated>
+    <link href="https://arxiv.org/abs/2610.27787v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27787v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The coil-to-globule transition is a paradigmatic phenomenon in polymer physics and biophysics, in which polymer chains evolve from swollen to globular conformations upon decreasing solvent quality. At equilibrium, this transition can be rationalized in terms of a thermal blob length that diverges at the so-called $Θ$ condition, marking the crossover from self-avoiding to globular conformations. How activity modifies this conformational transition and affects the fundamental length scales at play remains poorly understood. Here, we address this question for tangentially driven polymers using Brownian dynamics simulations, systematically varying both intrachain attraction strength and activity. We find that polar activity smears out the crossover from swollen to globular conformations. Between self-avoiding and $Θ$ conditions, activity dominates by introducing an emergent folding length scale, which acts as an active blob length. In this regime, we demonstrate that the ratio of thermal to active length scales provides a new scaling variable that leads to a universal master curve for active polymer collapse.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T07:51:22Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Baptiste Parage</name>
+    </author>
+    <author>
+      <name>Sara Jabbari-Farouji</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27342v1</id>
+    <title>Intrinsic Curvature Controls Spontaneous Entanglement of Elastic Rods</title>
+    <updated>2026-10-19T22:13:43Z</updated>
+    <link href="https://arxiv.org/abs/2610.27342v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27342v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We report results from an experimental investigation on the role of intrinsic curvature in the spontaneous entanglement of elastic rods subjected to controlled tumbling. We examine two distinct entanglement mechanisms, knotting and locking, in a statistical ensemble of straight and helical rods with varying arc length and natural curvature. Our primary finding is that natural curvature exerts a dominant, non-monotonic influence on knotting, with a critical curvature that suppresses knot formation and significantly reduces the probability of knotting relative to equivalent straight rods. In contrast, locking is largely insensitive to curvature and scales primarily with rod length. These results, obtained for the macroscopic experimental system studied here, identify geometric parameters that govern distinct entanglement modes in tumbled elastic rods and may inform entanglement processes in microscopic filamentary systems such as DNA.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T22:13:43Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Fani Derveni</name>
+    </author>
+    <author>
+      <name>Javier Sabater</name>
+    </author>
+    <author>
+      <name>Pedro M. Reis</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27278v1</id>
+    <title>Structure and Dynamics of Defects in Two-Dimensional Nematic Liquid Crystals</title>
+    <updated>2026-10-19T20:53:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.27278v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27278v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Topological defects in nematic liquid crystals have recently received renewed interest due to their important role in non-equilibrium active materials and developing biological systems. While many studies have focused on simulating defect behaviors in these non-equilibrium situations, there has also been recent progress in our analytical understanding of defect morphology and behavior in a number of complicated regimes, such as intricate boundary conditions, anisotropic elasticity, or the presence of flows. Here, we review the analytical theory of disclination structure and dynamics in two-dimensional nematic liquid crystals, highlighting recent methods and results.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T20:53:36Z</published>
+    <arxiv:comment>28 pages, 16 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Cody D. Schimming</name>
+    </author>
+    <author>
+      <name>Daniel A. Beller</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27263v1</id>
+    <title>Soft elasticity of soft shells</title>
+    <updated>2026-10-19T20:36:18Z</updated>
+    <link href="https://arxiv.org/abs/2610.27263v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27263v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Soft modes of a shell are one-parameter families of non-trivial deformations that preserve the elastic energy. We identify all soft modes of the soft shells described by the variational theory of put forward by Sonnet and Virga (2025). They are seen to be strictly connected with the Bonnet families, a special class of solutions to the problem posited by Bonnet, who asked whether there exist non-trivial isometries that preserve the mean curvature. Differential geometry deems as equivalent all surfaces in one and the same Bonnet family, but continuum mechanics is interested more specifically in soft deformation modes and the shapes they traverse, as they may describe ways to ignite fluctuations of soft shells that ideally require no energy to be activated. We give a general criterion for the existence of soft modes and a method to construct them based on a cascade of path integrations. We apply both criterion and method to some exemplary cases.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T20:36:18Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Andre M. Sonnet</name>
+    </author>
+    <author>
+      <name>Epifanio G. Virga</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27207v1</id>
+    <title>Density Accelerated Relaxation in Active Passive Colloidal Networks with Competing Interactions</title>
+    <updated>2026-10-19T19:41:40Z</updated>
+    <link href="https://arxiv.org/abs/2610.27207v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27207v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate quasi-2D active-passive colloidal mixtures with electric field-mediated non-identical interactions: unlike species attract and like species repel. Mapping the steady states across total area fraction and active particle area fraction identifies the regime of active percolated network formation among active fluid and clustered states. Within the percolated network regime, relaxation speeds up with increasing density, contrary to expectations for dense particulate gels. Particle-resolved dynamics and microstructure link this acceleration to activity-driven rearrangements enabled by asymmetric interactions.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T19:41:40Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Pronay Dutta</name>
+    </author>
+    <author>
+      <name>Hima Nagamanasa Kandula</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26806v1</id>
+    <title>Capillary forces between two identical spherical particles</title>
+    <updated>2026-10-19T17:49:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.26806v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26806v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The properties of colloidal suspensions and granular matter change drastically upon adding a small amount of liquid capable of forming capillary bridges between the solid particles. The attractive forces exerted by these liquid bridges induce the formation of particle aggregates and networks, which radically changes the macroscopic mechanical and rheological behaviour. Predicting these forces across bridge sizes, particle separations and wettability is therefore central to particle-scale modelling of capillary suspensions and wet granular matter. While the Young-Laplace equation governing the properties of the liquid bridges is well known, it lacks a convenient analytical solution. Current simulations therefore employ approximate analytic expressions, typically developed for contact angles below ~40° and bridge volumes below ~2.5% of the solid particle's volume. We compare several frequently used expressions from the literature with numerical solutions of the theoretical capillary forces. An overall good agreement is observed in the aforementioned parameter ranges, while the approximate expressions start to deviate outside their intended domains. We propose accurate and computationally efficient expressions for the capillary force that model this behaviour, for contact angles from 5° to 80° and bridge volumes from $10^{-6}$ to 0.15. We also explore mesoscopic 'fluid-scale' simulations of bridges by Multi-body Dissipative Particle Dynamics (MDPD), to ascertain whether this coarse-grained fluid model faithfully captures the continuum capillary forces. Remarkably, a good agreement is observed even for liquid bridges described by a mere few dozen fluid particles. Together, these results offer two approaches, at different resolution scales, for simulating bridges over a wide range of bridge volumes and contact angles.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T17:49:12Z</published>
+    <arxiv:comment>33 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Stefano Onofri</name>
+    </author>
+    <author>
+      <name>Thejas Hulikal Chakrapani</name>
+    </author>
+    <author>
+      <name>Stefan Luding</name>
+    </author>
+    <author>
+      <name>Elke Scholten</name>
+    </author>
+    <author>
+      <name>Ahmed Jarray</name>
+    </author>
+    <author>
+      <name>Wouter K. den Otter</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26721v1</id>
+    <title>Collective diffusion of anisotropic hard-particle mixtures</title>
+    <updated>2026-10-19T16:50:00Z</updated>
+    <link href="https://arxiv.org/abs/2610.26721v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26721v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Predicting the dynamics of anisotropic mixtures of different species is a challenging theoretical task. We show that Dynamical Density Functional Theory (DDFT), a theory predicting time evolution of the one-particle-density through a free energy functional, can be simplified to a diffusion equation. To quantify the dynamical relaxation behavior, we deduce corrections to the regular long-time collective diffusion coefficients from the direct correlations between the interacting particles and determine these effective diffusion coefficients analytically for a number of hard-particle systems, including mixtures of hard spheres, as well as isotropic and nematic phases of uniaxial spherocylinders and biaxial spherotriangles. Finally, we discuss how to generalize our approach to systems with positional order and suggest a possible application to predicting relaxation times of orientational order parameters.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T16:50:00Z</published>
+    <arxiv:comment>20 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Anouar El Moumane</name>
+    </author>
+    <author>
+      <name>G. H. Philipp Nguyen</name>
+    </author>
+    <author>
+      <name>Klaus Mecke</name>
+    </author>
+    <author>
+      <name>Hartmut Löwen</name>
+    </author>
+    <author>
+      <name>René Wittmann</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26688v1</id>
+    <title>Elastic theory of ideal liquid crystal elastomers</title>
+    <updated>2026-10-19T16:33:13Z</updated>
+    <link href="https://arxiv.org/abs/2610.26688v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26688v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A liquid crystal elastomer (LCE) exhibits a two-way coupling between its mesogen order and network elasticity: the mesogen order sets the undeformed network conformation, and the network deformation reorients the mesogens. This coupling gives rise to large, reversible stimuli-responsive actuation, as well as to soft elasticity, a finite deformation at nearly zero stress. This article reviews the elastic theory of ideal LCEs, bridging single-chain statistics and continuum constitutive models. The "ideal" elastic behavior rests on the assumption of anisotropic Gaussian chains that retain no memory of the crosslinking state, such that rotating the director costs no free energy. The corresponding neo-classical free energy of a monodomain LCE is non-quasi-convex, with a continuous family of stress-free ground states, leading to thermally induced spontaneous deformation and soft elasticity accommodated by coexisting stripe domains. The quasi-convex relaxation of the free energy classifies the behavior of polydomain LCEs into three phases, each with a distinct macroscopic mechanical response depending on the stretch state. The ideal elastic theory can be further extended to incorporate additional behaviors and physical processes, including thermo- and photomechanical coupling, Frank elasticity from director distortion, semi-soft or non-soft behavior arising from network nonideality, and temperature- and rate-dependent viscoelasticity.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T16:33:13Z</published>
+    <arxiv:comment>submitted manuscript</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Zumrat Usmanova</name>
+    </author>
+    <author>
+      <name>Ruobing Bai</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26657v1</id>
+    <title>Dynamic clustering of active chemotactic Janus particles</title>
+    <updated>2026-10-19T16:16:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.26657v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26657v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Modeling self-propulsion as an emergent diffusiophoretic effect, we come back to the dynamic clustering experiment of active Janus colloids. Working in the original three-dimensional geometry, and using the chemical solute concentration as a control parameter, we find that the dynamic clustering region occupies a robust fraction of the phase diagram. This behavior is rationalized using a linear stability analysis that efficiently captures the instability of the gas phase to dynamic clusters. We also find that dynamic clustering results from the combined effects of a Keller-Segel collapse and of a motility-induced phase separation, either being arrested by the orientational coupling to the chemical field in agreement with previous work.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T16:16:19Z</published>
+    <arxiv:comment>12 pages, 11 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Joël Mabillard</name>
+    </author>
+    <author>
+      <name>Frédéric van Wijland</name>
+    </author>
+    <author>
+      <name>Jean-Baptiste Fournier</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26593v1</id>
+    <title>From particles to continuum theories in effective models of self-propelled rods</title>
+    <updated>2026-10-19T15:38:30Z</updated>
+    <link href="https://arxiv.org/abs/2610.26593v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26593v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Models of colliding self-propelled rods are abstractions of many real systems such as gliding bacteria and biofilaments displaced by molecular motors. They have been studied mostly in two space dimensions and shown to display a wealth of different collective regimes with many parameters involved in the ensuing phase diagrams. Continuum-level theories faithful to this phenomenology are largely lacking since coarse-graining models of explicit rods is notoriously difficult. Here we study collections of particles in which the rods geometry is taken into account effectively, by implementing the nematic alignment of their velocities and two types of repulsion. These Vicsek-style models are simple enough to be starting points for systematic coarse-graining. We thus derive hydrodynamic equations that we show to have solutions qualitatively faithful to their particle-level origin.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T15:38:30Z</published>
+    <arxiv:comment>17 pages, 12 figures, 4 supplementary movies</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Elia Bronzo</name>
+    </author>
+    <author>
+      <name>Hugues Chaté</name>
+    </author>
+    <author>
+      <name>Benoît Mahault</name>
+    </author>
+    <author>
+      <name>Alexandre Solon</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26569v1</id>
+    <title>Phase Diagram of the Two-Dimensional Vicsek Model</title>
+    <updated>2026-10-19T15:24:37Z</updated>
+    <link href="https://arxiv.org/abs/2610.26569v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26569v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Motivated by gaps in our current knowledge of the Vicsek model, we present a major update of its phase diagram in two space dimensions, summarizing comprehensive numerical simulations at length- and timescales never explored before. Our main conclusions are that multiple phase separation scenarios are at play, not just the simple microphase separation put forward in [Phys. Rev. Lett. 114, 068101 (2015)], and that the coexistence phase is subdivided in two. We also map out the region of metastability of the homogeneous Toner-Tu liquid phase.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T15:24:37Z</published>
+    <arxiv:comment>8 pages, 6 figures. Companion paper to "Coexistence phase of the two-dimensional Vicsek model"</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Yu Duan</name>
+    </author>
+    <author>
+      <name>Hugues Chaté</name>
+    </author>
+    <author>
+      <name>Benoît Mahault</name>
+    </author>
+    <author>
+      <name>Xia-qing Shi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26561v1</id>
+    <title>Coexistence phase of the two-dimensional Vicsek model</title>
+    <updated>2026-10-19T15:19:24Z</updated>
+    <link href="https://arxiv.org/abs/2610.26561v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26561v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The Vicsek model continues to be central in statistical physics studies of active matter, with major recent surprises such as the partial metastability of the famous Toner-Tu flocking phase. Here we report on the diversity of band patterns observed in its coexistence phase --some of them never observed before--, but we also argue that most disappear in the infinite-size limit, leaving nevertheless a different picture than anticipated previously. We finally show that these rather regular, globally ordered band configurations can be destroyed by a localized perturbation: the coexistence phase is also at least partially metastable, and thus must be, asymptotically, a disordered phase made of a variety of chaotically interacting traveling bands.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T15:19:24Z</published>
+    <arxiv:comment>15 pages, 11 figures. Companion paper to "Phase Diagram of the Two-Dimensional Vicsek Model"</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Yu Duan</name>
+    </author>
+    <author>
+      <name>Hugues Chaté</name>
+    </author>
+    <author>
+      <name>Benoît Mahault</name>
+    </author>
+    <author>
+      <name>Xia-qing Shi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26505v1</id>
+    <title>Modular Landau Analysis of Coupled Phase Transitions: Application to Ferroelectric Liquid Crystals</title>
+    <updated>2026-10-19T14:41:59Z</updated>
+    <link href="https://arxiv.org/abs/2610.26505v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26505v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In systems with coupled order parameters, the relaxation of existing order can modify subsequent transitions, while cooperation and competition between emerging modes can produce complex phase sequences. We develop a modular Landau analysis that locally relaxes noncritical parent-phase variables to obtain effective one- and two-mode free energies. The resulting coefficients quantify relaxation-induced changes in transition characteristics and mode coupling, including changes in transition order for even-symmetry modes. The resulting modules are assembled successively along parent branches, and the equilibrium phase sequence is selected by comparing the fully relaxed free energies of the admissible branches. We apply the framework to ferroelectric liquid crystals, where orientational, polar, smectic, and tilt orders interact and give rise to multiple competing pathways, using a uniaxial model with longitudinal polarization. We fit the model to the measurements reported by Strachan et al. [Adv. Sci. 12(3), 2409754 (2025)]. A single thermodynamic parameter set reproduces the observed transition temperatures, transition types, and phase sequence, while capturing the main birefringence trend. Smectic layer spacing is reconstructed separately through a fitted observation map based on the calculated equilibrium tilt.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:41:59Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Sisi Guan</name>
+    </author>
+    <author>
+      <name>Yucen Han</name>
+    </author>
+    <author>
+      <name>Lei Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26459v1</id>
+    <title>Tunable annealing of defects in self-aligning active crystals</title>
+    <updated>2026-10-19T14:11:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.26459v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26459v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Obtaining defect-free single-crystals is of crucial importance in soft matter and materials science, spanning both fundamental interests and practical applications. Active crystals, encompassing diverse dense systems from living organisms to artificial metamaterials, can offer a promising platform for autonomous structural reorganization. We demonstrate that increasing spatiotemporal orientational fluctuations around the mean polarized state can enhance crystallographic order in active crystals. Poly-to-single-crystal transformations in defect-rich, self-aligned active Brownian crystals with coupled translational-rotational dynamics are investigated. We show that long-lived persistence with slow alignment controls the defect-annealing capability. By disentangling activity magnitude from associated timescales, we reveal activity-assisted annealing. Tuning the persistence length enables overcoming thermal energy barriers. Simultaneously adjusting persistence and alignment timescales can tune relaxation from `fast' to `slow', yielding defect-rich and defect-free crystals, respectively. Furthermore, active crystals of point particles are found to exhibit similar defect annealing when flocking is delayed by tuning the timescale of the velocity relaxation towards the polarized state. These findings suggest that the mechanism may extend to a broader class of active crystals. Our results intersect statistical physics of living soft matter with the mechanics of defects and microstructures, proposing a nonequilibrium route towards reconfigurable materials.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:11:27Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Kanka Ghosh</name>
+    </author>
+    <author>
+      <name>Andreas M. Menzel</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26316v2</id>
+    <title>Poisson-shot-noise induced escape dynamics of a passive particle and a dimer</title>
+    <updated>2026-10-21T11:53:40Z</updated>
+    <link href="https://arxiv.org/abs/2610.26316v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26316v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Mean First Passage Time (MFPT) is a crucial quantity that characterizes stochastic processes in various stochastic dynamical systems across different disciplines. The inverse of the MFPT, known as the escape rate, is helpful in the context of Brownian motion and chemical processes. The MFPT dynamics of a passive particle in the presence of active noises presents a fascinating avenue. In this work, we study the dynamics of two different systems: first, a single Brownian particle and second, a dimer (two Brownian particles connected by a spring). In both cases, the systems are kept in contact with a thermal bath and an active bath, and are trapped in a bistable potential. The active bath produces kicks that follow the Poisson distribution. The MFPT of the particle and the dimer is investigated in various scenarios. Analytical results are presented for the small kick variance approximation only. In this approximation, we formulate the MFPT in two scaling regimes: a weak-noise regime characterized by classical Arrhenius scaling for escape rate and a strong-noise regime in which the MFPT scales as a power law in the effective noise strength. For the general case, the problem is solved numerically. Next, under the same approximation, the MFPT of a dimer in the small-bond-strength regime is studied using a sequential-hopping mechanism, and in the large-bond-strength regime, the MFPT is formulated using the adiabatic elimination approach. Motivated by recent studies on speeding up the escape mechanism, the MFPT of the particle and the dimer in the presence of an intermediate barrier is also examined. We deduced from the numerical results that the MFPT can be enhanced and further optimized by selecting a suitable intermediate potential profile.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T12:57:43Z</published>
+    <arxiv:comment>38 pages, 13 figures, Accepted in Physica A (2026)</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Gemeit Goel</name>
+    </author>
+    <author>
+      <name>Rahul Marathe</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26156v1</id>
+    <title>Dynamical Batching: How Class-Cycling Training Shapes the Internal Structure of Neural Networks</title>
+    <updated>2026-10-19T10:44:18Z</updated>
+    <link href="https://arxiv.org/abs/2610.26156v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26156v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate whether cyclically varying the class composition of training batches can modify both the performance and the internal organization of neural networks. Motivated by nonequilibrium systems, in which cycling between related sub-goals can make switching between their solutions increasingly efficient, we introduce Dynamical Batching (DB), a sampling protocol that periodically emphasizes each class while leaving the loss and the optimizer unchanged, and compare it with Uniform Batching (UB), in which every mini-batch has equal class proportions. In the regime where standard training fails, DB changes the outcome: on a three-arm spiral, a capacity-limited MLP that plateaus far below perfect accuracy under UB fits the training data under DB. Tracking individual weights, we find that under DB the change between class-specialized states is carried by a smaller set of weights than under UB, and that this set is markedly more persistent from cycle to cycle, on every synthetic dataset we test and in a wider network that fits the data under both protocols. This organization is a signature of the protocol rather than a predictor of its benefit: it appears equally where DB leaves accuracy unchanged. On CIFAR-10, the same protocol modestly improves the test accuracy of a channel-narrowed ResNet-10, a standard residual architecture, and of a second capacity-limited convolutional network. These results show that how class emphasis is distributed in time can shape both the solution a network reaches and the internal structure of the network.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T10:44:18Z</published>
+    <arxiv:comment>18 pages, 10 figures, 5 tables. Code: https://github.com/samuellozanoiglesias/dynamical_batching (archived at https://doi.org/10.5281/zenodo.23349474)</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Nicolás Ratier-Werbin</name>
+    </author>
+    <author>
+      <name>Samuel Lozano</name>
+    </author>
+    <author>
+      <name>Miguel Ruiz-García</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26150v1</id>
+    <title>Superstability of micrometer viscous jets surrounded by weakly-elastic viscous shells</title>
+    <updated>2026-10-19T10:34:01Z</updated>
+    <link href="https://arxiv.org/abs/2610.26150v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26150v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Our experiments demonstrate the strong stabilizing effect of a viscoelastic shell on flow-focused viscous jets. The results suggest that stabilization occurs when the polymer viscosity, $η_p$, exceeds a critical threshold, provided the extensional relaxation time, $λ$, is large enough to allow the polymer molecules to undergo the coil-stretch transition. Under these conditions, substantial extensional viscoelastic stresses develop as the liquid accelerates. Since both $η_p$ and $λ$ increase with shell viscosity, the polymer concentration required to stabilize the viscous jet decreases accordingly. Remarkably, moderately to highly viscous jets can be stabilized with very small polymer concentrations, for which no beads-on-a-string (BOAS) instability is observed.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T10:34:01Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>A. Rubio-González</name>
+    </author>
+    <author>
+      <name>D. Fernández-Martínez</name>
+    </author>
+    <author>
+      <name>M. Vakili</name>
+    </author>
+    <author>
+      <name>J. M. Montanero</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26087v1</id>
+    <title>Twitching fiberboids in the collective : A table-top, one-dimensional, active particle gas</title>
+    <updated>2026-10-19T09:50:11Z</updated>
+    <link href="https://arxiv.org/abs/2610.26087v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26087v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Fiberboids are filaments that self-propel by rolling along a surface due to a flux normal to that surface. In the last few years, fibers using several materials and driving mechanisms have been developed that are able to roll persistently. Here we show using thermally driven nylon fibers on a slightly curved glass surface, that fiberboids also come in another state, that we call ``twitching'': the fiber rolls for a short time and then switches direction, implementing on large scales a diffusion-like motion. We rationalize the occurrence of this effect and experimentally quantify this new dynamic state. We then analyze ensembles of twitching fiberboids and by confining the fibers inside a circular arena to allow them to roll on a single axis only, we implement a simple, table-top realization of a one-dimensional non-equilibrium active gas. We study experimentally active cluster formation, their non-equilibrium dynamics and we rationalize the observations by a simple lattice model. This model takes into account a Viscek-like alignment of the velocity directions of the individual particles within clusters to yield good qualitative agreement with the experiments. Overall our work opens the path to study collectives of self-rolling fibers as an interesting new class of active matter.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.AO" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T09:50:11Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Alex Arnhold</name>
+    </author>
+    <author>
+      <name>Falko Ziebert</name>
+    </author>
+    <author>
+      <name>Igor M. Kulić</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26075v1</id>
+    <title>evaluating local viscoelastic properties of artery-mimicking phantoms using high-resolution flexural wavenumber analysis</title>
+    <updated>2026-10-19T09:33:17Z</updated>
+    <link href="https://arxiv.org/abs/2610.26075v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26075v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The measurement of guided wave propagation is an effective approach for evaluating arterial wall stiffness. A more comprehensive characterization of viscoelastic material properties could yield more informative biomarkers; however, this additionally requires estimation of wave attenuation. Furthermore, spatially local estimation is necessary for localized pathologies, such as atherosclerotic plaques. To this end, we propose an original two-stage high-resolution method to recover local viscoelastic properties from guided waves in artery-like soft tubes. First, the local frequency-wavenumber dispersion relation including losses is estimated using a high-resolution complex wavenumber identification method. Second, assuming a fractional Kelvin-Voigt rheological model for the tube wall, we estimate the viscoelastic material parameters by fitting the dispersion relation computed with a spectral element method to this estimate. We experimentally validate the proposed approach on flexural wave propagation along water-filled soft tubes, measured with a high-speed camera coupled with digital image correlation. Owing to the high resolution of the method, the axial modulus variation of a graded phantom is recovered. Finally, a Cramér-Rao analysis indicates that the complex wavenumber estimator operates near its theoretical limit, and reveals why local attenuation is intrinsically difficult to recover.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.class-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.med-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T09:33:17Z</published>
+    <arxiv:comment>24 pages, 12 figures. The following article has been submitted to the Journal of the Acoustical Society of America. After it is published, it will be found at https://pubs.aip.org/asa/jasa</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Max Gattin</name>
+    </author>
+    <author>
+      <name>Julien de Rosny</name>
+    </author>
+  </entry>
+</feed>

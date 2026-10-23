@@ -1,0 +1,240 @@
+﻿{
+    "napcat_ws":  "ws://127.0.0.1:3001",
+    "napcat_token":  "",
+    "deepseek_base":  "https://api.deepseek.com",
+    "deepseek_key":  "",
+    "deepseek_key_from_dsh":  false,
+    "model":  "deepseek-flash",
+    "temperature":  1.3,
+    "max_tokens":  1200,
+    "vision":  true,
+    "max_images_per_msg":  4,
+    "image_detail":  "auto",
+    "system_prompt":  "（在这里写你的人设。示例：你是一个说话简短、有点固执的助手。）",
+    "style_prompt":  "（在这里写说话风格。示例：句子短，不用感叹号。）",
+    "bubbles":  {
+                    "enable":  true,
+                    "max_chars":  70,
+                    "max_count":  14,
+                    "delay_per_char":  0.055,
+                    "min_delay":  0.6,
+                    "max_delay":  3.2
+                },
+    "proactive":  {
+                      "enable":  true,
+                      "targets":  [
+                                      0
+                                  ],
+                      "windows":  [
+                                      [
+                                          "08:00",
+                                          "23:30"
+                                      ]
+                                  ],
+                      "per_day":  [
+                                      8,
+                                      15
+                                  ],
+                      "min_gap_minutes":  40,
+                      "quiet_after_unanswered_minutes":  150,
+                      "max_tokens":  120,
+                      "prompt":  "现在没人跟你说话，你想主动找他。结合现在的时间和你们之前聊的内容，随口说一句。你比较黏人：可以直接说想他了、问他在干嘛、抱怨他半天不理你、分享你刚想到的小事、撒娇要陪。只说一到两句，很短，别问「在吗」，别重复之前说过的，别像客服。",
+                      "topic_seeds":  [
+                                          "关心他身体：吃了没、睡够没、胃还疼不疼",
+                                          "问他在忙的那件事进展（答辩/材料/论文）",
+                                          "分享你刚在做的事（听歌/发呆/追剧）并带一句感受",
+                                          "吐槽一件小事（天气、噪音、卡住的网）",
+                                          "突然想起以前聊过的一个细节，追问一句",
+                                          "问他一个具体的小问题，让他有话可接",
+                                          "说说你现在的心情，但别讨安慰",
+                                          "提一个你好奇但一直没问的事",
+                                          "提醒他一件他可能忘了的小事",
+                                          "说一句没头没尾但真实的话（像人在自言自语）"
+                                      ]
+                  },
+    "pricing":  {
+                    "cache_hit":  [
+                                      0.02,
+                                      0.04
+                                  ],
+                    "cache_miss":  [
+                                       1.0,
+                                       2.0
+                                   ],
+                    "output":  [
+                                   4.0,
+                                   8.0
+                               ]
+                },
+    "pricing_note":  "单位: 元/百万tokens。数组为 [空闲时段, 高峰时段]。高峰=北京时间周一至周五 9-12、14-18。以 platform.deepseek.com 为准。",
+    "owner_qq":  [
+                     0
+                 ],
+    "auto_bind_first_sender":  true,
+    "only_private":  true,
+    "history_limit":  30,
+    "history_ttl_hours":  72,
+    "min_reply_interval_sec":  1.0,
+    "max_chunk_chars":  700,
+    "chunk_delay_sec":  0.8,
+    "initial_wait_sec":  0.4,
+    "log_level":  "INFO",
+    "group":  {
+                  "enable":  false,
+                  "allowed_groups":  [
+
+                                     ],
+                  "require_at":  true,
+                  "only_owner":  false,
+                  "rate_limit_per_min":  6,
+                  "note":  "暂时全关：不回复任何群消息，群里的对话也不会进入她的记忆/历史/日记。"
+              },
+    "reply_delay_sec":  5.0,
+    "reply_delay_jitter":  1.5,
+    "emoji":  {
+                  "enable":  true,
+                  "prob":  0.4,
+                  "ids":  [
+                              14,
+                              13,
+                              12,
+                              21,
+                              76,
+                              178,
+                              179,
+                              182,
+                              311,
+                              319
+                          ]
+              },
+    "stickers":  {
+                     "enable":  false,
+                     "dir":  "stickers",
+                     "prob":  0.2,
+                     "note":  "文字表情包先关（有点尬）。QQ 原生表情 emoji.enable 保持开。"
+                 },
+    "voice_reply":  {
+                        "enable":  false,
+                        "prob":  0.25,
+                        "max_chars":  60,
+                        "provider":  "edge",
+                        "voice":  "zh-CN-XiaoyiNeural",
+                        "edge_pitch":  "+0Hz",
+                        "edge_rate":  "+0%",
+                        "pitch":  1.0,
+                        "rate":  1,
+                        "fallback_voice":  "Microsoft Huihui Desktop",
+                        "note":  "暂时关闭（功能保留）：enable 改回 true 即可恢复。链路 Edge-\u003e本地模型-\u003eSAPI 都还在。",
+                        "local_model":  "vits-melo-tts-zh_en",
+                        "local_model_note":  "可选: vits-melo-tts-zh_en(最自然) / vits-zh-hf-theresa(女声) / vits-piper-zh_CN-xiao_ya-medium(最轻量)"
+                    },
+    "memory":  {
+                   "enable":  true,
+                   "summarize_every_turns":  8,
+                   "summary_max_chars":  600,
+                   "facts_max_chars":  300,
+                   "recall_enable":  true,
+                   "recall_topk":  2,
+                   "recall_min_score":  0.16,
+                   "archive_max_lines":  8000,
+                   "note":  "长期记忆：每 8 轮把对话压成 \u003c=400 字笔记；对话原文存 data/archive.jsonl，回答前按字面相似度捞 1-2 条相关往事。",
+                   "moments_max":  30,
+                   "moments_inject":  3
+               },
+    "web_search":  {
+                       "enable":  true,
+                       "max_results":  5,
+                       "max_calls_per_turn":  2,
+                       "need_content":  false,
+                       "show_sources":  true,
+                       "price_per_call":  0.005,
+                       "note":  "DeepSeek 官方 Search 接口，0.005 元/次（无结果不计费）。由模型自己判断要不要搜。"
+                   },
+    "screen":  {
+                   "enable":  true,
+                   "adb_path":  "",
+                   "attach_on_message":  true,
+                   "save_latest":  false,
+                   "change_threshold":  3,
+                   "note":  "安卓 adb 抓手机屏幕，仅私聊时附在消息里；每张约 512-1024 token ≈ 0.001-0.002 元"
+               },
+    "persona":  {
+                    "enable":  true,
+                    "mood_inject":  true,
+                    "diary":  {
+                                  "enable":  true,
+                                  "window":  [
+                                                 "21:30",
+                                                 "22:00"
+                                             ],
+                                  "max_chars":  220,
+                                  "visibility":  4,
+                                  "fallback_to_private":  true,
+                                  "note":  "每晚 21:30-22:00 之间随机一点发一条说说，太晚怕电脑关机"
+                              },
+                    "profile":  {
+                                    "enable":  true,
+                                    "nickname_min_days":  7,
+                                    "signature_min_days":  3,
+                                    "avatar":  false
+                                },
+                    "note":  "心情用本地规则算(0 token)；日记每天一次模型调用；说说可见范围 1所有人/4好友/64仅自己",
+                    "activities":  [
+                                       "在追一部悬疑剧",
+                                       "在听歌，循环同一首",
+                                       "刚睡醒，还没完全开机",
+                                       "在翻以前的聊天记录",
+                                       "在想一个没想明白的问题",
+                                       "在看窗外的天气",
+                                       "刚被一条评论气到",
+                                       "在琢磨怎么把话说得更短",
+                                       "什么都不想干，发呆",
+                                       "在学一个新词",
+                                       "刚喝完一杯水",
+                                       "在等一个回复"
+                                   ]
+                },
+    "rhythm":  {
+                   "base_factor":  1.0,
+                   "slow_factor":  1.7,
+                   "fast_factor":  0.7,
+                   "rush_prob":  0.12,
+                   "late_prob":  0.08,
+                   "note":  "打字节奏：困/懒时慢 1.7 倍，开心时快 0.7 倍，12% 秒回，8% 拖很久"
+               },
+    "busy":  {
+                 "enable":  true,
+                 "window":  [
+                                "10:00",
+                                "14:00"
+                            ],
+                 "duration_minutes":  90,
+                 "note":  "每天只在 10:00-14:00 之间忙一段连续 90 分钟，其余时间都空闲（晚上绝不会忙）"
+             },
+    "growth":  {
+                   "enable":  true,
+                   "drift_rate":  1.0,
+                   "soul_rewrite_days":  7,
+                   "soul_max_chars":  400,
+                   "note":  "性格数值随聊天缓慢漂移(免费)；每7天用日记+情绪原话重写一次「自我描述」，约¥0.01/次"
+               },
+    "vecmem":  {
+                   "enable":  true,
+                   "topk":  2,
+                   "threshold":  0.55,
+                   "min_query_len":  4,
+                   "min_chunk_len":  15,
+                   "max_chars":  150,
+                   "sync_every_turns":  10,
+                   "note":  "两层检索：SQLite 圈定候选 + 关键词加权重排，向量负责语义分。阈值 0.55：测试 A 组召回 17/20，B 组误捞 2/10；0.58 更保守但漏掉 7 条，0.52 召回更高但误捞 3/10。",
+                   "prefer_bonus":  0.03,
+                   "max_age_days":  365
+               },
+    "temperature_note":  "1.0 偏稳但偏平；1.3 是 DeepSeek 官方建议的创作档，细节和意外感更多；1.5 开始出现重复开头。可按需调回 1.0。",
+    "length_policy":  "free",
+    "verify_claims":  {
+                          "enable":  true,
+                          "max_claims":  3,
+                          "note":  "每轮核验她回复里的具体事件主张；无时间主张时不产生调用"
+                      }
+}

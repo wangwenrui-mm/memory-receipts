@@ -1,0 +1,1410 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/50GLG3SUfiHsKGDn/FbYJ7r8odU</id>
+  <title>arXiv Query: search_query=cat:physics.app-ph&amp;id_list=&amp;start=0&amp;max_results=50</title>
+  <updated>2026-10-23T08:16:17Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=cat:physics.app-ph&amp;start=0&amp;max_results=50&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <opensearch:totalResults>24528</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31643v1</id>
+    <title>Confinement of hybridized light modes in nonlinear-optical superpotentials</title>
+    <updated>2026-10-22T17:55:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.31643v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31643v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>In this work, we present a spatial and temporal light trapping mechanism induced by coherent frequency conversion. We consider a wave-mixing process, where a pumped nonlinearity mediates a frequency-domain beamsplitter interaction between two signal modes. When these wave modes are counterpropagating, temporally trapped eigenmodes emerge at the zero of the nonlinearity profile. We establish that such spatio-temporal trapping has a direct connection to supersymmetric quantum mechanics, which ensures the existence and robustness of the trapped modes and allows us to derive analytic solutions of the bound eigenmodes. Backwards sum-frequency conversion may thus enable a unique class of active photonic memory devices, whose design parameters are compatible with the state of the art in integrated nonlinear photonics. We propose proof-of-principle experiments to study this nonlinear-optical trapping effect on thin-film lithium niobate. In addition, as a case study, we show how the temporal trap can be used alongside parametric gain. Our work unveils potential applications ranging from classical integrated photonics to multimode quantum nonlinear photonics.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T17:55:02Z</published>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Federico Presutti</name>
+    </author>
+    <author>
+      <name>Ryotatsu Yanagimoto</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31452v1</id>
+    <title>Nanopillar metasurfaces uniting high optical reflectivity with ultracoherent nanomechanics</title>
+    <updated>2026-10-22T15:46:57Z</updated>
+    <link href="https://arxiv.org/abs/2610.31452v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31452v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Mechanically compliant mirrors are key components in cavity optomechanics. However, the requirements to achieve the best optical and mechanical performance are usually in direct competition. A high reflectivity for tightly focused beams entails thick reflectors, whereas ultracoherent flexural nanomechanics necessitates thin membranes. We eliminate this trade-off by introducing high-refractive-index nanopillar metasurfaces on top of a thin membrane. We pattern a 50 micrometer-diameter array of nanopillars to form a photonic crystal. The flat band behavior of guided resonances in the photonic crystal enables a reflectivity of 99.82(1)% for a tightly focused beam of 7 micrometer waist. The combination of two guided resonances creates a 100 nanometer-wide high-reflectivity band around 1550 nanometer. Simultaneously, the nanopillar patterning realizes a density-modulated phononic crystal that isolates an ultracoherent localized mechanical mode with a $Q\cdot f$-product of $2\cdot 10^{14}$Hz. The demonstrated nanopillar metasurfaces enable lightweight mirrors for room-temperature quantum optomechanics and for use as levitated mirrors or lightsails.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T15:46:57Z</published>
+    <arxiv:comment>9 pages, 4 figures; incl supporting information of 29 pages</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Alexander Jung</name>
+    </author>
+    <author>
+      <name>Anastasiia Ciers</name>
+    </author>
+    <author>
+      <name>Hannes Pfeifer</name>
+    </author>
+    <author>
+      <name>Albert Hansson</name>
+    </author>
+    <author>
+      <name>Johanna Örgård</name>
+    </author>
+    <author>
+      <name>Daniel Stachanow</name>
+    </author>
+    <author>
+      <name>Viktor A. Lilja</name>
+    </author>
+    <author>
+      <name>Philippe Tassin</name>
+    </author>
+    <author>
+      <name>Witlef Wieczorek</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31424v1</id>
+    <title>Analytical Modeling of Modulated Heating for Three-Dimensional Anisotropic Optical Thermometry of Multilayered Cylinders</title>
+    <updated>2026-10-22T15:25:32Z</updated>
+    <link href="https://arxiv.org/abs/2610.31424v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31424v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Thermally relevant cylindrical geometries are used in a plethora of applications with thermal property differences depending significantly on material complexity. Manu- facturing processes also induce substantial anisotropy ratios resulting in directionally dependent thermal transport. However, for cylindrical specimens, current thermal metrology resolves only isotropic thermal properties, assumes perfect thermal inter- faces, and offers no formulation for temperature spatial dependence. In this work, we present an analytical framework that models the frequency dependent thermal transport of orthotropic arbitrary layered cylinders to be used as a forward model for existing optical thermometry techniques. This formulation captures the effects of non-negligible thermal boundary conductance and offers the first closed-form solution of a projected Gaussian laser, a common form of heating in thermal metrology, hav- ing a finite elliptic spot size on a curved surface. The novel anisotropic cylindrical model was compared with literature derivations involving two-dimensional isotropic transport for cylinders by applying simplifying assumptions. For single- and two- layerisotropicsamples, thethree-dimensionalmodelagreedwithestablishedsolutions with negligible error, while predictions for orthotropic multilayer samples agreed with finite-element simulations within 1.5% across a range of material properties and laser geometries. Comparison with anisotropic planar models identified conditions under which a planar approximation can reduce computation time. These results estab- lish the first forward model for noncontact characterization of anisotropic thermal properties in arbitrarily layered cylinders.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T15:25:32Z</published>
+    <arxiv:comment>27 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>William Spirnock</name>
+    </author>
+    <author>
+      <name>Dihui Wang</name>
+    </author>
+    <author>
+      <name>Heng Ban</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31390v1</id>
+    <title>Orbital-coherence memory in electrical transport and its self-consistent Maxwell response</title>
+    <updated>2026-10-22T14:54:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.31390v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31390v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>An internal electronic coherence changes electrical transport only when it feeds back on the physical current. We develop a reduced description of this feedback and distinguish its exact consequences from the assumptions required for a microscopic realization. An opposite-parity two-orbital Hamiltonian identifies a current-coupled orbital force. Under an explicitly stated moment closure and collision ansatz, it yields a passive three-state response with an exponentially damped oscillatory memory. The resulting conductivity redistributes a fixed optical weight and predicts a nonmonotonic dependence of dc conduction on coherence damping at fixed remaining parameters. The orbital reduction constrains the coupling and internal frequency through a shared bare splitting, providing a test beyond unconstrained spectral fitting. A charge-conserving spatial extension couples to Maxwell equations through a positive energy balance and separates the constitutive response from longitudinal collective and transverse electromagnetic modes. We formulate complex-conductivity and transmission tests, including the limits of parameter identification over a finite bandwidth. The model supplies a conditional connection between orbital dynamics, transport memory, and electromagnetic observables; conductivity alone does not establish a uniquely quantum mechanism, and a material-specific collision calculation and closure-error assessment remain necessary.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T14:54:12Z</published>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>Pengfei Zhu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31296v1</id>
+    <title>Phase-Matched Chirps for Energy-Efficient Excitation of Magneto-Mechanical Resonators</title>
+    <updated>2026-10-22T13:58:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.31296v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31296v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Magneto-mechanical resonators (MMRs) are a recently proposed class of passive, wireless devices used for sensing and tracking. The operating principle of MMRs relies on an excitation of the sensor by oscillating magnetic fields, followed by an inductive readout to measure the sensor's dynamics. One challenge lies in generating efficient excitation signals to ensure maximum energy harvesting by the sensor. In this simulation study, we focus on chirped magnetic-field excitations and compare their performance with conventional constant-frequency excitation for both sinusoidal and rectangular waveforms. The results indicate varying levels of efficiency, with a sinusoidal linear down-chirp excitation signal yielding the largest deflection angle, offering the best potential for reducing the energy consumption and improving the temporal resolution of the measurement.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T13:58:19Z</published>
+    <arxiv:comment>This work has been submitted for possible publication</arxiv:comment>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>Sarah Reiss</name>
+    </author>
+    <author>
+      <name>Fabian Mohn</name>
+    </author>
+    <author>
+      <name>Jonas Faltinath</name>
+    </author>
+    <author>
+      <name>Tobias Knopp</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30857v1</id>
+    <title>All-photonic millimeter-wave and terahertz signal core at room and cryogenic temperatures</title>
+    <updated>2026-10-22T07:35:31Z</updated>
+    <link href="https://arxiv.org/abs/2610.30857v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30857v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Millimeter-wave and terahertz technologies offer new opportunities for high-capacity communications, sensing, and quantum systems, but electronic signal chains above 100 GHz are limited by weak sources, noisy receivers, and lossy interconnects. Photonic approaches mitigate these constraints by enabling chip-scale high-frequency components, yet existing implementations generally retain lossy off-chip electrical or free-space links, hindering dense and compact integration for cryogenic or space-constrained settings. Here, we show a monolithic lithium tantalate photonic chip, termed a signal core, which generates, modulates, routes, and detects continuous-wave signals at discrete frequencies between 100 GHz and 2.5 THz. The architecture integrates high-frequency functional modules on chip and uses exclusively fiber-based optical interfaces. Bidirectional coherent electro-optic conversion enables signal generation, detection, and nanosecond-scale amplitude and phase modulation, while micro-coplanar striplines interconnect the modules into an end-to-end signal chain on a single chip. Our modules achieve single-photon electro-optic coupling rates of g_0/2π=10 kHz and peak drive-power-normalized photon-flux conversion efficiencies of 1.0%/mW for generation and 0.5%/mW for detection. It also operates at 4 K in a dilution refrigerator through the same fiber-only optical links. Together, these capabilities establish an all-photonic platform for millimeter-wave-to-terahertz systems and offer a broadly applicable architecture for applications constrained by electrical-interconnect loss, heat load, and footprint.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T07:35:31Z</published>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Jiawen Liu</name>
+    </author>
+    <author>
+      <name>Chengli Wang</name>
+    </author>
+    <author>
+      <name>Aleksei Gaier</name>
+    </author>
+    <author>
+      <name>Tianyi Zhang</name>
+    </author>
+    <author>
+      <name>Gabriel Jülg</name>
+    </author>
+    <author>
+      <name>Yazan Lampert</name>
+    </author>
+    <author>
+      <name>André Garcia Primo</name>
+    </author>
+    <author>
+      <name>Alessandro Tomasino</name>
+    </author>
+    <author>
+      <name>Hua Li</name>
+    </author>
+    <author>
+      <name>Xin Ou</name>
+    </author>
+    <author>
+      <name>Ileana-Cristina Benea-Chelmus</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30852v1</id>
+    <title>Stiff source terms inside ADER-DG method</title>
+    <updated>2026-10-22T07:29:03Z</updated>
+    <link href="https://arxiv.org/abs/2610.30852v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30852v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>ADER-DG numerical method with the LST-DG predictor, when used to solve hyperbolic equations with stiff source terms, exhibits properties characteristic of IMEX computational schemes. With increasing stiffness, characterized by the parameter $z = ν{Δt}^{n} &lt; 0$, the maximum of the Courant number $\mathrm{CFL}_{\rm max}$ of the ADER-DG numerical method increases. In the region of strong stiffness $|z| \gg 1$, a linear increase in the Courant number $\mathrm{CFL}_{\rm max}(z) \sim |z|$ occurs. In the region of small source terms $|z| \ll 1$, the results $\mathrm{CFL}_{\rm max}(z)$ transform into known results for the problem $\mathrm{CFL}_{\rm max}(0)$ without source terms. In the transition region $|z| \sim 1$, a range of insignificant decrease in the Courant number $\mathrm{CFL}_{\rm max}(z)$ is discovered. In the linear case, instability is violated precisely when one of the matrix eigenvalues reaches $λ= -1$, regardless of the phase $θ$ of the numerical solution. A rigorous stability theory of the ADER-DG numerical method for stiff problems for arbitrary degree $N$ of basis polynomials is constructed. The stability condition is simplified to solving a polynomial equation for the Courant number $\mathrm{CFL}$. Highly accurate dependencies of the Courant number $\mathrm{CFL}_{\rm max}(N, z)$ of the ADER-DG method on the parameter $z$ are obtained. A rigorous direct proof of the approximation of the ADER-DG method is presented. Approximation orders $p = N+1$ for arbitrary degrees $N$ are rigorously derived. A set of numerical experiments is carried out to apply the ADER-DG method to solving both a linear advection-reaction equation and the system of Euler equations for a two-component reacting medium. The results obtained in these calculations confirm the theoretical results well.</summary>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.NA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T07:29:03Z</published>
+    <arxiv:comment>93 pages, 32 figures, 15 tables</arxiv:comment>
+    <arxiv:primary_category term="physics.comp-ph"/>
+    <author>
+      <name>I. S. Popov</name>
+    </author>
+    <author>
+      <name>A. P. Popova</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30741v1</id>
+    <title>Localization Contrast As a Fundamental Limit of Radiative Quantum Efficiency</title>
+    <updated>2026-10-22T05:13:39Z</updated>
+    <link href="https://arxiv.org/abs/2610.30741v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30741v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Disorder can localize valence- and conduction-band states to different degrees, yet whether such localization contrast has observable consequences remains poorly understood. Here, we show that localization contrast strongly impacts competing carrier-recombination channels. We illustrate this behavior in random In$_x$Ga$_{1-x}$N alloys. Increasing the In content from $x=13.5\%$ to $x=22\%$ progressively localizes the valence-band maximum state while leaving the conduction-band minimum state comparatively delocalized. This contrasting localization decreases the interband optical momentum matrix element underlying radiative recombination. For Auger-Meitner recombination, however, localization alone does not determine the coupling; atomic-scale disorder also breaks primitive-cell translational symmetry and modifies the momentum-space and phase structure of the states. This generates additional low-$Q$ components and enhances the Auger coupling by more than five orders of magnitude relative to pristine GaN. Thus, we provide a microscopic explanation for the competing trends in radiative and Auger recombination. More broadly, our results establish localization contrast as a mechanism through which disorder can control optical and carrier-carrier interactions in semiconductors.</summary>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T05:13:39Z</published>
+    <arxiv:primary_category term="cond-mat.dis-nn"/>
+    <author>
+      <name>Arsineh Apelian</name>
+    </author>
+    <author>
+      <name>Tanay Tak</name>
+    </author>
+    <author>
+      <name>Xuance Jiang</name>
+    </author>
+    <author>
+      <name>Tsung-Yin Tsai</name>
+    </author>
+    <author>
+      <name>James S. Speck</name>
+    </author>
+    <author>
+      <name>Vojtech Vlcek</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30453v1</id>
+    <title>Orientation-selective microwave heating of laser-graphitized diamond at 2.45 GHz</title>
+    <updated>2026-10-21T21:08:47Z</updated>
+    <link href="https://arxiv.org/abs/2610.30453v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30453v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Pristine diamond couples negligibly to a 2.45 GHz field. We show that femtosecond-laser inscription of a buried graphitic (sp2) architecture makes a 4 x 4 x 2 mm^3 N-doped (100 ppm) high-pressure high- temperature (HPHT) crystal absorb strongly, and that the absorption is switched by the orientation of the inscribed structure relative to the cavity electric field. With the 1.8 mm depth of a concentric grating along E, stepped power gave a smooth staircase to an indicated ~500C at 80 W followed, at 90 W, by an abrupt excursion to an indicated ~900C with surface roughening and terraced oxidation. Rotating the same sample so that the grating diameter lay along E, and an unmodified crystal in either orientation, gave no signal above the ~40C floor. We account for this by the depolarisation factors L of the sub-wavelength tracks, collapsed into one screening parameter S = Lσ/(ωε0εh), here, σ conductivity, ω - cyclic frequency, εh,0 - permittivity of host and vacuum, respectively. The model turns element length, diameter and writing regime into design variables for microwave absorption in a transparent host.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T21:08:47Z</published>
+    <arxiv:comment>15 pages; 7 figures; 4 figures in supplementary</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Massimiliano Zamengo</name>
+    </author>
+    <author>
+      <name>Meguya Ryu</name>
+    </author>
+    <author>
+      <name>Haoran Mu</name>
+    </author>
+    <author>
+      <name>Hsin-Hui Huang</name>
+    </author>
+    <author>
+      <name>Nguyen Hoai An Le</name>
+    </author>
+    <author>
+      <name>Tomas Katkus</name>
+    </author>
+    <author>
+      <name>Darius Gailevičius</name>
+    </author>
+    <author>
+      <name>Junko Morikawa</name>
+    </author>
+    <author>
+      <name>Saulius Juodkazis</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30401v1</id>
+    <title>Semblance Distance Analysis for Channel Quality Assessment in Distributed Acoustic Sensing</title>
+    <updated>2026-10-21T20:06:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.30401v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30401v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Distributed Acoustic Sensing (DAS) enables dense, kilometer-scale measurements for seismic and environmental monitoring, but its performance is limited by spatially heterogeneous noise and fiber to ground coupling. Identifying high-quality sensing channels remains a challenge, particularly in nonstationary and complex noise environments where conventional signal to noise ratio (SNR) or correlation based approaches are insufficient. In this work, we introduce a statistical framework for DAS channel quality assessment based on a semblance distance metric, which quantifies the deviation of individual channels from a locally coherent reference signal. Unlike traditional pairwise similarity measures, the proposed method formulates channel selection as a distance estimation problem in a coherence enhanced signal space, enabling identification of incoherent noise and coupling induced distortions without requiring prior knowledge of installation conditions or noise statistics. The method is validated using multiple independent datasets, including recordings of the 2023 Turkish-Syrian earthquakes, a controlled seismic source experiment, and long-term continuous measurements. Across all scenarios, the approach identifies regions of low noise and strong coupling, with results that correlate with independent SNR and root mean square error (RMSE) metrics. Furthermore, the method detects subtle sub-decibel temporal variations in coupling conditions over seasonal timescales, demonstrating its capability for continuous fiber health monitoring. These results establish semblance distance analysis as a physically interpretable tool for DAS channel selection with direct applications in seismic imaging, structural health monitoring, and noise mitigation in high sensitivity systems such as gravitational wave detectors.</summary>
+    <category term="eess.SP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T20:06:02Z</published>
+    <arxiv:primary_category term="eess.SP"/>
+    <author>
+      <name>Reinhardt Rading</name>
+    </author>
+    <author>
+      <name>Markus Hoffmann</name>
+    </author>
+    <author>
+      <name>Norbert Meyners</name>
+    </author>
+    <author>
+      <name>Holger Schlarb</name>
+    </author>
+    <author>
+      <name>Céline Hadziioannou</name>
+    </author>
+    <author>
+      <name>Oliver Gerberding</name>
+    </author>
+    <author>
+      <name>Katharina-Sophie Isleif</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29901v1</id>
+    <title>Superconducting parametric amplifiers based on arrays of unequal Josephson junction elements</title>
+    <updated>2026-10-21T15:42:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.29901v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29901v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Impedance matching is a crucial feature of an amplifier used to increase its instantaneous bandwidth and is typically achieved using static LC resonators. Here we show an approach to impedance matching in parametric amplifiers using arrays of unequal Josephson-junction-based elements (rf/dc SQUIDs, SNAILs, etc). The elements act either as small-footprint flux-tunable inductors forming an impedance-matching circuit, or 'active' amplifier elements which result in amplifier gain. We develop an analytical theory describing these systems, predicting a quasi-non-periodic amplifier frequency and gain modulation with applied flux and the broadening of gain bandwidths. We demonstrate this in devices using arrays of flux-focused SNAILs where flux biasing varies across the array. We find instantaneous bandwidths of 200 MHz with $&gt;$17 dB of gain centred at $\sim$5.4 GHz in a device without a static impedance matcher. This broadening of amplifier bandwidth is stable with $&gt;$100 MHz bandwidth at 17 dB gain across $&gt;$1.2 GHz tunable bandwidth. Our analytical model captures flux dependence and qualitatively reproduces gain-bandwidths giving confidence in our understanding of these systems and allowing operational figures of merit to be optimised in future devices.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:42:19Z</published>
+    <arxiv:comment>15 pages, 8 figures, main text and appendices</arxiv:comment>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Boris Chesca</name>
+    </author>
+    <author>
+      <name>Tom Dixon</name>
+    </author>
+    <author>
+      <name>Narendra Acharya</name>
+    </author>
+    <author>
+      <name>Renuka D. Pothuraju</name>
+    </author>
+    <author>
+      <name>Jacob W. Dunstan</name>
+    </author>
+    <author>
+      <name>Connor D. Shelly</name>
+    </author>
+    <author>
+      <name>Oscar W. Kennedy</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29775v1</id>
+    <title>Consistent Modeling of SEI Growth via Electron Diffusion Validated Across Diverse Cell Specifications and Operating Conditions in LFP/Graphite Cells</title>
+    <updated>2026-10-21T14:05:49Z</updated>
+    <link href="https://arxiv.org/abs/2610.29775v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29775v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Understanding and predicting degradation in lithium-ion batteries is critical for their widespread deployment. The continuous growth of the solid-electrolyte interphase (SEI) remains a dominant aging pathway, yet accurately modeling its kinetics across diverse cell specifications and operating conditions remains a significant challenge. Here, we present and validate a physically grounded SEI growth model mediated by the electron diffusion mechanism. This framework intrinsically captures the state of charge (SOC) dependence of degradation through the impact of the anode potential on the electron concentration, which governs the rate of SEI growth. The presented model explicitly accounts for variations in electrolyte salt, anode material, temperature, and cycling rate. Validation against experimental aging data for LFP/graphite cells demonstrates high predictive accuracy across a broad range of cell specifications and cycling conditions, including confined SOC windows, electrolyte salts (LiFSI, LiPF6), artificial graphites (AGC, AGD), temperatures (40-70°C), and C-rates (C/20-1C). Remarkably, a single, consistent set of parameters is applied to simulate the capacity fade for all experiments without recalibration. While quantitative overestimations occur during high-SOC storage periods, the framework consistently captures the observed degradation trends. Our findings underscore that lower SOC operation mitigates degradation, establishing a physics-based model for predicting long-term lithium-ion battery aging.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T14:05:49Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Lukas Köbbing</name>
+    </author>
+    <author>
+      <name>William Black</name>
+    </author>
+    <author>
+      <name>Claire Floras</name>
+    </author>
+    <author>
+      <name>Saad Azam</name>
+    </author>
+    <author>
+      <name>Eniko Zsoldos</name>
+    </author>
+    <author>
+      <name>Ben Tang</name>
+    </author>
+    <author>
+      <name>J. R. Dahn</name>
+    </author>
+    <author>
+      <name>Birger Horstmann</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29693v1</id>
+    <title>Zero-group-velocity modes in textured steel plates: experiments and elastic modeling</title>
+    <updated>2026-10-21T13:08:20Z</updated>
+    <link href="https://arxiv.org/abs/2610.29693v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29693v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Zero-group-velocity (ZGV) resonances are investigated as a non-contact ultrasonic probe of elastic anisotropy in textured steel plates. Directional laser-ultrasonic measurements were performed on 70% cold-rolled Ti-stabilized interstitial-free steel plates in the full-hard and recrystallized condition. Experimental results were compared with predictions based on effective elastic stiffness tensors derived from X-ray diffraction measurements. Classical Voigt-Reuss-Hill estimates and microstructure-resolved finite-element homogenization reproduce the measured angular dependence of the ZGV frequencies well for both states, with the finite-element KUBC/SUBC bounds considerably narrower than the classical Voigt-Reuss bounds. For the full-hard state, agreement with the texture-based model is obtained only after a recovery treatment. This indicates that dislocations present in the full-hard material contribute to its elastic response, an interpretation that is further supported by theoretical estimations. An identifiability analysis shows that the directional ZGV measurements provide access to at least three independently observable combinations of the stiffness tensor components, and concluding suggestions for application in recrystallization monitoring are provided.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.data-an" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T13:08:20Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>C. Grünsteidl</name>
+    </author>
+    <author>
+      <name>C. Kerschbaummayr</name>
+    </author>
+    <author>
+      <name>G. Yan</name>
+    </author>
+    <author>
+      <name>G. Watzl</name>
+    </author>
+    <author>
+      <name>F. Rudinger</name>
+    </author>
+    <author>
+      <name>E. Scherleitner</name>
+    </author>
+    <author>
+      <name>M. Sonnleitner</name>
+    </author>
+    <author>
+      <name>C. Hoflehner</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29362v1</id>
+    <title>Compositional neural networks for multimodal X-ray and neutron scattering inversion</title>
+    <updated>2026-10-21T07:54:26Z</updated>
+    <link href="https://arxiv.org/abs/2610.29362v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29362v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>X-ray and neutron scattering are indispensable for structural characterization across condensed-matter physics and materials science. Yet, because scattering experiments generally record intensities without phase information, distinct structures can yield similar scattering patterns, rendering the corresponding inverse problems non-unique. This ambiguity can be reduced by combining complementary measurements, but their integration into machine-learning frameworks remains challenging. Here we introduce a modular framework for probabilistic multi-measurement analysis based on prior-amortized flow matching. Single-observation posterior estimators are trained separately for individual observation types or physical probes and combined only at inference time through a compositional sampler. This late fusion approach allows pretrained single-observation models to be reused without dedicated joint retraining. As a case in point, we consider reflectometry, which provides depth-resolved, nanometer-scale information about thin films and interfaces. Our single-observation demonstrations span X-ray, time-of-flight neutron and polarized neutron reflectometry. In separate co-refinement studies, task-matched estimators enable homogeneous composition across multiple neutron contrasts and heterogeneous multimodal composition of X-ray and neutron measurements. Together, these results establish compositional flow matching as a modular approach to uncertainty-aware inversion and co-refinement, with potential applicability to other scattering problems in which multiple observations constrain a common physical structure while retaining measurement-specific parameters.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T07:54:26Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Valentin Munteanu</name>
+    </author>
+    <author>
+      <name>Alexander Hinderhofer</name>
+    </author>
+    <author>
+      <name>Dmitry Lapkin</name>
+    </author>
+    <author>
+      <name>Vladimir Starostin</name>
+    </author>
+    <author>
+      <name>Frank Schreiber</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30194v1</id>
+    <title>Einstein's theory of Brownian motion: The non-Fickian normal diffusion</title>
+    <updated>2026-10-21T06:41:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.30194v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30194v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Einstein's theory of diffusion defines what is considered {\it normal diffusion}. Historically, Einstein considered homogeneous diffusion characterised by a diffusion constant in his original calculations, resulting in what is known as {\it Fickian} diffusion, which thermally relaxes concentration inhomogeneities. However, in the same derivation of Einstein, the seed of generalisation of the theory to {\it non-Fickian} diffusion in the presence of space-dependent diffusivity is hidden. This indicates that non-Fickian diffusion, which can drive concentration inhomogeneities, can also be normal diffusion. The present article discusses the origin of the {\it normal} non-Fickian diffusion in Einstein's theory of diffusion.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T06:41:33Z</published>
+    <arxiv:comment>Five pages, no figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>A. Bhattacharyay</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29286v1</id>
+    <title>Binder migration across film consolidation and pore emptying in electrode drying: a continuous model validated against drying-rate, thickness, and schedule experiments</title>
+    <updated>2026-10-21T06:37:13Z</updated>
+    <link href="https://arxiv.org/abs/2610.29286v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29286v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Drying battery electrodes faster saves energy but drives dissolved binder toward the film surface, depleting the current-collector interface and weakening adhesion. Models of this migration stop convecting the binder when film consolidation ends, and models of the subsequent pore emptying omit the binder or start from an assumed binder field, so no simulation has followed binder convection through both stages that a drying schedule acts on. This study presents a continuous simulation of the dissolved binder field across both stages, driven by the published drying rates and completed by effective descriptions of the two questions the base transport physics leaves open: where the liquid of the consolidating film carries the binder, and when the binder stops moving as the pores empty. With a single parameter set, the simulation reproduces three types of published measurements: the change of the surface-to-interface binder ratio with drying rate over a factor of 5.6 and the surface and interface binder levels of films six times thicker; concentration profiles through the film interior; and the response of the interface binder to the time at which the drying rate is switched mid-process. Applied without further adjustment to a published three-stage schedule, the model reproduces the shortened drying and the full interface recovery when the rate is lowered early, and shows that its final high-rate stage begins after the binder has stopped. Combined with a coater-scale process model, the model can be used to identify operating points for electrode production that improve energy efficiency and product quality together.</summary>
+    <category term="cs.CE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T06:37:13Z</published>
+    <arxiv:comment>48 pages, 10 figures, 4 tables. Submitted to Applied Thermal Engineering. Data: https://doi.org/10.6084/m9.figshare.34704411</arxiv:comment>
+    <arxiv:primary_category term="cs.CE"/>
+    <author>
+      <name>Younghwan Joo</name>
+    </author>
+    <author>
+      <name>Sanghyun Oh</name>
+    </author>
+    <author>
+      <name>Sung-il Kim</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28969v1</id>
+    <title>Coupled Loop-within-Loop Resonators at the near-field: Extended Bandwidth and Short Pulse Response upon Parametric Conversion</title>
+    <updated>2026-10-20T22:41:21Z</updated>
+    <link href="https://arxiv.org/abs/2610.28969v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28969v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Parametric frequency conversion have seen a renewed interest, specifically in superconducting quantum circuits at GHz range. These nonlinear convertors are typically narrow band and one may wish to extend their frequency range. Here, two coupled resonators are investigated: a loop-within-loop structure, whose gap is coupled by short, a diode, or simply left open. While simulations and experimental results are limited to GHz range, the concept is general. On their own, the loops exhibit natural frequencies of ca, f=1.5 GHz and f/2=0.73 GHz, respectively; the coupling modifies the resonance frequencies and increases its bandwidth. In one example, signal is fed from one loop and is received by the other. In another example, the input signal is provided across a coupling diode and is received by either loops. It is shown that in the case of nonlinear coupling, the frequency bandwidth can be as large as 3 GHz. Such bandwidth is associated with a very narrow temporal response of less than 150 ps, suggesting coherent effects through high-harmonic excitations at the near-field.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T22:41:21Z</published>
+    <arxiv:comment>13 pages, 12 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>H. Grebel</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28868v1</id>
+    <title>Comprehensive Acoustic Characterization of a Broadband Lateral MEMS Ultrasonic Transducer by Near-Field Acoustic Holography and Coupled Multiphysics Simulation</title>
+    <updated>2026-10-20T19:38:29Z</updated>
+    <link href="https://arxiv.org/abs/2610.28868v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28868v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Broadband airborne ultrasonic transducers are attractive for applications such as ranging, echo-location, and acoustic material characterization, where wide bandwidths enable advanced excitation and signal-processing techniques. Recently, a lateral capacitive micromachined ultrasonic transducer (L-CMUT) employing electrostatically actuated in-plane microbeams was introduced as a broadband MEMS transducer concept. However, a comprehensive investigation of its acoustic radiation behavior and quantitative validation of corresponding multiphysics models have not yet been reported.
+  In this work, we present a combined experimental and numerical characterization of a previously reported L-CMUT device operating between 10 kHz and 60 kHz. A coupled electrostatic--structural--thermoviscous finite-element model is combined with an acoustic boundary-element formulation to investigate the complete transduction chain from electrostatic actuation to acoustic radiation. The numerical predictions are validated experimentally using spherical near-field acoustic holography, enabling reconstruction of three-dimensional directivity patterns, radiated acoustic power, and spherical harmonic representations of the radiated sound field.
+  The results show that the broadband behavior originates from strong thermoviscous damping within the narrow beam--stator cavities, resulting in strongly overdamped operation despite a mechanical eigenfrequency near 50 kHz. Good agreement between simulations and measurements is obtained for radiation patterns, radiated sound power, and spherical harmonic content. Furthermore, horn loading primarily redistributes acoustic energy and modifies directivity while only weakly affecting the total radiated acoustic power.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T19:38:29Z</published>
+    <arxiv:comment>16 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>Anton Melnikov</name>
+    </author>
+    <author>
+      <name>Adrian Alexander</name>
+    </author>
+    <author>
+      <name>Tenia Meisel</name>
+    </author>
+    <author>
+      <name>Jorge M. Monsalve</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28389v1</id>
+    <title>Continuously Tunable Mid-Infrared Metalens Integrating Moiré and Pancharatnam-Berry Phases</title>
+    <updated>2026-10-20T15:38:21Z</updated>
+    <link href="https://arxiv.org/abs/2610.28389v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28389v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A varifocal mid-infrared metalens designed for focusing applications is proposed to integrate both Pancharatnam-Berry (PB) and Moiré pattern-based mechanisms for rotational wavefront control. The metalens employs two identical nanostructured discs featuring germanium (Ge) meta-atoms on calcium fluoride (CaF2) substrates, operating as birefringent half-wave retarders with 99.95% Polarization Conversion Ratio (PCR) and 83.65% total transmission power at 2 μm wavelength. Full-wave numerical simulations demonstrate continuous focal length tunability from 45 μm to 12 μm by rotating the second disk from 30 deg. to 120 deg., corresponding to the numerical aperture values ranging from 22.99% to 68.67%. The proposed metalens maintains reconfigurable focusing regardless of the incident light polarization, while concurrently enabling polarization-controlled operation via a phase-modulation mechanism that yields inverse responses under Right Circular Polarization (RCP) and Left Circular Polarization (LCP) illuminations.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T15:38:21Z</published>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Keivan Kaboutari</name>
+    </author>
+    <author>
+      <name>Muchuan Chen</name>
+    </author>
+    <author>
+      <name>Xiu Liu</name>
+    </author>
+    <author>
+      <name>Sheng Shen</name>
+    </author>
+    <author>
+      <name>Pedro Pinho</name>
+    </author>
+    <author>
+      <name>Stanislav Maslovski</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28383v1</id>
+    <title>Discovering Hidden Predictive States in Kinetic Transport</title>
+    <updated>2026-10-20T15:33:38Z</updated>
+    <link href="https://arxiv.org/abs/2610.28383v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28383v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>How do autonomous macroscopic transport laws emerge from kinetic dynamics, and which hidden degrees of freedom must survive coarse-graining? We address these questions by formulating kinetic state reduction as a problem of predictive sufficiency rather than conventional moment truncation. Starting from Boltzmann transport dynamics, we establish a quantitative connection between unresolved microscopic information, irreducible prediction error, and finite-horizon observability. Microscopic preparations with identical macroscopic observables but distinct subsequent evolution provide direct witnesses of incomplete dynamical closure. We develop an entropy-constrained learned state-reduction framework, demonstrated here through linear projections, that identifies the additional predictive states without prescribing their physical identities and determines their necessity through independent response tests, state deletion, and dynamical consistency. An exactly solvable three-velocity model demonstrates that a hidden higher-order moment can influence future energy transport despite identical initial energy and heat flux. Numerical experiments recover this missing direction and reveal how the required state dimension depends on observation scale, prediction horizon, preparation ensemble, and accuracy. In a synthetic 32-channel Boltzmann system, the learned representation identifies predictive combinations spanning multiple kinetic branches and relaxation groups that are not captured by low-order global moments. We further distinguish observable prediction accuracy from autonomous state closure and quantify the information retained through unresolved memory. These results establish an operational framework for testing the emergence of effective transport laws and identifying the microscopic information required for their predictive validity.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.data-an" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T15:33:38Z</published>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>Pengfei Zhu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28334v1</id>
+    <title>Spin-wave circulation in unbounded ferromagnetic film</title>
+    <updated>2026-10-20T15:01:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.28334v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28334v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A key challenge in spin-wave computing is steering spin waves through circuits without wave distortion or reflections. This often results in 1D propagation scenarios, which hinder applicability in 2D magnonic circuits. We demonstrate experimentally a novel approach using a hard magnetic spherical microparticle to guide spin-waves onto a closed path in a plain thin YIG film. The particle stray field induces a radially symmetrical magnetization landscape, which allows spin-waves to loop around. In parallel, we conducted micromagnetic simulations reproducing the experimental conditions, which confirm the circulation of spin-waves over several loops around the particle. This work demonstrates the possibility to steer spin-waves onto a circular path using inhomogeneous magnetic landscape, as well as advancing scalable spin-wave-based information processing technologies.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T15:01:42Z</published>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Jan Klima</name>
+    </author>
+    <author>
+      <name>Daniel Stoeffler</name>
+    </author>
+    <author>
+      <name>Andres Sarmiento</name>
+    </author>
+    <author>
+      <name>Kevin Weber</name>
+    </author>
+    <author>
+      <name>Loic Temdie</name>
+    </author>
+    <author>
+      <name>Aurélie Solignac</name>
+    </author>
+    <author>
+      <name>Roberto Fenollosa</name>
+    </author>
+    <author>
+      <name>Yves Henry</name>
+    </author>
+    <author>
+      <name>Matthieu Bailleul</name>
+    </author>
+    <author>
+      <name>Vincent Vlaminck</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28216v1</id>
+    <title>A Multimodal Engineering GraphRAG Framework for Post-Wind-Event Building Assessment and Recovery Inference</title>
+    <updated>2026-10-20T13:50:50Z</updated>
+    <link href="https://arxiv.org/abs/2610.28216v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28216v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Post-event building assessment requires linking observed physical damage to its consequences for safety, habitability, functionality, and recovery. Yet post-disaster evidence is often heterogeneous, incomplete, and distributed across images and reconnaissance reports, while recovery models typically require structured engineering inputs. This study develops a multimodal engineering Graph Retrieval-Augmented Generation (GraphRAG) framework that connects post-wind-event damage evidence to physical consequences, building-condition states, recovery actions, and downtime. Image- and text-based evidence is transformed into a provenance-preserving, component-level representation distinguishing confirmed damage, explicit negative evidence, unresolved conditions, and temporary measures. Graph-aligned retrieval combines comparable building scenarios with explicit engineering relationships, while compatibility, contradiction, evidence-precedence, and abstention mechanisms constrain inference under partial observability. Recovery actions are derived from supported damage-consequence relationships, and downtime uncertainty is propagated through an action-dependency network using Monte Carlo simulation. The framework is demonstrated for tornado-affected low-rise residential buildings using reconnaissance and image-based evidence. Comparisons with BaselineRAG and Structured Baseline RAG show improved agreement for key building-condition and recovery outcomes, together with traceable engineering reasoning and preserved evidence provenance. Ablation analyses demonstrate the contributions of engineering context, evidence safeguards, and graph-path traversal. The results support transparent, recovery-oriented assessment from incomplete multimodal post-event evidence.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T13:50:50Z</published>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>Seyedeh Fatemeh Mirfakhar</name>
+    </author>
+    <author>
+      <name>Reda Snaiki</name>
+    </author>
+    <author>
+      <name>Rocio Lilen Segura</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28215v1</id>
+    <title>Variable-Resolution Scattering Reveals Ensemble Properties</title>
+    <updated>2026-10-20T13:50:38Z</updated>
+    <link href="https://arxiv.org/abs/2610.28215v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28215v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>SAXS/SANS determine the size and structure of particles and macromolecules in solution. However, the conventional low-angle determination of the radius of gyration, Rg, cannot separately resolve its scattering-weighted mean and the width of its distribution. Because the apparent Rg includes a contribution from ensemble variance, the distribution width is required even to recover the mean Rg. Here, we introduce TENOR-SAXS, a method for estimating the scattering-weighted width of an Rg distribution by applying two anisotropic digital smearings to a single 2D scattering image. Comparing the smeared images provides curvature information unavailable from the conventional radial profile. The resulting observables require no explicit model of the native instrumental point-spread function and show only weak sensitivity over the range of native resolutions typical of SAXS measurements examined here. Analytical expressions are derived in the low-angle and narrow-distribution limits for ensembles described by a known or independently constrained single-particle form factor. For verification, we simulated scattering by particles with several form factors and ensembles with different size distributions, all agree well with the analytical theory. To leading order, the principal observable depends on the scattering-weighted mean and variance rather than on the distribution's functional form or higher moments. For simulated data corresponding to feasible synchrotron exposure times for biological samples, the distribution width and, expressed as a fraction of its mean, was recovered with a typical discrepancy of ~0.1, while the scattering-weighted mean Rg was recovered with ~2% relative discrepancy. TENOR-SAXS thus provides a framework for estimating ensemble width from existing 2D scattering data without explicit instrumental desmearing and for correcting the variance contribution to the apparent radius</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.data-an" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T13:50:38Z</published>
+    <arxiv:comment>49 Pages, 11 Figures, 3 Tables</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Uri Steinitz</name>
+    </author>
+    <author>
+      <name>Mathar Kravikass</name>
+    </author>
+    <author>
+      <name>Gil Koren</name>
+    </author>
+    <author>
+      <name>Roy Beck</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28152v1</id>
+    <title>Enhancement of Li and Na Storage in Janus HfSSe Monolayers by Co-Induced Electron-Deficient Chalcogen Sites: A First-Principles Study</title>
+    <updated>2026-10-20T12:57:20Z</updated>
+    <link href="https://arxiv.org/abs/2610.28152v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28152v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The growing demand for high-capacity, fast-charging, and durable rechargeable batteries has intensified the search for advanced electrode materials, with two-dimensional materials offering large surface-to-mass ratios and short ion-diffusion pathways. Here, pristine and Co-doped Janus HfSSe monolayers were investigated as anode materials for Li-ion and Na-ion batteries using first-principles density functional theory. Pristine HfSSe was found to be dynamically stable and exhibited a 0.85 eV band gap, while Co substitution shifted the Fermi level toward the valence-band region. Adsorption of the first Li or Na layer induced metallic behavior, thereby improving charge transport. Co doping strengthened alkali-metal binding, with the most favorable Li and Na adsorption energies changing from -2.6125 and -1.9800 eV to -3.7405 and -3.0529 eV, respectively. Co doping created electron-deficient sites that enhanced Li/Na binding. Co-doped HfSSe accommodated up to four Li layers and three Na layers, increasing the theoretical capacities from 555.43 to 776.19 mAh/g for Li and from 370.29 to 582.14 mAh/g for Na. The average open-circuit voltages were 0.62 V for Li and 0.29-0.30 V for Na, with minimum migration barriers of 0.2153 and 0.1044 eV, respectively. These results identified Co-doped Janus HfSSe as a promising anode material for Li-ion and Na-ion batteries.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T12:57:20Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Md. Muktadir Hasan</name>
+    </author>
+    <author>
+      <name>Md. Mafizul Islam</name>
+    </author>
+    <author>
+      <name>Ahmed Zubair</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27859v1</id>
+    <title>Value-level data provenance in an electronic laboratory notebook used by humans and language-model agents: An experience report</title>
+    <updated>2026-10-20T08:41:55Z</updated>
+    <link href="https://arxiv.org/abs/2610.27859v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27859v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A published laboratory number can be verified only when its raw file and extraction method are known. This paper presents the value-level provenance architecture of APS ELN, an electronic laboratory notebook used by both researchers and language-model agents. The architecture was motivated by a production audit in a materials laboratory covering projects performed over almost 5 years. Tracing eight baseline studies from sample to stored value showed that the initial ELN structure preserved the link from sample to raw file. Still, the link from raw file to stored value was lost, mainly due to human factors: manual entries carried no file reference or extractor version. To close this gap, the database design and workflow were reworked so that every stored value records its source file, the data file reader/viewer (DFR) plugin and version, any interactive analysis selection, or the server-side formula for derived quantities. An automated drift check re-runs each DFR on the stored files. In two end-to-end validation studies recorded by agents in X-ray reflectivity and tribology, all stored values retained verifiable provenance with zero drift. A comparison with five other platforms shows that none binds individual stored numbers to both their source files and extractor versions.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.SE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T08:41:55Z</published>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>Oleksiy V. Penkov</name>
+    </author>
+    <author>
+      <name>Boyang Shen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27355v1</id>
+    <title>Reaction-induced Localized Annealing for On-chip Materials Discovery</title>
+    <updated>2026-10-19T22:30:45Z</updated>
+    <link href="https://arxiv.org/abs/2610.27355v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27355v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>On-chip thermal processing is a key technology for materials discovery across all disciplines of the natural sciences. Here, we present a microfabricated heat-delivery platform that enables reaction-induced localized on-chip annealing up to 1400°C. A buried reactive multilayer combined with a nanometric diffusion barrier provide ultra-fast heating and quenching rates on the order of 10$^6$°C s$^{-1}$ as illustrated by the generation of ultra-high aspect ratio microstructures during rapid-solidification and the stabilization of dopant-free tetragonal zirconia at room temperature. Rapid kinetics also enable the observation of transient states of capillary-driven hole collapse in melts. Our work expands localized high-temperature processing routes and offers a material-independent approach for rapid screening of multidimensional nanomaterials on and off-equilibrium.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T22:30:45Z</published>
+    <arxiv:comment>11 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Nensi Toncich</name>
+    </author>
+    <author>
+      <name>Nerea Abando</name>
+    </author>
+    <author>
+      <name>Henning Galinski</name>
+    </author>
+    <author>
+      <name>Frans Spaepen</name>
+    </author>
+    <author>
+      <name>Ralph Spolenak</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26674v1</id>
+    <title>Terabit-scale wavelength-multiplexed transmitter enabled by thin-film lithium tantalate</title>
+    <updated>2026-10-19T16:23:22Z</updated>
+    <link href="https://arxiv.org/abs/2610.26674v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26674v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Artificial-intelligence systems face a growing data-movement bottleneck and require higher interconnect bandwidth without a proportional increase in electrical power consumption or the number of laser sources and fibre connections. Moving optical interfaces closer to computing chips reduces electrical transmission loss, while demanding optical engines that combine high channel capacity, broadband modulation and simple packaging. Although wavelength multiplexing relieves pressure on the fibre budget, integrating shared multi-wavelength sources with dense wavelength routing and broadband modulation in a compact format remains challenging. Here we demonstrate a monolithic transmitter that brings these functions together on a single material platform, enabled by the low birefringence and native Pockels response of thin-film lithium tantalate. The device separates, independently modulates and recombines eight wavelength channels between one optical input and output. This architecture retains a two-fibre interface as the channel count grows, directly addressing the packaging burden of parallel optical links. Measurements across the eight channels establish an aggregate line rate of 1.6 Tbit s$^{-1}$. Operation with a shared optical frequency comb achieves an estimated net data rate of 0.58 Tbit s$^{-1}$ across four channels, demonstrating compatibility with a common multi-wavelength source. Scaling this architecture into multiple wavelength-multiplexed engines offers a path towards 10 Tbit s$^{-1}$ optical interfaces with high bandwidth per unit package edge, positioning thin-film lithium tantalate for the next generation of co-packaged optical interconnects.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T16:23:22Z</published>
+    <arxiv:comment>9 pages, 4 figures, plus Supplementary Information (10 pages, 6 figures)</arxiv:comment>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>Shivaprasad U. Hulyal</name>
+    </author>
+    <author>
+      <name>Dengyang Fang</name>
+    </author>
+    <author>
+      <name>Jiachen Cai</name>
+    </author>
+    <author>
+      <name>Xinru Ji</name>
+    </author>
+    <author>
+      <name>Alexander Kotz</name>
+    </author>
+    <author>
+      <name>Jiale Sun</name>
+    </author>
+    <author>
+      <name>Christian Koos</name>
+    </author>
+    <author>
+      <name>Tobias J. Kippenberg</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26647v1</id>
+    <title>Resolving the Thermal Labyrinth inside 3D-IC Stacks</title>
+    <updated>2026-10-19T16:07:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.26647v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26647v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The heat pathways in 3D-ICs have long been a labyrinth lacking experimental investigations into spatial distribution of thermal properties, severely limiting study of internal thermal management inside chips. For the first time, we established a methodology for 3D thermal characterizations of advanced 3D-ICs, implemented through a systematic workflow that enables layer-resolved thermal property extraction and the construction of a location-specific thermal database. We demonstrated its application to an advanced sample featuring 2.2-μm-diameter TSVs and ~2-μm-pitch face-to-face hybrid bonding (HB). Time-domain and steady-state thermoreflectance were used to extract the thermal conductivities (TCs) of Al traces, TSV, BEOL interconnects and HB pads, indicating HB structure enables efficient thermal transport with 9 W/m-K TC. Further, we mapped and visualized the TC distribution of TSV structures and RDL Cu wires with small step sizes down to 0.2 μm. Utilizing these results, we proposed an experiment-based thermal model to reveal that co-evolution of interconnect and substrate TCs is essential for thermal design and fabrication towards effective cooling optimization.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T16:07:02Z</published>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>Xufei Guo</name>
+    </author>
+    <author>
+      <name>Yiyun He</name>
+    </author>
+    <author>
+      <name>Zirou Chen</name>
+    </author>
+    <author>
+      <name>Zifeng Huang</name>
+    </author>
+    <author>
+      <name>Runsheng Wang</name>
+    </author>
+    <author>
+      <name>Zhe Cheng</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26591v1</id>
+    <title>Coupling Evaporation, Chemical Reactions, and Crystallization: A Population-Balance Framework Applied to Two-Step Perovskite Crystallization</title>
+    <updated>2026-10-19T15:37:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.26591v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26591v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A limited understanding of how evaporation couples to crystallization pathways hampers control over the formation of solution-processed perovskite photoactive layers. Identifying these mechanisms-and learning how to select and tune them-is essential for achieving the desired crystal morphology and, ultimately, improving solar-cell performance and stability. To investigate crystallization pathways in evaporating thin films, we develop a simple and general zero-dimensional population-balance model that couples evaporation, chemical reactions, and crystallization. We use the model to explore a range of parameters for a solvent-solute system that follows a two-step crystallization pathway: solvent evaporation first induces formation of a crystalline precursor, which subsequently recrystallizes into the final phase. The model predicts the evolution of the film composition during drying and provides quantitative LaMer curves. Based on these results, we introduce a vocabulary of "supply limitations" and "rate limitations" that enables the interpretation of crystallization kinetics in terms of the governing process conditions.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.comp-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T15:37:42Z</published>
+    <arxiv:comment>16 pages, 11 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>K. Segadlo</name>
+    </author>
+    <author>
+      <name>O. J. J. Ronsin</name>
+    </author>
+    <author>
+      <name>J. Harting</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26479v1</id>
+    <title>Observation and control of polariton noise in a thermal Rydberg atom electrometer</title>
+    <updated>2026-10-19T14:25:37Z</updated>
+    <link href="https://arxiv.org/abs/2610.26479v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26479v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The establishment of metrics and control of fundamental noise sources in quantum sensing is a long-standing goal in quantum science and technology. We report on the observation of polariton-mediated optical noise in a thermal Rydberg atom vapor and demonstrate its active control and suppression using a radio-frequency field in Rydberg electrometry. The noise exhibits structured amplification and reduction across the Rydberg electromagnetically induced transparency resonance. This reveals a nonlinear slow-light feedback mechanism in which the polariton medium stores and releases probe-field energy. We show that the reference radio-frequency field used in Rydberg heterodyne receivers can also tune the medium into an operating regime where high electromagnetic-field responsivity coincides with reduced optical noise. This operating-point control enables optimization of the electric-field sensitivity within the constraints imposed by Rydberg-polariton physics. These results establish polariton noise as a previously unrecognized intrinsic noise source in thermal Rydberg vapors and the corresponding control method as a crucial aspect of continued efforts to achieve fundamental sensitivity limits in Rydberg electrometry.</summary>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T14:25:37Z</published>
+    <arxiv:comment>9 pages, 5 figures, 1 table</arxiv:comment>
+    <arxiv:primary_category term="physics.atom-ph"/>
+    <author>
+      <name>Teng Zhang</name>
+    </author>
+    <author>
+      <name>Luís Felipe Gonçalves</name>
+    </author>
+    <author>
+      <name>Alisher Duspayev</name>
+    </author>
+    <author>
+      <name>Georg Raithel</name>
+    </author>
+    <author>
+      <name>David A. Anderson</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26428v1</id>
+    <title>Systemic collapse emergence from climate-induced perturbations in transportation networks</title>
+    <updated>2026-10-19T13:54:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.26428v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26428v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The interaction between human infrastructures and external events results in loss of functionality or even complete system disruption through a snowball effect of cascading-failures. Their complex interplay challenges their prevention, affecting the human population that rely on their functionality. Understanding how these networks respond to external perturbations is crucial for predicting and mitigating the impacts of disruptive events. In particular, meteorological events, while not preventable, can have significant impacts on human infrastructure. Here, we propose a model coupling the dynamics of transportation systems to the dynamics of external events considered as fields, to capture at the same time the critical behavior of the former and the level of influence of the latter. The impact of rainfalls on real-world railway networks provides a compelling case study, showcasing local endemic and system-wide disruptions around a critical value of the rainfall strength. Remarkably, localized perturbations on the wider network reveals the local weaknesses of the global infrastructure, and we assess them in terms of system perturbability and corresponding societal risk. Our framework opens the door to the quantitative analysis of criticalities in essential human infrastructure imputable to vulnerabilities that are set to intensify due to climate change.</summary>
+    <category term="physics.soc-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T13:54:12Z</published>
+    <arxiv:comment>24 pages, 5 figure and Supplementary Information</arxiv:comment>
+    <arxiv:primary_category term="physics.soc-ph"/>
+    <arxiv:journal_ref>Proc. Natl. Acad. Sci. U.S.A. 123 (42) e2532180123 (2026)</arxiv:journal_ref>
+    <author>
+      <name>Mauro Faccin</name>
+    </author>
+    <author>
+      <name>Tomas Scagliarini</name>
+    </author>
+    <author>
+      <name>Manlio De Domenico</name>
+    </author>
+    <arxiv:doi>10.1073/pnas.2532180123</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1073/pnas.2532180123" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26317v1</id>
+    <title>Leaky-Wave Antenna for Non-Invasive Continuous Glucose Monitoring</title>
+    <updated>2026-10-19T12:58:31Z</updated>
+    <link href="https://arxiv.org/abs/2610.26317v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26317v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Non-invasive continuous glucose monitoring requires sensing techniques capable of delivering stable, accurate, and real-time quantification of glucose-induced dielectric variations. This paper presents a microwave-based methodology that employs a leaky-wave antenna (LWA) to launch localized traveling electromagnetic waves and estimate glucose concentration through phase measurements at a fixed operating frequency. The LWA architecture enhances electromagnetic coupling with the material under test through controlled energy leakage, enabling strong linearity and high phase sensitivity within the physiological permittivity range (relative permittivity 68-70). In vitro measurements using fetal bovine serum-glucose samples demonstrate a total phase shift of 8.51 degree across glucose concentrations from 50 to 255 mg per liter. Preliminary in vivo experiments conducted on two human subjects show strong correlations between measured S11 phase and reference glucose levels (r=0.939 and r=0.906), confirming the potential of the LWA-based sensing mechanism to track dynamic glycemic variations in a proof-of-concept setting. These results highlight the potential of the proposed approach for practical, continuous, and non-invasive glucose monitoring.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T12:58:31Z</published>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>Huan Wang</name>
+    </author>
+    <author>
+      <name>Han Xiao</name>
+    </author>
+    <author>
+      <name>Yi Zhang</name>
+    </author>
+    <author>
+      <name>Zhi Hua Ren</name>
+    </author>
+    <author>
+      <name>Yang Gao</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26277v1</id>
+    <title>Finite-size scaling of spin-wave scattering and enhancement in magnonic Fabry-Pérot nanoresonators</title>
+    <updated>2026-10-19T12:30:50Z</updated>
+    <link href="https://arxiv.org/abs/2610.26277v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26277v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Magnonic neural networks require compact resonant nodes that scatter spin waves efficiently, concentrate spin-wave energy and can be reconfigured. Hybrid magnonic Fabry-Pérot resonators, formed by a ferromagnetic-metal stripe dipolar-coupled to a yttrium iron garnet (YIG) film, provide low-loss and programmable control of spin-wave transmission, but have so far been studied only for stripes that are long compared with the spin-wave wavelength. Here we use micromagnetic simulations to determine how the response of a 200-nm-wide CoFeB stripe on a 55-nm-thick YIG film evolves as the stripe length is reduced from infinity to 640 nm. An infinitely long stripe acts as a one-dimensional cavity that opens a transmission gap at the first-order resonance (1.70 GHz and 1.47 GHz for the parallel and antiparallel magnetic configuration) and enhances the out-of-plane precession amplitude in the YIG film by factors of about 5 and 12, without distorting the transmitted wavefront. For lengths of a few micrometers, backward-volume spin waves emitted from the stripe ends modulate the precession along the stripe and fragment the reflected and transmitted wavefronts. Below about 1.2 micrometer, the resonator scatters incident spin waves over the entire isofrequency contour of the film, with caustic beams that are most pronounced in the antiparallel configuration. In this regime the parallel configuration supports weakly enhanced quantized modes, whereas the antiparallel configuration supports a single mode with an out-of-plane enhancement of about 15. The width, thickness and shape of the stripe tune this mode by 50-100 MHz, and its strong enhancement lowers the onset of nonlinear frequency shift and fold-over to incident amplitudes of a few percent of the saturation magnetization. Sub-micrometer magnonic resonators are therefore promising reconfigurable nonlinear nodes for magnonic networks.</summary>
+    <category term="cond-mat.other" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T12:30:50Z</published>
+    <arxiv:comment>22 pages, 11 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.other"/>
+    <author>
+      <name>Anton Lutsenko</name>
+    </author>
+    <author>
+      <name>Sebastiaan van Dijken</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26273v1</id>
+    <title>How Memristors Work: A Step-by-Step Guide to the CALM Model</title>
+    <updated>2026-10-19T12:28:35Z</updated>
+    <link href="https://arxiv.org/abs/2610.26273v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26273v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Memristors made of very different materials, halide perovskites, metal oxides and nanofluidic channels, show a common set of dynamical features: two limiting conductances, hysteresis that depends on the scan rate, regular and inverted hysteresis loops, large and negative capacitances and inductive loops in impedance spectra, and potentiation and depression under pulse trains. This tutorial shows how a single minimal model, the conductance-activated quasi-linear memristor (CALM) model, explains all these features with three ingredients: the two conductance states, the rectification function x_eq (u) and the characteristic time tau(u). The tutorial is a slide presentation that the reader can follow alone, with exercises designed to be solved with the help of an AI assistant, reference Python code, and this support text. The text can also be read on its own: Section 4 gives a compact account of the content of the slides, with the main equations and figures, and the solutions to the exercises are given at the end.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T12:28:35Z</published>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>Juan Bisquert</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.25738v1</id>
+    <title>Reduced Molecular Plasma Kinetics with Non-Boltzmann Vibrational Distribution</title>
+    <updated>2026-10-19T03:43:25Z</updated>
+    <link href="https://arxiv.org/abs/2610.25738v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.25738v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Vibrational kinetics can strongly affect energy transfer, chemical kinetics, and discharge behavior in molecular plasmas, but resolving all internal states is often impractical for reactor-scale simulation. Compact, physics-based vibrational closures are particularly needed when complete state-to-state (StS) data are limited. Starting from a detailed $\mathrm{H}_2$ StS plasma-kinetics framework coupled to an electron-Boltzmann calculation, this work develops a reduced vibrational-kinetics formulation. The $\mathrm{H}_2$ vibrational ladder is reduced to two non-Boltzmann groups that evolve their population and internal energy. State-resolved reaction rates and associated energy-exchange terms are projected onto the groups for subsequent tabulation in reactor-scale plasma models. StS-informed samples of the reduced-model are propagated for pulsed RF $\mathrm{H}_2$ plasmas across a scan of pulse-averaged absorbed power and compared with the corresponding StS simulations. Predictions from the sampled models reproduce the bulk plasma response, including electron density, atomic-H density, and $\mathrm{H}_3^+$ density. Discrepancies in $\mathrm{H}^-$ production and the upper-energy-group vibrational temperature persist across the sampled reductions. This indicates a limitation of the present VDF reconstruction rather than the nominal parameter choice. Tail-sensitive processes therefore require a more accurate representation of the vibrational distribution.</summary>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T03:43:25Z</published>
+    <arxiv:primary_category term="physics.plasm-ph"/>
+    <author>
+      <name>Sagar Pokharel</name>
+    </author>
+    <author>
+      <name>Laxminarayan L. Raja</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24988v1</id>
+    <title>Strong Thermal Conductivity Suppression in Isotope Purified Single Crystal Diamond with Phonon Scatterings of Color Centers</title>
+    <updated>2026-10-18T03:47:04Z</updated>
+    <link href="https://arxiv.org/abs/2610.24988v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24988v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The thermal conductivity of natural diamond can be further improved by ~50% by eliminating isotope impurity to obtain pure 12C diamond. However, unlike isolated point defects, how color centers scatter phonons and correspondingly limit the thermal conductivity remain poorly understood. Here, we report the thermal conductivities of two isotope-purified diamond with different Nitrogen-vacancy (NV) color center concentrations, confirmed by photoluminescence (PL) and secondary-ion mass spectrometry (SIMS). Results show ~ 3200 W m-1 K-1 and ~ 2100 W m-1 K-1 for two samples of low and high NV concentrations, respectively. Modified Callaway model analyses show that first-principles-derived scattering parameters can reproduce room-temperature thermal conductivity of the high NV concentration sample under a vacancy concentration assumption (~30% of the total Nitrogen concentration), but fail to reproduce its temperature dependence. Compared to PL and SIMS results, which show ~7.1-fold NV concentration and ~92-fold difference in total Nitrogen concentration between two samples, suggesting the assumed 30% vacancy fraction may be greatly overestimated. Taken together, these results suggest that NV-color-center defects may scatter phonons more strongly than models treating Nitrogen and vacancy as independent point defects, providing new insights into color-center-induced phonon-scattering mechanisms.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-18T03:47:04Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Jinwen Liu</name>
+    </author>
+    <author>
+      <name>Junliang Fan</name>
+    </author>
+    <author>
+      <name>Zimu Jiang</name>
+    </author>
+    <author>
+      <name>Zifeng Huang</name>
+    </author>
+    <author>
+      <name>Zhe Cheng</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24876v1</id>
+    <title>Scaling laws for contamination traversal times during vacuum breaks in superconducting accelerators</title>
+    <updated>2026-10-17T21:29:05Z</updated>
+    <link href="https://arxiv.org/abs/2610.24876v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24876v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A sudden loss of vacuum in a superconducting radio-frequency (SRF) accelerator drives warm gas into the evacuated beamline, where it propagates through interconnected SRF cavities cooled by liquid helium, causing surface contamination, intense heat deposition, and dangerous pressure buildup. Yet predicting how such a failure propagates through realistic multicell cavities has remained difficult because compressible gas dynamics, condensation and cryogenic heat transfer are strongly coupled. Here we develop and experimentally validate a multidimensional computational framework that resolves these processes, and apply it to a full-scale nine-cell SRF cavity. We find that the repeated cell geometry produces staircase-like gas-front propagation, as impingement, recirculation and localized cryopumping strongly retard the bulk flow within each cell. Across a broad range of breach sizes, the cavity traversal time follows a robust power-law scaling with leakage area, providing quantitative guidance for the response time of beamline isolation and protection systems. The simulations also reveal a geometry-confined Mach disk whose position and size track the advancing gas front, suggesting that its acoustic emission could potentially enable rapid, non-invasive detection and localization of vacuum failures. These findings pave the way for a new generation of predictive diagnostics and protection strategies to safeguard large-scale superconducting accelerators.</summary>
+    <category term="physics.acc-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T21:29:05Z</published>
+    <arxiv:comment>11 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.acc-ph"/>
+    <author>
+      <name>Yinghe Qi</name>
+    </author>
+    <author>
+      <name>Qutadah Rababah</name>
+    </author>
+    <author>
+      <name>Wei Guo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24815v1</id>
+    <title>Low-Field J-Coupling Spectroscopy Measured with a Diamond Nitrogen Vacancy Spectrometer</title>
+    <updated>2026-10-17T18:44:44Z</updated>
+    <link href="https://arxiv.org/abs/2610.24815v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24815v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Nitrogen vacancy centers in diamond (NVs) are point defects well suited to quantum sensing of magnetic fields. NV spin states can be initialized and read out optically with high spatial resolution, enabling detection of pL-scale volumes of nuclear spins. Using Coherently Averaged Synchronized Readout (CASR), standard NMR spectroscopy techniques such as free decay, spin echo, and PGSE have been performed with Hz-scale spectral resolution using NV-diamond sensors. However, using NV detection for conventional high-resolution NMR at multi-tesla fields is challenging due to the need to manipulate NV electronic spins at resonance frequencies 100 GHz or higher. Low-field J-coupling spectroscopy provides an alternative path to chemical resolution in a regime more easily accessible to NVs. Here, we demonstrate homonuclear and heteronuclear J-coupling spectroscopy using an NV-NMR spectrometer based on permanent magnets operating at $\sim$890 kHz proton Larmor frequency (bias magnetic field $\sim$21 mT). This field strength enables chemical characterization based on J-coupling using sequences such as Synchronized Echo (SyncE) and Spin-Echo Double Resonance (SEDOR), which do not require the strong chemical shift dispersion and pristine field homogeneity of high-field NMR. The frequency range is easily detected by NVs using standard XY dynamical decoupling sequences and is well-suited for applying Overhauser DNP, which can boost proton signal by two orders of magnitude. We acquire initial NV-NMR measurements of T$_1$, T$_2$, and Overhauser DNP in glycerol before advancing to SEDOR spectroscopy of methanol-$^{13}$C and a methanol-$^{13}$C/acetonitrile-2-$^{13}$C mixture at sample volumes $\sim$50 pL, in which we demonstrate measurement of $^1J_\text{CH}$ couplings and resolution between species. We also acquire a homonuclear J-coupling spectrum of a natural-abundance propylene carbonate sample.</summary>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T18:44:44Z</published>
+    <arxiv:primary_category term="physics.chem-ph"/>
+    <author>
+      <name>Stephen J. DeVience</name>
+    </author>
+    <author>
+      <name>John W. Blanchard</name>
+    </author>
+    <author>
+      <name>Camille G. McDonnell</name>
+    </author>
+    <author>
+      <name>Ronald L. Walsworth</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24440v1</id>
+    <title>Certifying Nonlocal Spin Quantum Entanglement from Local Tunneling Spectra</title>
+    <updated>2026-10-17T04:01:43Z</updated>
+    <link href="https://arxiv.org/abs/2610.24440v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24440v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Quantum entanglement is intrinsically nonlocal, whereas tunneling spectroscopy measures one site at a time. We show that this apparent mismatch can be overcome: local tunneling spectra can certify spin entanglement without coherent control or absolute intensity calibration. An exact spin sum rule turns the high-bias conductance into an internal normalization, allowing the inelastic spin-flip weight to place a lower bound on the local quantum Fisher information. Total-spin conservation then fixes the otherwise inaccessible intersite fluctuation, converting two local spectra into a bound on a collective entanglement witness. We incorporate coupling to the substrate through a spectroscopic bound on spin leakage, while a hierarchy of thresholds distinguishes entanglement between the spins from entanglement with their environment. Including instrumental broadening and noise, the resulting certificate holds at a stated confidence level. These results establish a route for extracting nonlocal quantum information from equilibrium local spectroscopy.</summary>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T04:01:43Z</published>
+    <arxiv:primary_category term="quant-ph"/>
+    <author>
+      <name>Payman Kazemikhah</name>
+    </author>
+    <author>
+      <name>Ruolun Zhang</name>
+    </author>
+    <author>
+      <name>Xiangyu Luo</name>
+    </author>
+    <author>
+      <name>Byunghoon Kim</name>
+    </author>
+    <author>
+      <name>Yu-Peng Zhu</name>
+    </author>
+    <author>
+      <name>Md. Shafayat Hossain</name>
+    </author>
+    <author>
+      <name>M. Zahid Hasan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24368v1</id>
+    <title>Curved HF Monopole Antennas for Improved Low-Angle Skywave Gain Over Lossy Ground</title>
+    <updated>2026-10-17T01:39:14Z</updated>
+    <link href="https://arxiv.org/abs/2610.24368v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24368v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>High-frequency (HF) skywave radars require high gain at elevation angles of 3 degrees to 30 degrees, where vertically-polarized monopoles over lossy land suffer from pseudo-Brewster cancellation. This letter shows that curving a long monopole creates a horizontally-polarized radiation channel much less affected by this cancellation. Closed-form bounds derived from the space-wave field over a homogeneous half-space show that the vertical-current field is suppressed below an elevation set by the soil permittivity, whereas the horizontally-polarized field of an elevated arc is nearly unaffected by the soil. Bayesian optimization (BO) of an analytical model, followed by 182 full-wave HFSS simulations with analytical Fresnel far-field post-processing, was used to design the element at 15 MHz. Over moist soil, a 15-m element with an 86 degrees arc is near-resonant (-25-dB match), 93% efficient, and 25% lower than a straight element of equal length. It raises the azimuth-averaged 3 degrees-30 degrees gain by 2.5 dB and, on every land ground considered, exceeds the 0.575λ straight monopole that is optimal over seawater and PEC by 1.0-2.6 dB.</summary>
+    <category term="eess.SP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T01:39:14Z</published>
+    <arxiv:primary_category term="eess.SP"/>
+    <author>
+      <name>Masoud Salmani Arani</name>
+    </author>
+    <author>
+      <name>Reza Shahidi</name>
+    </author>
+    <author>
+      <name>Lihong Zhang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24361v1</id>
+    <title>Microphase Separation and Ionic Aggregation in Oppositely Charged End-Functionalized Polymer Blends</title>
+    <updated>2026-10-17T01:22:14Z</updated>
+    <link href="https://arxiv.org/abs/2610.24361v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24361v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the phase behavior of binary blends of polymers with oppositely charged termini using an ion-correlation-augmented self-consistent field theory (IC-SCFT). Under the low dielectric conditions typical for organic polymer melts, strong ion correlations drive association of multiple chain ends, leading to emergent multichain architectures that go beyond a simple ion-paired diblock copolymer picture previously used to interpret recent experiments. At moderate to strong polymer segregation, the resulting phase diagram differs considerably from this effective-diblock prediction: ion clustering broadens the lamellar and cylindrical windows while suppressing the network phases, the reverse of the trend for end-charged diblock copolymers. At weak segregation, the two polymers remain miscible even as ion clustering persists, and decreasing chain length drives the clusters themselves through a sphere-to-cylinder-to-lamella shape transition, connecting continuously to the aggregation behavior of classical terminally charged ionomers in the limit when one of the polymer species shrinks to just the charged end. These results reveal that ion clustering -- beyond simple pairwise bonding -- shapes the self-assembly of end-charged polymer blends.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T01:22:14Z</published>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Chao Duan</name>
+    </author>
+    <author>
+      <name>Zhen-Gang Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24338v1</id>
+    <title>Microcomb spectral fingerprinting enables parts-per-trillion methane detection with low humidity cross-sensitivity</title>
+    <updated>2026-10-17T00:09:48Z</updated>
+    <link href="https://arxiv.org/abs/2610.24338v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24338v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Optical frequency combs have transformed molecular spectroscopy by enabling broadband, high-resolution analysis, yet they are conventionally used as light sources to interrogate external samples. Here, we introduce an integrated microcomb sensing architecture that unifies resonantly enhanced evanescent sensing with multiwavelength molecular fingerprinting in a single ultrahigh-quality-factor silica microresonator. Gaseous analytes interact directly with the evanescent field of light recirculating within the resonator, enhancing sensitivity while encoding analyte-induced perturbations across the microcomb's collective spectral response. Rather than relying on a single optical resonance, we exploit distributed responses across multiple comb lines to generate multidimensional molecular fingerprints. Adding more comb lines systematically improves analyte discrimination, showing that the microcomb provides sensing information beyond what individual spectral channels offer. Using methane as a model analyte, we achieve an estimated detection limit of 178 parts per trillion, with minimal spectral responses to ammonia, carbon monoxide, hexane, and water vapor at relative humidities up to 90%. By replacing physically long interaction paths with resonant light recirculation in an ultrahigh-Q microresonator, this architecture brings compact optical sensing into the parts-per-trillion regime while exploiting distributed spectral information for chemical identification.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T00:09:48Z</published>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Shiyan Cao</name>
+    </author>
+    <author>
+      <name>Yinchao Xu</name>
+    </author>
+    <author>
+      <name>Judith Su</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24088v1</id>
+    <title>Revealing Detailed Transport Mechanisms in Silicon Tunneling Diodes</title>
+    <updated>2026-10-16T18:15:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.24088v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24088v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Understanding carrier transport in heavily doped semiconductor junctions is essential for developing next-generation tunneling devices for cryogenic electronics and steep-slope technologies. In this work, we investigate the transport mechanisms in a silicon tunneling diode using extensive TCAD (Technology Computer Aided Design) simulations benchmarked against electrical measurements over a wide temperature range of 4 K to 440 K. The measured device characteristics show no negative differential conductance, strong temperature dependence of forward current with a nearly constant semi-logarithmic slope, and weak temperature dependence under high reverse bias. To identify the mechanisms underlying these characteristics, we investigate the contributions of band-to-band tunneling (BTBT), trap-assisted tunneling (TAT), Shockley-Read-Hall (SRH) recombination, and avalanche generation. We also enhance the Schenk TAT model by incorporating Fermi-Dirac statistics to accurately capture the transport behavior at lower temperatures. Under forward bias, TAT in the depletion region dominates the current at low-to-moderate voltages, whereas SRH becomes increasingly significant at higher voltages and temperatures. Under reverse bias, TAT dominates at low reverse voltages, particularly near and above room temperatures, whereas BTBT becomes predominant at high reverse bias, resulting in weak temperature dependence. This work provides a comprehensive understanding of the bias- and temperature-dependent transport mechanisms in silicon tunneling junctions and an enhanced TAT model suitable over a broader range of operating conditions.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T18:15:36Z</published>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>Juan P. Mendez</name>
+    </author>
+    <author>
+      <name>Xujiao Gao</name>
+    </author>
+    <author>
+      <name>Sungjae Hong</name>
+    </author>
+    <author>
+      <name>Evan M. Anderson</name>
+    </author>
+    <author>
+      <name>Christopher R. Allemang</name>
+    </author>
+    <author>
+      <name>Shashank Misra</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24047v1</id>
+    <title>Multiple propagating modes in random polycrystals</title>
+    <updated>2026-10-16T15:58:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.24047v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24047v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Multiple-scattering theory predicts that the coherent elastic wave in a statistically isotropic polycrystal is not a single wave. Its dispersion equation admits multiple roots of a given polarization, but these extra modes have never been observed. Here, using grain-scale finite-element simulations of three-dimensional polycrystals, we resolve the coherent field in the frequency--wavenumber plane and directly observe the predicted multiplicity for both transverse and longitudinal excitations: a single mode at low frequencies gives way to two in the geometric regime as the wavelength approaches the grain correlation length. The measured modes follow the roots of the dispersion equation, which always carries a third root whose attenuation exceeds that of the others. It is this attenuation hierarchy, not the root count, that dictates how many modes propagate and can be observed. Coherent wave propagation in random media is thus inherently multimodal in the geometric regime, which we reach here for the first time in polycrystals.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T15:58:36Z</published>
+    <arxiv:comment>6 pages, 3 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Ming Huang</name>
+    </author>
+    <author>
+      <name>Stanislav I. Rokhlin</name>
+    </author>
+    <author>
+      <name>Michael J. S. Lowe</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23608v1</id>
+    <title>When Magnitude Suffices: Reconstructing Time-Domain-Gated Microwave Signals Without Phase on a Thoracic Phantom</title>
+    <updated>2026-10-16T15:22:35Z</updated>
+    <link href="https://arxiv.org/abs/2610.23608v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23608v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Time-domain gating separates the arrivals that form a microwave S-parameter measurement. It requires the measurement of complex values, so this application almost always uses a vector network analyzer (VNA). We show that, on one calibrated measurement configuration, the gated magnitude the VNA would give can be reconstructed from a magnitude-only sweep of a spectrum analyzer with a tracking generator (SA). We select the gate center for separability of the measured states, correct each instrument once by a per-bin subtraction of a reference state, and train a fully connected network on sweeps from both instruments. The test object is a torso phantom with lung-shaped compartments whose filling takes eleven dielectric states, each held out in turn. On $S_{11}$ the reconstruction from SA input reaches a shape error of 0.08 dB$^2$ with a state ordering of 0.81. This matches the reconstruction from VNA input. On $S_{21}$ it reaches 0.82 dB$^2$ and keeps the ordered groups of the states. An explicit phase prediction performs much worse, because gating needs the phase to about 0.2 rad RMS. Across eleven measurement configurations the dependence of phase on magnitude is strong for reflection and weak for transmission. This explains the difference between $S_{11}$ and $S_{21}$. Where the magnitude carries enough of the phase, a scalar instrument gives the gated response without any phase measurement after installation. On the open UM-BMID breast data set, with whole phantoms held out, the shape error of the network is 30 percent lower than that of a per-bin linear map.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T15:22:35Z</published>
+    <arxiv:comment>18 pages, 7 figures, 4 tables</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Maciej Cichoń</name>
+    </author>
+    <author>
+      <name>Patrycja Gołaś</name>
+    </author>
+    <author>
+      <name>Maksymilian Bartosik</name>
+    </author>
+    <author>
+      <name>Angelika Walczak</name>
+    </author>
+    <author>
+      <name>Agata Bielecka-Dąbrowa</name>
+    </author>
+    <author>
+      <name>Maciej Ślot</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23433v1</id>
+    <title>Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandgap Semiconductor Heterointegration</title>
+    <updated>2026-10-16T13:18:40Z</updated>
+    <link href="https://arxiv.org/abs/2610.23433v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23433v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Single-crystal diamond membranes (SCDms) were created using a hydrogen ion-cut process combined with a two-step post-implantation annealing, electrochemical etching, and micro-transfer printing. Monte Carlo simulations comparing H, He, C, and O implantation predicted a narrower vacancy-distribution profile for hydrogen under the implantation conditions examined. Raman spectroscopy was used to evaluate implantation-induced lattice damage and its recovery during annealing and membrane release, while optical bandgap analysis provided further evidence of restoration of the diamond lattice structure. After delamination and removal of residual graphitic material, freestanding SCDms with improved crystalline quality were obtained. The SCDms were subsequently transferred to GaN, SiC, AlGaN, and AlN substrates without an adhesive layer. The successful formation of diamond/WBG and diamond/UWBG heterostructures demonstrates the feasibility of integrating the SCDms with a range of semiconductor platforms. Overall, these results establish hydrogen implantation as an effective route for producing high-quality SCDms for future diamond-based heterogeneous integration applications.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T13:18:40Z</published>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Xuanyu Zhou</name>
+    </author>
+    <author>
+      <name>Chenyu Wang</name>
+    </author>
+    <author>
+      <name>Dmitry Shinyavskiy</name>
+    </author>
+    <author>
+      <name>Lu Chen</name>
+    </author>
+    <author>
+      <name>Luke Suter</name>
+    </author>
+    <author>
+      <name>Andreas Graff</name>
+    </author>
+    <author>
+      <name>Michel Simon-Najasek</name>
+    </author>
+    <author>
+      <name>Vincent Gambin</name>
+    </author>
+    <author>
+      <name>Katherine T. Fountaine</name>
+    </author>
+    <author>
+      <name>Zhenqiang Ma</name>
+    </author>
+    <author>
+      <name>Frank Altmann</name>
+    </author>
+    <author>
+      <name>Matthias Muehle</name>
+    </author>
+    <author>
+      <name>Jung-Hun Seo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23070v1</id>
+    <title>Wavelength Diversity Expands the Expressive Power of Optical Computing</title>
+    <updated>2026-10-16T07:42:20Z</updated>
+    <link href="https://arxiv.org/abs/2610.23070v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23070v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Universal function approximation underpins neural networks' capacity to represent nonlinear relationships, but realizing this capability in optical hardware requires engineering the computational features encoded in light. Here, we show that wavelength diversity enhances optical function-approximation expressivity through wavelength-scaled Fourier features generated by a shared phase encoder, without increasing the number of input-encoded harmonics. Multiple wavelengths contribute to the representation of each output function rather than merely serving as independent computational channels. We establish theoretical scaling laws and approximation-error bounds, revealing that, for nondispersive encoders, the spectral endpoints determine the accessible computational bandwidth, while intermediate illumination wavelengths enrich the available harmonics within that bandwidth. Numerical studies demonstrate improved approximation of real- and complex-valued nonlinear functions, with a representative design achieving more than a 100-fold reduction in mean-squared error relative to tested monochromatic optical processors with the same number of trainable phase features. Experimentally, we validate enhanced approximation accuracy and demonstrate the simultaneous approximation of 4,136 distinct nonlinear functions using a compact, single-layer diffractive processor under five-wavelength illumination. These results establish wavelength diversity as an additional physical resource for scaling the expressive power of optical computing and enhancing the accuracy of parallel nonlinear function approximation.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.NE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T07:42:20Z</published>
+    <arxiv:comment>34 Pages, 10 Figures</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Shiqi Chen</name>
+    </author>
+    <author>
+      <name>Che-Yung Shen</name>
+    </author>
+    <author>
+      <name>Parnian Ghapandar Kashani</name>
+    </author>
+    <author>
+      <name>Yongkang Cheng</name>
+    </author>
+    <author>
+      <name>Aydogan Ozcan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22867v1</id>
+    <title>Chirality-resolved imaging of spin waves with a quantum spin</title>
+    <updated>2026-10-16T03:12:04Z</updated>
+    <link href="https://arxiv.org/abs/2610.22867v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22867v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Spin waves carry their propagation direction in the handedness of their circularly polarized stray field, a property inaccessible to scalar magnetometers. In the Damon-Eshbach surface wave of an in-plane magnetized film, the dipolar field above the film rotates with a handedness fixed by the direction of travel. The nitrogen-vacancy (NV) centre in diamond is an intrinsic polarization analyser: a right-handed field about the NV axis drives one spin transition, and a left-handed field drives the other, in both the ground and the excited state. Here, we exploit the two excited-state transitions, which lie inside the spin-wave band of yttrium iron garnet (YIG), as a pair of chirality channels and image Damon-Eshbach waves in both directions. Because reflection from an etched boundary reverses the handedness, the incident and reflected waves appear as two lines in one spectrum and are imaged separately. In the ground state, the same rule applies, and the selected field drives Rabi oscillations, a route to chirality-selective control of the NV spin by magnons. Reading the two channels gives the direction of a spin wave at one point, without a phase reference. This advances chirality-resolved quantum sensing and provides insight into chiral spin-wave dynamics.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T03:12:04Z</published>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Enbo Zhang</name>
+    </author>
+    <author>
+      <name>Tiancheng Zheng</name>
+    </author>
+    <author>
+      <name>Bo-Yuan Yang</name>
+    </author>
+    <author>
+      <name>Shreyes Nallan</name>
+    </author>
+    <author>
+      <name>Chengchao Xu</name>
+    </author>
+    <author>
+      <name>Mark Ku</name>
+    </author>
+    <author>
+      <name>Jian-Gang Zhu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22866v1</id>
+    <title>Maximizing Smith-Purcell radiation intensity via multi-parameter optimization</title>
+    <updated>2026-10-16T03:11:16Z</updated>
+    <link href="https://arxiv.org/abs/2610.22866v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22866v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Smith Purcell radiation offers a versatile platform for terahertz light matter interactions and compact source development, with intensity enhancement as a key priority. Using particle in cell simulations across a duty cycle range of from 0.1 to 0.9 at 0.4, 0.5, and 0.6 THz, we optimize the grating period, electron kinetic energy and duty cycle. The intensity exhibits a unimodal dependence on the grating period at all three frequencies, with peak enhancements of 96, 34, and 17.5 fold relative to our reference baseline . The optimal duty cycle shifts from 0.2 to 0.4 with increasing frequency, a trend arising from the trade off between coherent superposition and beam-wave coupling under fixed length conditions. These results provide systematic design guidelines for compact tabletop terahertz sources.</summary>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T03:11:16Z</published>
+    <arxiv:primary_category term="physics.app-ph"/>
+    <author>
+      <name>Xiaojie Yang</name>
+    </author>
+    <author>
+      <name>Shichao Zhao</name>
+    </author>
+    <author>
+      <name>Xinyu Liu</name>
+    </author>
+    <author>
+      <name>Suguo Chen</name>
+    </author>
+    <author>
+      <name>Yue Wang</name>
+    </author>
+    <author>
+      <name>Ping Zhang</name>
+    </author>
+    <author>
+      <name>Zhigang Lu</name>
+    </author>
+    <author>
+      <name>Zhanliang Wang</name>
+    </author>
+    <author>
+      <name>Sunchao Huang</name>
+    </author>
+    <author>
+      <name>Yubin Gong</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22801v1</id>
+    <title>Programming the Nonlinear Optics of a Nanoporous Photonic Metamaterial by Confined Crystallization</title>
+    <updated>2026-10-16T01:25:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.22801v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22801v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A membrane traversed by a dense array of nanochannels acts as a photonic metamaterial: with channels far smaller than the wavelength of light, the optical response is set by the architecture rather than by the constituent materials. Here each nanochannel is turned into a nonlinear optical meta-atom by filling anodic aluminum oxide (AAO) with benzil (BZL), a noncentrosymmetric molecular crystal, and the crystallization pathway programs their orientation. In free-standing membranes every channel solidifies independently, the orientations remain uncorrelated, and the effective second-harmonic generation (SHG) response is nearly polarization isotropic; its magnitude follows a core - shell model in which an optically inactive interfacial layer of 2.6 nm reduces the active volume of each meta-atom, reproducing on bare alumina the value previously found on alkyl-grafted silica and indicating a host-insensitive limit. Seeding crystallization from a bulk benzil layer instead aligns the meta-atoms over submillimeter domains and produces a macroscopically anisotropic effective susceptibility. Channel diameters from 32 to 270 nm span the transition out of the subwavelength regime, and the anomalous directional SHG emission reported here is confined to the metamaterial limit. Confined crystallization thus offers a route to nonlinear optical metamaterials whose effective susceptibility tensor is written during processing.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.chem-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T01:25:42Z</published>
+    <arxiv:comment>19 pages, 9 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Andrii Z. Maxym</name>
+    </author>
+    <author>
+      <name>Junhui Lang</name>
+    </author>
+    <author>
+      <name>Bouchta Sahraoui</name>
+    </author>
+    <author>
+      <name>Anatoliy S. Andrushchak</name>
+    </author>
+    <author>
+      <name>Yaroslav Shchur</name>
+    </author>
+    <author>
+      <name>Olha Kityk</name>
+    </author>
+    <author>
+      <name>Robert Wielgosz</name>
+    </author>
+    <author>
+      <name>Monika Lelonek</name>
+    </author>
+    <author>
+      <name>Piotr Pawlik</name>
+    </author>
+    <author>
+      <name>Patrick Huber</name>
+    </author>
+    <author>
+      <name>Jaroslaw Jedryka</name>
+    </author>
+    <author>
+      <name>Andriy V. Kityk</name>
+    </author>
+  </entry>
+</feed>

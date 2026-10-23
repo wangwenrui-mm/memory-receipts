@@ -1,0 +1,3 @@
+{"id": "EXP-01", "param": "退火温度", "value": 850, "unit": "℃", "date": "2026-05-01", "source": "EXP-2026-13", "scope": "样品1"}
+{"id": "EXP-02", "param": "退火温度", "value": 900, "unit": "℃", "date": "2026-09-01", "source": "PaperB", "scope": "样品1"}
+{"id": "EXP-03", "param": "氧化层厚度", "value": 120, "unit": "nm", "date": "2026-05-01", "source": "EXP-2026-13", "scope": "样品1"}

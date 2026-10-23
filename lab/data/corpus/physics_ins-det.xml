@@ -1,0 +1,4053 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/gdNw9x3zpaCFf7biZvhJHjpZ8Vw</id>
+  <title>arXiv Query: search_query=cat:physics.ins-det&amp;id_list=&amp;start=0&amp;max_results=50</title>
+  <updated>2026-10-23T08:40:03Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=cat:physics.ins-det&amp;start=0&amp;max_results=50&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <opensearch:totalResults>25112</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31220v1</id>
+    <title>Quartz Crystal Microbalance impedance of discrete adsorbates with lubricated contact</title>
+    <updated>2026-10-22T13:04:39Z</updated>
+    <link href="https://arxiv.org/abs/2610.31220v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31220v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present a thorough theoretical investigation of the shear force exerted on a horizontal plate undergoing fast (MHz range) longitudinal oscillations in presence of a spherical particle suspended in the liquid at close proximity to the plate. This hydrodynamic problem is relevant toward the analysis of frequency response (i.e., complex impedance) of Quartz Crystal Microbalance (QCM) to discrete (particulate) adsorbates. For low areal density of adsorbates, the contributions of individual particles remain additive, rendering the theory applicable towards quantitative interpretation of the experimental measurements. For adsorbates much smaller than the viscous penetration depth, the closed-form analytical expressions for the complex impedance were derived for particles of arbitrary density, assuming a lubricated contact (i.e., non-localized adsorption). The theoretical predictions were shown to be in an excellent agreement with accurate Finite Element numerical computations. The validity of the theoretical approach was confirmed by QCM measurements conducted for polystyrene nanoparticles in a broad range of sizes, from 32 nm to 510 nm, adsorbing onto gold/silica sensor upon varying the oscillation frequency.</summary>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T13:04:39Z</published>
+    <arxiv:primary_category term="physics.flu-dyn"/>
+    <author>
+      <name>Alexander M. Leshansky</name>
+    </author>
+    <author>
+      <name>Boris Y. Rubinstein</name>
+    </author>
+    <author>
+      <name>Marta Sadowska</name>
+    </author>
+    <author>
+      <name>Zbigniew Adamczyk</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31077v1</id>
+    <title>In situ performance of the Vertex Silicon Plane in the BM@N experiment during Run 9</title>
+    <updated>2026-10-22T10:52:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.31077v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31077v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The Vertex Silicon Plane (VSP) was commissioned and operated for the first time as the most upstream tracking station of the Baryonic Matter at Nuclotron (BM@N) experiment at the NICA accelerator complex during Run 9. The station consisting of six double-sided silicon microstrip modules based on the CBM-BM@N detector technology was installed about 8 cm downstream from the target inside the SP-41 analyzing magnet. The in situ module performance was characterized in terms of the signal-to-noise ratio, time resolution, and Lorentz drift in the magnetic field. The most probable cluster signal-to-noise ratio ranges from 15.5 to 33.2, while the time resolution relative to the trigger pulse is about 12 ns. The tracking performance was evaluated using track-hit residuals and hit-matching efficiency; two independent reference configurations based on the Forward Silicon Detector (FSD) and Gas Electron Multiplier (GEM) tracking systems give consistent efficiencies of about 95%. The contribution of the VSP to the BM@N tracking performance was further studied through the transverse track impact parameter and the reconstruction of short VSP-GEM tracklets. Owing to its position close to the target and its coverage at large polar angles, the VSP provides an additional near-target tracking point and makes it possible to extend the geometrical acceptance beyond that of the FSD- and GEM-based central tracking system.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T10:52:02Z</published>
+    <arxiv:comment>16 pages, 14 figures, 2 tables</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>D. Dementev</name>
+    </author>
+    <author>
+      <name>M. Shitenkov</name>
+    </author>
+    <author>
+      <name>A. Kolozhvari</name>
+    </author>
+    <author>
+      <name>V. Leontyev</name>
+    </author>
+    <author>
+      <name>A. Sheremetev</name>
+    </author>
+    <author>
+      <name>D. Andreev</name>
+    </author>
+    <author>
+      <name>R. Arteche Diaz</name>
+    </author>
+    <author>
+      <name>D. Baranov</name>
+    </author>
+    <author>
+      <name>C. Ceballos Sanchez</name>
+    </author>
+    <author>
+      <name>I. Gabdrakhmanov</name>
+    </author>
+    <author>
+      <name>I. Gorelikov</name>
+    </author>
+    <author>
+      <name>T. Lygdenova</name>
+    </author>
+    <author>
+      <name>I. Osokin</name>
+    </author>
+    <author>
+      <name>S. Reyes Peña</name>
+    </author>
+    <author>
+      <name>I. Rufanov</name>
+    </author>
+    <author>
+      <name>E. Tsapulina</name>
+    </author>
+    <author>
+      <name>A. Voronin</name>
+    </author>
+    <author>
+      <name>Yu. Murin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30451v1</id>
+    <title>Suppression of Grain Boundary Nitrogen Degradation by Boron in Superalloys</title>
+    <updated>2026-10-21T21:06:47Z</updated>
+    <link href="https://arxiv.org/abs/2610.30451v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30451v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Superalloys enable the hottest sections of jet engines to operate at high temperatures, but environmentally assisted degradation limits their lifetime. In polycrystalline alloys, nitrogen penetrates beneath the protective surface oxides, to produce embrittling grain boundary nitrides. Boron is added in trace amounts to improve grain boundary strength, yet its role, if any, in oxidation-related degradation remains unclear. Here we show that boron segregates to an internal nitride--matrix interface in a Ni/Co-base $γ$/$γ^{\prime}$ strengthened superalloy. Both B-free and B-containing alloys develop stratified chromia/alumina scales at 800~$^{\circ}$C in \SI{100}{\hour}, but the B-free variant produces larger, deeper and more elongated Ti/Nb-rich subsurface grain boundary nitrides. Correlative 4D S/TEM and atom probe tomography identify the particle as a chemically complex B1 nitride and reveal interfacial boron segregation. This shows that trace alloying as an alloy strategy can control damaging internal reaction product precipitation and growth by core-shell segregation.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T21:06:47Z</published>
+    <arxiv:comment>6 figures, superalloys, nitrides, oxidation</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>C. Crabb</name>
+    </author>
+    <author>
+      <name>G. Topore</name>
+    </author>
+    <author>
+      <name>J. O. Douglas</name>
+    </author>
+    <author>
+      <name>M. C. Hardy</name>
+    </author>
+    <author>
+      <name>M. S. Conroy</name>
+    </author>
+    <author>
+      <name>D. Dye</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29973v1</id>
+    <title>NTL amplification in a SuperCDMS-style detector fabricated from a University of South Dakota-grown germanium crystal</title>
+    <updated>2026-10-21T16:23:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.29973v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29973v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Neganov-Trofimov-Luke (NTL) amplification enables eV-sub-keV detection thresholds for low-mass dark-matter and coherent elastic neutrino-nucleus scattering experiments. We evaluated two University of South Dakota (USD)-grown germanium crystals fabricated as SuperCDMS-style four-channel athermal-phonon detectors and operated near 10 mK. The crystals had electrically active impurity concentrations near $10^10~\mathrm^-3$ and etch-pit densities of $300$-$7000~\mathrm^-2$. Contact-free biasing produced no resolvable amplification. However, after depositing a 600 nm aluminum bias contact, Detector~2 exhibited clear voltage-dependent NTL gain. The reconstructed channel-B energy increased from approximately 3.9 keV at 0 V to 34.9 keV at 40 V, corresponding to an 8.9-fold enhancement. Statistical centroid uncertainties were below 0.3%, while low-bias fits yielded effective prompt- and NTL-phonon response coefficients of $(6.77\pm0.82)%$ and $(4.77\pm0.20)%$, respectively, excluding systematic uncertainties. These results demonstrate the feasibility of USD-grown germanium for SuperCDMS-style high-voltage phonon detectors and highlight the importance of both crystal quality and contact fabrication in achieving NTL amplification.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.supr-con" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nucl-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T16:23:33Z</published>
+    <arxiv:comment>20 pages, 7 figures, 5 Tables</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Dongming Mei</name>
+    </author>
+    <author>
+      <name>Gerardo Gonzalez</name>
+    </author>
+    <author>
+      <name>William Baker</name>
+    </author>
+    <author>
+      <name>Mark Platt</name>
+    </author>
+    <author>
+      <name>Nader Mirabolfathi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29863v1</id>
+    <title>A Broadband Room-Temperature Design for the Einstein Telescope</title>
+    <updated>2026-10-21T15:20:21Z</updated>
+    <link href="https://arxiv.org/abs/2610.29863v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29863v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The unique underground location of the Einstein Telescope (ET) is expected to substantially suppress seismic and gravity-gradient noise, providing a favorable environment for gravitational-wave detection at low frequencies compared with surface-based observatories. The baseline ET design aims to achieve broadband sensitivity through a xylophone configuration, in which separate cryogenic and room-temperature interferometers are optimised for low- and high-frequency gravitational-wave detection. However, achieving the target low-frequency sensitivity introduces substantial technical complexity caused by vertical suspension thermal noise, vibrations of the cryocooler, and detuned optical configuration. In this paper, we demonstrate an alternative, entirely room-temperature, fully resonant, single-interferometer architecture that addresses these challenges and achieves broadband sensitivity superior to that of the conventional ET xylophone configuration. Using mature fused-silica suspension technology, recent advances in optical coatings, and novel inertial isolation, we show that 4-m-long fused-silica fibres can meet the required suspension thermal-noise performance. We further demonstrate that vibrations, optical rigidity, and quantum back-action noise can be controlled through appropriate design of the interferometer, test mass suspensions, optical seismometers, and quantum states.</summary>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:20:21Z</published>
+    <arxiv:primary_category term="gr-qc"/>
+    <author>
+      <name>Teng Zhang</name>
+    </author>
+    <author>
+      <name>Amit Singh Ubhi</name>
+    </author>
+    <author>
+      <name>Huan Yang</name>
+    </author>
+    <author>
+      <name>Alan V. Cumming</name>
+    </author>
+    <author>
+      <name>Mark Barton</name>
+    </author>
+    <author>
+      <name>Angus Bell</name>
+    </author>
+    <author>
+      <name>Fabio Bergamin</name>
+    </author>
+    <author>
+      <name>Giacomo Bruno</name>
+    </author>
+    <author>
+      <name>Katherine L. Dooley</name>
+    </author>
+    <author>
+      <name>Johannes Eichholz</name>
+    </author>
+    <author>
+      <name>Mariana Fazio</name>
+    </author>
+    <author>
+      <name>Aaron Goodwin-Jones</name>
+    </author>
+    <author>
+      <name>James Hough</name>
+    </author>
+    <author>
+      <name>Keiko Kokeyama</name>
+    </author>
+    <author>
+      <name>Haixing Miao</name>
+    </author>
+    <author>
+      <name>Xingrui Peng</name>
+    </author>
+    <author>
+      <name>Geraint Pratten</name>
+    </author>
+    <author>
+      <name>Stuart Reid</name>
+    </author>
+    <author>
+      <name>Sheila Rowan</name>
+    </author>
+    <author>
+      <name>Patricia Schmidt</name>
+    </author>
+    <author>
+      <name>Alberto Vecchio</name>
+    </author>
+    <author>
+      <name>Giles Hammond</name>
+    </author>
+    <author>
+      <name>Hartmut Grote</name>
+    </author>
+    <author>
+      <name>Denis Martynov</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29705v1</id>
+    <title>Monte Carlo study of extending the BM@N tracking acceptance toward midrapidity with the Vertex Silicon Plane</title>
+    <updated>2026-10-21T13:18:03Z</updated>
+    <link href="https://arxiv.org/abs/2610.29705v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29705v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The Vertex Silicon Plane (VSP), installed close to the target in BM@N Run 9, can extend the tracking acceptance of the central tracking system toward larger polar angles. Using Monte Carlo simulations of Xe+Sn collisions at 3 AGeV, we reconstruct short tracklets from the primary vertex, one VSP hit, and hits in the first two Gas Electron Multiplier (GEM) stations. These tracklets extend the reconstructed primary-proton coverage toward midrapidity and higher transverse momenta. For the 10-30% centrality interval of the independent validation dataset, the conditional reconstruction efficiency for reconstructible high-$p_T$ primary protons after BDT selection is 67.0%, while the tracklet purity reaches 86.5%. For $p_T&gt;1.2$ GeV/c, the VSP-assisted tracklets increase the number of reconstructed primary protons by 17.5% relative to standard BM@N tracking. Of these additional protons, 84.6% lie within $|y|&lt;0.3$, where the relative reconstruction gain reaches 45.5%. The added acceptance is concentrated in the high-$p_T$, near-midrapidity region relevant for identified-proton observables. Its use in data requires particle identification in the same region.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T13:18:03Z</published>
+    <arxiv:comment>8 pages, 5 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>D. Dementev</name>
+    </author>
+    <author>
+      <name>D. Baranov</name>
+    </author>
+    <author>
+      <name>V. Leontyev</name>
+    </author>
+    <author>
+      <name>Yu. Murin</name>
+    </author>
+    <author>
+      <name>I. Rufanov</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29655v1</id>
+    <title>remage: a Geant4-based simulation framework for low-background experiments</title>
+    <updated>2026-10-21T12:36:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.29655v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29655v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Monte Carlo simulations are an essential tool for data modeling and experimental design in low-background physics. These simulations typically demand a considerable effort, with each collaboration developing and maintaining its own complex Geant4 application. In this paper we present the design and validation of remage, which is an open-source framework designed to standardize these simulations and significantly reduce this effort. Its design separates the geometry, built with dedicated Python tools, from the compiled application. It provides a physics list and event generators tuned to radiogenic and cosmogenic backgrounds, output tailored to the most common detector types, and robust validation backed by modern software development practices. The software is distributed ready to use and scales efficiently with the computing resources that demanding simulations require. remage has been primarily developed for the LEGEND experiment, but is applicable to a wide variety of experiments.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nucl-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T12:36:36Z</published>
+    <arxiv:comment>34 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Toby Dixon</name>
+      <arxiv:affiliation>University College London, London, United Kingdom</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Eric Esch</name>
+      <arxiv:affiliation>University of Tübingen, Tübingen, Germany</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Reyco Henning</name>
+      <arxiv:affiliation>University of North Carolina, Chapel Hill, USA</arxiv:affiliation>
+      <arxiv:affiliation>Triangle Universities Nuclear Laboratory, Durham, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Manuel Huber</name>
+      <arxiv:affiliation>Technical University of Munich, Garching, Germany</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Moritz Neuberger</name>
+      <arxiv:affiliation>Technical University of Munich, Garching, Germany</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Luigi Pertoldi</name>
+      <arxiv:affiliation>Technical University of Munich, Garching, Germany</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Zichen Wang</name>
+      <arxiv:affiliation>University of North Carolina, Chapel Hill, USA</arxiv:affiliation>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29639v1</id>
+    <title>Cryogenic scintillation veto for $0\nu2β$ bolometric experiments: from a concept to BINGO prototypes</title>
+    <updated>2026-10-21T12:20:46Z</updated>
+    <link href="https://arxiv.org/abs/2610.29639v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29639v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Achieving a very low, ideally zero, background level, along with ensuring high energy resolution and detection efficiency, are the main tasks in the development of the next generation of experiments to search for neutrinoless double beta ($0\nu2β$) decay. Cryogenic scintillating bolometers meet these basic requirements perfectly. The main ideas pursued in the BINGO (Bi-Isotope $0\nu2β$ Next Generation Observatory) project are the use of a cryogenic scintillation anti-coincidence veto, the minimization of the detector array passive materials, and the use of advanced cryogenic light detectors to reduce backgrounds from surface radioactivity and random signal coincidences. This article presents simulation results for detectors based on Li$_2$MoO$_4$ or TeO$_2$ surrounded by a 5-cm-thick active Bi$_4$Ge$_3$O$_{12}$ scintillation veto, demonstrating the potential to reduce the background by up to a factor of $10^3$, depending on the source location and the type of radionuclide. We further present results from the first cryogenic tests of a small scale prototype with respect to the feasibility of this proposed veto.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T12:20:46Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>A. Armatol</name>
+    </author>
+    <author>
+      <name>D. Baudin</name>
+    </author>
+    <author>
+      <name>G. Benato</name>
+    </author>
+    <author>
+      <name>V. Berest</name>
+    </author>
+    <author>
+      <name>M. Buchynska</name>
+    </author>
+    <author>
+      <name>P. Carniti</name>
+    </author>
+    <author>
+      <name>F. A. Danevich</name>
+    </author>
+    <author>
+      <name>M. De Jesus</name>
+    </author>
+    <author>
+      <name>F. Ferri</name>
+    </author>
+    <author>
+      <name>A. Giuliani</name>
+    </author>
+    <author>
+      <name>H. Gomez</name>
+    </author>
+    <author>
+      <name>C. Gotti</name>
+    </author>
+    <author>
+      <name>Ph. Gras</name>
+    </author>
+    <author>
+      <name>H. Khalife</name>
+    </author>
+    <author>
+      <name>V. V. Kobychev</name>
+    </author>
+    <author>
+      <name>D. S. Kovalenko</name>
+    </author>
+    <author>
+      <name>M. Lefevre</name>
+    </author>
+    <author>
+      <name>Ph. Mas</name>
+    </author>
+    <author>
+      <name>E. Mazzucato</name>
+    </author>
+    <author>
+      <name>J. F. Millot</name>
+    </author>
+    <author>
+      <name>C. Nones</name>
+    </author>
+    <author>
+      <name>G. Pessina</name>
+    </author>
+    <author>
+      <name>D. V. Poda</name>
+    </author>
+    <author>
+      <name>B. Schmidt</name>
+    </author>
+    <author>
+      <name>O. Tellier</name>
+    </author>
+    <author>
+      <name>V. I. Tretyak</name>
+    </author>
+    <author>
+      <name>D. Vurpillot</name>
+    </author>
+    <author>
+      <name>M. M. Zarytskyy</name>
+    </author>
+    <author>
+      <name>A. Zolotarova</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29627v1</id>
+    <title>Recent upgrades to the CRIS Decay Spectroscopy Station: Accessing $β$- and $γ$-ray spectroscopy on pure isomeric beams</title>
+    <updated>2026-10-21T12:10:25Z</updated>
+    <link href="https://arxiv.org/abs/2610.29627v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29627v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The Decay Spectroscopy Station (DSS) of the Collinear Resonance Ionization Spectroscopy (CRIS) experiment at ISOLDE-CERN has been upgraded to perform isomer-selective $β$- and $γ$-ray spectroscopy, including a new tape system to perform spectroscopy, free from residual activity. The baseplate of the detection chamber was redesigned to incorporate the tape, a MicroTOF detector for beam diagnostics, and a custom-made, high-vacuum-compatible plastic scintillator. The vacuum operation reached a stable pressure of $10^{-7}$ mbar in the detection chamber, overcoming vacuum issues from the previous design. Around the detection chamber, up to three high-purity germanium (HPGe) detectors and four LaBr detectors can be installed, giving a total photopeak efficiency of the HPGe detectors of 7% at 200 keV. The implementation of a 24-channel digital DAQ system combines the detection array with the CRIS setup to perform laser-assisted $β$- and $γ$-ray spectroscopy. A commissioning experiment with isomeric beams of $^{106g,106m}$In, purified by narrow-band laser resonance ionization, showed complete removal of activity from the $β$ detector and full separation of the ground and isomeric state of $^{106}$In. An average $β$-detection efficiency of 19(2)% was determined from the experiment.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nucl-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T12:10:25Z</published>
+    <arxiv:comment>17 pages, 6 figures, submitted to The European Physical Journal Plus</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Simone Casci</name>
+    </author>
+    <author>
+      <name>Bram van den Borne</name>
+    </author>
+    <author>
+      <name>Osama Ahmad</name>
+    </author>
+    <author>
+      <name>Anjali Ajayakumar</name>
+    </author>
+    <author>
+      <name>Michail Athanasakis-Kaklamanakis</name>
+    </author>
+    <author>
+      <name>Mia Au</name>
+    </author>
+    <author>
+      <name>Justus Berbalk</name>
+    </author>
+    <author>
+      <name>Yazeed Balasmeh</name>
+    </author>
+    <author>
+      <name>Thomas Elias Cocolios</name>
+    </author>
+    <author>
+      <name>Saikumar Chinthakayala</name>
+    </author>
+    <author>
+      <name>Christian Costache</name>
+    </author>
+    <author>
+      <name>Ruben Pieter de Groote</name>
+    </author>
+    <author>
+      <name>Carlos Mario Fajardo-Zambrano</name>
+    </author>
+    <author>
+      <name>Kieran Thomas Flanagan</name>
+    </author>
+    <author>
+      <name>Ronald Fernando Garcia Ruiz</name>
+    </author>
+    <author>
+      <name>Reinhard Heinke</name>
+    </author>
+    <author>
+      <name>Andres Illana</name>
+    </author>
+    <author>
+      <name>Zakariya Johri</name>
+    </author>
+    <author>
+      <name>Angelos Karadimas</name>
+    </author>
+    <author>
+      <name>Anders Kastberg</name>
+    </author>
+    <author>
+      <name>Ágota Koszorús</name>
+    </author>
+    <author>
+      <name>Louis Lalanne</name>
+    </author>
+    <author>
+      <name>Pierre Lassègues</name>
+    </author>
+    <author>
+      <name>Razvan Lică</name>
+    </author>
+    <author>
+      <name>Yongchao Liu</name>
+    </author>
+    <author>
+      <name>Kara Marie Lynch</name>
+    </author>
+    <author>
+      <name>Abigail McGlone</name>
+    </author>
+    <author>
+      <name>David Thomas McElroy</name>
+    </author>
+    <author>
+      <name>Philippe Mispelter</name>
+    </author>
+    <author>
+      <name>Gerda Neyens</name>
+    </author>
+    <author>
+      <name>Cătălin Neacşu</name>
+    </author>
+    <author>
+      <name>Lukas Nies</name>
+    </author>
+    <author>
+      <name>Andrea Raggio</name>
+    </author>
+    <author>
+      <name>Jordan Ray Reilly</name>
+    </author>
+    <author>
+      <name>Jack Shaw</name>
+    </author>
+    <author>
+      <name>Marek Stryjczyk</name>
+    </author>
+    <author>
+      <name>Andrei Turturica</name>
+    </author>
+    <author>
+      <name>Victoria Vedia</name>
+    </author>
+    <author>
+      <name>Jessica Warbinek</name>
+    </author>
+    <author>
+      <name>Hilde De Witte</name>
+    </author>
+    <author>
+      <name>Xiaofei Yang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28946v1</id>
+    <title>Simulations of MAPS designs for FCC-ee</title>
+    <updated>2026-10-20T21:47:17Z</updated>
+    <link href="https://arxiv.org/abs/2610.28946v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28946v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Future electron-positron colliders such as the future circular collider require vertex detectors with excellent spatial resolution and a low material budget. Monolithic active pixel sensors (MAPS) are a leading candidate technology because they integrate the sensing volume and readout electronics within a single thin silicon substrate and can operate at power densities compatible with air cooling. This paper presents the design and optimization of a high-voltage MAPS (HV-MAPS) pixel structure with a thickness of 25 $μ\text{m}$ and a pitch of 50 $μ\text{m}$, developed using TCAD process and device simulations. The implantation energies and doses of the top-side implants are optimized with respect to the maximum electric field, sensor capacitance, and signals induced at each contact by minimum-ionizing particles. The optimized design reaches full depletion at a bias voltage of approximately -3 V and has an estimated breakdown voltage magnitude of 300-390 V. At a bias voltage of -100 V, the simulated charge-collection efficiency is approximately 90% outside the well regions and 80% within them and remains nearly independent of the angle of incidence.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T21:47:17Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Danush Shekar</name>
+    </author>
+    <author>
+      <name>Doug Berry</name>
+    </author>
+    <author>
+      <name>Ron Lipton</name>
+    </author>
+    <author>
+      <name>Corrinne Mills</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28215v1</id>
+    <title>Variable-Resolution Scattering Reveals Ensemble Properties</title>
+    <updated>2026-10-20T13:50:38Z</updated>
+    <link href="https://arxiv.org/abs/2610.28215v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28215v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>SAXS/SANS determine the size and structure of particles and macromolecules in solution. However, the conventional low-angle determination of the radius of gyration, Rg, cannot separately resolve its scattering-weighted mean and the width of its distribution. Because the apparent Rg includes a contribution from ensemble variance, the distribution width is required even to recover the mean Rg. Here, we introduce TENOR-SAXS, a method for estimating the scattering-weighted width of an Rg distribution by applying two anisotropic digital smearings to a single 2D scattering image. Comparing the smeared images provides curvature information unavailable from the conventional radial profile. The resulting observables require no explicit model of the native instrumental point-spread function and show only weak sensitivity over the range of native resolutions typical of SAXS measurements examined here. Analytical expressions are derived in the low-angle and narrow-distribution limits for ensembles described by a known or independently constrained single-particle form factor. For verification, we simulated scattering by particles with several form factors and ensembles with different size distributions, all agree well with the analytical theory. To leading order, the principal observable depends on the scattering-weighted mean and variance rather than on the distribution's functional form or higher moments. For simulated data corresponding to feasible synchrotron exposure times for biological samples, the distribution width and, expressed as a fraction of its mean, was recovered with a typical discrepancy of ~0.1, while the scattering-weighted mean Rg was recovered with ~2% relative discrepancy. TENOR-SAXS thus provides a framework for estimating ensemble width from existing 2D scattering data without explicit instrumental desmearing and for correcting the variance contribution to the apparent radius</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.data-an" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T13:50:38Z</published>
+    <arxiv:comment>49 Pages, 11 Figures, 3 Tables</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Uri Steinitz</name>
+    </author>
+    <author>
+      <name>Mathar Kravikass</name>
+    </author>
+    <author>
+      <name>Gil Koren</name>
+    </author>
+    <author>
+      <name>Roy Beck</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.28161v1</id>
+    <title>Pulse Shape Model for a Light Enhanced Phonon Detector</title>
+    <updated>2026-10-20T13:03:31Z</updated>
+    <link href="https://arxiv.org/abs/2610.28161v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.28161v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>COSINUS has tested prototype NaI-based cryogenic scintillating calorimeters with a composite design, in which the transition edge sensor (TES) is fabricated on a separate carrier crystal coupled to the NaI target. Measurements with the composite detectors showed deviations from the known pulse shape description for cryogenic calorimeters and did not reveal an identifiable nuclear recoil population during a neutron calibration. In this work we present a new pulse shape model which provides an explanation to these observations and that laid the foundation for the development of the final COSINUS phonon detector design named remote TES (remoTES). We demonstrate that the first COSINUS detector prototypes featured a phonon channel with signal enhancement by light absorption in the carrier, namely a light enhanced phonon detector. This design offers for the first time the chance to use a single channel phonon detector for particle discrimination. We present recent results using a novel pulse shape fitting method based on the Bayesian inference software package BAT.jl.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T13:03:31Z</published>
+    <arxiv:comment>22 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>G. Angloher</name>
+    </author>
+    <author>
+      <name>M. R. Bharadwaj</name>
+    </author>
+    <author>
+      <name>A. Böhmer</name>
+    </author>
+    <author>
+      <name>S. Braun</name>
+    </author>
+    <author>
+      <name>M. R. Cababie</name>
+    </author>
+    <author>
+      <name>I. Colantoni</name>
+    </author>
+    <author>
+      <name>I. Dafinei</name>
+    </author>
+    <author>
+      <name>N. Di Marco</name>
+    </author>
+    <author>
+      <name>C. Dittmar</name>
+    </author>
+    <author>
+      <name>F. Ferella</name>
+    </author>
+    <author>
+      <name>F. Ferroni</name>
+    </author>
+    <author>
+      <name>S. Fichtinger</name>
+    </author>
+    <author>
+      <name>A. Filipponi</name>
+    </author>
+    <author>
+      <name>M. Friedl</name>
+    </author>
+    <author>
+      <name>D. Fuchs</name>
+    </author>
+    <author>
+      <name>L. Gai</name>
+    </author>
+    <author>
+      <name>M. Gapp</name>
+    </author>
+    <author>
+      <name>M. Heikinheimo</name>
+    </author>
+    <author>
+      <name>K. Heim</name>
+    </author>
+    <author>
+      <name>M. N. Hughes</name>
+    </author>
+    <author>
+      <name>K. Huitu</name>
+    </author>
+    <author>
+      <name>M. Kellermann</name>
+    </author>
+    <author>
+      <name>A. Mancuso</name>
+    </author>
+    <author>
+      <name>L. Pagnanini</name>
+    </author>
+    <author>
+      <name>F. Petricca</name>
+    </author>
+    <author>
+      <name>C. Petrucci</name>
+    </author>
+    <author>
+      <name>S. Pirro</name>
+    </author>
+    <author>
+      <name>F. Pröbst</name>
+    </author>
+    <author>
+      <name>G. Profeta</name>
+    </author>
+    <author>
+      <name>A. Puiu</name>
+    </author>
+    <author>
+      <name>F. Reindl</name>
+    </author>
+    <author>
+      <name>K. Schäffner</name>
+    </author>
+    <author>
+      <name>J. Schieck</name>
+    </author>
+    <author>
+      <name>P. Schreiner</name>
+    </author>
+    <author>
+      <name>C. Schwertner</name>
+    </author>
+    <author>
+      <name>P. Settembri</name>
+    </author>
+    <author>
+      <name>K. Shera</name>
+    </author>
+    <author>
+      <name>M. Stahlberg</name>
+    </author>
+    <author>
+      <name>A. Stendahl</name>
+    </author>
+    <author>
+      <name>M. Stukel</name>
+    </author>
+    <author>
+      <name>C. Tresca</name>
+    </author>
+    <author>
+      <name>S. Yue</name>
+    </author>
+    <author>
+      <name>V. Zema</name>
+    </author>
+    <author>
+      <name>Y. Zhu</name>
+    </author>
+    <author>
+      <name>L. Ziegele</name>
+    </author>
+    <author>
+      <name>N. Zimmermann</name>
+    </author>
+    <author>
+      <name>O. Schulz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27980v1</id>
+    <title>A Discrete Amplitude-to-Time Conversion Circuit for TDC-Based Readout of Fast Scintillation Detectors</title>
+    <updated>2026-10-20T10:23:14Z</updated>
+    <link href="https://arxiv.org/abs/2610.27980v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27980v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Fast timing measurements with scintillation detectors commonly employ leading-edge discriminators and time-to-digital converters (TDCs). Many applications also require an energy-related observable for estimating the deposited energy and correcting time-walk effects. Time-over-threshold (ToT) is frequently used for this purpose, but its relationship to pulse amplitude can be severely degraded by undershoot, ringing, and other distortions of the detector pulse tail.
+  This work presents a discrete analog front-end circuit for amplitude-to-time conversion that is insensitive to pulse-tail distortions. An analog multiplexer and a high-speed comparator implement a sample-hold-discharge stage: upon leading-edge detection, the detector pulse amplitude is sampled near its peak and stored on a capacitor, which is subsequently discharged at a controlled rate. The resulting digital pulse width encodes the sampled amplitude, while the leading edge preserves the timing information. The circuit was designed for a short recovery time and a total dead time below 100~ns, making it suitable for high-rate detector readout. The approach enables simultaneous timing and amplitude measurements through a single TDC channel.
+  An eight-channel front-end card implementing this concept was characterized using generated test pulses. The measured transfer function is approximately linear up to input amplitudes of 0.5~V and extends beyond 2~V, with a low-amplitude conversion gain of approximately 27~ps/mV. The estimated relative amplitude precision falls below \SI{0.5}{\percent} for input amplitudes above 0.5~V. These results demonstrate the feasibility of a low-complexity, multichannel amplitude-to-time converter for TDC-based detector readout, offering an alternative to conventional ToT measurement when pulse-tail distortions compromise amplitude estimation.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T10:23:14Z</published>
+    <arxiv:comment>Prepared for submission to JINST, as a proceeding for TWEPP 2026 Topical Workshop on Electronics for Particle Physics September 28, 2024 to October 2, 2026 Castelldefels, Barcelona, Spain</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Michael Wiebusch</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27764v1</id>
+    <title>Searching for Axion Dark Matter via Superconductor-Spin Hybrid Magnetometers</title>
+    <updated>2026-10-20T07:26:53Z</updated>
+    <link href="https://arxiv.org/abs/2610.27764v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27764v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Axions are a compelling dark matter candidate suggested by theories beyond the Standard Model. The predicted axion-electron coupling and the resulting pseudomagnetic field allow for laboratory axion searches. Here we report an experimental axion search via a superconductor-spin hybrid magnetometer. A state-of-the-art broadband magnetometer with a sensitivity of sub-100 aT/Hz$^{1/2}$ at tens of kHz has been realized by coupling a ferrite spin sensor to a readout system based on a superconducting quantum interference device. The most stringent terrestrial constraints on the axion-electron coupling have been established in the frequency range 5$\sim$60 kHz. In the future, an improvement on the constraints of more than 4 orders of magnitude is foreseeable through arrays of superconductor-spin hybrid magnetometers with optimized designs. This work demonstrates the potential of superconductor-spin hybrid magnetometers in high-precision magnetic field sensing and the study of fundamental physics.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T07:26:53Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Runqi Kang</name>
+    </author>
+    <author>
+      <name>Jian Zhang</name>
+    </author>
+    <author>
+      <name>Liangliang Rong</name>
+    </author>
+    <author>
+      <name>Xing Rong</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27709v1</id>
+    <title>A high-speed, large-aperture 3D printed laser shutter for cold atom experiments</title>
+    <updated>2026-10-20T06:27:21Z</updated>
+    <link href="https://arxiv.org/abs/2610.27709v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27709v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Cold atom experiments require optical shutters with rapid and repeatable actuation. Existing solutions often involve high cost, limited aperture diameter and slow transitioning. We present a 3D-printable shutter design featuring a large aperture of 4.5 mm diameter, low-cost assembly, and robust performance. The device achieves switching times of $399\pm8~μ$s with delays of $2.7\pm0.2$ ms for a fully illuminated aperture, with four different shutters demonstrating repeatable performance. We measure the shutter speed to be $7.0\pm0.1$ m/s. This approach offers an accessible, scalable solution for cold atom and other optical experiments requiring multiple shutters with precise light control and avoids the need to resize or precision-align a beam through an aperture.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T06:27:21Z</published>
+    <arxiv:comment>6 pages, 6 figures, 1 table. The data and models, including experimental data, CAD files, a parts list, assembly instructions and thermal and electrical models that support the findings of this study are openly available in UQ eSpace at https://doi.org/10.48610/da433e5</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Samantha L. Rubinstein</name>
+    </author>
+    <author>
+      <name>Charles W. Woffinden</name>
+    </author>
+    <author>
+      <name>Maarten T. M. Christenhusz</name>
+    </author>
+    <author>
+      <name>Guillaume Gauthier</name>
+    </author>
+    <author>
+      <name>Tyler W. Neely</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27665v1</id>
+    <title>Multi-Threshold Sampling: Local and Global Parameter Identifiability</title>
+    <updated>2026-10-20T05:26:09Z</updated>
+    <link href="https://arxiv.org/abs/2610.27665v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27665v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Multi-threshold (MT) sampling records threshold-crossing times for parameter estimation in applications including positron emission tomography, oil well logging, and photon-counting X-ray imaging. We study whether the distribution of recorded crossings uniquely determines the signal parameters and how many thresholds are required for this identifiability. For a fixed MT sampler, we show that the ranks of distribution derivatives with respect to the parameters cannot increase through crossing, timing, and selection. Under suitable regularity assumptions, we characterize local identifiability by a full-rank Jacobian of finitely many event probabilities defined on recorded crossings and establish a necessary and sufficient global identifiability criterion under additional rank and topological assumptions. For a nonhomogeneous Poisson signal model with four intensity parameters, a fixed known single-photon response, and deterministic MT sampling, we prove that four cumulative probabilities of the first recorded crossing time establish local and global identifiability under their respective conditions using a single sufficiently small positive threshold. This attains the minimum number of thresholds for the specified model and sampler. Numerical experiments illustrate these results and reveal weak parameter sensitivity and substantial finite-sample estimation errors when estimation uses these probabilities. The results establish parameter uniqueness while highlighting the role of statistical sensitivity in accurate estimation.</summary>
+    <category term="eess.SP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T05:26:09Z</published>
+    <arxiv:primary_category term="eess.SP"/>
+    <author>
+      <name>Ao Qiu</name>
+    </author>
+    <author>
+      <name>Qingguo Xie</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27621v1</id>
+    <title>A Radiation-Hardened, Fault-Aware Quantized Neural Network That Self-Heals</title>
+    <updated>2026-10-20T04:38:23Z</updated>
+    <link href="https://arxiv.org/abs/2610.27621v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27621v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Deep learning (DL) models are increasingly being deployed into radiation-challenging environments in spacecraft, particle accelerators, and, soon, space-based data centers. Instantiated as a learned orchestration of numbers stored in persistent memory, models are susceptible to continual degradation as high-energy particles corrupt data. At inference time, new data passed through the network fundamentally break the off-line assumptions and guarantees of a static model determined during training. To preserve the quality and efficacy of the models, fault tolerance against bit flips is a clear objective. In this work we developed a runtime method for repairing the quantized weights of neural networks (NNs) after bit flips on commodity, commercial off-the-shelf (COTS) hardware, without storing extra replicas. Our work extends the well-established Fault-Aware Training (FAT) paradigm by adding an alignment penalty to concentrate undamaged activations and weights into a low-rank subspace, and we then reconstruct flagged corrupted coordinates from the uncorrupted survivors. We call this method {\it Projection Healing} and apply it to six regression benchmarks on quantized NNs. Holding a FAT checkpoint fixed and toggling only the runtime heal gives a further ${\sim}23\%$ reduction in the native-unit excess integral. Across those datasets the method extends the operational scrub interval by a median of $2.04\times$ at a $+5\%$ RMSE degradation and $1.96\times$ at $+50\%$, compared with $1.62\times$ and $1.07\times$ for classical Single Error Correction, Double Error Detection (SECDED). This introduces a new path towards designing resilient data-driven models, complementing established hardware redundancy, ECC, and FAT-based techniques.</summary>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nucl-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T04:38:23Z</published>
+    <arxiv:comment>22 pages, 4 figures, 11 tables</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.IM"/>
+    <author>
+      <name>Peter Xiangyuan Ma</name>
+    </author>
+    <author>
+      <name>Joshua S. Bloom</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27595v1</id>
+    <title>Characterization of CharTPix-180A, a strip-shaped monolithic sensor for the STCF inner tracker</title>
+    <updated>2026-10-20T04:01:36Z</updated>
+    <link href="https://arxiv.org/abs/2610.27595v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27595v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The Super Tau-Charm Facility (STCF) is a future high-luminosity electron-positron collider operating in the center-of-mass energy range of 2 to 7 GeV. The monolithic active pixel sensor (MAPS) is one of the options being considered for the STCF inner tracking detector. This application requires a MAPS capable of providing simultaneous position, time, and charge measurements under a constrained power budget of approximately 50 $\rm mW/cm^2$. To address these requirements, a baseline sensor concept featuring a strip-shaped pixel geometry has been proposed to balance power consumption and detection performance. The first prototypes of this concept, referred to as CharTPix-180A, have been developed to evaluate the proposed design. Two prototypes with different design focuses were characterized in this study. An analog readout prototype, CharTPix-180A-c4, was used to evaluate the intrinsic sensor behavior, while a fully functional digital readout prototype, CharTPix-180A-c3, was used to investigate the overall sensor functionality on a small scale. Electrical, radioactive-source, and beam tests were performed to characterize the prototypes. The measured detection efficiency exceeded 99%, the fake-hit rate was below $10^{-3}$ /pixel/s, and the spatial resolution was better than 10 $\rmμm$. A best time resolution of 37 ns was achieved, and the power consumption was about 50 $\rm mW/cm^2$. These results support the feasibility of the strip-shaped MAPS concept for the STCF inner tracker and provide guidance for further design optimization.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T04:01:36Z</published>
+    <arxiv:comment>34 pages, 17 figures, 1 table</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Ruiyang Zhang</name>
+    </author>
+    <author>
+      <name>Dongwei Xuan</name>
+    </author>
+    <author>
+      <name>Hao Han</name>
+    </author>
+    <author>
+      <name>Xinyu Bin</name>
+    </author>
+    <author>
+      <name>Lailin Xu</name>
+    </author>
+    <author>
+      <name>Jiajun Qin</name>
+    </author>
+    <author>
+      <name>Lei Zhao</name>
+    </author>
+    <author>
+      <name>Le Xiao</name>
+    </author>
+    <author>
+      <name>Xiangming Sun</name>
+    </author>
+    <author>
+      <name>Jianbei Liu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27535v1</id>
+    <title>Ultra-Fast 4H-SiC AC-LGAD for 4D Tracking Applications</title>
+    <updated>2026-10-20T02:51:10Z</updated>
+    <link href="https://arxiv.org/abs/2610.27535v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27535v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>4H-SiC low gain avalanche detectors (LGADs) combine internal gain with the high carrier saturation drift velocity, thermal stability, and low leakage current of SiC. AC-coupled readout (AC-LGAD) adds position information to the precise timing, which enables 4D tracking. This work reports the first experimental demonstration of a 4H-SiC AC-LGAD. Devices with a $1.0\times1.0$~mm$^2$ active area and a $2\times2$ array of AC-coupled pads at a pitch of 500~$μ$m were fabricated with two gain-layer doping concentrations, $4\times10^{17}$ and $5\times10^{17}$~cm$^{-3}$, and characterized with a 375~nm ultraviolet transient current technique (UV-TCT) scanning setup. The hit position and time were reconstructed with the conventional discretized positioning circuit (DPC) and constant fraction discrimination (CFD) methods. They were also reconstructed with a transformer-based neural network, which processes the full waveforms of the four pads through a shared encoder and formulates timing as a per-sample segmentation task. With DPC and CFD, the best position and time resolutions are about 10~$μ$m and 20~ps. The neural network mitigates the nonlinear distortions near the device edges and improves the position resolution to below 5~$μ$m and the time resolution to about 15~ps, improvements of more than 60\% and 30\%, respectively. The higher-doped device reaches a high signal-to-noise ratio at lower bias and keeps good performance at low laser intensities. These results demonstrate the potential of 4H-SiC AC-LGADs for 4D tracking in future collider experiments.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T02:51:10Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Tao Yang</name>
+    </author>
+    <author>
+      <name>Chengxi Yang</name>
+    </author>
+    <author>
+      <name>Ben J. Sekely</name>
+    </author>
+    <author>
+      <name>Yashas Satapathy</name>
+    </author>
+    <author>
+      <name>Abraham Tishelman-Charny</name>
+    </author>
+    <author>
+      <name>Greg Allion</name>
+    </author>
+    <author>
+      <name>Gil Atar</name>
+    </author>
+    <author>
+      <name>Philip Barletta</name>
+    </author>
+    <author>
+      <name>Gabriele Giacomini</name>
+    </author>
+    <author>
+      <name>Carl Haber</name>
+    </author>
+    <author>
+      <name>Steve Holland</name>
+    </author>
+    <author>
+      <name>John F. Muth</name>
+    </author>
+    <author>
+      <name>Spyridon Pavlidis</name>
+    </author>
+    <author>
+      <name>Haichen Wang</name>
+    </author>
+    <author>
+      <name>Stefania Stucci</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27415v1</id>
+    <title>P-ONE-1: the first detector line of the Pacific Ocean Neutrino Experiment</title>
+    <updated>2026-10-20T00:10:46Z</updated>
+    <link href="https://arxiv.org/abs/2610.27415v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27415v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Neutrino telescopes instrument optically transparent media with three-dimensional arrays of photosensors to detect Cherenkov radiation induced by neutrino interactions within or near the instrumented volume. The small cross-sections of the weak interaction and the low neutrino fluxes above TeV energies require vast detector volumes, which only natural media on Earth can realistically provide. Spurred by the detection of the first neutrino sources by the IceCube Neutrino Observatory, a new generation of neutrino telescopes is emerging to increase the global instrumented volume and detection sensitivity. The Pacific Ocean Neutrino Experiment (P-ONE) aims to install such a telescope in the Northeast Pacific Ocean, building on established neutrino telescope design targets in collaboration with Ocean Networks Canada (ONC). This article presents the design, integration, and testing of the first P-ONE line, P-ONE-1, in preparation for its deployment and integration into ONC's deep-sea observatory NEPTUNE. Alongside the detector design and integration methods, we detail in-air and in-water system-level validation performed at several test sites in Canada, culminating in the successful construction of P-ONE-1 and its preparation for deployment.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T00:10:46Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>O. Aghaei</name>
+    </author>
+    <author>
+      <name>M. Agostini</name>
+    </author>
+    <author>
+      <name>A. Alexander Wight</name>
+    </author>
+    <author>
+      <name>K. Baş</name>
+    </author>
+    <author>
+      <name>N. Baily</name>
+    </author>
+    <author>
+      <name>P. S. Barbeau</name>
+    </author>
+    <author>
+      <name>A. J. Baron</name>
+    </author>
+    <author>
+      <name>S. Bash</name>
+    </author>
+    <author>
+      <name>C. Bellenghi</name>
+    </author>
+    <author>
+      <name>M. Boehmer</name>
+    </author>
+    <author>
+      <name>M. Brandenburg</name>
+    </author>
+    <author>
+      <name>Z. Brisson-Tsavoussis</name>
+    </author>
+    <author>
+      <name>D. Brussow</name>
+    </author>
+    <author>
+      <name>P. Bunton</name>
+    </author>
+    <author>
+      <name>N. Cedarblade-Jones</name>
+    </author>
+    <author>
+      <name>K. Clark</name>
+    </author>
+    <author>
+      <name>B. Crudele</name>
+    </author>
+    <author>
+      <name>M. Danninger</name>
+    </author>
+    <author>
+      <name>T. DeYoung</name>
+    </author>
+    <author>
+      <name>M. Dinkel</name>
+    </author>
+    <author>
+      <name>A. Eimer</name>
+    </author>
+    <author>
+      <name>N. Exconde</name>
+    </author>
+    <author>
+      <name>A. Gärtner</name>
+    </author>
+    <author>
+      <name>J. Garriz</name>
+    </author>
+    <author>
+      <name>D. Ghuman</name>
+    </author>
+    <author>
+      <name>L. Ginzkey</name>
+    </author>
+    <author>
+      <name>V. Gousy-Leblanc</name>
+    </author>
+    <author>
+      <name>D. Grant</name>
+    </author>
+    <author>
+      <name>A. Grimes</name>
+    </author>
+    <author>
+      <name>C. Haack</name>
+    </author>
+    <author>
+      <name>R. Halliday</name>
+    </author>
+    <author>
+      <name>M. Heesemann</name>
+    </author>
+    <author>
+      <name>D. Hembroff</name>
+    </author>
+    <author>
+      <name>F. Henningsen</name>
+    </author>
+    <author>
+      <name>M. Herle</name>
+    </author>
+    <author>
+      <name>O. Janik</name>
+    </author>
+    <author>
+      <name>V. Jourdenais</name>
+    </author>
+    <author>
+      <name>W. Kang</name>
+    </author>
+    <author>
+      <name>S. Karanth</name>
+    </author>
+    <author>
+      <name>T. Kerscher</name>
+    </author>
+    <author>
+      <name>S. Kerschtien</name>
+    </author>
+    <author>
+      <name>S. Koch</name>
+    </author>
+    <author>
+      <name>K. Kopański</name>
+    </author>
+    <author>
+      <name>C. Kopper</name>
+    </author>
+    <author>
+      <name>P. Krause</name>
+    </author>
+    <author>
+      <name>C. B. Krauss</name>
+    </author>
+    <author>
+      <name>N. Kurahashi</name>
+    </author>
+    <author>
+      <name>C. Lagunas Gualda</name>
+    </author>
+    <author>
+      <name>A. Lam</name>
+    </author>
+    <author>
+      <name>T. Lavallee</name>
+    </author>
+    <author>
+      <name>K. Leismüller</name>
+    </author>
+    <author>
+      <name>R. Li</name>
+    </author>
+    <author>
+      <name>S. Loipolder</name>
+    </author>
+    <author>
+      <name>C. Magee</name>
+    </author>
+    <author>
+      <name>S. Magel</name>
+    </author>
+    <author>
+      <name>P. Malecki</name>
+    </author>
+    <author>
+      <name>T. Martin</name>
+    </author>
+    <author>
+      <name>A. Maunder</name>
+    </author>
+    <author>
+      <name>E. Meier</name>
+    </author>
+    <author>
+      <name>C. Miller</name>
+    </author>
+    <author>
+      <name>N. Molberg</name>
+    </author>
+    <author>
+      <name>R. Moore</name>
+    </author>
+    <author>
+      <name>B. Nührenbörger</name>
+    </author>
+    <author>
+      <name>B. Nichol</name>
+    </author>
+    <author>
+      <name>W. Noga</name>
+    </author>
+    <author>
+      <name>B. Owens</name>
+    </author>
+    <author>
+      <name>R. Ørsøe</name>
+    </author>
+    <author>
+      <name>L. Papp</name>
+    </author>
+    <author>
+      <name>N. Park</name>
+    </author>
+    <author>
+      <name>V. Parrish</name>
+    </author>
+    <author>
+      <name>P. Pfahler</name>
+    </author>
+    <author>
+      <name>J. Pflanz</name>
+    </author>
+    <author>
+      <name>B. Pirenne</name>
+    </author>
+    <author>
+      <name>E. Price</name>
+    </author>
+    <author>
+      <name>A. Rahlin</name>
+    </author>
+    <author>
+      <name>M. Rangen</name>
+    </author>
+    <author>
+      <name>E. Resconi</name>
+    </author>
+    <author>
+      <name>N. Retza</name>
+    </author>
+    <author>
+      <name>S. Robertson</name>
+    </author>
+    <author>
+      <name>M. F. Rodriguez-Pilco</name>
+    </author>
+    <author>
+      <name>A. Šaina</name>
+    </author>
+    <author>
+      <name>D. Salazar-Gallegos</name>
+    </author>
+    <author>
+      <name>A. Scholz</name>
+    </author>
+    <author>
+      <name>L. Schumacher</name>
+    </author>
+    <author>
+      <name>P. Senyk</name>
+    </author>
+    <author>
+      <name>S. Shapiro</name>
+    </author>
+    <author>
+      <name>S. Sharma</name>
+    </author>
+    <author>
+      <name>S. Shively</name>
+    </author>
+    <author>
+      <name>C. Spannfellner</name>
+    </author>
+    <author>
+      <name>J. Stacho</name>
+    </author>
+    <author>
+      <name>I. Taboada</name>
+    </author>
+    <author>
+      <name>K. Tchiorniy</name>
+    </author>
+    <author>
+      <name>J. Thwaites</name>
+    </author>
+    <author>
+      <name>J. P. Twagirayezu</name>
+    </author>
+    <author>
+      <name>M. Un Nisa</name>
+    </author>
+    <author>
+      <name>B. Veenstra</name>
+    </author>
+    <author>
+      <name>M. Velazquez</name>
+    </author>
+    <author>
+      <name>L. von der Werth</name>
+    </author>
+    <author>
+      <name>C. Weaver</name>
+    </author>
+    <author>
+      <name>N. Whitehorn</name>
+    </author>
+    <author>
+      <name>B. Winnicky-Lewis</name>
+    </author>
+    <author>
+      <name>L. Winter</name>
+    </author>
+    <author>
+      <name>R. Wroński</name>
+    </author>
+    <author>
+      <name>J. P. Yañez</name>
+    </author>
+    <author>
+      <name>S. Yun-Cárcamo</name>
+    </author>
+    <author>
+      <name>A. Zaalishvili</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27197v1</id>
+    <title>Analytical Chemistry at the Planetary Frontier</title>
+    <updated>2026-10-19T19:31:22Z</updated>
+    <link href="https://arxiv.org/abs/2610.27197v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27197v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Planetary science depends on chemical measurements made under conditions very different from those in a terrestrial laboratory. This review treats the analytical methods of planetary science as one connected chain, from orbital remote sensing through in-situ measurements by landers and rovers and sample collection and curation, to the micro-analysis of returned material on Earth. Orbital methods, including visible and near-infrared reflectance, thermal emission and gamma-ray and neutron spectroscopy, are discussed first. In-situ techniques are then reviewed, including laser-induced breakdown spectroscopy (LIBS), micro-focus X-ray fluorescence (XRF), deep-ultraviolet Raman and fluorescence spectroscopy, evolved gas analysis with gas chromatography-mass spectrometry (GC-MS) and miniaturized mass spectrometry. Contamination control and curation practices are described, followed by laboratory techniques such as secondary ion mass spectrometry (SIMS and NanoSIMS), atom probe tomography (APT), thermal ionization mass spectrometry (TIMS), synchrotron micro-XRF and X-ray absorption near-edge structure (XANES) spectroscopy. Accuracy, calibration and reference materials are discussed as the link between in-situ and laboratory data, and the role of chemometrics and data fusion is examined. Flight and laboratory instruments are compared in terms of spatial resolution, detection limit, sample consumption and throughput. Active neutron-gamma spectroscopy planned for the Dragonfly mission to Titan is also discussed. This comparison shows that in-situ and laboratory techniques are complementary. In-situ instruments provide context and select samples, while laboratory techniques provide isotopic, molecular and speciation data that cannot yet be obtained in situ.</summary>
+    <category term="astro-ph.EP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T19:31:22Z</published>
+    <arxiv:comment>12 Pages, 6 Figures, 1 Table</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.EP"/>
+    <author>
+      <name>Mavia Anjum</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26739v1</id>
+    <title>Optical imaging in dual-phase xenon time projection chambers for neutrinoless double beta decay searches</title>
+    <updated>2026-10-19T17:04:48Z</updated>
+    <link href="https://arxiv.org/abs/2610.26739v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26739v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Dual-phase xenon time projection chambers (TPCs) are the leading technology for WIMP dark matter searches and have also demonstrated competitive sensitivities to neutrinoless double beta decays (0$νββ$) of \ce{^{136}Xe}. However, the large energy disparity between these two signals requires different detector optimizations. In particular, 0$νββ$\ searches in liquid xenon desire efficient rejection of closely located multiscatters of background gamma rays near the 0$νββ$\ energy, a capability achieved only in the vertical dimension in existing dual-phase xenon TPCs. We propose a highly customized, wide-angle optical system that can be conveniently integrated into large xenon TPCs and provide mm-scale transverse position resolution for MeV signals by imaging gas electroluminescence light. This approach preserves a TPC's low-energy sensitivity and optimizes a single experiment for both dark matter and 0$νββ$\ searches. This paper discusses the design, simulated performance, and implications of the imaging system for future liquid xenon-based 0$νββ$\ searches.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T17:04:48Z</published>
+    <arxiv:comment>5 pages, 3 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Adam D. Tidball</name>
+    </author>
+    <author>
+      <name>Jingke Xu</name>
+    </author>
+    <author>
+      <name>Brian G. Lenardo</name>
+    </author>
+    <author>
+      <name>Nicholas Antipa</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26299v1</id>
+    <title>Characterization of the R14374-10 photomultiplier tube for the Pacific Ocean Neutrino Experiment</title>
+    <updated>2026-10-19T12:48:53Z</updated>
+    <link href="https://arxiv.org/abs/2610.26299v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26299v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The Pacific Ocean Neutrino Experiment (P-ONE) is a planned cubic-kilometer-scale neutrino telescope that will be deployed in the Pacific Ocean, leveraging deep-sea infrastructure operated by Ocean Networks Canada (ONC). The first detector line will deploy 320 3-inch Hamamatsu R14374-10 photomultiplier tubes (PMTs) to detect Cherenkov light produced by charged particles propagating through water, as well as light from calibration sources and optical backgrounds. This article presents the systematic characterization of all PMTs to be integrated into the first detector line prior to deployment, ensuring compliance with all detector acceptance criteria. All PMTs satisfy the specified performance criteria: the average transit-time spread (TTS) was measured to be $1.73\pm 0.15\,$ns, and the average charge resolution at a gain of \num{5e6} was $0.43\pm 0.03\,$pC; the average after-pulse rate was measured to be around 6$\,\%$. The integrated P-ONE data acquisition (DAQ) system was also tested and cross-validated against a laboratory digitization system. The second part of the paper presents an in-depth characterization of a subset of six PMTs, focusing on the key properties required for detector simulations, including linearity, after-pulse rate, quantum efficiency, and relative collection efficiency. PMT linearity was measured at a gain of \num{5e6} using the complete P-ONE readout electronics, and the response was found to remain linear for signals up to 150 photoelectrons. After-pulse contributions from $\text{Cs}^{+}$, $\text{He}^{+}$, and other ions were identified in the subset. The peak quantum efficiency was measured to be $27.0\pm0.7\,\%$ at 395\,nm. Using measurements of the relative detection efficiency, the collection efficiency was found to differ by a wavelength-independent offset of 10--15$\%$ across the measured wavelength range.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T12:48:53Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>O. Aghaei</name>
+    </author>
+    <author>
+      <name>M. Agostini</name>
+    </author>
+    <author>
+      <name>A. Alexander Wight</name>
+    </author>
+    <author>
+      <name>K. Baş</name>
+    </author>
+    <author>
+      <name>N. Baily</name>
+    </author>
+    <author>
+      <name>P. S. Barbeau</name>
+    </author>
+    <author>
+      <name>A. J. Baron</name>
+    </author>
+    <author>
+      <name>S. Bash</name>
+    </author>
+    <author>
+      <name>C. Bellenghi</name>
+    </author>
+    <author>
+      <name>M. Boehmer</name>
+    </author>
+    <author>
+      <name>M. Brandenburg</name>
+    </author>
+    <author>
+      <name>Z. Brisson-Tsavoussis</name>
+    </author>
+    <author>
+      <name>D. Brussow</name>
+    </author>
+    <author>
+      <name>P. Bunton</name>
+    </author>
+    <author>
+      <name>N. Cedarblade-Jones</name>
+    </author>
+    <author>
+      <name>K. Clark</name>
+    </author>
+    <author>
+      <name>B. Crudele</name>
+    </author>
+    <author>
+      <name>M. Danninger</name>
+    </author>
+    <author>
+      <name>T. DeYoung</name>
+    </author>
+    <author>
+      <name>M. Dinkel</name>
+    </author>
+    <author>
+      <name>N. Exconde</name>
+    </author>
+    <author>
+      <name>A. Gärtner</name>
+    </author>
+    <author>
+      <name>J. Garriz</name>
+    </author>
+    <author>
+      <name>D. Ghuman</name>
+    </author>
+    <author>
+      <name>L. Ginzkey</name>
+    </author>
+    <author>
+      <name>V. Gousy-Leblanc</name>
+    </author>
+    <author>
+      <name>D. Grant</name>
+    </author>
+    <author>
+      <name>A. Grimes</name>
+    </author>
+    <author>
+      <name>C. Haack</name>
+    </author>
+    <author>
+      <name>R. Halliday</name>
+    </author>
+    <author>
+      <name>M. Heesemann</name>
+    </author>
+    <author>
+      <name>D. Hembroff</name>
+    </author>
+    <author>
+      <name>F. Henningsen</name>
+    </author>
+    <author>
+      <name>M. Herle</name>
+    </author>
+    <author>
+      <name>O. Janik</name>
+    </author>
+    <author>
+      <name>V. Jourdenais</name>
+    </author>
+    <author>
+      <name>W. Kang</name>
+    </author>
+    <author>
+      <name>S. Karanth</name>
+    </author>
+    <author>
+      <name>T. Kerscher</name>
+    </author>
+    <author>
+      <name>S. Kerschtien</name>
+    </author>
+    <author>
+      <name>S. Koch</name>
+    </author>
+    <author>
+      <name>K. Kopański</name>
+    </author>
+    <author>
+      <name>C. Kopper</name>
+    </author>
+    <author>
+      <name>P. Krause</name>
+    </author>
+    <author>
+      <name>C. B. Krauss</name>
+    </author>
+    <author>
+      <name>N. Kurahashi</name>
+    </author>
+    <author>
+      <name>C. Lagunas Gualda</name>
+    </author>
+    <author>
+      <name>A. Lam</name>
+    </author>
+    <author>
+      <name>T. Lavallee</name>
+    </author>
+    <author>
+      <name>K. Leismüller</name>
+    </author>
+    <author>
+      <name>R. Li</name>
+    </author>
+    <author>
+      <name>S. Loipolder</name>
+    </author>
+    <author>
+      <name>C. Magee</name>
+    </author>
+    <author>
+      <name>S. Magel</name>
+    </author>
+    <author>
+      <name>P. Malecki</name>
+    </author>
+    <author>
+      <name>T. Martin</name>
+    </author>
+    <author>
+      <name>A. Maunder</name>
+    </author>
+    <author>
+      <name>C. Miller</name>
+    </author>
+    <author>
+      <name>N. Molberg</name>
+    </author>
+    <author>
+      <name>R. Moore</name>
+    </author>
+    <author>
+      <name>B. Nührenbörger</name>
+    </author>
+    <author>
+      <name>B. Nichol</name>
+    </author>
+    <author>
+      <name>W. Noga</name>
+    </author>
+    <author>
+      <name>B. Owens</name>
+    </author>
+    <author>
+      <name>R. Ørsøe</name>
+    </author>
+    <author>
+      <name>L. Papp</name>
+    </author>
+    <author>
+      <name>N. Park</name>
+    </author>
+    <author>
+      <name>V. Parrish</name>
+    </author>
+    <author>
+      <name>P. Pfahler</name>
+    </author>
+    <author>
+      <name>J. Pflanz</name>
+    </author>
+    <author>
+      <name>B. Pirenne</name>
+    </author>
+    <author>
+      <name>E. Price</name>
+    </author>
+    <author>
+      <name>A. Rahlin</name>
+    </author>
+    <author>
+      <name>M. Rangen</name>
+    </author>
+    <author>
+      <name>E. Resconi</name>
+    </author>
+    <author>
+      <name>N. Retza</name>
+    </author>
+    <author>
+      <name>S. Robertson</name>
+    </author>
+    <author>
+      <name>M. F. Rodriguez-Pilco</name>
+    </author>
+    <author>
+      <name>A. Šaina</name>
+    </author>
+    <author>
+      <name>D. Salazar-Gallegos</name>
+    </author>
+    <author>
+      <name>A. Scholz</name>
+    </author>
+    <author>
+      <name>L. Schumacher</name>
+    </author>
+    <author>
+      <name>P. Senyk</name>
+    </author>
+    <author>
+      <name>S. Sharma</name>
+    </author>
+    <author>
+      <name>S. Shively</name>
+    </author>
+    <author>
+      <name>C. Spannfellner</name>
+    </author>
+    <author>
+      <name>J. Stacho</name>
+    </author>
+    <author>
+      <name>I. Taboada</name>
+    </author>
+    <author>
+      <name>K. Tchiorniy</name>
+    </author>
+    <author>
+      <name>J. Thwaites</name>
+    </author>
+    <author>
+      <name>J. P. Twagirayezu</name>
+    </author>
+    <author>
+      <name>M. Un Nisa</name>
+    </author>
+    <author>
+      <name>B. Veenstra</name>
+    </author>
+    <author>
+      <name>M. Velazquez</name>
+    </author>
+    <author>
+      <name>L. von der Werth</name>
+    </author>
+    <author>
+      <name>C. Weaver</name>
+    </author>
+    <author>
+      <name>N. Whitehorn</name>
+    </author>
+    <author>
+      <name>B. Winnicky-Lewis</name>
+    </author>
+    <author>
+      <name>L. Winter</name>
+    </author>
+    <author>
+      <name>R. Wroński</name>
+    </author>
+    <author>
+      <name>J. P. Yañez</name>
+    </author>
+    <author>
+      <name>S. Yun-Cárcamo</name>
+    </author>
+    <author>
+      <name>A. Zaalishvili</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26280v1</id>
+    <title>Correlated detection of electrons and ions emitted from laser-induced nanoplasmas in doped helium nanodroplets in the single-shot single-cluster regime</title>
+    <updated>2026-10-19T12:33:35Z</updated>
+    <link href="https://arxiv.org/abs/2610.26280v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26280v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present single-cluster single-shot correlated measurements of electron velocity-map images and ion time-of-flight traces from individual laser-induced nanoplasmas in xenon-doped helium nanodroplets. Simultaneous detection associates the ion composition, ion kinetic energies, and electron energies with the same nanoplasma event. The detected ion composition separates events into populations dominated by He+ mono-cations versus those dominated by He^{2+} di-cations, with markedly different ion energies and electron kinetic energies. The He+-dominated population correlates well with low electron kinetic energies (&lt; 0.5 eV), whereas the distribution of maximum electron kinetic energies for the He^{2+}-dominated population shows a peak around 1 eV. Molecular dynamics simulations averaged over the focal volume suggest that local laser intensity contributes to this separation. These correlations provide single-event observables for classifying nanoplasmas and will support real-time shot-to-shot sorting in single-particle coherent diffractive imaging experiments.</summary>
+    <category term="physics.atm-clus" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.atom-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.plasm-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T12:33:35Z</published>
+    <arxiv:primary_category term="physics.atm-clus"/>
+    <author>
+      <name>Keshav Sishodia</name>
+    </author>
+    <author>
+      <name>Cristian Medina</name>
+    </author>
+    <author>
+      <name>Robert Moshammer</name>
+    </author>
+    <author>
+      <name>Thomas Pfeifer</name>
+    </author>
+    <author>
+      <name>Andreas Heidenreich</name>
+    </author>
+    <author>
+      <name>Marcel Mudrich</name>
+    </author>
+    <author>
+      <name>Sivarama Krishnan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26172v1</id>
+    <title>Demonstration of continuous non-invasive monitoring of plant metabolism using mid-infrared photoacoustic spectroscopy</title>
+    <updated>2026-10-19T11:03:19Z</updated>
+    <link href="https://arxiv.org/abs/2610.26172v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26172v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Life is a rhythmic process driven by cellular and physiological mechanisms that allow plants to respond and adapt to their environment. In addition to natural fluctuations, plants are increasingly exposed to environmental stresses, mainly caused by climate change and anthropogenic pollution. Multiple approaches across different biological scales (gene, cell, metabolite, and physiology) have shed light on acclimation mechanisms but generally lack sufficient temporal resolution. Establishing a non-invasive and high-temporal-resolution monitoring method to measure plant activity across different conditions is therefore needed to fully assess how plant metabolism changes under stress. Here, we established a novel approach to perform continuous and non-invasive mid-infrared photoacoustic spectroscopy on vascular plants, with the aim of identifying and monitoring the chemical composition of peripheral tissues, including sap, over periods ranging from a few minutes to several months. We describe an experimental setup, the physics underlying its operation, and present a multi-day acquisition. Compared with controls, data enabled to identify a diurnal pattern, with peaks of approximately equal duration, that recurred consistently over the experiment. Estimations of the impact of instrumental and environmental fluctuations indicate that the signal amplitude and trends cannot be explained by instrumental drifts. The experiment thus demonstrated the detection of a signal associated with plant physiological activity. While its origins remain to be clarified, this preliminary experiment demonstrates the feasibility of the measurements and provides a basis for future developments.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.bio-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T11:03:19Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Ellyne Liégeois</name>
+    </author>
+    <author>
+      <name>Héloïse Hannart</name>
+    </author>
+    <author>
+      <name>Jules Skubich</name>
+    </author>
+    <author>
+      <name>Maeva Doron</name>
+    </author>
+    <author>
+      <name>Kevin Jourde</name>
+    </author>
+    <author>
+      <name>Johan Decelle</name>
+    </author>
+    <author>
+      <name>Yann Bresson</name>
+    </author>
+    <author>
+      <name>Sylvain Delzon</name>
+    </author>
+    <author>
+      <name>Régis Burlett</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26159v1</id>
+    <title>The RUBIK satellite payload concept: a 3D-segmented plastic scintillation-based particle tracking detector</title>
+    <updated>2026-10-19T10:48:22Z</updated>
+    <link href="https://arxiv.org/abs/2610.26159v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26159v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present the design concept and first experimental results of RUBIK, a three-dimensional resolving plastic scintillation detector developed as a scientific payload for the Research and Observation in Medium Earth Orbit satellite mission of the Institute of Space Systems of the University of Stuttgart. The name RUBIK is inspired by the Rubik's Cube, a familiar example of a three-dimensional segmented structure, reflecting the 5x5x5 modular arrangement of the sensitive volume. The sensitive volume consists of 125 PVT-based plastic scintillator unit cubes, each penetrated by two perpendicularly aligned wavelength-shifting fibres, which guide scintillation photons to silicon photomultipliers (SiPMs), providing 50 independent readout channels. Custom readout electronics, comprising two discriminator boards with per-channel programmable thresholds, an FPGA-based data-acquisition board, and a dedicated power and bias distribution board, have been developed exclusively from commercial off-the-shelf components. A single-layer prototype with ten readout channels was used for concept validation through SiPM bias voltage and temperature characterisation, and a time-over-threshold based amplitude reconstruction method was validated against radioactive source and cosmic ray measurements. First hit-pattern measurements with 220 MeV protons at a clinical proton therapy facility confirmed that spatially resolved hit clusters consistent with the expected beam geometry were observable in the single-layer readout, demonstrating the capability to resolve particle-induced signal patterns as a first step towards 3D track reconstruction in the full instrument.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T10:48:22Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <arxiv:journal_ref>Roman Bergert et al 2026 JINST 21 P10016</arxiv:journal_ref>
+    <author>
+      <name>Roman Bergert</name>
+    </author>
+    <author>
+      <name>Dzmitry Kazlou</name>
+    </author>
+    <author>
+      <name>Hartmut Schotte</name>
+    </author>
+    <author>
+      <name>Niclas Fiedler</name>
+    </author>
+    <author>
+      <name>Hans-Georg Zaunick</name>
+    </author>
+    <author>
+      <name>Kilian-Simon Baumann</name>
+    </author>
+    <author>
+      <name>Kai-Thomas Brinkmann</name>
+    </author>
+    <arxiv:doi>10.1088/1748-0221/21/10/P10016</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1088/1748-0221/21/10/P10016" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26136v1</id>
+    <title>Phonon-dominated thermal conductivity of a superconducting amorphous MoSi thin film</title>
+    <updated>2026-10-19T10:24:08Z</updated>
+    <link href="https://arxiv.org/abs/2610.26136v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26136v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We use the differential 3ω method to directly measure the temperature dependent thermal conductivity for about 90 nm Mo0.78Si0.22 thin films. The measurements are performed in a closed-cycle cryostat to access the temperature range between 50 K and 300 K. The MoSi thin films are capped with Al2O3 and probed with a Pt wire. The results show that the thermal conductivity does not satisfy the Wiedemann-Franz law. This implies that thermal transport in MoSi is not dominated by electrons but by phonon-like excitations, contrary to what is assumed in many electro-thermal models of superconducting devices. We argue that this property might be related to the weak localization visible in the resistivity as a function of temperature curves of the superconductor.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.supr-con" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T10:24:08Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Jacopo Piantanida Chiesa</name>
+    </author>
+    <author>
+      <name>Tom Q. Post</name>
+    </author>
+    <author>
+      <name>Martin P. van Exter</name>
+    </author>
+    <author>
+      <name>Michiel J. A. de Dood</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24859v1</id>
+    <title>A 4-20 GHz Superconducting 90deg Hybrid Using Capacitively Loaded Coupled Lines for 2SB Heterodyne Receivers</title>
+    <updated>2026-10-17T20:25:59Z</updated>
+    <link href="https://arxiv.org/abs/2610.24859v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24859v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We report the design and cryogenic characterisation of a broadband superconducting 90deg intermediate-frequency (IF) hybrid covering 4 to 20 GHz for sideband-separating (2SB) heterodyne receivers. The hybrid is implemented in thin-film niobium using capacitively loaded edge coupled transmission lines, avoiding the air-bridge interconnections required in Lange-coupler layouts while retaining a compact superconducting implementation with low loss and good quadrature balance. Cryogenic measurements using Vector Network Analyser (VNA) show amplitude and phase imbalance better than 0.6 dB and 6deg, respectively, across the full band. When used in a 2SB receiver, this level of IF balance is consistent with the observed image-rejection performance in the 10-20 dB range, for the full receiver. The design supports the development of wide-instantaneous-bandwidth 2SB receivers for millimeter and submillimeter observatories, improving spectral grasp for broadband line surveys and high-redshift line searches.</summary>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T20:25:59Z</published>
+    <arxiv:comment>Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.IM"/>
+    <author>
+      <name>François Joint</name>
+    </author>
+    <author>
+      <name>Max Behrens</name>
+    </author>
+    <author>
+      <name>Denis Meledin</name>
+    </author>
+    <author>
+      <name>Cristian Lopez</name>
+    </author>
+    <author>
+      <name>Magnus Strandberg</name>
+    </author>
+    <author>
+      <name>Sven-Erik Ferm</name>
+    </author>
+    <author>
+      <name>Mathias Fredrixon</name>
+    </author>
+    <author>
+      <name>Leif Helldner</name>
+    </author>
+    <author>
+      <name>Alexei Pavolotsky</name>
+    </author>
+    <author>
+      <name>Erik Sundin</name>
+    </author>
+    <author>
+      <name>Igor Lapkin</name>
+    </author>
+    <author>
+      <name>Victor Belitsky</name>
+    </author>
+    <author>
+      <name>Vincent Desmaris</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24337v1</id>
+    <title>PRIMA prototype spaceflight KID readout electronics laboratory characterization</title>
+    <updated>2026-10-17T00:09:24Z</updated>
+    <link href="https://arxiv.org/abs/2610.24337v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24337v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present further development and testing of prototype kinetic inductance detector (KID) readout electronics for the PRobe far-Infrared Mission for Astrophysics (PRIMA). PRIMA is a NASA Probe-class astrophysics mission concept with two science instruments, FIRESS and PRIMAger, which provide spectroscopic and polarimetric imaging from 24 to 261 um. Together these instruments will explore the far-infrared sky with spatial-spectral mapping speeds that exceed previous studies by orders of magnitude, opening a vast discovery space. This increase in mapping speed is achieved by densely packed ultra-sensitive KIDs and cryogenically cooled optics. The PRIMA flight readout electronics will use the build-to-print SpaceCube Mini v3.0 which houses a radiation-tolerant Kintex KU060 field programmable gate array (FPGA). A custom high-speed digitizer board is being designed along with an RF electronics (RFE) board. The RFE was designed to provide programmable gain, band filtering, and RF switching between instruments. The prototype readout electronics, including the RFE, use functionally equivalent parts to the flight parts. In this proceeding we measure the readout loopback noise performance in the second Nyquist zone and timestream cross-talk performance. We present preliminary sweeps with the prototype readout coupled to prototype FIRESS detectors. Lastly, we demonstrate a cosmic ray pulse detection and real-time removal with an algorithm implemented in firmware.</summary>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-17T00:09:24Z</published>
+    <arxiv:primary_category term="astro-ph.IM"/>
+    <arxiv:journal_ref>Proc. SPIE 14156, Millimeter, Submillimeter, and Far-Infrared Detectors and Instrumentation for Astronomy XIII, 141560Y (20 Aug 2026)</arxiv:journal_ref>
+    <author>
+      <name>Adrian K. Sinclair</name>
+    </author>
+    <author>
+      <name>Chris Albert</name>
+    </author>
+    <author>
+      <name>C. Matt Bradford</name>
+    </author>
+    <author>
+      <name>Patrick Brown</name>
+    </author>
+    <author>
+      <name>Sean Bryan</name>
+    </author>
+    <author>
+      <name>Jesse Coldsmith</name>
+    </author>
+    <author>
+      <name>Jennifer Corekin</name>
+    </author>
+    <author>
+      <name>Sumit Dahal</name>
+    </author>
+    <author>
+      <name>Thomas K. Devlin</name>
+    </author>
+    <author>
+      <name>Thomas Essinger-Hileman</name>
+    </author>
+    <author>
+      <name>Logan Foote</name>
+    </author>
+    <author>
+      <name>Marc Foote</name>
+    </author>
+    <author>
+      <name>Draisy Friedman</name>
+    </author>
+    <author>
+      <name>Alessandro Geist</name>
+    </author>
+    <author>
+      <name>Jason Glenn</name>
+    </author>
+    <author>
+      <name>Christopher Green</name>
+    </author>
+    <author>
+      <name>Kyle Helson</name>
+    </author>
+    <author>
+      <name>Kevin Horgan</name>
+    </author>
+    <author>
+      <name>Tracee Jamison-Hooks</name>
+    </author>
+    <author>
+      <name>Elijah Kane</name>
+    </author>
+    <author>
+      <name>Jared Lucey</name>
+    </author>
+    <author>
+      <name>Philip Mauskopf</name>
+    </author>
+    <author>
+      <name>Lynn Miles</name>
+    </author>
+    <author>
+      <name>Sanetra Bailey Newman</name>
+    </author>
+    <author>
+      <name>Gerard Quilligan</name>
+    </author>
+    <author>
+      <name>Cody Roberson</name>
+    </author>
+    <author>
+      <name>Salman Sheikh</name>
+    </author>
+    <author>
+      <name>Manuel Vega</name>
+    </author>
+    <author>
+      <name>Eric Weeks</name>
+    </author>
+    <author>
+      <name>Christopher Wilson</name>
+    </author>
+    <author>
+      <name>Travis Wise</name>
+    </author>
+    <arxiv:doi>10.1117/12.3104968</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1117/12.3104968" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24300v1</id>
+    <title>Development of microwave multiplexed readout for athermal phonon TES-based detectors</title>
+    <updated>2026-10-16T22:52:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.24300v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24300v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Continued advancements in sub-eV calorimetric measurements are being enabled through the athermal phonon detection channel, with applications spanning a diverse array of fields, including low-mass dark matter searches, coherent elastic neutrino-nucleus scattering, and quantum information science. While Transition Edge Sensors (TESs) have achieved the lowest thresholds to date, they face significant scalability bottlenecks due to the inherent constraints of conventional SQUID readout architectures. To address this limitation, we present an update on R&amp;D to develop practical, highly multiplexed, microwave readout for athermal phonon TESs, which can enable a dramatic increase in both sensor count and target mass, with a focus on sub-GeV dark matter searches as a target application. This work leverages advances from highly scaled mm-wave, x-ray, and gamma-ray TES systems, adapting them to the unique needs of low-threshold rare event measurements. We quantify the basic readout functionality and noise level in our dilution refrigerator testbed and demonstrate operation of a variety of TES devices with saturation powers significantly lower than mm-wave and x-ray devices. We demonstrate proof-of-concept multiplexed readout of background event pulses, bound the readout's contribution to the parasitic TES background load to &lt;1 fW, and discuss a cryogenic inline RF filtering scheme. These results demonstrate practical solutions to several of the key challenges that must be solved before a next-generation athermal phonon detector at scale is realized.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.supr-con" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T22:52:27Z</published>
+    <arxiv:comment>5 pages, 5 figures, submitted to the ASC 2026 Special Issue of the IEEE Transactions on Applied Superconductivity</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Tran Tsan</name>
+      <arxiv:affiliation>Physics Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Douglas A. Bennett</name>
+      <arxiv:affiliation>National Institute of Standards and Technology, Boulder, CO, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Daniel T. Becker</name>
+      <arxiv:affiliation>Department of Physics, University of Colorado, Boulder, CO, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Rebecca Carney</name>
+      <arxiv:affiliation>Engineering Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Johnathon D. Gard</name>
+      <arxiv:affiliation>Department of Physics, University of Colorado, Boulder, CO, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>John A. B. Mates</name>
+      <arxiv:affiliation>National Institute of Standards and Technology, Boulder, CO, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Joel N. Ullom</name>
+      <arxiv:affiliation>National Institute of Standards and Technology, Boulder, CO, USA</arxiv:affiliation>
+      <arxiv:affiliation>Department of Physics, University of Colorado, Boulder, CO, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>Michael R. Williams</name>
+      <arxiv:affiliation>Physics Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA</arxiv:affiliation>
+    </author>
+    <author>
+      <name>John C. Groh</name>
+      <arxiv:affiliation>Physics Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA</arxiv:affiliation>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24189v1</id>
+    <title>Time-over-threshold versus pulse-height energy reconstruction in a PbWO$_4$ calorimeter read out by SiPMs</title>
+    <updated>2026-10-16T20:08:15Z</updated>
+    <link href="https://arxiv.org/abs/2610.24189v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24189v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The time over threshold (ToT) can be measured with a comparator and a time-to-digital converter, avoiding the waveform digitizers normally used to read out calorimeter prototypes. We assess how much the energy resolution degrades when the pulse height (PH) is replaced by the ToT, using data collected in June 2024 at the CERN PS T9 beam line with 2-6 GeV electrons on OREO, a calorimeter of two $3\times3$ matrices of PbWO$_4$ crystals read out by SiPMs and sampled at 500 MS/s, and 1-6 GeV electrons on a lead-glass calorimeter sampled at 100 MS/s. The ToT is emulated offline on the recorded waveforms and converted into an amplitude, so that the same reconstruction chain is applied to both estimators. For OREO in random orientation the PH gives $σ/μ$ = 3.6% at 2 GeV and 2.4% at 6 GeV. A single-threshold ToT worsens the resolution by 50-80%, because one threshold cannot cover the dynamic range, while a dual-threshold ToT gives 3.9% and 2.6%, i.e. 6-10% worse than the PH. Extending the waveforms beyond the 1 $μ$s acquisition window shows that the window is not the limiting factor, and an emulated shaper that reduces the decay time to 50-100 ns preserves the result with a ToT of 0.3-0.5 $μ$s instead of 1.2 $μ$s. The ToT-to-amplitude conversion can also be calibrated with a scan of the two thresholds, without any digitizer, with a resolution comparable to the one obtained with PH-based curves. For the lead glass, whose pulses are less than two samples wide at half maximum, the ToT cannot be emulated reliably. We also find that a previous analysis of the same data is consistent with a drift normalization that does not subtract the pedestals; subtracting them improves the resolution by up to 1.6 percentage points.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T20:08:15Z</published>
+    <arxiv:comment>18 pages, 3 figures, 3 tables</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Stefano Carsi</name>
+    </author>
+    <author>
+      <name>Erik Vallazza</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23810v1</id>
+    <title>Experimental Demonstration of a Balanced Travelling Wave Parametric Amplifier</title>
+    <updated>2026-10-16T17:33:48Z</updated>
+    <link href="https://arxiv.org/abs/2610.23810v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23810v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Superconducting travelling-wave parametric amplifiers (TWPAs) provide broadband gain, low added noise, and high dynamic range, making them attractive for applications requiring wide instantaneous bandwidth. This is crucial for amplifying multiplexed narrow band signals spread over a wide frequency range, such as qubit resonator arrays, or amplifying inherently wide band signals, such as in spectrometers or radiometers. In many cases, however, the useful bandwidth of a TWPA is limited by the production of the idler tone at an image frequency. For three-wave-mixing (3WM) TWPAs, for example, an input signal at $f_s$ is indistinguishable from one at $f_p - f_s$, which can produce spectral ambiguity when the input spectrum is broadband or not known in advance. We experimentally demonstrate a balanced architecture that doubles the instantaneous image-rejected bandwidth available to a 3WM TWPA by spatially separating the amplified signal from the output pump and generated idler, which resolves the sideband degeneracy. The architecture consists of two amplifiers connected between a pair of 180$^{\circ}$ hybrid couplers, with the signal and pump injected and output through the sum and difference ports, respectively. Using two kinetic-inductance TWPAs, we demonstrate approximately 20 dB of signal gain across nearly an octave of bandwidth, together with pump rejection below --20 dB and an average image rejection of approximately --15 dB over the operating band. These results establish balanced TWPAs as a practical approach to broadband parametric amplification, enabling improved contamination free bandwidth and eliminating the need for complex filtering.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.supr-con" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T17:33:48Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Nikita Klimovich</name>
+    </author>
+    <author>
+      <name>Peter K. Day</name>
+    </author>
+    <author>
+      <name>Henry G. Leduc</name>
+    </author>
+    <author>
+      <name>Boon-Kok Tan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23706v1</id>
+    <title>Results from the GIF++ Long-Term Study of Eco-Friendly Gas Mixtures for RPCs</title>
+    <updated>2026-10-16T16:30:08Z</updated>
+    <link href="https://arxiv.org/abs/2610.23706v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23706v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Gaseous detectors play a crucial role in high-energy physics experiments, yet their operation often relies on fluorinated gases with a very high Global Warming Potential (GWP). Resistive Plate Chambers (RPCs) operated in avalanche mode typically use high-performance gas mixtures based on high-GWP F-gases such as C$_2$H$_2$F$_4$ and SF$_6$. As environmental concerns grow and regulations become increasingly stringent, the development of sustainable gas mixtures has become a global priority. Within the RPC ECOGas@GIF++ Collaboration, a long-term R&amp;D program has investigated eco-friendly gas mixtures for RPCs and assessed their performance under irradiation. RPCs operated with an HFO-1234ze/CO$_2$ mixture were exposed to high particle fluxes at CERN GIF++, accumulating $\mathcal{O}(10^2~\mathrm{mC/cm^2})$ over three years. This ageing campaign is now complete, and the detector performances have been systematically evaluated across a broad range of particle rates. This paper presents preliminary final results from the campaign, along with future perspectives.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T16:30:08Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>D. Ahmadi</name>
+    </author>
+    <author>
+      <name>M. Tytgat</name>
+    </author>
+    <author>
+      <name>M. Abbrescia</name>
+    </author>
+    <author>
+      <name>G. Aielli</name>
+    </author>
+    <author>
+      <name>R. Aly</name>
+    </author>
+    <author>
+      <name>M. C. Arena</name>
+    </author>
+    <author>
+      <name>M. Barroso</name>
+    </author>
+    <author>
+      <name>L. Benussi</name>
+    </author>
+    <author>
+      <name>S. Bianco</name>
+    </author>
+    <author>
+      <name>D. Boscherini</name>
+    </author>
+    <author>
+      <name>F. Bordon</name>
+    </author>
+    <author>
+      <name>A. Bruni</name>
+    </author>
+    <author>
+      <name>S. Buontempo</name>
+    </author>
+    <author>
+      <name>M. Busato</name>
+    </author>
+    <author>
+      <name>P. Camarri</name>
+    </author>
+    <author>
+      <name>R. Cardarelli</name>
+    </author>
+    <author>
+      <name>L. Congedo</name>
+    </author>
+    <author>
+      <name>D. De Jesus Damiao</name>
+    </author>
+    <author>
+      <name>M. De Serio</name>
+    </author>
+    <author>
+      <name>F. Debernardis</name>
+    </author>
+    <author>
+      <name>A. Di Ciaccio</name>
+    </author>
+    <author>
+      <name>L. Di Stante</name>
+    </author>
+    <author>
+      <name>P. Dupieux</name>
+    </author>
+    <author>
+      <name>J. Eysermans</name>
+    </author>
+    <author>
+      <name>N. Ferrara</name>
+    </author>
+    <author>
+      <name>A. Ferretti</name>
+    </author>
+    <author>
+      <name>G. Galati</name>
+    </author>
+    <author>
+      <name>M. Gagliardi</name>
+    </author>
+    <author>
+      <name>R. Guida</name>
+    </author>
+    <author>
+      <name>G. Iaselli</name>
+    </author>
+    <author>
+      <name>B. Joly</name>
+    </author>
+    <author>
+      <name>S. A. Juks</name>
+    </author>
+    <author>
+      <name>U. Lakshmaiah</name>
+    </author>
+    <author>
+      <name>K. S. Lee</name>
+    </author>
+    <author>
+      <name>B. Liberti</name>
+    </author>
+    <author>
+      <name>D. Lucero Ramirez</name>
+    </author>
+    <author>
+      <name>B. Mandelli</name>
+    </author>
+    <author>
+      <name>S. P. Manen</name>
+    </author>
+    <author>
+      <name>L. Massa</name>
+    </author>
+    <author>
+      <name>A. Pastore</name>
+    </author>
+    <author>
+      <name>E. Pastori</name>
+    </author>
+    <author>
+      <name>D. Piccolo</name>
+    </author>
+    <author>
+      <name>L. Pizzimento</name>
+    </author>
+    <author>
+      <name>A. Polini</name>
+    </author>
+    <author>
+      <name>G. Proto</name>
+    </author>
+    <author>
+      <name>G. Pugliese</name>
+    </author>
+    <author>
+      <name>L. Quaglia</name>
+    </author>
+    <author>
+      <name>D. Ramos</name>
+    </author>
+    <author>
+      <name>G. Rigoletti</name>
+    </author>
+    <author>
+      <name>A. Rocchi</name>
+    </author>
+    <author>
+      <name>M. Romano</name>
+    </author>
+    <author>
+      <name>P. Salvini</name>
+    </author>
+    <author>
+      <name>R. Santonico</name>
+    </author>
+    <author>
+      <name>G. Saviano</name>
+    </author>
+    <author>
+      <name>M. Sessa</name>
+    </author>
+    <author>
+      <name>S. Simone</name>
+    </author>
+    <author>
+      <name>E. Vercellin</name>
+    </author>
+    <author>
+      <name>M. Verzeroli</name>
+    </author>
+    <author>
+      <name>N. Zaganidis</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23691v1</id>
+    <title>Reconstruction of Magnetic Fields with a Physics-Informed Neural Network</title>
+    <updated>2026-10-16T16:20:03Z</updated>
+    <link href="https://arxiv.org/abs/2610.23691v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23691v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Accurate reconstruction of magnetic fields and their gradients is essential for assessing and controlling systematic effects in precision measurement experiments. We have developed a physics-informed neural network (PINN) method which reconstructs three-dimensional magnetic fields subject to the source-free Maxwell equations, $\nabla\cdot\mathbf{B}=0$ and $\nabla\times\mathbf{B}=\mathbf{0}$. In an extension of our previous work on PINN methods for reconstruction of magnetic fields in inaccessible interior regions via measurements at exterior locations, we now demonstrate the feasibility of applying PINN methods to the extraction of magnetic field gradient terms from discrete measurement points subject to constraints from Maxwell's equations.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T16:20:03Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>P. Adhikari</name>
+    </author>
+    <author>
+      <name>R. Bhattarai</name>
+    </author>
+    <author>
+      <name>J. Brewington</name>
+    </author>
+    <author>
+      <name>D. Buskirk</name>
+    </author>
+    <author>
+      <name>F. B. Hills</name>
+    </author>
+    <author>
+      <name>Md F. Hossain</name>
+    </author>
+    <author>
+      <name>R. McDonald</name>
+    </author>
+    <author>
+      <name>P. A. Palamure</name>
+    </author>
+    <author>
+      <name>A. Reid</name>
+    </author>
+    <author>
+      <name>S. Sharmin</name>
+    </author>
+    <author>
+      <name>A. Tewsley-Booth</name>
+    </author>
+    <author>
+      <name>B. Plaster</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23460v1</id>
+    <title>Proton-Number Fluctuations in $^{238}$U+$^{238}$U Collisions at $\sqrt{s_{\mathrm{NN}}} = 2.1$ GeV with the CEE Fast Simulation</title>
+    <updated>2026-10-16T13:41:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.23460v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23460v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The Cooling Storage Ring External-target Experiment (CEE) at the Heavy Ion Research Facility in Lanzhou (HIRFL) offers a unique opportunity to map the QCD phase diagram in the high-baryon-density region. In particular, higher-order cumulants ($C_r$) of event-by-event proton number distributions have been proposed as sensitive probes of the nuclear-matter phase structure. In this work, $^{\text{238}}$U+$^{\text{238}}$U collisions at $\sqrt{s_{\mathrm{NN}}} = 2.1$ GeV are generated using the JAM2 model and then processed through the CEE fast simulation with detector responses. Experimental analysis procedures, including centrality determination and particle identification, are also implemented. Proton-number cumulants up to fourth order and their ratios are calculated and compared with the true values. A track-by-track efficiency correction method is tested by introducing reconstruction efficiency within the TPC acceptance. An additional factor is also included to account for acceptance losses caused by the azimuthal gap between the two TPCs. Within the uncertainties of the current data sample, the corrected cumulants and cumulant ratios are consistent with their generator-level values. The event-sample dependence of the cumulant-ratio uncertainties is further investigated to estimate the statistics required for future measurements, revealing a substantial statistical cost associated with the acceptance compensation. These results provide a simulation-based assessment of the analysis feasibility and statistical requirements for proton-number fluctuation measurements at CEE.</summary>
+    <category term="nucl-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T13:41:12Z</published>
+    <arxiv:comment>12 pages, 10 figures</arxiv:comment>
+    <arxiv:primary_category term="nucl-ex"/>
+    <author>
+      <name>Shuaike Lv</name>
+    </author>
+    <author>
+      <name>Fan Si</name>
+    </author>
+    <author>
+      <name>Xionghong He</name>
+    </author>
+    <author>
+      <name>Xu Sun</name>
+    </author>
+    <author>
+      <name>Yige Huang</name>
+    </author>
+    <author>
+      <name>Wanbing He</name>
+    </author>
+    <author>
+      <name>Yifei Zhang</name>
+    </author>
+    <author>
+      <name>Ming Shao</name>
+    </author>
+    <author>
+      <name>Ziyang Li</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23407v1</id>
+    <title>A dry cryogenic platform with picometre stability for nanoscale and quantum technologies</title>
+    <updated>2026-10-16T13:03:56Z</updated>
+    <link href="https://arxiv.org/abs/2610.23407v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23407v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Mechanically ultrastable environments within maintenance-free dry cryostats are needed for high-precision surface probe microscopy experiments, as well as next-generation quantum technologies. The most demanding applications require picometre-scale precision combined with multi-axis and millimetre-scale scanning range, while offering access to optical, microwave, and radiofrequency control and a vector magnetic field. We demonstrate a versatile platform for such systems based on passive and active vibration control for a commercial dry cryostat. Using a tunable optical microcavity as a sensor, we report vibration levels of 4.2 pm root mean square at 2.3 K over one hour without postselection. We further demonstrate drift-free long-term operation with stability below 8.6 pm RMS over 12 hours. Our system enables continuous and automated operation for next-generation high-throughput applications without the need for liquid helium infrastructure. Requiring only standard machining facilities and commercially available hardware, the design can be readily adapted for cryogenic optical, electrical and magnetic high-precision measurements across quantum science, surface science, and nanotechnology.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T13:03:56Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>William G. Roth</name>
+    </author>
+    <author>
+      <name>Andreas Thurn</name>
+    </author>
+    <author>
+      <name>Alexander M. Stramma</name>
+    </author>
+    <author>
+      <name>Amit R. Dhawan</name>
+    </author>
+    <author>
+      <name>Jason M. Smith</name>
+    </author>
+    <author>
+      <name>Dorian A. Gangloff</name>
+    </author>
+    <author>
+      <name>Mete Atatüre</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22856v1</id>
+    <title>Improved aluminum film transport properties and enhanced TES response in athermal phonon detectors: implications for quasiparticle dynamics</title>
+    <updated>2026-10-16T02:57:48Z</updated>
+    <link href="https://arxiv.org/abs/2610.22856v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22856v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Our detectors for Dark Matter and Coherent Elastic Neutrino--Nucleus Scattering (CE$ν$NS) use photolithographically patterned superconducting athermal phonon sensors that are coupled to kg-scale absorbers of different materials (germanium, silicon, sapphire). Following a particle interaction, athermal phonons from the bulk absorber break Cooper pairs in a superconducting aluminum film that surrounds a tungsten Transition Edge Sensor (TES) in equilibrium through electrothermal feedback. This sensor design is called Quasiparticle-trap-assisted Electro-thermal-feedback Transition-edge-sensor (QET). The QET aluminum film that absorbs the athermal phonons is patterned into fins with lengths limited by the quasiparticle diffusion length in aluminum. Improving the quasiparticle diffusion length in the superconducting aluminum is an area of vigorous research to improve phonon collection efficiency and increase the signal strength for lower-threshold searches. We report significantly improved aluminum films that show systematically larger grain sizes and residual-resistivity ratio (RRR) compared to detectors we have fabricated in the past. The improved RRR and grain sizes were expected to improve the collected signal for a given energy. We report higher signal strength achieved in a detector in comparison to another detector in which all other fabrication parameters were kept identical except for the aluminum film deposition.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-16T02:57:48Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Mahdi Mirzakhani</name>
+    </author>
+    <author>
+      <name>Keith Hunter</name>
+    </author>
+    <author>
+      <name>Rupak Mahapatra</name>
+    </author>
+    <author>
+      <name>Mark Platt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.24003v1</id>
+    <title>Missing Light, Misleading Confidence: Optical-Module Readout Loss and Signal Reliability in Neutrino Telescopes</title>
+    <updated>2026-10-15T16:58:51Z</updated>
+    <link href="https://arxiv.org/abs/2610.24003v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.24003v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Optical neutrino telescopes reduce the photomultiplier signals of an optical module or string segment to compact multichannel summaries, and readout loss can make these summaries unreliable. We asked whether availability-based quality gates, which accept a summary when enough of the readout was live, can certify a summary of inter-channel statistical consistency (called coherence here; not optical coherence) under readout loss, and where they fail. We used public IceCube pulses (9,484 string records) and the released hits of KM3NeT event KM3-230213A with controlled readout loss, together with a replay of real KM3NeT readout flags. In a two-by-two design we compared a published recursive support state with direct mask support, and calibrated every threshold on development records. The support state is a function of the mask and added no information. On IceCube the support-gated rule retained 0.16 percentage points more usable summaries, an effect of the window at which support was read that reversed sign at a looser tolerance; on KM3NeT it accepted nothing. The gates accepted only records with nearly intact masks, including records whose charge had been depleted by signal-dependent loss that the mask does not record. Pulse loss during live acquisition and timing jitter passed every availability gate, which then accepted summaries of which up to 66% were unreliable. Availability flags are therefore necessary but not sufficient, and signal-based checks are needed. This work uses public data and is not an IceCube or KM3NeT Collaboration result.</summary>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T16:58:51Z</published>
+    <arxiv:comment>6 pages, 5 figures, 2 tables. Submitted to the 2027 IEEE Sensors Applications Symposium (SAS)</arxiv:comment>
+    <arxiv:primary_category term="astro-ph.IM"/>
+    <author>
+      <name>Thammarat Yawisit</name>
+    </author>
+    <author>
+      <name>Pittaya Pannil</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.21112v1</id>
+    <title>Displacement-noise-free gravitational-wave detector using quantum tomography of photon orbital angular momentum states</title>
+    <updated>2026-10-15T02:14:16Z</updated>
+    <link href="https://arxiv.org/abs/2610.21112v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.21112v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Gravitational waves (GWs) induce quantum transitions between photon orbital-angular-momentum (OAM) states with amplitudes $α_{\pm}$. Exploiting this effect, we present a displacement-noise-free detection framework that extracts GW information from the OAM Hilbert space. Parametrized quantum state tomography of the GW-induced OAM sidebands enables a single V-shaped detector to resolve all seven wave parameters: the frequency, propagation direction, two polarization amplitudes, and initial phase of each polarization. Direct detection of the sidebands yields a weak signal of approximately $10^{-15}\,\mathrm{W}$. We therefore introduce a stronger reference state $r |0&gt;_{\mathrm{P}}$, with $r=0.01$, to enhance the detected signal. For an arm length of $L=4\,\mathrm{m}$, $N=160$ round trips, a paraxial parameter of $γ=0.1$, an incident light power of $P_{\mathrm{BS}}=10\,\mathrm{kW}$, a wavelength of $λ_{\mathrm{opt}}=1064\,\mathrm{nm}$, and GW amplitudes of $A=10^{-18}$, we estimate sideband transition amplitudes of $|α_{\pm}|\sim10^{-10}$ and signal powers of order $1\,\mathrm{nW}$, scaling as $P_{\mathrm{BS}}α_{\pm}\propto P_{\mathrm{BS}}ANLγ/λ_{\mathrm{opt}}$. The shot-noise-limited sensitivity floor is $S^{1/2}_n=1.6\times10^{-20}\,\mathrm{Hz}^{-1/2}$. Because the scheme measures OAM transition amplitudes rather than differential arm lengths, it is intrinsically free from displacement noise and provides a broadband probe of GWs, specifically bridging the $0.1$--$10\,\mathrm{Hz}$ mid-frequency gap.</summary>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T02:14:16Z</published>
+    <arxiv:comment>6 pages, 4 figures, comments are welcome</arxiv:comment>
+    <arxiv:primary_category term="gr-qc"/>
+    <author>
+      <name>Haorong Wu</name>
+    </author>
+    <author>
+      <name>Xilong Fan</name>
+    </author>
+    <author>
+      <name>Lixiang Chen</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22418v1</id>
+    <title>Long-Lived Charge Trap Characterization for Rare-Event Searches with Skipper-CCDs</title>
+    <updated>2026-10-15T01:41:52Z</updated>
+    <link href="https://arxiv.org/abs/2610.22418v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22418v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Skipper Charge-Coupled Devices (Skipper-CCDs) are detectors with sub-electron resolution, allowing them to play a critical role in rare-event searches. A major challenge in experiments using these detectors is understanding and mitigating low-energy backgrounds which impact the single-electron rate. One potential component of the single-electron rate could arise from single-electron charge traps caused by lattice defects. In this work we use a new in-situ technique for generating uniform charge known as ``pixel-pumping'' across the CCD to study single-electron traps in a SENSEI sensor placed underground in the MINOS cavern at Fermilab, which enables sensitivity to long-lived traps with emission times $&gt;10^3$ seconds, a regime that was previously not accessible. We fully characterize 1787 traps and use this information to estimate their contribution to the single-electron background in SENSEI. Through simulation, we find the characterized population of traps does not significantly impact the single-electron rate. We further identify the energies and cross-sections for traps to which this analysis is sensitive, and compare this with the values that could impact the single-electron rate. This analysis probes a large fraction of this region. However, we also see that a sufficiently numerous hidden population could contribute significantly to the single-electron rate, and new measurement techniques will have to be devised in order to fully rule out this population.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="astro-ph.IM" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T01:41:52Z</published>
+    <arxiv:comment>8 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Ansh Desai</name>
+    </author>
+    <author>
+      <name>Ana M. Botti</name>
+    </author>
+    <author>
+      <name>Brenda A. Cervantes-Vergara</name>
+    </author>
+    <author>
+      <name>Rouven Essig</name>
+    </author>
+    <author>
+      <name>Stephen E. Holland</name>
+    </author>
+    <author>
+      <name>Ian Lawson</name>
+    </author>
+    <author>
+      <name>Steffon Luoma</name>
+    </author>
+    <author>
+      <name>Santiago Perez</name>
+    </author>
+    <author>
+      <name>Javier Tiffenberg</name>
+    </author>
+    <author>
+      <name>Sho Uemura</name>
+    </author>
+    <author>
+      <name>Yikai Wu</name>
+    </author>
+    <author>
+      <name>Tien-Tien Yu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20435v1</id>
+    <title>Fast Monte Carlo calculation of multiple scattering in resonant neutron capture</title>
+    <updated>2026-10-14T16:25:30Z</updated>
+    <link href="https://arxiv.org/abs/2610.20435v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20435v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A fast Monte Carlo code has been developed to calculate multiple neutron scattering in a sample. Good agreement with an independent Monte Carlo calculation using SAMMY is obtained for neutron capture in $^{197}$Au over the energy range 50--300 eV. For capture following two or more scattering events, a difference is found between the direct Monte Carlo calculation and the analytical approximation in SAMMY. The computational speed allows the scattering correction to be recalculated whenever trial resonance parameters are changed during parameter estimation. The computational core is implemented in C++, while data preparation, calculation control and analysis are performed in Python. Model studies examine how Monte Carlo statistics affect the accuracy with which neutron and radiative resonance widths are recovered.</summary>
+    <category term="nucl-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T16:25:30Z</published>
+    <arxiv:comment>15 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="nucl-th"/>
+    <author>
+      <name>R. M. Djilkibaev</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20304v1</id>
+    <title>A single radiation hard pixel detector for proton dosimetry, imaging, energy resolution and beam monitoring</title>
+    <updated>2026-10-14T14:54:20Z</updated>
+    <link href="https://arxiv.org/abs/2610.20304v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20304v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Proton therapy enables highly conformal tumour irradiation by exploiting the Bragg peak. Clinical precision relies on detector systems that provide linearity, spatial resolution, radiation hardness, and, for ultra-high-dose-rate (FLASH) therapy, high dynamic range with sufficient temporal response. No compact all-in-one solution currently fulfils all these requirements. Here, we present pixelated gallium nitride (GaN) arrays as a multifunctional platform. These detectors exhibit high linearity (proton currents from 70 to 1700 pA cm-2) and signal uniformity below 2% across 128 pixels. To probe GaN radiation hardness, we applied cumulative doses up to 6.7 MGy at energies from 25 MeV down to the Bragg-peak regime. Locally deposited dose dictates long-term signal loss, yet devices preserve linearity and spatial response. We demonstrate 0.25 mm effective spatial resolution, validated against radiochromic film. Proton radiography resolves fine tissue structures, with the dose extrapolated to 7 mGy per 1 ms frame in a prospective single-shot configuration. Energy-dependent responses match GATE/Geant4 simulations, and wedge measurements enable Bragg-peak tracking with an energy resolution below 10 keV in an optimised geometry. Real-time ms-scale beam monitoring enables live dose verification.These results establish GaN pixel detectors as a scalable and radiation-hard platform, enabling dosimetry, beam monitoring and energy verification in one device.</summary>
+    <category term="physics.med-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T14:54:20Z</published>
+    <arxiv:comment>35 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.med-ph"/>
+    <author>
+      <name>Nico Frederic Brosda</name>
+    </author>
+    <author>
+      <name>Stephane Higueret</name>
+    </author>
+    <author>
+      <name>Nicolas Arbor</name>
+    </author>
+    <author>
+      <name>Matilde Siviero</name>
+    </author>
+    <author>
+      <name>Maxime Hugues</name>
+    </author>
+    <author>
+      <name>Eric Frayssinet</name>
+    </author>
+    <author>
+      <name>Luisa Parschat</name>
+    </author>
+    <author>
+      <name>Christian Baumer</name>
+    </author>
+    <author>
+      <name>Andreas Dirk Wieck</name>
+    </author>
+    <author>
+      <name>Jean Yves Duboz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20236v1</id>
+    <title>Physics with Radioactive Ion Beams at the Nuclear Science Laboratory</title>
+    <updated>2026-10-14T14:16:11Z</updated>
+    <link href="https://arxiv.org/abs/2610.20236v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20236v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The University of Notre Dame is home to a rich history of nuclear science efforts, including some of the earliest developments in the production and creation of radioactive ion beams (RIBs). The resulting TwinSol facility stands as the longest continuously-operating RIB facility in the United States, and has enabled a wide range of experimental efforts in nuclear structure, astrophysics and fundamental symmetries through in-flight RIBs one to two nucleons from stability. A recent upgrade to TwinSol via a third solenoid constituted the founding of the TriSol facility, which provides cleaner, better-focused RIBs to downstream experiments. In this paper, we present a summary of RIB science at the Nuclear Science Laboratory (NSL) with both TwinSol and TriSol and discuss recent upgrades and future experimental plans at the facilities.</summary>
+    <category term="nucl-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.acc-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T14:16:11Z</published>
+    <arxiv:primary_category term="nucl-ex"/>
+    <author>
+      <name>W. S. Porter</name>
+    </author>
+    <author>
+      <name>D. W. Bardayan</name>
+    </author>
+    <author>
+      <name>M. Brodeur</name>
+    </author>
+    <author>
+      <name>C. Dembski</name>
+    </author>
+    <author>
+      <name>P. D. O'Malley</name>
+    </author>
+    <author>
+      <name>F. Rivero</name>
+    </author>
+    <author>
+      <name>W. W. von Seeger</name>
+    </author>
+    <author>
+      <name>C. Boomershine</name>
+    </author>
+    <author>
+      <name>O. Bruce</name>
+    </author>
+    <author>
+      <name>S. R. Carmichael</name>
+    </author>
+    <author>
+      <name>S. Coil</name>
+    </author>
+    <author>
+      <name>A. M. Houff</name>
+    </author>
+    <author>
+      <name>J. J. Kolata</name>
+    </author>
+    <author>
+      <name>D. Schroeder</name>
+    </author>
+    <author>
+      <name>A. A. Valverde</name>
+    </author>
+    <author>
+      <name>R. Zite</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20132v1</id>
+    <title>A low-cost compact muon detector for millikelvin operation</title>
+    <updated>2026-10-14T12:52:09Z</updated>
+    <link href="https://arxiv.org/abs/2610.20132v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20132v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Ionizing radiation produces correlated errors in superconducting qubits, posing some challenges to quantum error correction. In addition, it causes background events in other superconducting cryogenic devices, such as kinetic inductance detectors and superconducting nanowire single-photon detectors. Cosmic muons are a component of this background that can only be partly shielded against at ground level, but can be tagged by an independent detector inside the cryostat, so that the affected data can be vetoed, or the muon tags incorporated into error correction.
+  We present a low-cost, compact muon detector consisting of two plastic scintillator modules, each read out by a silicon photomultiplier (SiPM), operated in coincidence. We characterize the SiPMs from room temperature down to 10 mK, including the breakdown and upper-limit voltages that define the operating bias range. Operated as a muon counter, the detector measures a coincidence rate that, as expected, is independent of temperature within uncertainties and agrees with analytical and Monte Carlo predictions.
+  Below approximately 8 K, each muon event produces two pulses, one narrow and one broad, an effect that, to our knowledge, has not been reported before. Coincidences with an independent muon detector outside the cryostat confirm that muons are still counted reliably in this regime. By studying the appearance of double pulses as a function of temperature and magnetic field up to 4.5 T, we find a behavior consistent with the phase diagram of a type-II superconductor. This links the double pulses to a superconducting material in the SiPM, likely an adhesion layer or diffusion barrier introduced during manufacturing. The mechanism by which the superconducting state produces the second pulse is not yet understood.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T12:52:09Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Tengiz Ibrayev</name>
+    </author>
+    <author>
+      <name>Danish Khan</name>
+    </author>
+    <author>
+      <name>Alex Herscovics</name>
+    </author>
+    <author>
+      <name>Komal Kataruka</name>
+    </author>
+    <author>
+      <name>Matilda Lawton</name>
+    </author>
+    <author>
+      <name>Sandhya Sharma</name>
+    </author>
+    <author>
+      <name>Steven Waddy</name>
+    </author>
+    <author>
+      <name>Laura Manenti</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.20082v1</id>
+    <title>Exploring the proximity effect of thin tungsten-aluminum films for phonon-mediated kinetic inductance detectors</title>
+    <updated>2026-10-14T12:20:43Z</updated>
+    <link href="https://arxiv.org/abs/2610.20082v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.20082v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Lowering the energy threshold of phonon-mediated kinetic inductance detectors is a key step toward next-generation cryogenic calorimeter arrays with large target mass and high sensitivity. In this work, we demonstrate the feasibility of integrating thin tungsten films, so far used for transition-edge sensors, into the fabrication of Kinetic Inductance Detectors (KIDs). Here we present the results from the characterization of a single KID prototype composed of a tungsten-aluminum bilayer of respectively 15 nm and 35 nm thicknesses. The detector was successfully calibrated, and the superconducting film characteristics were measured by operating the device at different temperatures. We show that, by exploiting the proximity effect of superconductors, the device combines the relatively high critical temperature of aluminum with the large kinetic inductance contribution of tungsten. The main feature is a high kinetic inductance, which accounts for 36% of the total inductance, combined with a superconducting critical temperature of around 630 mK.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T12:20:43Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>G. Del Castello</name>
+    </author>
+    <author>
+      <name>M. Mancuso</name>
+    </author>
+    <author>
+      <name>A. Langenkämper</name>
+    </author>
+    <author>
+      <name>A. Bento</name>
+    </author>
+    <author>
+      <name>C. Bonomo</name>
+    </author>
+    <author>
+      <name>M. Cappelli</name>
+    </author>
+    <author>
+      <name>F. Casadei</name>
+    </author>
+    <author>
+      <name>E. Cipelli</name>
+    </author>
+    <author>
+      <name>A. Cruciani</name>
+    </author>
+    <author>
+      <name>D. Delicato</name>
+    </author>
+    <author>
+      <name>F. Dominsky</name>
+    </author>
+    <author>
+      <name>M. Folcarelli</name>
+    </author>
+    <author>
+      <name>D. Hauff</name>
+    </author>
+    <author>
+      <name>B. Mauri</name>
+    </author>
+    <author>
+      <name>C. Moore</name>
+    </author>
+    <author>
+      <name>L. Pesce</name>
+    </author>
+    <author>
+      <name>F. Petricca</name>
+    </author>
+    <author>
+      <name>F. Pröbst</name>
+    </author>
+    <author>
+      <name>D. Quaranta</name>
+    </author>
+    <author>
+      <name>M. Vignati</name>
+    </author>
+    <author>
+      <name>M. Zanirato</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.19978v1</id>
+    <title>Interactive event-driven 4D-STEM with Timepix4 and live analytical ptychography</title>
+    <updated>2026-10-14T10:58:44Z</updated>
+    <link href="https://arxiv.org/abs/2610.19978v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.19978v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Four-dimensional scanning transmission electron microscopy provides access to rich diffraction information at every probe position, but the high data rates associated with pixelated detectors remain a major challenge for interactive operation. Event-driven detectors offer an efficient alternative by representing the measurement as a sparse stream of individual incidences, substantially reducing requirements related to data handling and enabling on-the-fly processing. Here, we develop a high-throughput, real-time, 4D-STEM workflow based on the Timepix4 detector and demonstrate its operation at microsecond dwell times and standard beam currents. A common clock shared by the scan unit and detector allows the probe position of each electron event to be determined directly from its time-of-arrival, eliminating the need for inter-stream synchronization and enabling fully concurrent and independent multi-stream processing. The resulting pipeline continuously processes the detector data during acquisition, with the reconstructed images directly available. We demonstrate live virtual annular detector imaging, Real-Time Integration Center of Mass and direct electron ptychography within the guided progressive reconstructive imaging framework. The workflow sustains the high event rates of Timepix4 while maintaining zero latency for live interactive operation, thus extending event-driven 4D-STEM towards beam currents and acquisition conditions beyond those previously demonstrated with Timepix3-based systems. These results demonstrate that the combination of high-bandwidth event-driven detection, hardware-level synchronization and parallel processing can transform 4D-STEM from an offline technique into an interactive imaging modality, in which dose-efficient phase contrast and diffraction-based signals can serve directly as immediate feedback during STEM experiments.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T10:58:44Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Arno Annys</name>
+    </author>
+    <author>
+      <name>Hoelen L. Lalandec Robert</name>
+    </author>
+    <author>
+      <name>Jo Verbeeck</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.19959v1</id>
+    <title>MoEDAL-MAPP: the first dedicated search experiment at the LHC</title>
+    <updated>2026-10-14T10:45:21Z</updated>
+    <link href="https://arxiv.org/abs/2610.19959v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.19959v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This special issue brings together a collection of original research articles and review papers addressing topics directly related to the MoEDAL-MAPP experiment at the Large Hadron Collider (LHC). The experiment is designed to search for (meta-)stable, anomalously ionising particles predicted by theoretical extensions of the Standard Model. Several contributions explore the theoretical and phenomenological aspects of models of particular relevance to the experiment, including scenarios involving magnetic monopoles, highly electrically charged particles, and millicharged particles. Other contributions focus on experimental developments, highlighting novel detection techniques and technological advances aimed at identifying these unconventional signatures and probing new phenomena beyond the Standard Model.</summary>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T10:45:21Z</published>
+    <arxiv:comment>10 pages, 1 figure, editorial of EPJ Special Topic "The MoEDAL-MAPP Experiment - The LHC's First Dedicated Search Experiment for BSM Physics" https://link.springer.com/collections/ehehgcddfa</arxiv:comment>
+    <arxiv:primary_category term="hep-ex"/>
+    <arxiv:journal_ref>Eur.Phys.J.ST 235 (2026) 25, 5353-5359</arxiv:journal_ref>
+    <author>
+      <name>John R. Ellis</name>
+    </author>
+    <author>
+      <name>Nick E. Mavromatos</name>
+    </author>
+    <author>
+      <name>Vasiliki A. Mitsou</name>
+    </author>
+    <author>
+      <name>James L. Pinfold</name>
+    </author>
+    <arxiv:doi>10.1140/epjs/s11734-026-02617-z</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1140/epjs/s11734-026-02617-z" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.18849v1</id>
+    <title>Energy, vertex, and time response of a LiquidO detector with an opaque-scintillator target to Compton-tagged electrons</title>
+    <updated>2026-10-13T17:58:14Z</updated>
+    <link href="https://arxiv.org/abs/2610.18849v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.18849v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>LiquidO detectors confine scintillation light near its point of production by stochastic scattering in an opaque medium and collect it with a lattice of wavelength-shifting (WLS) fibers. The elementary signal of such a detector is the point-like sub-MeV energy deposition, yet the response to that signal at the center of the detector volume has not been measured against an event-by-event ground truth. To close this gap, we couple BPULSE, a 4-liter prototype LiquidO detector, to a Compton-coincidence calibration setup that selects electron recoils of known energy on a constrained beam axis. The prototype is a 160 mm cube of opaque scintillator with 64 WLS fibers in alternating orthogonal layers at a 20 mm pitch, read out by silicon photomultipliers. Compton scatters of collimated gamma-ray beams from $^{137}$Cs and $^{60}$Co sources are tagged by a NaI(Tl) spectrometer. For 373.4 keV electrons, tagged from $90^{\circ}$ scatters of the $^{137}$Cs beam, the detector collects $19.04 \pm 0.07$ photoelectrons (p.e.). Across four operating points, the two sources at two scattering angles, it responds linearly at $48.3 \pm 1.5$ p.e./MeV. The energy resolution of $(23.4 \pm 0.4)\%$ matches the Poisson statistics of the detected photoelectrons. Collection at both fiber ends and larger sensors would raise the light yield of this target to an estimated 108-124 p.e./MeV. Center-of-mass reconstruction locates each recoil to the width of the delivered 20 mm beam spot, which bounds the intrinsic localization of the detector from above. The arrival time response sets a lower bound of 1.5 ns on the single-scatter start time at the observed $\approx 19$ p.e. light level. This single-scatter response is the building block for reconstructing multi-site events. It constrains the light collection, confinement, and timing models on which reconstruction in future LiquidO detectors will rest.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-13T17:58:14Z</published>
+    <arxiv:comment>19 pages, 10 figures, 4 tables; submitted to Nucl. Instrum. Meth. A</arxiv:comment>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name> LiquidO Collaboration</name>
+    </author>
+    <author>
+      <name>S. Katz</name>
+    </author>
+    <author>
+      <name>J. T. Moffatt</name>
+    </author>
+    <author>
+      <name>G. Wendel</name>
+    </author>
+    <author>
+      <name>D. F. Cowen</name>
+    </author>
+    <author>
+      <name>I. Jovanovic</name>
+    </author>
+    <author>
+      <name>S. Schoppmann</name>
+    </author>
+    <author>
+      <name>A. S. Wilhelm</name>
+    </author>
+    <author>
+      <name>J. Apilluelo</name>
+    </author>
+    <author>
+      <name>L. Asquith</name>
+    </author>
+    <author>
+      <name>N. P. Barradas</name>
+    </author>
+    <author>
+      <name>J. L. Beney</name>
+    </author>
+    <author>
+      <name>M. Berberan e Santos</name>
+    </author>
+    <author>
+      <name>X. de la Bernardie</name>
+    </author>
+    <author>
+      <name>T. J. C. Bezerra</name>
+    </author>
+    <author>
+      <name>M. Bongrand</name>
+    </author>
+    <author>
+      <name>C. Bourgeois</name>
+    </author>
+    <author>
+      <name>D. Breton</name>
+    </author>
+    <author>
+      <name>J. Busto</name>
+    </author>
+    <author>
+      <name>A. Cabrera</name>
+    </author>
+    <author>
+      <name>A. Cadiou</name>
+    </author>
+    <author>
+      <name>E. Calvo</name>
+    </author>
+    <author>
+      <name>M. de Carlos Generowicz</name>
+    </author>
+    <author>
+      <name>B. J. Cattermole</name>
+    </author>
+    <author>
+      <name>E. Chauveau</name>
+    </author>
+    <author>
+      <name>M. Chen</name>
+    </author>
+    <author>
+      <name>P. Chimenti</name>
+    </author>
+    <author>
+      <name>S. Kr. Das</name>
+    </author>
+    <author>
+      <name>S. Dusini</name>
+    </author>
+    <author>
+      <name>A. Earle</name>
+    </author>
+    <author>
+      <name>M. Felizardo</name>
+    </author>
+    <author>
+      <name>C. Frigerio Martins</name>
+    </author>
+    <author>
+      <name>J. Galán</name>
+    </author>
+    <author>
+      <name>J. A. García</name>
+    </author>
+    <author>
+      <name>A. Gibson-Foster</name>
+    </author>
+    <author>
+      <name>C. Girard-Carillo</name>
+    </author>
+    <author>
+      <name>J. J. Gómez-Cadenas</name>
+    </author>
+    <author>
+      <name>W. C. Griffith</name>
+    </author>
+    <author>
+      <name>K. Groomes</name>
+    </author>
+    <author>
+      <name>M. Guitière</name>
+    </author>
+    <author>
+      <name>F. Haddad</name>
+    </author>
+    <author>
+      <name>J. Hartnell</name>
+    </author>
+    <author>
+      <name>A. Holin</name>
+    </author>
+    <author>
+      <name>I. G. Irastorza</name>
+    </author>
+    <author>
+      <name>W. Keck</name>
+    </author>
+    <author>
+      <name>A. Kling</name>
+    </author>
+    <author>
+      <name>L. Koch</name>
+    </author>
+    <author>
+      <name>J. F. Le Du</name>
+    </author>
+    <author>
+      <name>F. Lefevre</name>
+    </author>
+    <author>
+      <name>P. Loaiza</name>
+    </author>
+    <author>
+      <name>J. A. Lock</name>
+    </author>
+    <author>
+      <name>T. Lux</name>
+    </author>
+    <author>
+      <name>G. Luzón</name>
+    </author>
+    <author>
+      <name>J. Maalmi</name>
+    </author>
+    <author>
+      <name>J. P. Malhado</name>
+    </author>
+    <author>
+      <name>F. Mantovani</name>
+    </author>
+    <author>
+      <name>J. G. Marques</name>
+    </author>
+    <author>
+      <name>C. Marquet</name>
+    </author>
+    <author>
+      <name>M. Martínez</name>
+    </author>
+    <author>
+      <name>D. Navas-Nicolás</name>
+    </author>
+    <author>
+      <name>H. Nunokawa</name>
+    </author>
+    <author>
+      <name>J. P. Ochoa-Ricoux</name>
+    </author>
+    <author>
+      <name>T. Palmeira</name>
+    </author>
+    <author>
+      <name>C. Palomares</name>
+    </author>
+    <author>
+      <name>D. Petyt</name>
+    </author>
+    <author>
+      <name>P. Pillot</name>
+    </author>
+    <author>
+      <name>A. Pin</name>
+    </author>
+    <author>
+      <name>M. S. Pravikoff</name>
+    </author>
+    <author>
+      <name>S. Richards</name>
+    </author>
+    <author>
+      <name>M. Roche</name>
+    </author>
+    <author>
+      <name>N. Rodrigues</name>
+    </author>
+    <author>
+      <name>R. Rosero</name>
+    </author>
+    <author>
+      <name>B. Roskovec</name>
+    </author>
+    <author>
+      <name>M. L. Sarsa</name>
+    </author>
+    <author>
+      <name>A. Serafini</name>
+    </author>
+    <author>
+      <name>C. Shepherd-Themistocleous</name>
+    </author>
+    <author>
+      <name>W. Shorrock</name>
+    </author>
+    <author>
+      <name>M. Silva</name>
+    </author>
+    <author>
+      <name>L. Simard</name>
+    </author>
+    <author>
+      <name>S. R. Soleti</name>
+    </author>
+    <author>
+      <name>D. Stocco</name>
+    </author>
+    <author>
+      <name>V. Strati</name>
+    </author>
+    <author>
+      <name>J. S. Stutzmann</name>
+    </author>
+    <author>
+      <name>F. Suekane</name>
+    </author>
+    <author>
+      <name>N. Tuccori</name>
+    </author>
+    <author>
+      <name>A. Verdugo</name>
+    </author>
+    <author>
+      <name>B. Viaud</name>
+    </author>
+    <author>
+      <name>S. M. Wakely</name>
+    </author>
+    <author>
+      <name>A. Weber</name>
+    </author>
+    <author>
+      <name>A. W. R. Wong</name>
+    </author>
+    <author>
+      <name>M. Yeh</name>
+    </author>
+    <author>
+      <name>F. Yermia</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.18628v1</id>
+    <title>The Energetic Particle Detector Instrument on ELFIN</title>
+    <updated>2026-10-13T16:04:45Z</updated>
+    <link href="https://arxiv.org/abs/2610.18628v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.18628v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present the design methodology, implementation, and data products of the Energetic Particle Detector (EPD) instrument on-board the Electron Losses and Fields Investigation (ELFIN) dual SmallSat mission. ELFIN was designed to study the time-evolution of energetic particle distributions in Earth's magnetosphere, having operated in polar Low Earth Orbit (LEO) from 2018 to 2022. Each satellite's instrument payload contained a pair of detector heads to sense differential-directional fluxes of 50 keV to $\sim$5 MeV electrons (EPDE), and 50 keV to $\sim$2 MeV atomic ions (EPDI), with an energy resolution better than 50% ($ΔE/E&lt;0.5$). The satellites were spinning with a nominal period of 2.8 s in a plane containing Earth's background magnetic field, with particle counting intervals subdivided into 16 consecutive spin sectors. Each EPD was paired with a three-axis Fluxgate Magnetometer (FGM) sampled at 80 Hz for local pitch-angle determination. Each detector head operated on the principle of pulse-height analysis (PHA) in solid state media, collimated by a rectangular 22.5$^\circ$ field of view and entrance aperture. The EPDE contained a stack of 6 silicon detectors (0.7 cm total thickness) with 0.15 cm$^2$ str geometric factor, with ion contamination mitigated by an aperture foil and digital coincidence logic. The EPDI contained a stack of 2 silicon detectors (0.1 cm total thickness) with 0.03 cm$^2$ str geometric factor, with electron contamination mitigated by a magnetic broom stage and digital anti-coincidence logic. The total assembled mass, volume, and power required for the EPD detector heads and circuit boards were 939 g, 10$\times$9.8$\times$8.4 cm$^3$, and 2.3 W, respectively. We describe each EPD design element alongside instrument data products and processing.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.space-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-13T16:04:45Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>Colin Wilkins</name>
+    </author>
+    <author>
+      <name>Ryan Caron</name>
+    </author>
+    <author>
+      <name>Ethan Tsai</name>
+    </author>
+    <author>
+      <name>Chris Shaffer</name>
+    </author>
+    <author>
+      <name>Patrick Cruce</name>
+    </author>
+    <author>
+      <name>Maxwell Chung</name>
+    </author>
+    <author>
+      <name>Andrei Runov</name>
+    </author>
+    <author>
+      <name>Jiang Liu</name>
+    </author>
+    <author>
+      <name>Drew Turner</name>
+    </author>
+    <author>
+      <name>Yuri Shprits</name>
+    </author>
+    <author>
+      <name>Wen Li</name>
+    </author>
+    <author>
+      <name>Michael Lawson</name>
+    </author>
+    <author>
+      <name>Emmanuel Masongsong</name>
+    </author>
+    <author>
+      <name>Cindy Russell</name>
+    </author>
+    <author>
+      <name>Eric Grimes</name>
+    </author>
+    <author>
+      <name>Jiashu Wu</name>
+    </author>
+    <author>
+      <name>Matthew Allen</name>
+    </author>
+    <author>
+      <name>Jessica Artinger</name>
+    </author>
+    <author>
+      <name>Alex Flemming</name>
+    </author>
+    <author>
+      <name>Brayden Hesford</name>
+    </author>
+    <author>
+      <name>Laura Iglesias</name>
+    </author>
+    <author>
+      <name>James King</name>
+    </author>
+    <author>
+      <name>Austin Norris</name>
+    </author>
+    <author>
+      <name>Carter Pedersen</name>
+    </author>
+    <author>
+      <name>Daniel Thomlinson</name>
+    </author>
+    <author>
+      <name>Wynne Turner</name>
+    </author>
+    <author>
+      <name>Vassilis Angelopoulos</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.18223v1</id>
+    <title>Cryogenic characterisation of the FBK NUV-HD-cryo Silicon Photomultipliers for the DarkSide-20k dark matter experiment</title>
+    <updated>2026-10-13T11:51:31Z</updated>
+    <link href="https://arxiv.org/abs/2610.18223v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.18223v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Liquid Argon Time Projection Chambers (TPCs) are highly promising detectors for dark matter searches due to their uniform response, scalability to large target masses, and compatibility with ultra-low background conditions. The DarkSide-20k (DS-20k) experiment, currently under construction at Istituto Nazionale di Fisica Nucleare (INFN) Laboratori Nazionali del Gran Sasso (LNGS), aims to achieve unprecedented sensitivity to Weakly Interacting Massive Particles (WIMPs), approaching the neutrino fog. At the heart of the detector is a dual-phase TPC filled and surrounded by low-radioactivity argon from underground sources (i.e. Underground Argon (UAr)), functioning both as the WIMP target and detection medium. The experiment employs Fondazione Bruno Kessler (FBK) NUV-HD-cryo Silicon Photomultipliers (SiPMs) as the chosen photon sensors for its optical planes. Key SiPM properties such as dark noise rate, gain and direct crosstalk were measured using specialized test setups at 77 K. The photon detection efficiency (PDE) was measured under vacuum at 77 K over the wavelength range 350-820 nm. Secondary photon emission, which can give rise to external optical crosstalk, was measured under vacuum at 86 K over the wavelength range 550-1020 nm.</summary>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ex" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-13T11:51:31Z</published>
+    <arxiv:primary_category term="physics.ins-det"/>
+    <author>
+      <name>F. Acerbi</name>
+    </author>
+    <author>
+      <name>P. Adhikari</name>
+    </author>
+    <author>
+      <name>P. Agnes</name>
+    </author>
+    <author>
+      <name>I. Ahmad</name>
+    </author>
+    <author>
+      <name>S. Albergo</name>
+    </author>
+    <author>
+      <name>I. F. Albuquerque</name>
+    </author>
+    <author>
+      <name>T. Alexander</name>
+    </author>
+    <author>
+      <name>A. K. Alton</name>
+    </author>
+    <author>
+      <name>P. Amaudruz</name>
+    </author>
+    <author>
+      <name>G. A. Anastasi</name>
+    </author>
+    <author>
+      <name>M. Angiolilli</name>
+    </author>
+    <author>
+      <name>E. Aprile</name>
+    </author>
+    <author>
+      <name>D. J. Auty</name>
+    </author>
+    <author>
+      <name>M. Ave Pernas</name>
+    </author>
+    <author>
+      <name>O. Azzolini</name>
+    </author>
+    <author>
+      <name>H. O. Back</name>
+    </author>
+    <author>
+      <name>Z. Balmforth</name>
+    </author>
+    <author>
+      <name>A. Barrado Olmedo</name>
+    </author>
+    <author>
+      <name>P. Barrillon</name>
+    </author>
+    <author>
+      <name>G. Batignani</name>
+    </author>
+    <author>
+      <name>S. Bharat</name>
+    </author>
+    <author>
+      <name>P. Bhowmick</name>
+    </author>
+    <author>
+      <name>S. Blua</name>
+    </author>
+    <author>
+      <name>V. Bocci</name>
+    </author>
+    <author>
+      <name>W. Bonivento</name>
+    </author>
+    <author>
+      <name>B. Bottino</name>
+    </author>
+    <author>
+      <name>M. G. Boulay</name>
+    </author>
+    <author>
+      <name>T. Braun</name>
+    </author>
+    <author>
+      <name>A. Buchowicz</name>
+    </author>
+    <author>
+      <name>J. Busto</name>
+    </author>
+    <author>
+      <name>M. Cadeddu</name>
+    </author>
+    <author>
+      <name>M. Cadoni</name>
+    </author>
+    <author>
+      <name>R. Calabrese</name>
+    </author>
+    <author>
+      <name>V. I. Calì</name>
+    </author>
+    <author>
+      <name>A. Caminata</name>
+    </author>
+    <author>
+      <name>N. Canci</name>
+    </author>
+    <author>
+      <name>M. Caravati</name>
+    </author>
+    <author>
+      <name>M. Cardenas-Montes</name>
+    </author>
+    <author>
+      <name>N. Cargioli</name>
+    </author>
+    <author>
+      <name>M. Carlini</name>
+    </author>
+    <author>
+      <name>L. Castellani</name>
+    </author>
+    <author>
+      <name>P. Castello</name>
+    </author>
+    <author>
+      <name>D. F. F. S. Cavalcante</name>
+    </author>
+    <author>
+      <name>P. Cavalcante</name>
+    </author>
+    <author>
+      <name>S. Cebrian</name>
+    </author>
+    <author>
+      <name>A. Chepurnov</name>
+    </author>
+    <author>
+      <name>L. Cifarelli</name>
+    </author>
+    <author>
+      <name>Y. Coadou</name>
+    </author>
+    <author>
+      <name>I. Coarasa</name>
+    </author>
+    <author>
+      <name>V. Cocco</name>
+    </author>
+    <author>
+      <name>E. Conde Vilda</name>
+    </author>
+    <author>
+      <name>L. Consiglio</name>
+    </author>
+    <author>
+      <name>H. Coombes</name>
+    </author>
+    <author>
+      <name>A. F. V. Cortez</name>
+    </author>
+    <author>
+      <name>B. S. Costa</name>
+    </author>
+    <author>
+      <name>P. A. Costa e Silva</name>
+    </author>
+    <author>
+      <name>M. Czubak</name>
+    </author>
+    <author>
+      <name>S. D'Auria</name>
+    </author>
+    <author>
+      <name>M. D. Da Rocha Rolo</name>
+    </author>
+    <author>
+      <name>A. Dainty</name>
+    </author>
+    <author>
+      <name>G. Darbo</name>
+    </author>
+    <author>
+      <name>S. Davini</name>
+    </author>
+    <author>
+      <name>R. de Asmundis</name>
+    </author>
+    <author>
+      <name>S. De Cecco</name>
+    </author>
+    <author>
+      <name>M. De Napoli</name>
+    </author>
+    <author>
+      <name>G. Dellacasa</name>
+    </author>
+    <author>
+      <name>A. Derbin</name>
+    </author>
+    <author>
+      <name>L. Di Noto</name>
+    </author>
+    <author>
+      <name>P. Di Stefano</name>
+    </author>
+    <author>
+      <name>D. Díaz Mairena</name>
+    </author>
+    <author>
+      <name>C. Dionisi</name>
+    </author>
+    <author>
+      <name>G. Dolganov</name>
+    </author>
+    <author>
+      <name>F. Dordei</name>
+    </author>
+    <author>
+      <name>A. Elersich</name>
+    </author>
+    <author>
+      <name>E. Ellingwood</name>
+    </author>
+    <author>
+      <name>T. Erjavec</name>
+    </author>
+    <author>
+      <name>N. Fearon</name>
+    </author>
+    <author>
+      <name>M. Fernandez Diaz</name>
+    </author>
+    <author>
+      <name>L. Ferro</name>
+    </author>
+    <author>
+      <name>A. Ficorella</name>
+    </author>
+    <author>
+      <name>G. Fiorillo</name>
+    </author>
+    <author>
+      <name>D. Fleming</name>
+    </author>
+    <author>
+      <name>L. Flores</name>
+    </author>
+    <author>
+      <name>P. Franchini</name>
+    </author>
+    <author>
+      <name>D. Franco</name>
+    </author>
+    <author>
+      <name>H. Frandini Gatti</name>
+    </author>
+    <author>
+      <name>F. Gabriele</name>
+    </author>
+    <author>
+      <name>D. Gahan</name>
+    </author>
+    <author>
+      <name>C. Galbiati</name>
+    </author>
+    <author>
+      <name>G. Galiński</name>
+    </author>
+    <author>
+      <name>G. Gallina</name>
+    </author>
+    <author>
+      <name>M. Garbini</name>
+    </author>
+    <author>
+      <name>P. Garcia Abia</name>
+    </author>
+    <author>
+      <name>A. Gawdzik</name>
+    </author>
+    <author>
+      <name>G. K. Giovanetti</name>
+    </author>
+    <author>
+      <name>A. Gola</name>
+    </author>
+    <author>
+      <name>L. Grandi</name>
+    </author>
+    <author>
+      <name>G. Grauso</name>
+    </author>
+    <author>
+      <name>G. Grilli di Cortona</name>
+    </author>
+    <author>
+      <name>A. Grobov</name>
+    </author>
+    <author>
+      <name>M. Gromov</name>
+    </author>
+    <author>
+      <name>J. Guerrero Cánovas</name>
+    </author>
+    <author>
+      <name>M. Gulino</name>
+    </author>
+    <author>
+      <name>S. B. Habtemariam</name>
+    </author>
+    <author>
+      <name>B. R. Hackett</name>
+    </author>
+    <author>
+      <name>A. Hallin</name>
+    </author>
+    <author>
+      <name>M. Haranczyk</name>
+    </author>
+    <author>
+      <name>T. Hessel</name>
+    </author>
+    <author>
+      <name>C. Hidalgo</name>
+    </author>
+    <author>
+      <name>J. Hollingham</name>
+    </author>
+    <author>
+      <name>S. Horikawa</name>
+    </author>
+    <author>
+      <name>J. Hu</name>
+    </author>
+    <author>
+      <name>F. Hubaut</name>
+    </author>
+    <author>
+      <name>D. Huff</name>
+    </author>
+    <author>
+      <name>T. Hugues</name>
+    </author>
+    <author>
+      <name>A. Ianni</name>
+    </author>
+    <author>
+      <name>A. Ianni</name>
+    </author>
+    <author>
+      <name>V. Ippolito</name>
+    </author>
+    <author>
+      <name>A. Jamil</name>
+    </author>
+    <author>
+      <name>C. Jillings</name>
+    </author>
+    <author>
+      <name>P. Kachru</name>
+    </author>
+    <author>
+      <name>R. Keloth</name>
+    </author>
+    <author>
+      <name>N. Kemmerich</name>
+    </author>
+    <author>
+      <name>A. Kemp</name>
+    </author>
+    <author>
+      <name>K. Kondo</name>
+    </author>
+    <author>
+      <name>G. Korga</name>
+    </author>
+    <author>
+      <name>L. Kotsiopoulou</name>
+    </author>
+    <author>
+      <name>S. Koulosousas</name>
+    </author>
+    <author>
+      <name>P. Kunze</name>
+    </author>
+    <author>
+      <name>M. Kuss</name>
+    </author>
+    <author>
+      <name>M. Kuźniak</name>
+    </author>
+    <author>
+      <name>M. Kuzwa</name>
+    </author>
+    <author>
+      <name>M. I. Kwon</name>
+    </author>
+    <author>
+      <name>M. La Commara</name>
+    </author>
+    <author>
+      <name>M. Lai</name>
+    </author>
+    <author>
+      <name>E. Le Guirriec</name>
+    </author>
+    <author>
+      <name>E. Leason</name>
+    </author>
+    <author>
+      <name>A. Leoni</name>
+    </author>
+    <author>
+      <name>L. Lidey</name>
+    </author>
+    <author>
+      <name>J. D. Lipp</name>
+    </author>
+    <author>
+      <name>L. Lippolis</name>
+    </author>
+    <author>
+      <name>M. Lissia</name>
+    </author>
+    <author>
+      <name>L. Luzzi</name>
+    </author>
+    <author>
+      <name>O. Lychagina</name>
+    </author>
+    <author>
+      <name>O. Macfadyen</name>
+    </author>
+    <author>
+      <name>J. Machts</name>
+    </author>
+    <author>
+      <name>I. Machulin</name>
+    </author>
+    <author>
+      <name>S. Mameli</name>
+    </author>
+    <author>
+      <name>S. Manecki</name>
+    </author>
+    <author>
+      <name>I. Manthos</name>
+    </author>
+    <author>
+      <name>A. Marasciulli</name>
+    </author>
+    <author>
+      <name>S. M. Mari</name>
+    </author>
+    <author>
+      <name>C. Mariani</name>
+    </author>
+    <author>
+      <name>J. Maricic</name>
+    </author>
+    <author>
+      <name>M. Martinez</name>
+    </author>
+    <author>
+      <name>G. Matteucci</name>
+    </author>
+    <author>
+      <name>K. Mavrokoridis</name>
+    </author>
+    <author>
+      <name>A. Mazzi</name>
+    </author>
+    <author>
+      <name>A. B. McDonald</name>
+    </author>
+    <author>
+      <name>L. Meng</name>
+    </author>
+    <author>
+      <name>A. Messina</name>
+    </author>
+    <author>
+      <name>R. Milincic</name>
+    </author>
+    <author>
+      <name>G. Miller</name>
+    </author>
+    <author>
+      <name>S. Minutoli</name>
+    </author>
+    <author>
+      <name>A. Mitra</name>
+    </author>
+    <author>
+      <name>J. Monroe</name>
+    </author>
+    <author>
+      <name>M. Morrocchi</name>
+    </author>
+    <author>
+      <name>A. Morsy</name>
+    </author>
+    <author>
+      <name>V. Muratova</name>
+    </author>
+    <author>
+      <name>M. Murra</name>
+    </author>
+    <author>
+      <name>C. Muscas</name>
+    </author>
+    <author>
+      <name>P. Musico</name>
+    </author>
+    <author>
+      <name>R. Nania</name>
+    </author>
+    <author>
+      <name>M. Nessi</name>
+    </author>
+    <author>
+      <name>G. Nieradka</name>
+    </author>
+    <author>
+      <name>K. Nikolopoulos</name>
+    </author>
+    <author>
+      <name>E. Nikoloudaki</name>
+    </author>
+    <author>
+      <name>J. Nowak</name>
+    </author>
+    <author>
+      <name>K. Olchanski</name>
+    </author>
+    <author>
+      <name>A. Oleinik</name>
+    </author>
+    <author>
+      <name>P. Organtini</name>
+    </author>
+    <author>
+      <name>A. Ortiz de Solórzano</name>
+    </author>
+    <author>
+      <name>A. Padmanabhan</name>
+    </author>
+    <author>
+      <name>M. Pallavicini</name>
+    </author>
+    <author>
+      <name>L. Pandola</name>
+    </author>
+    <author>
+      <name>E. Pantic</name>
+    </author>
+    <author>
+      <name>E. Paoloni</name>
+    </author>
+    <author>
+      <name>D. Papi</name>
+    </author>
+    <author>
+      <name>L. Parellada Monreal</name>
+    </author>
+    <author>
+      <name>B. Park</name>
+    </author>
+    <author>
+      <name>G. Pastuszak</name>
+    </author>
+    <author>
+      <name>G. Paternoster</name>
+    </author>
+    <author>
+      <name>R. Pavarani</name>
+    </author>
+    <author>
+      <name>A. Peck</name>
+    </author>
+    <author>
+      <name>P. A. Pegoraro</name>
+    </author>
+    <author>
+      <name>K. Pelczar</name>
+    </author>
+    <author>
+      <name>R. Perez</name>
+    </author>
+    <author>
+      <name>V. Pesudo</name>
+    </author>
+    <author>
+      <name>S. Piacentini</name>
+    </author>
+    <author>
+      <name>N. Pino</name>
+    </author>
+    <author>
+      <name>G. Plante</name>
+    </author>
+    <author>
+      <name>A. Pocar</name>
+    </author>
+    <author>
+      <name>S. Pordes</name>
+    </author>
+    <author>
+      <name>P. Pralavorio</name>
+    </author>
+    <author>
+      <name>E. Preosti</name>
+    </author>
+    <author>
+      <name>D. Price</name>
+    </author>
+    <author>
+      <name>G. Prior</name>
+    </author>
+    <author>
+      <name>M. Pronesti</name>
+    </author>
+    <author>
+      <name>S. Puglia</name>
+    </author>
+    <author>
+      <name>M. Queiroga Bazetto</name>
+    </author>
+    <author>
+      <name>F. Raffaelli</name>
+    </author>
+    <author>
+      <name>F. Ragusa</name>
+    </author>
+    <author>
+      <name>Y. Ramachers</name>
+    </author>
+    <author>
+      <name>A. Ramirez</name>
+    </author>
+    <author>
+      <name>S. Ravinthiran</name>
+    </author>
+    <author>
+      <name>K. Raymond</name>
+    </author>
+    <author>
+      <name>M. Razeti</name>
+    </author>
+    <author>
+      <name>A. L. Renshaw</name>
+    </author>
+    <author>
+      <name>A. Repond</name>
+    </author>
+    <author>
+      <name>M. Rescigno</name>
+    </author>
+    <author>
+      <name>S. Resconi</name>
+    </author>
+    <author>
+      <name>F. Retiere</name>
+    </author>
+    <author>
+      <name>A. Ritchie-Yates</name>
+    </author>
+    <author>
+      <name>A. Rivetti</name>
+    </author>
+    <author>
+      <name>A. Roberts</name>
+    </author>
+    <author>
+      <name>C. Roberts</name>
+    </author>
+    <author>
+      <name>D. Rodríguez Rodas</name>
+    </author>
+    <author>
+      <name>G. Rogers</name>
+    </author>
+    <author>
+      <name>L. Romero</name>
+    </author>
+    <author>
+      <name>M. Rossi</name>
+    </author>
+    <author>
+      <name>D. Rudik</name>
+    </author>
+    <author>
+      <name>J. Runge</name>
+    </author>
+    <author>
+      <name>M. Sabia</name>
+    </author>
+    <author>
+      <name>C. Salerno</name>
+    </author>
+    <author>
+      <name>P. Salomone</name>
+    </author>
+    <author>
+      <name>O. Samoylov</name>
+    </author>
+    <author>
+      <name>S. Sanfilippo</name>
+    </author>
+    <author>
+      <name>D. Santone</name>
+    </author>
+    <author>
+      <name>R. Santorelli</name>
+    </author>
+    <author>
+      <name>E. M. Santos</name>
+    </author>
+    <author>
+      <name>I. Sargeant</name>
+    </author>
+    <author>
+      <name>M. L. Sarsa</name>
+    </author>
+    <author>
+      <name>C. Savarese</name>
+    </author>
+    <author>
+      <name>E. Scapparone</name>
+    </author>
+    <author>
+      <name>D. Semenov</name>
+    </author>
+    <author>
+      <name>C. Seoane</name>
+    </author>
+    <author>
+      <name>A. Serrecchia</name>
+    </author>
+    <author>
+      <name>M. Sestu</name>
+    </author>
+    <author>
+      <name>V. Shalamova</name>
+    </author>
+    <author>
+      <name>S. Sharma Poudel</name>
+    </author>
+    <author>
+      <name>A. Sheshukov</name>
+    </author>
+    <author>
+      <name>M. Simeone</name>
+    </author>
+    <author>
+      <name>D. Sitzia</name>
+    </author>
+    <author>
+      <name>P. Skensved</name>
+    </author>
+    <author>
+      <name>M. Skorokhvatov</name>
+    </author>
+    <author>
+      <name>O. Smirnov</name>
+    </author>
+    <author>
+      <name>T. Smirnova</name>
+    </author>
+    <author>
+      <name>B. Smith</name>
+    </author>
+    <author>
+      <name>F. Spadoni</name>
+    </author>
+    <author>
+      <name>M. Spangenberg</name>
+    </author>
+    <author>
+      <name>A. Steri</name>
+    </author>
+    <author>
+      <name>M. R. Stock</name>
+    </author>
+    <author>
+      <name>V. Stornelli</name>
+    </author>
+    <author>
+      <name>S. Stracka</name>
+    </author>
+    <author>
+      <name>A. Sung</name>
+    </author>
+    <author>
+      <name>C. Sunny</name>
+    </author>
+    <author>
+      <name>Y. Suvorov</name>
+    </author>
+    <author>
+      <name>A. M. Szelc</name>
+    </author>
+    <author>
+      <name>O. Taborda</name>
+    </author>
+    <author>
+      <name>B. Tam</name>
+    </author>
+    <author>
+      <name>R. Tartaglia</name>
+    </author>
+    <author>
+      <name>A. Taylor</name>
+    </author>
+    <author>
+      <name>J. Taylor</name>
+    </author>
+    <author>
+      <name>G. Testera</name>
+    </author>
+    <author>
+      <name>A. Thompson</name>
+    </author>
+    <author>
+      <name>S. Torres-Lara</name>
+    </author>
+    <author>
+      <name>A. Tricomi</name>
+    </author>
+    <author>
+      <name>S. Tullio</name>
+    </author>
+    <author>
+      <name>E. Unzhakov</name>
+    </author>
+    <author>
+      <name>M. Van Uffelen</name>
+    </author>
+    <author>
+      <name>P. Ventura</name>
+    </author>
+    <author>
+      <name>G. Vera Díaz</name>
+    </author>
+    <author>
+      <name>S. Viel</name>
+    </author>
+    <author>
+      <name>A. Vishneva</name>
+    </author>
+    <author>
+      <name>R. B. Vogelaar</name>
+    </author>
+    <author>
+      <name>J. Vossebeld</name>
+    </author>
+    <author>
+      <name>B. Vyas</name>
+    </author>
+    <author>
+      <name>M. Wada</name>
+    </author>
+    <author>
+      <name>M. Walczak</name>
+    </author>
+    <author>
+      <name>Y. Wang</name>
+    </author>
+    <author>
+      <name>S. Westerdale</name>
+    </author>
+    <author>
+      <name>L. Williams</name>
+    </author>
+    <author>
+      <name>M. M. Wojcik</name>
+    </author>
+    <author>
+      <name>M. Wojcik</name>
+    </author>
+    <author>
+      <name>Z. Xu</name>
+    </author>
+    <author>
+      <name>J. Yin</name>
+    </author>
+    <author>
+      <name>A. Zabihi</name>
+    </author>
+    <author>
+      <name>P. Zakhary</name>
+    </author>
+    <author>
+      <name>A. Zani</name>
+    </author>
+    <author>
+      <name>H. Zhan</name>
+    </author>
+    <author>
+      <name>Y. Zhang</name>
+    </author>
+    <author>
+      <name>G. Zuzel</name>
+    </author>
+  </entry>
+</feed>

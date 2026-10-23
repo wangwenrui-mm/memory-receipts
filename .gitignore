@@ -1,0 +1,26 @@
+# ---------------- 数据与隐私（绝对不要提交）----------------
+# 注意：只匹配仓库根目录，避免把 lab/data/ 这类要发布的目录也排除掉
+/data/
+/logs/
+/backup/
+/profiles/
+/stickers/
+.env
+/config.json
+*.db
+*.sqlite
+PAUSE
+FROZEN
+
+# ---------------- 第三方（体积大、有独立许可）----------------
+/NapCat/
+/models/
+/tts_model/
+*_dl/
+/tools/platform-tools/
+
+# ---------------- 开发产物 ----------------
+__pycache__/
+*.pyc
+*.bak
+*.bak_*

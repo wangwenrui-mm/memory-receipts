@@ -1,0 +1,1152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/M6CdeLSC75gj6uhsFxe2Kb6KAxY</id>
+  <title>arXiv Query: search_query=cat:nlin.PS&amp;id_list=&amp;start=0&amp;max_results=50</title>
+  <updated>2026-10-23T08:40:04Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=cat:nlin.PS&amp;start=0&amp;max_results=50&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <opensearch:totalResults>11028</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2610.31425v1</id>
+    <title>Modulation theory of Y- and X-wave Kadomtsev--Petviashvili solitons</title>
+    <updated>2026-10-22T15:25:42Z</updated>
+    <link href="https://arxiv.org/abs/2610.31425v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.31425v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The evolution of long wavelength perturbations of traveling wave 2-soliton solutions of the Kadomtsev-Petviashvili II (KP) equation are investigated using modulation theory. An initial-boundary value problem for a system of hyperbolic conservation laws is formulated for amplitude and slope perturbations to soliton legs of the resonant (Y-shaped) and X-shaped KP traveling wave solutions. The vertex where individuated soliton legs coalesce is modeled as a moving free boundary where information between the soliton legs can pass. The linearized hyperbolic system is proven to be well-posed under suitable initial conditions and is solved exactly. In the case of the resonant Y-shaped soliton, all admissible simple (rarefaction) waves of the nonlinear system are characterized. Specific perturbations of Y-waves can lead to the dimensionality of the modulated solution changing, corresponding to a physical geometric change to the multi-soliton pattern. Spontaneous leg deletion and leg creation can occur. The conditions under which the Y-wave modulation system can experience gradient catastrophe are given. Gradient catastrophe is regularized by the formation of a new leg, with an augmented modulation system proposed to describe the growth of the new leg. On the other hand, the X-wave system can be reduced to two independent line soliton modulation systems. These findings reinforce the prevalence and generality of resonant Y-shaped vertices in the KP II system and applications.The theoretical modulation predictions are supported by direct numerical simulations of KP II, which show good agreement with the analysis.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T15:25:42Z</published>
+    <arxiv:comment>43 pages, 23 figures</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Jerry Wang</name>
+    </author>
+    <author>
+      <name>Mark A. Hoefer</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.30550v1</id>
+    <title>Thouless Pumping of One-Dimensional Dark Solitons and Domain Walls</title>
+    <updated>2026-10-22T00:16:20Z</updated>
+    <link href="https://arxiv.org/abs/2610.30550v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.30550v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We predict that quantized transport of dark solitons and domain walls can be observed in mutually sliding optical lattices in both focusing and defocusing nonlinear materials. Two different classes of underlying periodic backgrounds are considered here -- unstaggered and staggered -- which are accurately represented, respectively, by the in-phase and out-of-phase trains of Wannier functions. The nonlinear excitations formed on top of these backgrounds -- dark solitons and domain walls -- are sustained by defocusing or focusing Kerr nonlinearities of the optical medium. Despite non-zero asymptotics, dark solitons and domain walls can still undergo quantized topological transport in dynamically changing refractive index landscape when they and background on which they are constructed are dynamically stable. The extended intervals of propagation constants (and, correspondingly, of the background amplitude) and lattice depths, where stable quantized transport occurs, are identified for both dark solitons and domain walls. Outside these intervals, the quantized transport regime is found to be unstable. Our results extend the concept of nonlinear topological transport from bright to dark soliton states.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-22T00:16:20Z</published>
+    <arxiv:comment>12 pages, 5 figures, to appear in Progress of Physics</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Fangwei Ye</name>
+    </author>
+    <author>
+      <name>Aidar H. Ryazhapov</name>
+    </author>
+    <author>
+      <name>Yaroslav V. Kartashov</name>
+    </author>
+    <author>
+      <name>Vladimir V. Konotop</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29884v1</id>
+    <title>Phenotype-structured nonlocal aggregation models I: signal production and response</title>
+    <updated>2026-10-21T15:30:07Z</updated>
+    <link href="https://arxiv.org/abs/2610.29884v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29884v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Individuals within a cellular or ecological population can exhibit substantial variation in their traits or phenotype. Such heterogeneity can fundamentally alter population-level behaviour, including the ability to aggregate and form spatial patterns. We investigate these effects by extending nonlocal aggregation models, widely used to model cell--cell adhesion and collective animal movement, to incorporate phenotype structure. We characterise how heterogeneity and switching between phenotypes affect whether patterns form, how phenotypes are distributed within them, and whether they are stationary or exhibit spatio-temporal oscillations. We show that pattern formation is promoted when phenotypes that produce stronger interaction signals also respond more strongly to them, whereas specialisation towards either signal production or response inhibits pattern formation. Increasing rates of switching between phenotypes dampen these effects. Heterogeneity can also enable weakly interacting, and even repulsive, individuals to pattern as part of the collective. Furthermore, movement in phenotype and physical space can interact to restructure patterns and generate spatio-temporal oscillations. A further key message of this study is the value of considering both discrete $N$-phenotype and continuous phenotype formulations. We develop both in parallel, demonstrating formal correspondences, but also advantages to each framework in terms of mathematical analyses and interpretability.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.CB" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T15:30:07Z</published>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Thomas Jun Jewell</name>
+    </author>
+    <author>
+      <name>Andrew L. Krause</name>
+    </author>
+    <author>
+      <name>Philip K. Maini</name>
+    </author>
+    <author>
+      <name>Eamonn A. Gaffney</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.29301v1</id>
+    <title>Collision Dynamics of Topologically Pumped Solitons</title>
+    <updated>2026-10-21T06:55:43Z</updated>
+    <link href="https://arxiv.org/abs/2610.29301v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.29301v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Soliton pumping enables controlled transport of localized wave packets through the interplay between nonlinearity and band topology. Interactions between such wave packets provide an additional means to manipulate their localization and subsequent motion. Here, we investigate collisions of solitons in a driven bichromatic lattice, where solitons associated with bands of opposite Chern numbers are pumped toward one another. For intracomponent collisions, the soliton that dominates the collision survives as a localized outgoing wave packet, while the weaker one can lose its distinct localized identity. For intercomponent collisions, attractive interaction produces spatial locking, whereas repulsive interaction induces redistribution toward the lowest band and reverses the motion of the initially excited-band wave packet. Remarkably, for collisions between vector solitons with comparable initial intensities, the difference between their internal relative phases controls the collision outcome, favoring capture for in-phase preparation and re-separation for out-of-phase preparation. These results connect nonlinear scattering with subsequent topological pumping and identify initial intensity, intercomponent interaction, and relative phase as control parameters for manipulating localized transport within the same pumping protocol.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-21T06:55:43Z</published>
+    <arxiv:comment>11 pages, 6 figures, including appendices</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Ning Mao</name>
+    </author>
+    <author>
+      <name>Guang-Can Guo</name>
+    </author>
+    <author>
+      <name>Xi-Wang Luo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27500v1</id>
+    <title>Soliton Profiles in 1D: Enhanced Neural-Network Solvers and Constrained Deep Ritz Methods</title>
+    <updated>2026-10-20T02:18:20Z</updated>
+    <link href="https://arxiv.org/abs/2610.27500v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27500v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We develop and compare enhanced neural-network solvers for one-dimensional ground-state profiles, which are solutions of $$ Q^{\prime\prime}=bQ-γQ^{p},\quad Q&gt;0,\quad p&gt;1, \quad b, γ&gt;0, $$ the stationary profile equation for the nonlinear Schrödinger, generalized Korteweg-de Vries, and nonlinear Klein-Gordon equations. Its explicit sech-type solutions serve as exact reference for error computation and benchmark hyperparameter selection. We improve on the standard Adam-trained physics-informed neural network (PINN) baseline by introducing higher-order optimization via Gauss-Newton/Levenberg-Marquardt and L-BFGS refinements, as well as Fourier-feature PINNs, and constrained Deep Ritz (DR) formulations. In DR approaches we introduce two new neural-network formulations, which implement two classical variational characterizations: a Nehari-constrained Deep Ritz method, in which the height is learned by projecting onto the Nehari/Pokhozhaev manifold, and a Weinstein Deep Ritz method, in which a normalized profile minimizes the Weinstein quotient. The Deep Ritz formulations perform best overall, in particular, the Weinstein variant gives the best error-runtime balance. The neural-network based solvers remain less accurate and efficient than classical Petviashvili iteration in 1D, however, the current study provides a proof of concept: the mesh-free formulation, non-reliance on exact profiles or the related features make them promising in higher dimensions and for more complicated nonlinearities and dispersive operators.</summary>
+    <category term="math.NA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.AP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-20T02:18:20Z</published>
+    <arxiv:comment>9 figures</arxiv:comment>
+    <arxiv:primary_category term="math.NA"/>
+    <author>
+      <name>Chandler Haight</name>
+    </author>
+    <author>
+      <name>Alex D Rodriguez</name>
+    </author>
+    <author>
+      <name>Svetlana Roudenko</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27235v1</id>
+    <title>Does a Flux-Defined Markov Blanket Screen Self-Replicating Gray--Scott Spots? A Computational Test of a Blanket Condition from the Free Energy Principle</title>
+    <updated>2026-10-19T20:02:33Z</updated>
+    <link href="https://arxiv.org/abs/2610.27235v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27235v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Friston's free energy principle holds that a system separated from its environment by a Markov blanket---a boundary whose states statistically screen its interior from its exterior---can be treated as performing approximate Bayesian inference, and that such blankets arise wherever coupling is short-range. We test this blanket condition in a concrete nonlinear pattern-forming system: self-replicating spots in a reaction-diffusion model that persist, compete, and reproduce. Directed boundary exchange and timescale separation hold up reasonably well, with qualifications. A flux-defined blanket does not screen interior from exterior. Flux removes only part of the linear dependence, and a nonlinear test shows that conditioning on flux \emph{increases} the dependence, consistent with conditioning on a collider, since flux is a joint function of concentrations on both sides of the boundary. The dependence is concentrated within about one organism radius of the boundary. A band of the surrounding field that thick screens the interior from the exterior beyond it, as any short-range field would, which is not evidence of inference.</summary>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.AO" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.CD" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T20:02:33Z</published>
+    <arxiv:primary_category term="q-bio.NC"/>
+    <author>
+      <name>John E Pearson</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.27229v1</id>
+    <title>Connected $ω$-limit sets of Cournot maps: periodic orbits, realization and almost every point</title>
+    <updated>2026-10-19T19:56:39Z</updated>
+    <link href="https://arxiv.org/abs/2610.27229v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.27229v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Let $F(x,y)=(f_2(y),f_1(x))$ be a Cournot map of the unit square, $\varphi=f_2\circ f_1$ and $χ=f_1\circ f_2$. Linero Bas and Muñoz Guillermo proved that an $ω$-limit set of $F$ with nonempty interior is connected if and only if \textup{(C1)} its two projections are connected and \textup{(C2)} $ω_{F^2}(z)\capω_{F^2}(F(z))\neq\emptyset$, and conjectured that this holds for every $ω$-limit set. We prove the conjecture for every point $z=(x,y)$ such that $ω_\varphi(x)$ or $ω_χ(y)$ is finite, and for Lebesgue almost every point $z$ of the square whenever $\varphi$ is metrically regular (every metric attractor is a periodic orbit, a solenoid, or a cycle of intervals carrying a well-behaved absolutely continuous invariant measure). Over a periodic orbit the $ω$-limit set is a \emph{comb}, whose sections are rigid; when one projection is connected it is a point, a \emph{lattice} $(P\times J)\cup(K\times Q)$ with $P\subset K$, $Q\subset J$ and $\#P=\#Q$, or an \emph{alternating comb} of $2m$ disjoint segments. Conversely, every lattice and every alternating comb is an $ω$-limit set of a Cournot map with piecewise linear reaction functions; the construction rests on a lemma producing exact compositions of piecewise linear maps with prescribed values. This answers, for this class, the question of Balibrea, Linero and Cánovas of which nowhere dense sets are $ω$-limit sets of Cournot maps. For instance, the letter H is not an $ω$-limit set at any such point, and for metrically regular $\varphi$ the points whose $ω$-limit set is connected, infinite, nowhere dense and not a lattice form a Lebesgue null set.</summary>
+    <category term="math.DS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T19:56:39Z</published>
+    <arxiv:primary_category term="math.DS"/>
+    <author>
+      <name>Juan Luis García Guirao</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26436v1</id>
+    <title>Asymptotic breathers in the Manakov system</title>
+    <updated>2026-10-19T13:58:09Z</updated>
+    <link href="https://arxiv.org/abs/2610.26436v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26436v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We construct vector (two-component) asymptotic Akhmediev breathers in the Manakov system, matching generalized modulational-instability (gMI) eigenmodes to decaying tails of the breather states. The branch-resolved matching provides analytical results linking the gMI-perturbation envelopes to the positions of the emerging breathers. Numerical simulations of the system with the focusing and defocusing nonlinearities corroborate the analytical predictions for each MI branch. We further develop the asymptotic theory for two-breather solutions generated by two independent gMI modes, linking their temporal separation to the input envelopes and interaction-induced shifts. Further numerical simulations reveal that breather patterns exhibit robustness in the presence of weak nonintegrable perturbations. These findings establish a framework relating experimentally controllable input modulations to the branch-selective formation and positioning of breathers in multicomponent nonlinear systems.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T13:58:09Z</published>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Liming Ling</name>
+    </author>
+    <author>
+      <name>Boris A. Malomed</name>
+    </author>
+    <author>
+      <name>Yan-Hong Qin</name>
+    </author>
+    <author>
+      <name>Jin-Peng Yang</name>
+    </author>
+    <author>
+      <name>Hao-Jun Yin</name>
+    </author>
+    <author>
+      <name>Li-Chen Zhao</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26289v1</id>
+    <title>Optical vortex bullets with large angular momenta</title>
+    <updated>2026-10-19T12:40:12Z</updated>
+    <link href="https://arxiv.org/abs/2610.26289v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26289v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate three-dimensional spatiotemporal optical vortex solitons (light bullets with a toroidal shape) carrying higher-order orbital angular momentum in Kerr media with anomalous group-velocity dispersion and a transversely localized Gaussian profile of the linear refractive index. Stationary vortex bullets with topological charges (winding numbers) $1\leq \ell \leq 4$ are obtained as numerical solutions of the three-dimensional nonlinear Schrödinger equation, and their existence, structure and stability are systematically analyzed. In terms of atomic Bose-Einstein condensates, these solutions represent matter-wave solitons with embedded vorticity. We examine the dependence of the solution families on the propagation constant, the depth and width of the guiding profile, and $\ell $. It is found that the increase of $\ell $ requires one to use a stronger or wider waveguiding potential to sustain localized states satisfying the Vakhitov-Kolokolov (VK) stability criterion. VK-complying and non-complying branches of vortex-soliton families are separated by a degenerate Townes branch. Direct simulations reveal that, although the guiding profile substantially suppresses the collapse and extends the propagation distance of vortex bullets, their robustness is ultimately limited by azimuthal instabilities, whose growth is enhanced for values of $\ell $. These results demonstrate that engineered refractive-index landscapes significantly enlarge the stability domain of spatiotemporal vortex bullets and provide guidelines for supporting optical bullets carrying large orbital angular momenta.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T12:40:12Z</published>
+    <arxiv:comment>8 pages, 10 figures. To be published in Photonics and Quantum Waves (PQW)</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>José R. Salgueiro</name>
+    </author>
+    <author>
+      <name>Carlos F. Sánchez</name>
+    </author>
+    <author>
+      <name>Boris A. Malomed</name>
+    </author>
+    <author>
+      <name>Ángel Paredes</name>
+    </author>
+    <author>
+      <name>Humberto Michinel</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.26281v1</id>
+    <title>Dispersion of three-dimensional oscillons: a standing-wave perspective</title>
+    <updated>2026-10-19T12:34:07Z</updated>
+    <link href="https://arxiv.org/abs/2610.26281v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.26281v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>A spherically symmetric standing wave confined within a finite-radius ball, with weak radiative exchange between its core and boundary, provides a model for an intermediate stage in the adiabatic evolution of the $φ^4$ oscillon. We employ a multiscale variational framework to derive an approximate description of these standing waves and their energy-frequency relation. The resulting dispersion curve is compared with that obtained from numerical solutions of the boundary value problem for the $φ^4$ equation on a two dimensional (time and radius) domain. The agreement between the numerical and variational results is excellent near the endpoint of the continuous spectrum but deteriorates as $ω$ is reduced below $0.85 ω_0$. We attribute this discrepancy to the growth of the radiation wing, which is neglected in the variational ansatz.</summary>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-19T12:34:07Z</published>
+    <arxiv:comment>12 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="hep-th"/>
+    <author>
+      <name>I. V. Barashenkov</name>
+    </author>
+    <author>
+      <name>R. De Sousa</name>
+    </author>
+    <author>
+      <name>N. V. Alexeeva</name>
+    </author>
+    <author>
+      <name>A. Dika</name>
+    </author>
+    <author>
+      <name>E. V. Zemlyanaya</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.22166v1</id>
+    <title>Cone Invariance and Homoclinic Standing Waves for Cooperative Finite-Range DNLS Equations</title>
+    <updated>2026-10-15T16:28:14Z</updated>
+    <link href="https://arxiv.org/abs/2610.22166v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.22166v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We develop a constrained-power variational framework for positive homoclinic standing waves in one-dimensional discrete nonlinear Schrödinger equations with cooperative finite-range interactions. Starting from periodic lattices, we construct constrained energy maximizers and use the associated projected gradient flow to establish positive invariance of the cone of nonnegative, even, and unimodal profiles. A central result is that the monotone ordering of the interaction coefficients, \(a_1\ge a_2\ge\cdots\ge a_M\ge0\), with \(a_1&gt;0\), provides the structural condition ensuring preservation of this cone under finite-range coupling. Under a strict maximum condition above the linear spectral edge, we obtain a uniform frequency gap and period-independent exponential localization. These estimates provide the compactness required for the infinite-period limit and yield positive, even, unimodal, and exponentially localized homoclinic standing waves as strong \(\ell^2(\mathbb Z)\)-limits of periodic constrained maximizers. Numerical computations for several interaction ranges and cooperative kernels illustrate the effects of extended coupling on dispersion and localization and support the periodic-to-homoclinic convergence predicted by the analysis.</summary>
+    <category term="math.AP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T16:28:14Z</published>
+    <arxiv:comment>31 pages, 9 figures, 5 tables. Submitted to ZAMP</arxiv:comment>
+    <arxiv:primary_category term="math.AP"/>
+    <author>
+      <name>Vassilios M. Rothos</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.21930v1</id>
+    <title>Vortex clusters and vortex-filled bubbles in a modified Abelian-Higgs model</title>
+    <updated>2026-10-15T14:10:05Z</updated>
+    <link href="https://arxiv.org/abs/2610.21930v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.21930v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate a single-component Abelian-Higgs model with an eighth-order scalar potential whose vacuum manifold consists of two disconnected circles. The model supports two species of vortices and domain walls interpolating between the two vacuum components. We find type-1.5-like behavior characterized by nonmonotonic intervortex interactions and bound states of spatially separated vortices. Inner-vacuum vortices form clusters through short-range repulsion and long-range attraction, whereas outer-vacuum vortices form vortex-filled bubbles in which a closed domain wall confines multiple inner-vacuum-vortex cores. We construct the domain wall analytically, derive the asymptotic vortex-wall interactions, and analyze the fluctuation spectra of coincident multivortices to identify their splitting instabilities.</summary>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T14:10:05Z</published>
+    <arxiv:primary_category term="hep-th"/>
+    <author>
+      <name>D. Miguélez-Caballero</name>
+    </author>
+    <author>
+      <name>S. Navarro-Obregón</name>
+    </author>
+    <author>
+      <name>Muneto Nitta</name>
+    </author>
+    <author>
+      <name>Keisuke Ohashi</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.21398v1</id>
+    <title>Turing bifurcation, criticality, and multistability in a nonlocal advection-reaction-diffusion equation</title>
+    <updated>2026-10-15T07:19:52Z</updated>
+    <link href="https://arxiv.org/abs/2610.21398v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.21398v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper considers a nonlocal advection--reaction--diffusion equation with logistic growth. We investigate how the interaction kernel affects the criticality of Turing bifurcations and the associated multistability. We first prove that nonhomogeneous stationary solutions bifurcate from the positive homogeneous stationary solution. Center manifold reduction yields an amplitude equation near the bifurcation point. This equation provides criteria for supercritical and subcritical bifurcations in terms of the Fourier transform of the interaction kernel. We also derive a sufficient condition for subcriticality. This condition can be satisfied by sufficiently localized attractive interactions. Based on these analytical results, we investigate multistability through numerical bifurcation analysis. The numerical results show that the stable homogeneous stationary solution can coexist with stable nonhomogeneous stationary solutions or stable time-periodic solutions.</summary>
+    <category term="math.AP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-15T07:19:52Z</published>
+    <arxiv:primary_category term="math.AP"/>
+    <author>
+      <name>Yui Nagayama</name>
+    </author>
+    <author>
+      <name>Masaharu Nagayama</name>
+    </author>
+    <author>
+      <name>Hiroshi Ishii</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.23723v1</id>
+    <title>Resonance interaction of vector breathers and exotic dynamics in the coupled Hirota equation</title>
+    <updated>2026-10-14T05:51:03Z</updated>
+    <link href="https://arxiv.org/abs/2610.23723v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.23723v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This work presents a systematic theoretical investigation of vector breathers and their nonlinear interactions in the coupled Hirota equation. This model describes the simultaneous propagation of ultrashort optical pulses in optical fibers and contains a key parameter that characterizes the strength of higher-order linear and nonlinear effects, such as third-order dispersion and self-steepening. For the model, we focus on the focusing-focusing case. On a nonzero plane-wave background, we derive explicit expressions for multi-breather solutions of the coupled Hirota equation by the dressing method. For the single-breather solution, by choosing special constant vectors, the vector breathers can be classified into three fundamental types: Type I, Type II, and Type III. We then analyze their characteristic parameters, including spatial localization and group velocity, as well as important special cases such as the Kuznetsov-Ma breathers, Peregrine soliton, and Akhmediev type breathers etc. Through the above analysis, we find that the higher-order effect parameter only modifies the propagation velocity and oscillation period of the breathers, while the resonance conditions remain satisfied: when the wave numbers and frequencies match, inelastic resonant interactions can occur between Type I and Type II breathers, manifesting either as a fusion process (I + II \rightarrow II) or the reverse decay process (III \rightarrow I + II). Furthermore, we present the explicit expression for the two breather solutions of the equation and analyze its rich interaction scenarios, including two breather resonances and elastic collisions, and we point out that the special case of resonance corresponds to the limiting case of merging eigenvalues. Finally, we carry out numerical simulations to verify the accuracy of the obtained solutions.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-14T05:51:03Z</published>
+    <arxiv:comment>31 pages,14 figures</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Li-Juan Bo</name>
+    </author>
+    <author>
+      <name>Xiu-Bin Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.18191v1</id>
+    <title>Feedback-Controlled Self-Trapping of Solitons</title>
+    <updated>2026-10-13T11:29:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.18191v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.18191v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Chip-scale microresonator-based frequency combs, commonly referred to as microcombs, are promising sources for field-deployable metrology applications. However, intrinsic microresonator noise can make it difficult to generate microcombs with sufficiently low noise for applications. A widely used approach to overcome this limitation is to trap the DKS in the microresonator by phase-modulating the pump laser, although integrating a low-noise modulation reference in a fully on-chip platform remains challenging. Here, we propose an optoelectronic self-trapping scheme in which the impact of intrinsic microresonator noise on microcomb repetition-rate jitter is suppressed through feedback-controlled phase modulation of the driving laser so that the intrinsic noise of the laser sets the ultimate performance limit. This modification eliminates the need for an external low-phase-noise RF source, thereby enabling chip integration. We develop both analytical and numerical models for the proposed system and benchmark its performance against conventional externally referenced bulk implementations, showing that the proposed approach achieves comparable microcomb noise suppression while maintaining chip-scale compatibility.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-13T11:29:27Z</published>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Raonaqul Islam</name>
+    </author>
+    <author>
+      <name>Pradyoth Shandilya</name>
+    </author>
+    <author>
+      <name>Yunxiang Song</name>
+    </author>
+    <author>
+      <name>Alioune Niang</name>
+    </author>
+    <author>
+      <name>Gary Carter</name>
+    </author>
+    <author>
+      <name>Thomas Carruthers</name>
+    </author>
+    <author>
+      <name>Curtis Menyuk</name>
+    </author>
+    <author>
+      <name>Ergun Simsek</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.16290v1</id>
+    <title>Universal Boolean Computation in Negatively Coupled Circle Map Lattices</title>
+    <updated>2026-10-12T07:17:37Z</updated>
+    <link href="https://arxiv.org/abs/2610.16290v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.16290v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate the computational capabilities of a one-dimensional lattice of negatively
+  coupled circle maps in its traveling wave regime. We interpret propagating waves as information carriers and exploit their interactions to implement Boolean logic. The logical states are encoded by the propagation direction of the traveling waves, while the presence or absence of a wave at a designated output location represents the logical output. Using controlled wave collisions, we demonstrate the realization of NAND and NOR gates along with other basic gates. Since NAND and NOR operations are functionally complete, the results establish that the traveling wave regime of the negatively coupled circle-map lattice supports universal Boolean computation in principle. The demonstrated logical operations remain valid over a finite range of the coupling strength εand map parameter ω, indicating robustness of the computational scheme to parameter variations. Our results therefore demonstrate that computational functionality can emerge from the collective nonlinear dynamics of a coupled map lattice, providing a con- nection between the dynamical properties of traveling wave states and collision based information processing.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.CD" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.ins-det" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-12T07:17:37Z</published>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Priyanka D. Bhoyar</name>
+    </author>
+    <author>
+      <name>Prashant M. Gade</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.15990v1</id>
+    <title>Symmetric Dual Breather Modes as a Dynamic Origin of Tiny Particle Masses</title>
+    <updated>2026-10-11T23:40:06Z</updated>
+    <link href="https://arxiv.org/abs/2610.15990v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.15990v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Spontaneous symmetry breaking (SSB) is conventionally understood through static vacuum selection in low-energy approximations. However, the nonperturbative dynamical pathways connecting symmetric configurations to asymmetric states remain an open question. In this paper, we propose an operator-theoretic framework that characterizes $Z_{2}$ symmetry breaking in scalar field theory through spectral branching. Specifically, we identify an effective invariant manifold of the nonlinear Klein-Gordon equation termed the "symmetric dual breather mode," whose phase-space geometry is traced using a $t$-dependent finite-dimensional representation. Our analysis demonstrates that static SSB represents merely a small-amplitude limit ($A \ll φ_{v1}$). As the amplitude increases into the heteroclinic regime ($A &gt; φ_{v1}$), the field dynamically overflows the central barrier, yielding a vanishing time-averaged order parameter ($\langle φ\rangle = 0$) and driving a geometric curvature cancellation ($\langle V''(φ) \rangle_{t} \to 0$). Governed by a universal scaling function $\mathfrak{F}(y)$, the logarithmic period divergence near the heteroclinic boundary naturally generates sub-eV effective mass scales without fine-tuning bare parameters. Furthermore, this dynamic barrier overflow naturally favors Majorana-like self-conjugate states over Dirac-type states. Additionally, nonlinear phase interference along the heteroclinic channel induces asymmetric phase-space contraction, decoupling the right-handed mode and dynamically giving rise to the left-handed Weyl equation. These results bridge nonperturbative wave dynamics, topological mass suppression, chiral selection, and the dynamic origin of active neutrino masses.</summary>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-11T23:40:06Z</published>
+    <arxiv:comment>15 pages, 3 figures, includes supplemental movies</arxiv:comment>
+    <arxiv:primary_category term="hep-th"/>
+    <author>
+      <name>Yoritaka Iwata</name>
+    </author>
+    <author>
+      <name>Yasuhiro Takei</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.15201v1</id>
+    <title>Selection of Marginally Stable Patterns by Boundary Conditions</title>
+    <updated>2026-10-10T22:13:46Z</updated>
+    <link href="https://arxiv.org/abs/2610.15201v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.15201v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the effect of boundary conditions on the selection of wavenumbers in pattern-forming systems. Prior work established that, for a large class of boundary conditions, equilibria only within a narrow band of wavenumbers are compatible with the boundary. We demonstrate here that for a large class of initial conditions, solutions evolve towards an extremal member of this narrow band of equilibria. In fact, this extremal member is neutrally stable, nonlinearly unstable, and the convergence is realized through a series of snapping events at the boundary. We observe this behavior in simulations of the Swift-Hohenberg equation when the pattern forming region is confined to a large spatial interval through a parameter quench. We prove the convergence in a phase-diffusion approximation using comparison principles and astutely chosen subsolutions that mimic the snapping behavior.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.AP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-10T22:13:46Z</published>
+    <arxiv:comment>18 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Jacob Daniels</name>
+    </author>
+    <author>
+      <name>Simon Eskin</name>
+    </author>
+    <author>
+      <name>Tel Fahrendholz</name>
+    </author>
+    <author>
+      <name>Arnd Scheel</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.15041v1</id>
+    <title>Extreme Localization via a Singular Edge Mode in an Asymmetric Linkage System</title>
+    <updated>2026-10-10T16:25:24Z</updated>
+    <link href="https://arxiv.org/abs/2610.15041v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.15041v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Mechanical localized modes generally retain exponentially decaying tails, whereas confinement to a single structural unit is difficult to achieve without resonators, flat-band lattices or topological design. To address this need, an asymmetric linkage system is introduced in which geometry tunes a boundary mode from finite localization to its extreme limit. Each cell comprises two unequal rigid bars connected by a torsional spring and is described by one generalized coordinate. Linearization and coordinate transformation yield a tridiagonal model and closed-form expressions for the edge mode frequency and spatial decay ratio. The analysis identifies the configurations supporting a singular edge mode at which its decay ratio vanishes, leaving only the boundary cell active in the linear regime. Simulations show near-complete localization under finite-amplitude excitation, and experiments reproduce the configuration-dependent transition from bulk transmission to boundary confinement. These results establish a minimal and analytically tunable platform for mechanical localization</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.app-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-10T16:25:24Z</published>
+    <arxiv:comment>15 pages, 8 figures; 26 pages of supplementary material</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Myeonggyun Joo</name>
+    </author>
+    <author>
+      <name>Dongwook Kwak</name>
+    </author>
+    <author>
+      <name>Rajesh Chaunsali</name>
+    </author>
+    <author>
+      <name>Panayotis G. Kevrekidis</name>
+    </author>
+    <author>
+      <name>Jinkyu Yang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.13825v1</id>
+    <title>Phononic Frequency Combs in Twisted Bilayer Transition Metal Dichalcogenide Heterostructures from First Principles</title>
+    <updated>2026-10-09T16:34:54Z</updated>
+    <link href="https://arxiv.org/abs/2610.13825v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.13825v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Phononic frequency combs are equidistant spectral ladders generated when a driven vibrational mode transfers energy to an autoparametrically excited subharmonic mode through anharmonic intermode coupling. In previous studies, the coupling strength governing this energy transfer has typically been treated as a free parameter, extracted from a fabricated device, or adopted from an earlier calculation for a specific mode pair. As a result, whether a given crystal can support a phononic frequency comb, and the drive strength required to generate it, has not been predictable a priori. Here we obtain the complete parameter set from density functional theory. Twisted bilayers of \MoSSe{} and \MoSMoSe{} at the commensurate angle $21.787^{\circ}$ adopt space group $P3$ in a 42-atom \rootseven{} moiré supercell. The second-order force constants provide the mode frequencies; the third-order constants provide the linewidths through the Boltzmann transport equation and hence the quality factors; and the same third-order tensor projected onto the phonon eigenvectors of a chosen mode pair provides the anharmonic couplings $\kt$ and $\kss$. Both bilayers constitute a mode pair within $0.8\%$ of the $2\!:\!1$ resonance with $ω_1/ω_2 = 1.9923$ in \MoSSe{} and $1.9943$ in \MoSMoSe{}. By integrating the resulting two-mode equations, both modes generate combs through a discontinuous transition: at $701\,\fth$ in \MoSSe{} the envelope variance rises from $2.1\times10^{3}$ to $1.37\times10^{4}$ and the tooth count of mode 1 from 7 to 16 within a single $5\,\fth$ increment, identifying the onset as subcritical. The spectral entropy peaks \emph{before} this jump, at $341\,\fth$. The two compounds carry comparable coupling, differing by a factor of $1.2$. However, the comb excitation threshold is set by the quality-factors of signal modes: $Q_2 = 672$ for \MoSSe{} and $Q_2 = 3844$ for \MoSMoSe{}.</summary>
+    <category term="cond-mat.mtrl-sci" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-09T16:34:54Z</published>
+    <arxiv:comment>13 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mtrl-sci"/>
+    <author>
+      <name>Naman Arora</name>
+    </author>
+    <author>
+      <name>Adarsh Ganesan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.13255v1</id>
+    <title>Solitons in the nonlinear Schrödinger equation with the pseudo-Raman term, anti-diffusion gain and nonlinear loss</title>
+    <updated>2026-10-09T09:02:07Z</updated>
+    <link href="https://arxiv.org/abs/2610.13255v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.13255v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We introduce a nonconservative nonlinear Schrödinger equation (NLSE) which includes additional nonlinear terms accounting for the pseudo-stimulated-Raman-scattering (pseudo-SRS) effect and cubic loss. An essentially novel feature of the model is the linear anti-diffusion gain, which leads to the obvious blow-up in the infinite or spatially periodic system. We consider the absorptive boundary conditions, which suppress the blow-up driven by effective convective instability in the setup. The NSLE model is derived, in the extended adiabatic approximation, from the underlying Zakharov system, which includes the viscosity term acting on its low-frequency component and the anti-diffusion gain in the high-frequency (HF) one. The latter term appears if the expansion, with respect to the deviation of the wavenumber, is performed not around the minimum-loss point (as in the usual situation), but around a maximum-loss point. Dynamics of moving solitons in the model is addressed by means of analytical and numerical methods. The sech approximation for the soliton predicts it as a stable fixed point (FP) of the system of balance equations for the HF norm and wave momentum, derived in the moving reference frame. The FP attraction basin is identified too. The predictions are corroborated by direct simulations of the full NSLE with the absorptive boundary conditions.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-09T09:02:07Z</published>
+    <arxiv:comment>to be published in European Physical Journal B (special issue "Localized waves in complex nonlinear physical systems")</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Evgeny M. Gromov</name>
+    </author>
+    <author>
+      <name>Boris A. Malomed</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.11536v1</id>
+    <title>Nonlinearity management of matter-wave vector solitons of Bose-Einstein condensates in two dimensions</title>
+    <updated>2026-10-08T09:06:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.11536v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.11536v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The evolution of matter-wave vector solitons in two dimensions under nonlinearity management is studied. The averaged over strong and rapid modulations in time of the inter-species interactions vector Gross-Pitaevskii equation is derived. The averaging gives the appearance of the effective nonlinear quantum pressure depending on the population of the other component. Using this system of equations, the dynamical stabilization of the two-dimensional vector matter-wave solitons under the management of the mean-field nonlinearity is investigated. It is shown that the nonlinear quantum pressure arrests the collapse in the averaged system, giving rise to stable vector solitons. Full numerical simulations of the original, time-dependent system of Gross-Pitaevskii equations confirm that the management strongly prolongs the lifetime of these solitons compared to the unmanaged case.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-08T09:06:02Z</published>
+    <arxiv:comment>16 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>F. Kh. Abdullaev</name>
+    </author>
+    <author>
+      <name>J. S. Yuldashev</name>
+    </author>
+    <author>
+      <name>M. Ögren</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.11413v1</id>
+    <title>Impact of Stimulated Brillouin Scattering on Modulation Instability in Fiber Fabry-Perot Resonators</title>
+    <updated>2026-10-08T07:44:50Z</updated>
+    <link href="https://arxiv.org/abs/2610.11413v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.11413v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We report the experimental and numerical demonstration of stimulated Brillouin scattering-induced stabilization of Kerr-driven modulation instability in fiber Fabry--Perot resonators. We show that Brillouin scattering shapes the modulation instability spectrum into a stable multi--free-spectral-range cascade that is otherwise unstable in the absence of Brillouin effects. We further identify that this stabilization originates from the real part of the Brillouin response, leading to an asymmetric Kerr-Brillouin interaction governed by the relative position of the Brillouin frequency shift with respect to the cavity resonances. These results establish stimulated Brillouin scattering as an additional degree of freedom for controlling nonlinear dynamics in Kerr resonators.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-08T07:44:50Z</published>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Alice Houard</name>
+    </author>
+    <author>
+      <name>Thomas Bunel</name>
+    </author>
+    <author>
+      <name>Matteo Conforti</name>
+    </author>
+    <author>
+      <name>Saliya Coulibaly</name>
+    </author>
+    <author>
+      <name>Arnaud Mussot</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.10938v1</id>
+    <title>A theory for detecting the Turing instability on static and temporal multiplex networks</title>
+    <updated>2026-10-07T21:43:31Z</updated>
+    <link href="https://arxiv.org/abs/2610.10938v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.10938v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The purpose of this work is to introduce and discuss a general framework for performing a linear instability analysis on multiplex networks, in the absence of inter-layer diffusion, with the specific motivation of detecting the Turing instability. The formalism itself is presented in full generality for $m$-unknowns, each of which arise as solutions of non-autonomous reaction-diffusion equations, on $n$-node temporal multiplex networks. In addition, we identify a class of multiplex networks for which the Laplacian matrices commute. In this setting analytical progress can be made and the explicit inequalities, governing instability, are derived. In order to explore our formalism we apply it to the specific example of a two-species predator-prey model on archipelagos. Here nodes are interpreted as islands and edges correspond to the transportation network for each species. Moreover, the non-autonomous setting is used to model a variety of natural phenomena.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-07T21:43:31Z</published>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Joshua Ritchie</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.10818v1</id>
+    <title>Multistability and Juggling States in Frustrated Kuramoto Oscillators on Ring Networks</title>
+    <updated>2026-10-07T19:22:25Z</updated>
+    <link href="https://arxiv.org/abs/2610.10818v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.10818v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the properties of matrix coupled oscillators in ring networks and show that the system supports several families of synchronized clustered solutions. One of these families is characterized by consecutive oscillators belonging to distinct clusters, called alternate ordering, with two classes of solutions. The first consists of one or two static clusters, that lock on phases that depend on the coupling parameters, despite the non-zero natural oscillation frequency. The second one is comprised of clusters that rotate rigidly. The number of clusters depends on the neighbor connectivity. We also investigated sequential ordered clusters and showed that the constraints imposed by the interface oscillators imposes additional restrictions to equilibrium configurations. Although some of these solutions are stable, their basins of attraction depend on model parameters: when the system is initialized with random phases, the oscillators tend to organize themselves into dynamical clusters whose interfaces move along the ring. The oscillators within each cluster remain close to one of the stable phase configurations, while particles are exchanged at the interfaces. When interfaces moving in opposite directions collide, the corresponding clusters annihilate, until a state with interfaces moving in a common direction is reached.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-07T19:22:25Z</published>
+    <arxiv:comment>19 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Guilherme S. Costa</name>
+    </author>
+    <author>
+      <name>Ricardo Fariello</name>
+    </author>
+    <author>
+      <name>Marcus A. M. de Aguiar</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.09814v2</id>
+    <title>Bogoliubov-de Gennes spectrum, Cherenkov radiation and recoil of solitons with third-order dispersion underlying optical analogue horizons</title>
+    <updated>2026-10-09T15:22:54Z</updated>
+    <link href="https://arxiv.org/abs/2610.09814v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.09814v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Third-order dispersion turns the soliton of the nonlinear Schrödinger equation, which underlies optical analogues of event horizons in fibers, into a weakly radiating solitary wave. We compute three of its properties without assuming a thermal emission law. First, the linearized (Bogoliubov-de Gennes) problem must be posed about the stationary state of the dispersive equation: linearizing about the integrable profile produces a complex quartet that is converged in grid and box, grows as the square root of the dispersion strength and is spurious. About the stationary state, on a periodic grid, the zero-mode sector consists of two Jordan blocks of size two and the spectrum is real at the operating point, including negative-energy box modes of the resonant branch. Second, we measure the steady Cherenkov emission of adiabatically prepared solitons from the flux of the radiation behind them, over eight decades. The radiation is phase-matched in the frame of the drifting soliton, and the first-order rate falls short of the measured one by factors of 29 to 45. Expressed through a scaled dispersion coefficient of the local soliton, the measured rate describes launched solitons of three amplitudes; with norm and momentum balance, and no further fitted parameter, it reproduces their recoil and the slow decay of their loss rate; at weak dispersion the loss of a launched soliton is the shedding of its launch mismatch. Third, a census of the asymptotic channels shows that long-wavelength upstream emission requires the chemical potential of the soliton, lowered by the comoving-frame Doppler shift of a drifting soliton, to lie inside the analysis band, which bounds the soliton amplitude. In a kinematic model of the flow the surface gravity has a closed form; the thermal relation and the entanglement built on it are imposed inputs of that model. The construction applies to Raman-free Kerr media.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-07T10:35:48Z</published>
+    <arxiv:comment>32 pages, 6 figures. Supplementary material (15 pages, 1 figure) in the ancillary file paper2_supplement.pdf</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Hasan Oguz</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.06403v1</id>
+    <title>Whitham modulation theory for the Davey-Stewartson system and stability analysis of its periodic traveling wave solutions</title>
+    <updated>2026-10-05T14:22:34Z</updated>
+    <link href="https://arxiv.org/abs/2610.06403v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.06403v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The Davey-Stewartson (DS) system is a canonical model for a weakly nonlinear wave packet in two spatial dimensions that is resonantly coupled to the slowly varying mean flow it generates, and as such it governs modulated wave trains in settings as different as finite-depth water waves, quadratic optical media and magnetic films. Here we develop the Whitham modulation theory for the DS system and use it to study the stability of its periodic traveling wave solutions. Specifically: 1. We perform a detailed study of the parametric dependence of the periodic solutions of all four variants of the DS system, including their harmonic and soliton limits. 2. We present the formulation of Whitham modulation theory for the DS system and write down the resulting Whitham modulation equations for all four variants of the DS system. 3. We use the resulting modulation equations to study the stability of the periodic traveling wave solutions of all four variants of the DS system. 4. We validate the theoretical predictions by comparing them with a direct linearization of the DS system as well as with the direct numerical simulations of the DS system, showing excellent agreement. The results indicate that the periodic solutions of the defocusing DSII system are linearly stable, whereas those of all other variants of the DS system are unstable. The calculations also evidence many structural features (non-evolutionary modulation equations, constraints on the admissible initial data, and auxiliary mean-field constants absent from the traveling wave solutions yet indispensable to the modulation system) are expected to recur in any two-dimensional envelope equation with mean-field coupling.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.SI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-05T14:22:34Z</published>
+    <arxiv:comment>53 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Gino Biondini</name>
+    </author>
+    <author>
+      <name>Alexander Chernyavsky</name>
+    </author>
+    <author>
+      <name>Haodong Lin</name>
+    </author>
+    <author>
+      <name>John Ringland</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.05468v1</id>
+    <title>Soliton dynamics in the Gardner-Ostrovsky equation</title>
+    <updated>2026-10-04T19:17:16Z</updated>
+    <link href="https://arxiv.org/abs/2610.05468v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.05468v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate soliton formation and interactions in the non-integrable Gardner-Ostrovsky equation (alias the rotation-modified Gardner equation) with anomalous (positive) dispersion. This equation is relevant to the description of wave dynamics in plasmas and other dispersive media. We show that a special class of solitons, characterized by zero total mass and non-monotonic asymptotics, can emerge from pulse-like initial perturbations. Depending on the initial conditions, these solitons may form regular amplitude-ordered trains, irregular nonstationary ensembles of interacting localized structures, or stationary propagating multi-soliton complexes. We further demonstrate that soliton interactions in the Gardner-Ostrovsky equation are inherently inelastic, leading to the emergence of a dominant "soliton-champion" in closed systems. For example, under periodic boundary conditions, only the largest-amplitude soliton ultimately survives, while all smaller solitons are gradually eliminated through successive interactions. Despite their inelastic interactions, Gardner-Ostrovsky solitons exhibit remarkable robustness.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-04T19:17:16Z</published>
+    <arxiv:comment>24 pages, 16 figures</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>R. Fariello</name>
+    </author>
+    <author>
+      <name>M. S. Soares</name>
+    </author>
+    <author>
+      <name>Y. A. Stepanyants</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.05433v1</id>
+    <title>Surface-pinned nonsingular topologically charged defects in nanoplasmonics</title>
+    <updated>2026-10-04T18:13:30Z</updated>
+    <link href="https://arxiv.org/abs/2610.05433v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.05433v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We discuss surface-pinned, topologically charged, nonsingular defects (SD) in light scattering by a plasmonic object. They follow from exact Maxwell boundary conditions and are purely topological---unaffected by surface forces. At optical frequencies, in (quasi) 2D, they appear in the electric and Poynting vector fields for $H^{(z)}$ polarization, not for $E^{(z)}$. Exact solutions for a circular cylinder reveal topological charge-conserving bifurcations involving SDs with bulk singularities or SDs alone, and contraction of defect regions under loss.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-04T18:13:30Z</published>
+    <arxiv:comment>4 pages, 4 figures, 2 Supplemental Materials</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Michael I. Tribelsky</name>
+    </author>
+    <author>
+      <name>Vladimir V. Ternovski</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.04984v1</id>
+    <title>Nonlinearity-induced Topological Phase Transitions in One-dimensional Systems with Chiral Symmetry: A Real-Space Treatment</title>
+    <updated>2026-10-04T06:07:30Z</updated>
+    <link href="https://arxiv.org/abs/2610.04984v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.04984v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Nonlinearity can induce topological phase transitions in periodic systems. It is hence of considerable interest to examine if such transitions persist in the absence of translational symmetry. We address this question directly in real space, using the periodic Su-Schrieffer-Heeger (SSH) chain as a reference for understanding the effect of quasiperiodicity. How nonlinearity drives a chain towards a topological phase transition is found to depend strongly on the strength of the quasiperiodic potential. As the nonlinearity strength increases, we find that weak quasiperiodicity supports a transition from a trivial to a topological phase, whereas the intermediate regime does not have a topological phase transition. Under strong quasiperiodicity, pronounced boundary localization can develop well before a nonlinearity-induced topological transition. Our results show how nonlinearity may interplay with a quasiperiodic potential in inducing topological phase transitions and that boundary localization of nonlinear eigenstates alone may not be taken as a clear signature of topological edge states.</summary>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-04T06:07:30Z</published>
+    <arxiv:comment>11+5 pages, 10+7 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.mes-hall"/>
+    <author>
+      <name>Liu Bi Tao</name>
+    </author>
+    <author>
+      <name>Shilpi Roy</name>
+    </author>
+    <author>
+      <name>Jiangbin Gong</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.04492v1</id>
+    <title>Quasi-solitons of the 1D Bose gas at arbitrary-strength contact repulsion</title>
+    <updated>2026-10-03T12:49:00Z</updated>
+    <link href="https://arxiv.org/abs/2610.04492v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.04492v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Harnessing integrability at arbitrary interaction strength, we build long-lived and spatially localized soliton-like excitations in the 1D Bose gas with contact repulsion (Lieb-Liniger model). We show how these density profiles, built from selective superpositions of multi-hole eigenstates, display long lifetimes tunable through parameters like dispersion width and number of holes. We further illustrate a scaling protocol that in principle enables unbounded increase in lifetimes in the thermodynamic limit. Our results showcase classical-like excitations originating from unitary quantum dynamics, away from the semi-classical regime, and in regions where interactions cannot be treated perturbatively.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.SI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-03T12:49:00Z</published>
+    <arxiv:comment>62 pages, 40 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Anahita Sarvi</name>
+    </author>
+    <author>
+      <name>Cesare Vianello</name>
+    </author>
+    <author>
+      <name>Jean-Sébastien Caux</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.02672v1</id>
+    <title>Inferring constitutive forces from noisy Allen-Cahn movies with moment equations</title>
+    <updated>2026-10-02T01:54:14Z</updated>
+    <link href="https://arxiv.org/abs/2610.02672v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.02672v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Inferring an Allen-Cahn constitutive force from images requires more than an accurate optimizer: nonlinear observation noise alters the mean of force features, shared noise couples instruments to the response, and a temporal balance borrowed from another solver can remain biased even on clean data. We develop observation-aware, noise-adjusted moment equations that address these effects before inversion. The surface-tension-calibrated constitutive transformer (SCCT) couples the resulting moments to a positive Bernstein inverse and can adapt its prior and precision from images and moments. A conditional stability bound separates moment residuals from prior error. Synthetic tests show that correcting the estimating equation matters more than increasing regularizer flexibility; the benefit of learned adaptation is smaller and depends on the training comparison. Forces inferred from planar movies predict unseen planar and three-dimensional evolutions. A ring-cage breakup shows why diffuse-interface accuracy distinguishes forces even when their topological predictions agree, while external surface tension sets the energy scale separately.</summary>
+    <category term="math.NA" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.flu-dyn" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-02T01:54:14Z</published>
+    <arxiv:comment>30 pages, 18 figures</arxiv:comment>
+    <arxiv:primary_category term="math.NA"/>
+    <author>
+      <name>Soobeen Jung</name>
+    </author>
+    <author>
+      <name>Hyunju Kim</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.02541v1</id>
+    <title>Persistence of kinks in the NLS equation with competing nonlinearities</title>
+    <updated>2026-10-01T22:27:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.02541v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.02541v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>External potentials break the translational invariance of nonlinear Schrödinger (NLS) equations and generally convert a continuous family of standing wave solutions into isolated pinned states. We study this mechanism for the prototypical case of a kink in the NLS equation with competing focusing cubic and defocusing quintic nonlinearities. The Lyapunov--Schmidt reduction method is used to prove that the location $s_0$ of the pinned kinks is selected near roots of an effective potential $V_{\rm eff}(s)$. We then determine how the translational zero eigenvalue of the Jacobian operator splits under the perturbation and prove that the sign of $V_{\rm eff}'(s_0)$ distinguishes eigendirections of positive and negative energy. We further show that if the Jacobian operator admits a negative eigenvalue, then the stability problem contains a real unstable eigenvalue. The derivation of the asymptotic expansion for the unstable eigenvalue is nonstandard because the zero eigenvalue is embedded in the continuous spectrum of the linearized operator. Finally, we show that the persistence of kinks lacks parity symmetry even if the external potential is odd. Numerical continuation, spectral computations with domains adapted to the slowly decaying eigenfunctions, and direct dynamical simulations of the time evolution corroborate the analytical predictions for different representative examples.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-01T22:27:27Z</published>
+    <arxiv:comment>20 pages, 6 figures</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>P. G. Kevrekidis</name>
+    </author>
+    <author>
+      <name>D. E. Pelinovsky</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.02441v1</id>
+    <title>Bacterial aggregation in the presence of directed motion</title>
+    <updated>2026-10-01T20:09:18Z</updated>
+    <link href="https://arxiv.org/abs/2610.02441v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.02441v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We model directed motion of cells that aggregate into a cluster in the presence of chemotaxis or fluid transport. Starting from a stochastic agent-based model (ABM) of Galante \&amp; Levy (2013), Chavy-Waddy \&amp; Kolokolnikov (2016), we consider two model variants, with (I) directed motion of individuals, or (II) implicit individual bias in one direction. In both cases, we derive fourth order nonlinear PDEs representing the continuum limits of the models as a generalization of Chavy-Waddy \&amp; Kolokolnikov (2016). An exact analytic solution then describes cluster density profile as well as the group velocity, and we identify the regimes where the travelling cluster exists. Excellent agreement is observed between the discrete models and the exact solutions of the PDEs in both models, including the existence and speed of the travelling cluster.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-01T20:09:18Z</published>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Timothy Power</name>
+    </author>
+    <author>
+      <name>Hildur Knutsdottir</name>
+    </author>
+    <author>
+      <name>Leah Edelstein-Keshet</name>
+    </author>
+    <author>
+      <name>Theodore Kolokolnikov</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.02346v1</id>
+    <title>Traveling waves, phase separation and pattern formation in the active stepping stone model</title>
+    <updated>2026-10-01T18:17:27Z</updated>
+    <link href="https://arxiv.org/abs/2610.02346v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.02346v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Selective advantage leads to the proliferation of a species into an ecosystem. On the other hand, self-propulsion can lead to dynamic clustering of individuals. To analyze the intricate effects produced by such competing processes, we introduce a minimal model for a proliferating active population, where run-and-tumble migration is combined with a stochastic birth-death process. Beginning with the microscopic dynamics of the particles, we derive the corresponding hydrodynamic equations and validate them through numerical simulations. We demonstrate that the inclusion of activity leads to the emergence of novel morphological patterns, which are sensitive to the specific rules governing migration. Furthermore, we show that activity significantly alters the characteristics of invasion waves, increasing their propagation speed. However, beyond a threshold, excessive activity disrupts the wave-like nature of the invasion process. We also extend our study to two dimensions and analyze the instabilities that lead to pattern formation in such systems.</summary>
+    <category term="cond-mat.soft" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.PE" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-01T18:17:27Z</published>
+    <arxiv:comment>7 pages, 3 figures, +Supplemental Material</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.soft"/>
+    <author>
+      <name>Rashmiranjan Bhutia</name>
+    </author>
+    <author>
+      <name>Prasad Perlekar</name>
+    </author>
+    <author>
+      <name>Kabir Ramola</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.01875v1</id>
+    <title>Stability and instability analysis of resonance-induced nonlinear bound states</title>
+    <updated>2026-10-01T15:32:31Z</updated>
+    <link href="https://arxiv.org/abs/2610.01875v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.01875v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study the focusing one-dimensional cubic nonlinear Schrödinger / Gross--Pitaevskii equation (NLS-GP), where the potential of the underlying linear Schrödinger operator, $H_V=-\partial_x^2+V(x)$, is compactly supported. In \cite{turner2026resonance} the authors proved that purely imaginary zeros (transmission resonances) or purely imaginary poles in the lower half plane (scattering resonances) of a reflection coefficient of $H_V$ seed branches of {\it resonance-induced nonlinear bound states}, and that these states bifurcate at a strictly positive $L^2(\mathbb R)$ excitation threshold. This is in contrast to nonlinear bound states which bifurcate at zero $L^2$-norm from point spectra of $H_V$ (corresponding to poles in the upper half plane). In this paper we establish precise criteria for the nonlinear orbital stability and instability of the resonance-induced states near the bifurcation point. A corollary is that resonance-induced nonlinear states are orbitally stable if i) the underlying linear (scattering or transmission) resonance frequency is sufficiently small, and ii) the corresponding linear resonance eigenmode is strictly positive. Numerical simulations are presented to explore regimes not accessible to our theory, and to explore the large time dynamics for initial conditions near stable and unstable resonance-induced nonlinear bound states.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.AP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.SP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-01T15:32:31Z</published>
+    <arxiv:comment>45 pages, 12 figures</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Jackson C. Turner</name>
+    </author>
+    <author>
+      <name>Michael I. Weinstein</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.01730v1</id>
+    <title>The role of root allometry and root overlap in vegetation pattern formation</title>
+    <updated>2026-10-01T14:02:48Z</updated>
+    <link href="https://arxiv.org/abs/2610.01730v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.01730v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We investigate how root allometry and below-ground root competition due to root overlap affect the conditions for pattern formation in non-local scalar vegetation models. We start from a spatially explicit two-component vegetation-water system in which plants acquire soil water through their laterally extended root systems, with root allometry represented by an interaction kernel whose spatial extent increases with the above-ground biomass density. In the limit of fast water dynamics, we eliminate the water variable, resulting in a non-local scalar model for the vegetation dynamics. This reduction reveals that accounting for root overlap naturally leads to a double integral structure in the scalar model, in contrast to the single convolution term commonly used to model non-local competition for resources. For the resulting scalar model, we identify two distinct mechanisms that can drive Turing instabilities. The first instability mechanism requires root growth to outpace mortality, while the second mechanism relies on the development of competitive pressure zones, in which vegetation growth is impeded by the cumulative competitive pressure exerted by neighbouring areas with higher biomass density. Root allometry promotes the occurrence of both instability mechanisms, while root overlap inhibits the emergence of competitive pressure zones. Hence, our results show that both root allometry and root overlap are important features to consider when studying vegetation pattern formation.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.AP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.AO" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-01T14:02:48Z</published>
+    <arxiv:comment>25 pages, 3 figures</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Jelle van der Voort</name>
+    </author>
+    <author>
+      <name>Ricardo Martinez-Garcia</name>
+    </author>
+    <author>
+      <name>Arjen Doelman</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.01212v1</id>
+    <title>Vector solitons in nonlinear lattices with competing SPM and XPM terms</title>
+    <updated>2026-10-01T07:18:48Z</updated>
+    <link href="https://arxiv.org/abs/2610.01212v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.01212v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We demonstrate that two-component photonic nonlinear lattices with opposite signs of the out-of-phase spatially modulated SPM and XPM coefficients can support two types of optical vector solitons (VSs), the fundamental and mixed ones. The fundamental VSs are composed of two Gaussian-like components, while the mixed ones combine Gaussian-like and dipole components. The structures and stability of both types of the VSs are investigated. The VSs are stable, except for narrow intervals at small values of the propagation constant.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-10-01T07:18:48Z</published>
+    <arxiv:comment>10 pages, 9 figure, to be published in European Physical Journal Plus</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Liangwei Zeng</name>
+    </author>
+    <author>
+      <name>Boris A. Malomed</name>
+    </author>
+    <author>
+      <name>Dumitru Mihalache</name>
+    </author>
+    <author>
+      <name>Xing Zhu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.00774v1</id>
+    <title>Discrete PT-symmetric solitons on branched lattices: Vertex states, stability, and vortices</title>
+    <updated>2026-09-30T22:11:21Z</updated>
+    <link href="https://arxiv.org/abs/2610.00774v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.00774v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Branching fundamentally modifies nonlinear localization by introducing vertex degrees of freedom absent in one-dimensional lattices. We investigate localized states in a PT-symmetric four-edge star graph described by the discrete nonlinear Schrödinger equation. We identify a discrete vortex state with a fixed topological charge, supported by the branching geometry. Constructed by continuation from the anticontinuum limit, the vortex evolves into a current-carrying state in the presence of balanced gain and loss and exhibits stability windows absent for the conventional branches. A possible electric-circuit realization of the proposed model is discussed.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-30T22:11:21Z</published>
+    <arxiv:comment>24 pages, 8 figures</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>M. Akramov</name>
+    </author>
+    <author>
+      <name>A. Fayzullaev</name>
+    </author>
+    <author>
+      <name>O. Tojakhmadova</name>
+    </author>
+    <author>
+      <name>T. Akhmadjanov</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2610.00552v1</id>
+    <title>Edge-cusped compactons from gradient-power nonlinear dispersion: exact transitions and singular spectral structure</title>
+    <updated>2026-09-30T18:28:02Z</updated>
+    <link href="https://arxiv.org/abs/2610.00552v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2610.00552v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We introduce a conservative two-exponent dispersive family, with $p&gt;1$ the nonlinear-flux exponent and $r&gt;0$ the gradient-dispersion exponent, that separates the mechanisms governing compactification, free-boundary regularity and linearised spectral structure while retaining an explicit travelling-wave theory. The family reduces to the absolute Rosenau-Hyman equation when $r=1$. The deformation leaves the amplitude-speed law unchanged, but makes the width amplitude dependent except at $r=1$. Two independent transition curves emerge: $pr=1$ separates infinite-tail solitary waves from compactons, whereas $r(p-1)=2$ separates compactons with a regular free boundary from edge-cusped compactons with divergent slope. The latter remain distributional solutions, with no singular measures at either the free boundary or the crest. For $r\ge1$, the linearisation factors through a singular Sturm-Liouville operator whose natural Friedrichs realisation is solvable: after a compacton-adapted change of variable, the eigenvalue equation is of Jacobi-hypergeometric type, with two explicit spectral sequences, exactly one negative eigenvalue and a one-dimensional translation kernel. Numerical experiments connect these exact structures to approximation and dynamics. Measured Fourier tails and projection errors agree with the rates predicted by the free-boundary exponent, while padded Fourier-Galerkin time integration propagates the cusped waves coherently with small phase drift. A structure-adapted Jacobi-Galerkin diagnostic of the full generator finds no detectable real part in the tested truncated point spectra. The family therefore provides an explicit testbed in which geometric singularity, weak admissibility, spectral structure and numerical regularity of compactons can be studied within a single degenerate dispersive model.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.AP" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-30T18:28:02Z</published>
+    <arxiv:comment>19 pages, 6 figures. Reproducibility code and numerical data: https://doi.org/10.5281/zenodo.22671976</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>Francisco R. Villatoro</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.36009v1</id>
+    <title>Coherent energy cascades in nonlinear disordered Hamiltonians</title>
+    <updated>2026-09-28T18:00:26Z</updated>
+    <link href="https://arxiv.org/abs/2609.36009v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.36009v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The familiar wave kinetic theory revolves around turbulent energy cascades characterized by random phases of the individual normal modes. By contrast, recent years have revealed turbulent cascades where the transfer of energy is mediated by phase-coherent dynamics. Such coherent cascades have been previously established in deterministic systems with a tightly controlled algebraic structure of the mode interactions, such as nonlinear Schrödinger equations.
+  Here, we show that the presence of phase-coherent cascades is robust with respect to substantial alterations of the mode couplings. We prove that, in infinite-dimensional resonant Hamiltonian systems with fully resonant normal mode spectra and random nonlinear couplings, a structured subset of couplings --- an infinitesimal fraction of the total --- suffices to support coherent cascades characterized by phase alignment, the formation of power-law spectra, and either unbounded growth of Sobolev norms or a finite-time blow-up. Numerical simulations further demonstrate the emergence of coherent cascades from random initial data through a process of phase locking, suggesting a mechanism for their emergence in broader classes of initial data and systems. We thus show that disordered mode interactions can sustain, rather than block, coherent energy transport across arbitrarily distant scales.</summary>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.AP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-28T18:00:26Z</published>
+    <arxiv:primary_category term="math-ph"/>
+    <author>
+      <name>Anxo Biasi</name>
+    </author>
+    <author>
+      <name>Brad Cownden</name>
+    </author>
+    <author>
+      <name>Oleg Evnin</name>
+    </author>
+    <author>
+      <name>Alvaro Iturbe Jabaloyes</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.34037v1</id>
+    <title>Tapered Fibre Fabry-Pérot Cavities for the Generation of Near-Visible, Phase-locked, and Broadband Kerr Frequency Combs</title>
+    <updated>2026-09-27T23:59:49Z</updated>
+    <link href="https://arxiv.org/abs/2609.34037v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.34037v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We demonstrate the generation of near-visible, broadband Kerr frequency combs using a tapered fibre Fabry-Pérot resonator. By incorporating micron-diameter tapered silica fibre into a pulsed-driven Fabry-Pérot configuration, we exploit geometric dispersion engineering to overcome the strong normal dispersion intrinsic to silica (and nearly all materials) at short wavelengths, achieving net anomalous dispersion in the near-visible regime. The strong mode confinement of the tapered fibre simultaneously enhances the Kerr nonlinearity by over an order of magnitude relative to standard fibre, substantially reducing the threshold drive power for nonlinear structure formation. Through precise control of the cavity fabrication, we experimentally demonstrate and numerically confirm a rich suite of coherent, phase-locked nonlinear structures, including conventional anomalous dispersion cavity solitons, zero dispersion solitons with spectral bandwidths exceeding 16 THz between 750 nm and 800 nm, as well as switching wave combs and broadband Raman solitons, the latter also reported here for the first time in the near-visible regime. Our results establish the tapered fibre Fabry-Pérot resonator as a versatile platform for near-visible and potentially visible coherent frequency comb generation.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-27T23:59:49Z</published>
+    <arxiv:comment>13 pages, 4 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Matthew Macnaughtan</name>
+    </author>
+    <author>
+      <name>Yiqing Xu</name>
+    </author>
+    <author>
+      <name>Miro Erkintalo</name>
+    </author>
+    <author>
+      <name>Stéphane Coen</name>
+    </author>
+    <author>
+      <name>Stuart G. Murdoch</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.33006v1</id>
+    <title>Periodically modulated traveling waves in integrate-and-fire networks: recursive speed law and propagation failure</title>
+    <updated>2026-09-26T22:59:37Z</updated>
+    <link href="https://arxiv.org/abs/2609.33006v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.33006v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Traveling waves of activity in neural tissue can be halted by spatial inhomogeneity in synaptic coupling. We study an integrate-and-fire network in which each neuron fires once and the coupling decays exponentially. For this model the leading-edge firing map reduces exactly to a scalar equation for the wave speed in space, with a slow unstable and a fast stable homogeneous speed, $c_1$ and $c_2$, and a periodic modulation of the coupling enters this equation pointwise. Positive periodic waves terminate in folds. For slowly varying modulation the fold amplitude approaches a plateau set by the trough of the modulation, where the local bottleneck speed is $\sqrt{c_1 c_2}$; the approach to the plateau is set by the local geometry of the trough. For rapidly varying modulation the fold amplitude grows linearly with frequency, with a slope given by a full-amplitude average over the integrated modulation profile; a weak-ripple truncation of that average overestimates the slope about 2.5-fold at the default coupling. A perturbative recursion in the amplitude gives the speed profile explicitly. We distinguish loss of the periodic wave from failure of a particular launch, and the excitatory regime $ε\le 1$ from its sign-changing extension. The results are checked against direct integration of the reduced equation and first-spike firing-map simulations of the network.</summary>
+    <category term="cond-mat.stat-mech" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.dis-nn" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-26T22:59:37Z</published>
+    <arxiv:comment>18 pages, 8 figures; Supplemental Material (14 pages, 10 figures) appended</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.stat-mech"/>
+    <author>
+      <name>Jie Nissel</name>
+    </author>
+    <author>
+      <name>Ricardo Erazo-Toscano</name>
+    </author>
+    <author>
+      <name>Rosahn Bhattarai</name>
+    </author>
+    <author>
+      <name>Marius Osan</name>
+    </author>
+    <author>
+      <name>Mandeep Chauhan</name>
+    </author>
+    <author>
+      <name>Remus Osan</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.32232v1</id>
+    <title>Quantum undular bores, rainbows, and event horizons in superfluid dam breaks</title>
+    <updated>2026-09-26T04:48:07Z</updated>
+    <link href="https://arxiv.org/abs/2609.32232v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.32232v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>The sudden removal of a potential barrier from a Bose-Einstein condensate (BEC) gives rise to a quantum version of a hydrodynamic dam break and leads to rich wave dynamics that have similarities to other localized defect problems such as domain wall dynamics in spin systems. Denoting $Δn$ as the initial difference in density between the upper $n_{1}$ and lower $n_{0}$ reservoirs on either side of the dam, we use the Gross-Pitaevskii equation to study the quasi-one dimensional case in both perturbative ($Δn \ll n_{0}$) and non-perturbative ($Δn \sim n_{1}$) regimes. In the perturbative regime a pair of outwardly propagating dispersive wavepackets forms which can be viewed as quantum versions of undular tidal bores that have analytic forms at long times in terms of the integrals of Airy functions with a wavelength that grows as $(\hbar^2 t)^{1/3}$. Airy functions are the universal wave functions that dress structurally stable fold caustics where pairs of rays coalesce, and, indeed, we show that the quantum dam break problem has the same ray structure as the naturally occurring caustic phenomenon of a double rainbow, including Alexander's dark band between the two bows where no light is scattered: we identify the intermediate density plateau in the dam break as an analogous `silent band' where only evanescent sound waves can exist. In the opposite regime of a non-perturbative dam break we show that a self-induced sonic horizon occurs when $Δn \geq (8/9)n_{1}$. A discussion of possible experimental schemes for amplification of quantum undulations is included as well as an alternative scheme for dispersive wave generation where a constant flow is imprinted on a BEC in box trap.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="gr-qc" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="quant-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-26T04:48:07Z</published>
+    <arxiv:comment>44 pages, 13 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Liam M. Farrell</name>
+    </author>
+    <author>
+      <name>Wyatt Kirkby</name>
+    </author>
+    <author>
+      <name>Alex Harris</name>
+    </author>
+    <author>
+      <name>David Tyler</name>
+    </author>
+    <author>
+      <name>Maxim Olshanii</name>
+    </author>
+    <author>
+      <name>Duncan H. J. O'Dell</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.31618v1</id>
+    <title>Quantum Representation Selects Neutral Skyrmion Molecules</title>
+    <updated>2026-09-25T17:59:49Z</updated>
+    <link href="https://arxiv.org/abs/2609.31618v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.31618v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Skyrmions experience a sideways gyroscopic force when they move. Bound molecules can cancel this force; we call them gyroscopically neutral. We show that the quantum states available on each site of a magnet select the composition needed for cancellation. In two models of $SU(3)$ magnetism, this composition changes from a pair to a trimer. Both models assign exactly the same energy to every configuration of their common classical order parameter, isolating the effect of the local quantum states. Neutral molecules can also unwind when additional local states are allowed. Mean field calculations nevertheless find both compositions bound and locally stable, with the neutral trimer surviving sampled interaction changes. Comparing their motion reveals the changed cancellation rule, and prepared neutral molecules translate over short distances with little deformation.</summary>
+    <category term="cond-mat.str-el" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cond-mat.mes-hall" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="hep-th" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-25T17:59:49Z</published>
+    <arxiv:comment>5 pages, 3 figures + supplement; code and data available on Zenodo</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.str-el"/>
+    <author>
+      <name>Vishnu Jejjala</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.30807v1</id>
+    <title>Front-based construction of quantum droplets, bubbles, and hole states in a Bose mixture</title>
+    <updated>2026-09-25T04:35:22Z</updated>
+    <link href="https://arxiv.org/abs/2609.30807v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.30807v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study nonlinear holes, bubbles, kink fronts, and quantum-droplet-like states in an elongated Bose mixture governed by an extended Gross-Pitaevskii equation with attractive cubic mean-field interactions and repulsive quartic Lee-Huang-Yang contribution. We classify the constant-amplitude backgrounds: the Bogoliubov-de Gennes spectrum shows that the upper branch is modulationally stable, whereas the lower branch is unstable to long-wavelength perturbations. Grand-potential and pressure determine the vacuum-finite-density coexistence point and the unique background supporting stationary kink and antikink fronts. Symmetric holes on the stable background have a density deficit and integral width that diverge near coexistence as the hole separates into two nonlinear fronts. A multiplicative kink-antikink construction connects bell-shaped states to broad flat-top droplets and approaches the stationary quantum-droplet family as the front separation increases. An antikink-kink sum with equal signs generates bubble-like density depletions without a phase jump, whereas their difference produces dark-hole-like profiles with a $π$ phase difference between the asymptotic backgrounds. Bubble depth increases with front separation, distinguishing gray-like and dark-like profiles. Real-time simulations show that deep bubbles persist under weak random perturbations, demonstrating finite-time robustness without establishing spectral stability. In the asymmetric two-component model, localized relative-density modes can induce spinor-driven breakup on a modulationally stable background, while robust holes persist near the kink limit. Collisions of kink-antikink droplet-like states display phase-dependent merging, asymmetric particle transfer, and effective reflection. These results connect nonlinear fronts with bubbles, phase-jump holes, and self-bound droplets in beyond-mean-field Bose mixtures.</summary>
+    <category term="cond-mat.quant-gas" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-25T04:35:22Z</published>
+    <arxiv:comment>19 pages, 13 figures</arxiv:comment>
+    <arxiv:primary_category term="cond-mat.quant-gas"/>
+    <author>
+      <name>Sherzod R. Otajonov</name>
+    </author>
+    <author>
+      <name>Fatkhulla Kh. Abdullaev</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.30522v2</id>
+    <title>Energy-selective control of noise-assisted multipulsing by weak optical seeding in the dissipative-soliton-resonance regime</title>
+    <updated>2026-09-29T21:07:16Z</updated>
+    <link href="https://arxiv.org/abs/2609.30522v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.30522v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We study pulse-number selection in a stochastic cubic--quintic complex Ginzburg--Landau model of a weakly seeded, normal-dispersion laser in the dissipative-soliton-resonance (DSR) regime. Without noise, a single pulse and pulse pairs persist at the same control parameters, and the total energy of an $N$-pulse state follows a ladder constructed from the single-pulse branch. The final energies of noisy trajectories lie close to the same ladder. Multipulsing therefore does not necessarily lose the single-pulse solution. It can reflect which coexisting state the noisy dynamics reaches. Optical seed injection suppresses energy-dependent multipulsing and, at larger seed power, produces a nonmonotonic DSR energy window. An energy--noise scan shows that energy dominates the multipulse probability, whereas additive noise produces only a modest trend common to all energies, without a noise optimum. The noise-induced formation statistics therefore do not establish canonical stochastic resonance or escape from a pre-existing soliton. Coherent control by a weak monochromatic seed extends predominantly single-pulse operation over a noticeably broader energy window, enhancing dissipative-soliton energy scalability. Within an adiabatic approximation, equal energy sharing among coexisting pulses is stable wherever the single-pulse energy grows less than proportionally with the control energy, as it does over the sampled DSR range. Energy exchange between the pulses then relaxes up to about 200 times more slowly than their total energy.</summary>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-24T20:16:49Z</published>
+    <arxiv:comment>20 pages, 7 figures</arxiv:comment>
+    <arxiv:primary_category term="physics.optics"/>
+    <author>
+      <name>Vladimir L. Kalashnikov</name>
+    </author>
+    <author>
+      <name>Alexander Rudenkov</name>
+    </author>
+    <author>
+      <name>Evgeni Sorokin</name>
+    </author>
+    <author>
+      <name>Irina T. Sorokina</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.30515v1</id>
+    <title>Prevalence and the rate of antigenic evolution are jointly determined in an eco-evolutionary SIR model</title>
+    <updated>2026-09-24T20:09:45Z</updated>
+    <link href="https://arxiv.org/abs/2609.30515v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.30515v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Influenza A persists by continually changing the antigens that its host population recognizes. How fast it evolves and how many hosts it infects are not independent, because the immunity that selects new variants is produced by the infections the pathogen has already caused. We analyze a model of Andreasen et.\ al.\ that captures this eco-evolutionary feedback, and we extend it to the case where infection may kill the host. In the model infected and recovered hosts are distributions over a one-dimensional antigenic space coupled by cross-immunity. The endemic state is a traveling pulse: the infected distribution keeps a fixed shape and advances through antigenic space at constant speed. In the limit of weak antigenic mutation we construct the pulse asymptotically and find that: (i) the speed of antigenic evolution decreases as prevalence rises, (ii) less standing antigenic variation accompanies either faster or slower antigenic evolution, depending on whether pathogens differ in immune evasion or host lifespan (iii) the total number of infected hosts is largest at an intermediate virulence when the host birth rate is sufficiently low.</summary>
+    <category term="q-bio.PE" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.AP" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math.DS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-24T20:09:45Z</published>
+    <arxiv:comment>32 pages, 9 figures</arxiv:comment>
+    <arxiv:primary_category term="q-bio.PE"/>
+    <author>
+      <name>Daniel Gomez</name>
+    </author>
+    <author>
+      <name>Joshua B. Plotkin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.29900v1</id>
+    <title>Degenerate Turing bifurcation and the birth of localised patterns in activator-inhibitor systems</title>
+    <updated>2026-09-24T14:44:18Z</updated>
+    <link href="https://arxiv.org/abs/2609.29900v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.29900v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Precise conditions are provided for the existence and criticality of Turing bifurcations in a general class of activator-inhibitor reaction-diffusion equations on a one-dimensional infinite domain. The class includes generalised Schnakenberg and Brusselator models, as well as other models with cubic autocatalytic nonlinear terms. Previous numerical work suggests the existence of a bifurcation structure containing localised patterns due to the so-called homoclinic snaking mechanism. This paper provides explicit calculations to justify those results. Two distinct scalings of parameters that lead to tractable normal-form coefficients are considered in the limit that the diffusion ratio $δ\to 0$. First, under a small-parameter scaling, the Turing bifurcation is shown to be always subcritical. Second, a large-parameter scaling reveals the Turing bifurcation to be supercritical, leading, by continuity, to the existence of a codimension-two degenerate bifurcation. The sign of a 5th-order normal form coefficient is also computed, which is shown to have the correct sign for the local birth of homoclinic snaking. For the case of the Brusselator, two such codimension-two points can be found explicitly, as can the leading-order expression for the Maxwell point, in a parameter wedge about which localised patterns emerge. Numerical results are found to be consistent with the theory.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-24T14:44:18Z</published>
+    <arxiv:primary_category term="nlin.PS"/>
+    <arxiv:journal_ref>Villar-Sepúlveda, E., &amp; Champneys, A. (2023). Degenerate Turing bifurcation and the birth of localized patterns in activator-inhibitor systems. SIAM Journal on Applied Dynamical Systems, 22(3), 1673-1709</arxiv:journal_ref>
+    <author>
+      <name>Edgardo Villar-Sepúlveda</name>
+    </author>
+    <author>
+      <name>Alan R. Champneys</name>
+    </author>
+    <arxiv:doi>10.1137/22M1509734</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1137/22M1509734" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2609.29229v1</id>
+    <title>Adiabatic Theory Data on Strongly Chirped Dissipative Solitons of the Cubic-Quintic Nonlinear Ginzburg-Landau Equation</title>
+    <updated>2026-09-24T08:34:41Z</updated>
+    <link href="https://arxiv.org/abs/2609.29229v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2609.29229v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This data article provides the datasets, symbolic derivations, and scripts used to reproduce master diagrams, stationary-phase spectra, windowed first-order coherence functions, and quantum-noise stability maps for strongly chirped dissipative solitons of the cubic-quintic complex Ginzburg-Landau equation in normal and anomalous group-delay dispersion regimes. The repository includes node-regularized normal-dispersion spectra and energies; small-parameter expansions of the branch roots; cavity-map gain-loss update relations; Airy uniformization at the normal-dispersion spectral edge; anomalous-dispersion spectra and coherence calculations; and processed tables for plotting and stability analysis. OriginLab projects are accompanied by open-format .csv/.txt numerical tables to support reuse without proprietary plotting software. Data and code repository: https://doi.org/10.5281/zenodo.22690899.</summary>
+    <category term="nlin.PS" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="math-ph" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="physics.optics" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-09-24T08:34:41Z</published>
+    <arxiv:comment>19 pages, 2 figures, 3 tables</arxiv:comment>
+    <arxiv:primary_category term="nlin.PS"/>
+    <author>
+      <name>V. L. Kalashnikov</name>
+    </author>
+    <author>
+      <name>E. Sorokin</name>
+    </author>
+    <author>
+      <name>A. Rudenkov</name>
+    </author>
+    <author>
+      <name>I. T. Sorokina</name>
+    </author>
+  </entry>
+</feed>
