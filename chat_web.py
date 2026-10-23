@@ -37,6 +37,7 @@ if str(_ROOT) not in sys.path:
     sys.path.insert(0, str(_ROOT))
 
 HANDLE_LOCK = None  # 由 main() 赋值；用于串行化事件循环
+MODE_TEXT = "本地运行"  # 由 main() 按真假模型设置，避免误导用户
 
 PAGE = """<!doctype html>
 <html lang="zh-CN"><head>
@@ -68,7 +69,7 @@ PAGE = """<!doctype html>
   button:disabled { opacity:.5; cursor:default; }
 </style></head>
 <body>
-<header><b>小鲨</b><span id="st">本地运行 · 不联网</span></header>
+<header><b>小鲨</b><span id="st">__MODE_TEXT__</span></header>
 <div id="log"><div class="sys">连上了。说点什么吧。</div></div>
 <footer>
   <input id="q" placeholder="输入消息，回车发送" autocomplete="off">
@@ -102,7 +103,7 @@ async function send() {
   } catch (e) {
     add('请求失败：' + e, 'sys');
   } finally {
-    s.disabled = false; st.textContent = '本地运行 · 不联网';
+    s.disabled = false; st.textContent = '__MODE_TEXT__';
     q.focus();
   }
 }
@@ -120,8 +121,27 @@ def _safe(s) -> str:
         return str(s).encode("utf-8", "replace").decode("utf-8")
     except Exception:
         return "(无法显示的文本)"
-def build_bridge(mock: bool):
+def build_bridge(mock: bool, data_dir: str = ""):
     from bridge import load_config, Bridge
+    import bridge as B
+
+    if data_dir:
+        # 把所有 DATA 下的路径常量重定向到指定目录，从而复用她的真实记忆
+        old_root = Path(getattr(B, "DATA_DIR", Path(".")))
+        new_root = Path(data_dir).expanduser().resolve()
+        new_root.mkdir(parents=True, exist_ok=True)
+        for name in dir(B):
+            if not name.endswith("_PATH"):
+                continue
+            val = getattr(B, name, None)
+            if isinstance(val, Path):
+                try:
+                    rel = val.relative_to(old_root)
+                except ValueError:
+                    continue
+                setattr(B, name, new_root / rel)
+        B.DATA_DIR = new_root
+        print(f"  数据目录：{new_root}")
 
     cfg = load_config()
     try:
@@ -167,15 +187,18 @@ def main():
     ap.add_argument("--port", type=int, default=8765)
     ap.add_argument("--mock", action="store_true", help="假模型，不调用 API")
     ap.add_argument("--lan", action="store_true", help="允许局域网访问（手机可连）")
+    ap.add_argument("--dir", default="", help="数据目录（默认用程序目录下的 data/）")
     ap.add_argument("--debug", action="store_true")
     args = ap.parse_args()
 
-    global HANDLE_LOCK
+    global HANDLE_LOCK, MODE_TEXT
     HANDLE_LOCK = threading.Lock()
+    MODE_TEXT = ("假模型 · 不联网 · 不花钱" if args.mock
+                 else "对话经 DeepSeek API（上下文随请求发送）")
 
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
-    bridge, cfg = build_bridge(args.mock)
+    bridge, cfg = build_bridge(args.mock, getattr(args, 'dir', ''))
 
     owners = cfg.raw.get("owner_qq") or []
     if isinstance(owners, int):
@@ -200,7 +223,7 @@ def main():
 
         def do_GET(self):
             if self.path in ("/", "/index.html"):
-                body = PAGE.encode("utf-8")
+                body = PAGE.replace("__MODE_TEXT__", MODE_TEXT).encode("utf-8")
                 self.send_response(200)
                 self.send_header("Content-Type", "text/html; charset=utf-8")
                 self.send_header("Content-Length", str(len(body)))
