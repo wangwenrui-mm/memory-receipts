@@ -238,7 +238,19 @@ def main():
                 return
             try:
                 n = int(self.headers.get("Content-Length") or 0)
-                data = json.loads(self.rfile.read(n).decode("utf-8"))
+                raw = self.rfile.read(n)
+                # 有些客户端（如 PowerShell 默认、部分国产工具）不发 UTF-8，
+                # 这里依次尝试，避免中文变问号或直接 500
+                payload = None
+                for enc in ("utf-8", "gb18030", "latin-1"):
+                    try:
+                        payload = raw.decode(enc)
+                        break
+                    except UnicodeDecodeError:
+                        continue
+                if payload is None:
+                    payload = raw.decode("utf-8", "replace")
+                data = json.loads(payload)
                 text = str(data.get("text") or "").strip()
                 if not text:
                     self._json({"reply": ""})
