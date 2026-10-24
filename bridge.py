@@ -3171,8 +3171,7 @@ class Bridge:
 
         # 长期记忆：归档本轮 + 定期压缩成笔记
         try:
-            self.mem.archive(key, "user", (text or ask))
-            self.mem.archive(key, "assistant", reply)
+            self._archive_safe(key, (text or ask), reply)
             turns = self.mem.bump(key)
             every = int((self.cfg.raw.get("memory") or DEFAULT_CONFIG["memory"])
                         .get("summarize_every_turns", 8))
@@ -3248,6 +3247,25 @@ class Bridge:
         log.info("[回复 %s] %s", user_id, reply[:120].replace("\n", " "))
 
     # -- 生成（带联网搜索的工具循环）---------------------------------------
+    def _archive_safe(self, key: str, user_text: str, reply: str):
+        """写归档，失败重试一次并记日志。
+
+        原来这里是一个大 try/except 吞掉所有异常，结果出现过「对话正常返回，
+        但没进 archive」的静默丢写（2026-10-24 12:39 那次），
+        导致日记和向量库都看不到那一轮。现在失败会留下日志。
+        """
+        for attempt in (1, 2):
+            try:
+                self.mem.archive(key, "user", user_text)
+                self.mem.archive(key, "assistant", reply)
+                return True
+            except Exception as e:  # noqa: BLE001
+                if attempt == 2:
+                    log.error("归档写入失败（已重试一次）：%r", e)
+                else:
+                    time.sleep(0.05)
+        return False
+
     async def _generate(self, messages: list[dict]) -> tuple[str, dict, int]:
         """返回 (回复文本, 合计 usage, 实际计费搜索次数)。"""
         ws = self.cfg.raw.get("web_search") or DEFAULT_CONFIG["web_search"]

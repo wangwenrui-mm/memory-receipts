@@ -44,16 +44,20 @@ def load_shared(limit: int = 30) -> list[dict]:
     return out
 
 
-def load_today_chat(limit: int = 80, max_chars: int = 3000) -> str:
-    """读今天 archive.jsonl 里你俩的对话。
+def load_chat_since(since_ts: float, limit: int = 80, max_chars: int = 3000) -> str:
+    """读「上一次写日记之后」的全部对话（不管跨不跨零点）。
 
-    日记原来只读 shared.jsonl（「告诉她」通道），但网页/控制台通道的对话只写进
-    archive，日记看不到——结果「今天他什么都没说」，其实聊了一整天。
+    为什么要按「上次日记」而不是「今天」切片：
+    原来是按自然日过滤，23:59 说的话、00:00 写的日记，就会两边都漏；
+    而且同一天的对话会同时出现在两篇日记里。
+    改成时间窗口后：不漏、不重复。
     """
     p = BASE / "data" / "archive.jsonl"
     if not p.exists():
         return ""
-    today = time.strftime("%Y-%m-%d")
+    if since_ts <= 0:
+        today = time.strftime("%Y-%m-%d")
+        since_ts = time.mktime(time.strptime(today, "%Y-%m-%d"))
     rows = []
     for line in p.read_text(encoding="utf-8", errors="ignore").splitlines():
         try:
@@ -61,7 +65,7 @@ def load_today_chat(limit: int = 80, max_chars: int = 3000) -> str:
         except Exception:  # noqa: BLE001
             continue
         ts = float(o.get("ts") or 0)
-        if not ts or time.strftime("%Y-%m-%d", time.localtime(ts)) != today:
+        if ts <= since_ts:
             continue
         t = (o.get("text") or "").strip()
         if t:
@@ -72,12 +76,13 @@ def load_today_chat(limit: int = 80, max_chars: int = 3000) -> str:
     out = []
     for ts, role, t in rows[-limit:]:
         who = "他" if role == "user" else "我（小鲨）"
-        out.append(f"- {time.strftime('%H:%M', time.localtime(ts))} {who}：{t.replace(chr(10), ' ')[:160]}")
+        out.append(f"- {time.strftime('%m-%d %H:%M', time.localtime(ts))} {who}：{t.replace(chr(10), ' ')[:160]}")
     body = "\n".join(out)
     if len(body) > max_chars:
         body = body[-max_chars:]
         body = body[body.find("\n") + 1:] if "\n" in body else body
     return body
+
 
 
 def build_prompt(b, shared: list[dict], chat: str = "") -> list[dict]:
@@ -136,7 +141,9 @@ def main():
         return 1
 
     shared = load_shared()
-    chat = load_today_chat()
+    _last = (b.persona.d.get("diary") or [])
+    _last_ts = float(_last[-1].get("ts") or 0) if _last else 0
+    chat = load_chat_since(_last_ts)
     msgs = build_prompt(b, shared, chat)
     text, usage = bridge.deepseek_text(cfg, b.api_key, msgs)
     if not text:
