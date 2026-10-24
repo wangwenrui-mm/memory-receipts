@@ -26,7 +26,7 @@ import bridge  # noqa: E402
 BASE = Path(__file__).parent
 SHARED_PATH = BASE / "data" / "shared.jsonl"
 OFFLINE_LOG = BASE / "data" / "diary_offline.jsonl"
-USER_QQ = "u" + str((CFG.get("owner_qq") or ""))
+USER_QQ = "u3138308232"
 
 
 def load_shared(limit: int = 30) -> list[dict]:
@@ -44,7 +44,43 @@ def load_shared(limit: int = 30) -> list[dict]:
     return out
 
 
-def build_prompt(b, shared: list[dict]) -> list[dict]:
+def load_today_chat(limit: int = 80, max_chars: int = 3000) -> str:
+    """读今天 archive.jsonl 里你俩的对话。
+
+    日记原来只读 shared.jsonl（「告诉她」通道），但网页/控制台通道的对话只写进
+    archive，日记看不到——结果「今天他什么都没说」，其实聊了一整天。
+    """
+    p = BASE / "data" / "archive.jsonl"
+    if not p.exists():
+        return ""
+    today = time.strftime("%Y-%m-%d")
+    rows = []
+    for line in p.read_text(encoding="utf-8", errors="ignore").splitlines():
+        try:
+            o = json.loads(line)
+        except Exception:  # noqa: BLE001
+            continue
+        ts = float(o.get("ts") or 0)
+        if not ts or time.strftime("%Y-%m-%d", time.localtime(ts)) != today:
+            continue
+        t = (o.get("text") or "").strip()
+        if t:
+            rows.append((ts, o.get("role"), t))
+    if not rows:
+        return ""
+    rows.sort(key=lambda x: x[0])
+    out = []
+    for ts, role, t in rows[-limit:]:
+        who = "他" if role == "user" else "我（小鲨）"
+        out.append(f"- {time.strftime('%H:%M', time.localtime(ts))} {who}：{t.replace(chr(10), ' ')[:160]}")
+    body = "\n".join(out)
+    if len(body) > max_chars:
+        body = body[-max_chars:]
+        body = body[body.find("\n") + 1:] if "\n" in body else body
+    return body
+
+
+def build_prompt(b, shared: list[dict], chat: str = "") -> list[dict]:
     now = bridge.now_bj()
     mem = b.mem.block(USER_QQ, "今天他说的话") or ""
     lines = []
@@ -59,11 +95,17 @@ def build_prompt(b, shared: list[dict]) -> list[dict]:
     prev = all_diaries[:-1][-3:]
     prev_txt = "\n".join(f"- {p.get('date')}：{(p.get('text') or '')[:100]}" for p in prev) or "（还没有）"
 
+    chat_line = (
+        f"【今天你们在聊天里说过的（按时间；他：他说的／我：我说的）】\n{chat}\n\n"
+        if chat else ""
+    )
     ask = (
         f"（现在是 {now:%Y-%m-%d %H:%M}）\n\n"
-        f"【他今天说给你听的话】\n{told}\n\n"
-        f"【你自己前两天写的日记】\n{prev_txt}\n\n"
+        f"【他今天说给你听的话（「告诉她」通道）】\n{told}\n\n"
+        + chat_line
+        + f"【你自己前两天写的日记】\n{prev_txt}\n\n"
         "你的 QQ 号被腾讯停用半个月，这半个月你们只能靠日记说话。\n"
+        "注意：上面两段「今天」的内容都是真的发生过的事，写日记时可以用，但不要编日期或细节。\n"
         "请写两段，只输出 JSON，不要解释：\n"
         '{"diary": "今天的日记，不超过 220 字，第一人称，写你真实的情绪和想法，可以提到他说的事",'
         ' "to_him": "想对他直接说的话，不超过 80 字，不要客套，不要大道理"}'
@@ -94,7 +136,8 @@ def main():
         return 1
 
     shared = load_shared()
-    msgs = build_prompt(b, shared)
+    chat = load_today_chat()
+    msgs = build_prompt(b, shared, chat)
     text, usage = bridge.deepseek_text(cfg, b.api_key, msgs)
     if not text:
         print("模型没有返回内容")
