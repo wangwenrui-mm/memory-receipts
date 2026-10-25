@@ -517,8 +517,42 @@ class Persona:
         self._ensure_self()
         self._ensure_traits()
 
+    _MERGE_LISTS = ("diary", "notes", "self_edit_log", "soul_log")
+
+    def _merge_disk_lists(self):
+        """保存前，把磁盘上内存里没有的追加型条目合并进来。
+
+        网页进程和离线日记进程各持一份 persona 内存副本，后保存的会把另一边的
+        成果覆盖掉（2026-10-25 21:45 的日记就是这样被 22:05 的网页进程写没的）。
+        """
+        try:
+            if not PERSONA_PATH.exists():
+                return
+            disk = json.loads(PERSONA_PATH.read_text(encoding="utf-8-sig"))
+        except Exception:  # noqa: BLE001
+            return
+
+        def key_of(x):
+            try:
+                return round(float((x or {}).get("ts") or 0), 3)
+            except Exception:  # noqa: BLE001
+                return None
+
+        for key in self._MERGE_LISTS:
+            mine = self.d.get(key)
+            other = disk.get(key)
+            if not isinstance(mine, list) or not isinstance(other, list):
+                continue
+            seen = {key_of(x) for x in mine if isinstance(x, dict)}
+            added = [x for x in other if isinstance(x, dict) and key_of(x) not in seen]
+            if added:
+                merged = list(mine) + added
+                merged.sort(key=lambda x: float((x or {}).get("ts") or 0))
+                self.d[key] = merged
+
     def save(self):
         try:
+            self._merge_disk_lists()
             tmp = PERSONA_PATH.with_suffix(".tmp")
             tmp.write_text(_dumps_safe(self.d, indent=1), encoding="utf-8")
             tmp.replace(PERSONA_PATH)
