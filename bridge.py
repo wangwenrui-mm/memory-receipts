@@ -533,10 +533,19 @@ class Persona:
             return
 
         def key_of(x):
+            """指纹：有 ts 用 ts；没有 ts 的（如纸条）用 日期+正文前 40 字。
+
+            纸条原来只存 {date, text}，没有 ts，按 ts 去重会全部撞成 0，
+            导致磁盘上新写的纸条永远合并不进来、被网页进程覆盖掉。
+            """
+            x = x or {}
             try:
-                return round(float((x or {}).get("ts") or 0), 3)
+                ts = float(x.get("ts") or 0)
             except Exception:  # noqa: BLE001
-                return None
+                ts = 0.0
+            if ts > 0:
+                return ("ts", round(ts, 3))
+            return ("txt", str(x.get("date") or ""), str(x.get("text") or "")[:40])
 
         for key in self._MERGE_LISTS:
             mine = self.d.get(key)

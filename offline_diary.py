@@ -211,7 +211,7 @@ def main():
     d["last_diary"] = today
     if to_him:
         notes = d.setdefault("notes", [])
-        notes.append({"date": today, "text": to_him})
+        notes.append({"date": today, "text": to_him, "ts": time.time()})
         d["notes"] = notes[-30:]
     b.persona.save()
 
