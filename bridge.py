@@ -558,8 +558,69 @@ class Persona:
         self.d.setdefault("signature_changed", 0)
         self._ensure_self()
         self._ensure_traits()
+        # 记录「加载时磁盘上的样子」，保存时用来做三方合并：
+        # 我改过的字段用我的值，只有别人改过的字段保留磁盘值。
+        try:
+            self._snap = json.loads(json.dumps(self.d, ensure_ascii=False))
+        except Exception:  # noqa: BLE001
+            self._snap = {}
 
     _MERGE_LISTS = ("diary", "notes", "self_edit_log", "soul_log")
+
+    def _merge_disk(self):
+        """三方合并：内存快照 vs 内存现值 vs 磁盘现值。
+
+        规则（逐字段）：
+          1) 我改过（现值 != 快照）→ 用我的值；
+          2) 我没改、磁盘改过 → 用磁盘的值；
+          3) 都改过 → 用我的（后写者赢，但至少不会把别人的改动整片抹掉）；
+          4) 追加型列表（日记/纸条）→ 按指纹取并集。
+        这样两个进程各改各的字段时不会互相覆盖。
+        """
+        try:
+            if not PERSONA_PATH.exists():
+                return
+            disk = json.loads(PERSONA_PATH.read_text(encoding="utf-8-sig"))
+        except Exception:  # noqa: BLE001
+            return
+        snap = getattr(self, "_snap", {}) or {}
+
+        def fps(x):
+            x = x or {}
+            try:
+                ts = float(x.get("ts") or 0)
+            except Exception:  # noqa: BLE001
+                ts = 0.0
+            if ts > 0:
+                return ("ts", round(ts, 3))
+            return ("txt", str(x.get("date") or ""), str(x.get("text") or "")[:40])
+
+        for key, mine in list(self.d.items()):
+            orig = snap.get(key)
+            theirs = disk.get(key)
+            if isinstance(mine, list) and isinstance(theirs, list):
+                seen = {fps(x) for x in mine if isinstance(x, dict)}
+                added = [x for x in theirs
+                         if isinstance(x, dict) and fps(x) not in seen]
+                if added:
+                    merged = list(mine) + added
+                    merged.sort(key=lambda x: float((x or {}).get("ts") or 0))
+                    self.d[key] = merged
+                continue
+            if isinstance(mine, dict) and isinstance(theirs, dict):
+                out = dict(mine)
+                for k2, v2 in theirs.items():
+                    if out.get(k2) == (orig or {}).get(k2) and v2 != out.get(k2):
+                        out[k2] = v2          # 我没动、别人动了 → 用别人的
+                self.d[key] = out
+                continue
+            # 标量
+            if mine == orig and theirs != orig and theirs is not None:
+                self.d[key] = theirs          # 我没动、别人动了 → 用别人的
+
+        for key, val in disk.items():
+            if key not in self.d:
+                self.d[key] = val
 
     def _merge_disk_lists(self):
         """保存前，把磁盘上内存里没有的追加型条目合并进来。
@@ -604,10 +665,15 @@ class Persona:
     def save(self):
         try:
             with _file_lock(PERSONA_PATH):
+                self._merge_disk()
                 self._merge_disk_lists()
                 tmp = PERSONA_PATH.with_suffix(".tmp")
                 tmp.write_text(_dumps_safe(self.d, indent=1), encoding="utf-8")
                 tmp.replace(PERSONA_PATH)
+                try:
+                    self._snap = json.loads(json.dumps(self.d, ensure_ascii=False))
+                except Exception:  # noqa: BLE001
+                    pass
         except Exception:  # noqa: BLE001
             pass
 
