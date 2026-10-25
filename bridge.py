@@ -22,10 +22,12 @@ QQ <-> DeepSeek 桥接服务
 from __future__ import annotations
 
 import asyncio
+import contextlib
 import base64
 import datetime as dt
 import json
 import logging
+import os
 import random
 import re
 import socket
@@ -314,6 +316,46 @@ def _dumps_safe(obj, **kw) -> str:
     except UnicodeEncodeError:
         return s.encode("utf-8", "replace").decode("utf-8")
 
+@contextlib.contextmanager
+def _file_lock(path: Path, timeout: float = 8.0, stale: float = 20.0):
+    """跨进程互斥锁：网页进程和离线日记进程都会写 persona.json。
+
+    Windows 没有 fcntl，这里用「原子创建 .lock 文件」实现：
+    建成即持锁；锁文件过旧（进程崩了没删）则强行接管；等太久也放行，
+    宁可写一次也不要把服务卡死。
+    """
+    lock = path.with_name(path.name + ".lock")
+    start = time.time()
+    held = False
+    while True:
+        try:
+            fd = os.open(str(lock), os.O_CREAT | os.O_EXCL | os.O_WRONLY)
+            try:
+                os.write(fd, str(os.getpid()).encode())
+            finally:
+                os.close(fd)
+            held = True
+            break
+        except FileExistsError:
+            try:
+                if time.time() - lock.stat().st_mtime > stale:
+                    lock.unlink(missing_ok=True)
+                    continue
+            except OSError:
+                pass
+            if time.time() - start > timeout:
+                break
+            time.sleep(0.05)
+    try:
+        yield
+    finally:
+        if held:
+            try:
+                lock.unlink(missing_ok=True)
+            except OSError:
+                pass
+
+
 class Config:
     # 这些字段必须是字符串；用户手写 config.json 时漏了引号会变成数字，这里统一兜住
     _STR_FIELDS = ("deepseek_key", "deepseek_base", "model", "napcat_ws",
@@ -561,10 +603,11 @@ class Persona:
 
     def save(self):
         try:
-            self._merge_disk_lists()
-            tmp = PERSONA_PATH.with_suffix(".tmp")
-            tmp.write_text(_dumps_safe(self.d, indent=1), encoding="utf-8")
-            tmp.replace(PERSONA_PATH)
+            with _file_lock(PERSONA_PATH):
+                self._merge_disk_lists()
+                tmp = PERSONA_PATH.with_suffix(".tmp")
+                tmp.write_text(_dumps_safe(self.d, indent=1), encoding="utf-8")
+                tmp.replace(PERSONA_PATH)
         except Exception:  # noqa: BLE001
             pass
 
